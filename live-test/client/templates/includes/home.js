@@ -1,5 +1,5 @@
 Template.home.rendered = function () {
-	$("html").removeClass("test");
+	$("html").addClass("test");
 	$("body").removeClass('test-body').removeClass('register-body');
 	$("head > title").text("StudySpace");
 };

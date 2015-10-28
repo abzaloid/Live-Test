@@ -5,8 +5,7 @@
 			<div class="navigation">
 				<a href="{{pathFor 'home'}}" class="logo nav-child"></a>
 				{{#if currentUser}}
-					<a href="#" class="account nav-child"><i class="fa fa-user"></i>Привет, {{user_name.name}}</a>
-					<!-- <a href="#" class="nav-child enter-btn">Выйти</a> -->
+					<a href="{{pathFor 'cabinet'}}" class="account nav-child"><i class="fa fa-user"></i>Привет, {{user_name.name}}</a>
 				{{else}}
 					<a href="{{pathFor 'register'}}" class="nav-child register-btn">Регистрация</a>
 					<a href="{{pathFor 'enter'}}" class="nav-child enter-btn">Войти</a>

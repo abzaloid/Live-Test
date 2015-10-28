@@ -23,6 +23,14 @@ Router.route('/ent', {
 	name: 'test'
 });
 
+Router.route('/profile', {
+	name: 'cabinet'
+});
+
+Router.route('/standings', {
+	name: 'rankings'
+});
+
 var requireLogin = function () {
 	if (! Meteor.user()) {
 		if (Meteor.loggingIn()) {
@@ -36,5 +44,5 @@ var requireLogin = function () {
 }
 
 Router.onBeforeAction(requireLogin, {
-	only: 'test'
+	only: ['test', 'cabinet']
 });
