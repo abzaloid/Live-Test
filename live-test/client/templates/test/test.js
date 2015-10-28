@@ -6,6 +6,18 @@ Template.test.rendered = function () {
 	$(".test-questions > div").hide();
 	$("div#kazakh").show();
 
+	var $form = $("form");
+	var f_len = $form.length;
+
+	for (var i = 0; i < f_len; i++) {
+		var c_id = $form.eq(i).attr('id');
+		var possible_ans = SessionAmplify.get(Meteor.userId() + c_id);
+		if (possible_ans) {
+			console.log(possible_ans);
+			$("form#"+c_id+" > label > input:radio[name='radgroup'][value='"+possible_ans+"']").attr('checked', true);
+		}
+	}
+
 }
 
 Template.test.helpers({
@@ -47,5 +59,11 @@ Template.test.events({
 		$(".test-questions > div").hide();
 		$("#"+$this.attr('data-for').split('_')[1]).show();
 
+	},
+	'click input:radio[name="radgroup"]': function (e) {
+		var $this = $(e.target);
+		console.log($this.filter(":checked").val());
+		console.log(Meteor.userId() + $this.parent().parent().attr('id'));
+		SessionAmplify.set(Meteor.userId() + $this.parent().parent().attr('id'), $this.filter(":checked").val());
 	}
 });
