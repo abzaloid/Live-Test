@@ -1,6 +1,11 @@
 #coding=utf-8
 
 lang = 'kazakh'
+variant = 1
+
+def init(lng, var):
+	lang = lng
+	variant = var
 
 files = ['biology', 
 'chemistry', 
@@ -140,6 +145,7 @@ for m_file in files:
 						course_ru: '%s',
 						is_fifth: %s,
 						language: '%s',
+						variant: %s,
 					}
 					);
 				""" % (questions[i].replace('\n', '<br/>').replace(u'"', u'&quot;').replace(u"'", u'&quot;').replace(u'\\', u'\\\\'), 
@@ -154,7 +160,8 @@ for m_file in files:
 					kz[m_file], 
 					ru[m_file], 
 					is_fifth[m_file], 
-					lang))
+					lang,
+					str(variant)))
 
 f = open('database.txt', 'w')
 for l in js:
