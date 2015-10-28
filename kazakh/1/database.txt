@@ -3103,7 +3103,7 @@ Questions.insert({
 					}
 					);
 				Questions.insert({
-						question: "20)  Абциссасы $x=-\\cfrac{\\pi}{6}$ болатын нүктеде $y=\\cfrac{\\ctg 3x}{\\sqrt{3}}$ қисығына жүргізілген жанама Ox осіне қандай бұрышпен көлбеген?<br/>",
+						question: "20)  Абциссасы $x=-\\cfrac{\\pi}{6}$ болатын нүктеде $y=\\cfrac{ctg 3x}{\\sqrt{3}}$ қисығына жүргізілген жанама Ox осіне қандай бұрышпен көлбеген?<br/>",
 						answer: " E  <br/>",
 						choice_A: "А) $\\cfrac{\\pi}{9}$<br/>",
 						choice_B: "B) $\\cfrac{\\pi}{3}$  <br/>",
