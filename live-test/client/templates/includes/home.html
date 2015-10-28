@@ -1,0 +1,83 @@
+<template name="home">
+	
+	<header>
+		<div class="container container--header">
+			<div class="navigation">
+				<a href="{{pathFor 'home'}}" class="logo nav-child"></a>
+				{{#if currentUser}}
+					<a href="#" class="account nav-child"><i class="fa fa-user"></i>Привет, {{user_name.name}}</a>
+					<!-- <a href="#" class="nav-child enter-btn">Выйти</a> -->
+				{{else}}
+					<a href="{{pathFor 'register'}}" class="nav-child register-btn">Регистрация</a>
+					<a href="{{pathFor 'enter'}}" class="nav-child enter-btn">Войти</a>
+				{{/if}}
+			</div>
+			
+			<div class="header-title">
+				<img src="/img/header-image.svg" alt="">
+				<span class="header-title__text">Онлайн подготовка к ЕНТ</span>
+				<a href="{{pathFor 'test'}}" class="cta">
+					Пройти тест
+				</a>
+				<a href="#" class="cta">
+					Видео лекции
+				</a>
+			</div>
+		</div>
+	</header>
+	<section class="process-section">
+		<h1 class="process-section__title">Как это работает</h1>
+		<div class="container container--process">
+			<div class="step">
+				<div class="step-child step-text-section step-text-section--flex">
+					<h2 class="step-title">Регистрируйтесь</h2>
+					<p class="step-text">Это название картины, имя автора и личная печать художника. Без личной печати картина считается незаконченной. Очень часто картина украшается стихами из традиционной китайской поэзии, подходящими по настроению или по мысли, а также философскими изречениями.</p>
+				</div>
+				<div class="step-child icon"><img src="/img/icons/registration.svg" alt=""></div>
+			</div>
+			<div class="step">
+				<div class="step-child step-text-section step-text-section--flex">
+					<h2 class="step-title">Смотрите видео лекции</h2>
+					<p class="step-text">Это название картины, имя автора и личная печать художника. Без личной печати картина считается незаконченной. Очень часто картина украшается стихами из традиционной китайской поэзии, подходящими по настроению или по мысли, а также философскими изречениями.</p>
+				</div>
+				<div class="step-child icon"><img src="/img/icons/videos.svg" alt=""></div>
+			</div>
+			<div class="step">
+				<div class="step-child step-text-section step-text-section--flex">
+					<h2 class="step-title">Пишите онлайн тесты</h2>
+					<p class="step-text">Это название картины, имя автора и личная печать художника. Без личной печати картина считается незаконченной. Очень часто картина украшается стихами из традиционной китайской поэзии, подходящими по настроению или по мысли, а также философскими изречениями.</p>
+				</div>
+				<div class="step-child icon"><img src="/img/icons/tests.svg" alt=""></div>
+			</div>
+			<div class="step">
+				<div class="step-child step-text-section step-text-section--flex">
+					<h2 class="step-title">Полный анализ работ</h2>
+					<p class="step-text">Это название картины, имя автора и личная печать художника. Без личной печати картина считается незаконченной. Очень часто картина украшается стихами из традиционной китайской поэзии, подходящими по настроению или по мысли, а также философскими изречениями.</p>
+				</div>
+				<div class="step-child icon"><img src="/img/icons/analysis.svg" alt=""></div>
+			</div>
+			<div class="step">
+				<div class="step-child step-text-section step-text-section--flex">
+					<h2 class="step-title">Онлайн уроки с инструктором</h2>
+					<p class="step-text">Это название картины, имя автора и личная печать художника. Без личной печати картина считается незаконченной. Очень часто картина украшается стихами из традиционной китайской поэзии, подходящими по настроению или по мысли, а также философскими изречениями.</p>
+				</div>
+				<div class="step-child icon"><img src="/img/icons/tutorial.svg" alt=""></div>
+			</div>
+			<div class="step">
+				<div class="step-child step-text-section step-text-section--flex">
+					<h2 class="step-title">Yahoo!!!</h2>
+					<p class="step-text">Это название картины, имя автора и личная печать художника. Без личной печати картина считается незаконченной. Очень часто картина украшается стихами из традиционной китайской поэзии, подходящими по настроению или по мысли, а также философскими изречениями.</p>
+				</div>
+				<div class="step-child icon"><img src="/img/icons/success.svg" alt=""></div>
+			</div>
+		</div>
+	</section>
+	<footer>
+		<div class="container">
+			<a href="" class="footer-link">О сайте</a>
+			<a href="" class="footer-link">Помощь</a>
+			<a href="" class="footer-link">Еще ссылка</a>
+		</div>
+	</footer>
+
+</template>

@@ -123,13 +123,17 @@ for m_file in files:
 	f.write("answers = " + str(len(answers) == 25)+ "\n")
 
 	for i in range(25):
-		chs = u""
+		chs = []
 		for p in choices[i]:
-			chs += p.replace('\n', '<br/>')
-		js.append(u"""Tests.insert({
-						question: '%s',
-						answer: '%s',
-						choices: '%s',
+			chs.append(p.replace('\n', '<br/>'))
+		js.append(u"""Questions.insert({
+						question: "%s",
+						answer: "%s",
+						choice_A: "%s",
+						choice_B: "%s",
+						choice_C: "%s",
+						choice_D: "%s",
+						choice_E: "%s",
 						number: %s,
 						course_en: '%s',
 						course_kz: '%s',
@@ -138,9 +142,13 @@ for m_file in files:
 						language: '%s',
 					}
 					);
-				""" % (questions[i].replace('\n', '<br/>'), 
-					answers[i].replace('\n', '<br/>'), 
-					chs, 
+				""" % (questions[i].replace('\n', '<br/>').replace(u'"', u'&quot;').replace(u"'", u'&quot;').replace(u'\\', u'\\\\'), 
+					answers[i].replace('\n', '<br/>').replace(u'"', u'&quot;').replace(u"'", u'&quot;').replace(u'\\', u'\\\\'), 
+					chs[0].replace(u'"', u'&quot;').replace(u"'", u'&quot;').replace(u'\\', u'\\\\'), 
+					chs[1].replace(u'"', u'&quot;').replace(u"'", u'&quot;').replace(u'\\', u'\\\\'), 
+					chs[2].replace(u'"', u'&quot;').replace(u"'", u'&quot;').replace(u'\\', u'\\\\'), 
+					chs[3].replace(u'"', u'&quot;').replace(u"'", u'&quot;').replace(u'\\', u'\\\\'), 
+					chs[4].replace(u'"', u'&quot;').replace(u"'", u'&quot;').replace(u'\\', u'\\\\'), 
 					str(i + 1), 
 					m_file, 
 					kz[m_file], 

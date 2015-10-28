@@ -1,0 +1,61 @@
+<template name="test">
+	<div class="container container--test">
+		<div class="navigation navigation--test">
+			<a href="{{pathFor 'home'}}" class="logo nav-child"></a>
+			<span class="nav-child timer">3:00:00</span>
+			{{#if currentUser}}
+				<a href="#" class="account nav-child"><i class="fa fa-user"></i>Привет, {{user_name.name}}</a>
+			{{/if}}
+		</div>
+
+		<div class="test-navigation">
+			<a href="" data-for="q_kazakh" class="test-navigation__item active">Казахский</a>
+			<a href="" data-for="q_math" class="test-navigation__item">Математика</a>
+			<a href="" data-for="q_russian" class="test-navigation__item">Русский</a>
+			<a href="" data-for="q_history" class="test-navigation__item">История</a>
+			<a href="" data-for="q_fifth" class="test-navigation__item">5-ый Предмет</a>
+		</div>
+
+		<section class="test-content">
+			<div class="test-questions">
+				<div id="kazakh">
+					{{#each kazakh_questions}}
+						{{> m_question}}
+					{{/each}}
+				</div>
+				<div id="russian">
+					{{#each russian_questions}}
+						{{> m_question}}
+					{{/each}}
+				</div>
+				<div id="math">
+					{{#each math_questions}}
+						{{> m_question}}
+					{{/each}}
+				</div>
+				<div id="history">
+					{{#each history_questions}}
+						{{> m_question}}
+					{{/each}}
+				</div>
+				<div id="fifth">
+					{{#each fifth_questions}}
+						{{> m_question}}
+					{{/each}}
+				</div>
+				<a href="#" class="submit-test-btn">Завершить</a>
+			</div>
+		</section>
+	</div>
+</template>
+
+<template name="m_question">
+	<form>
+		<legend>{{{question}}}</legend>
+		<label class="answer"><input type="radio" name="radgroup" value="A"><span class="label-text">{{{choice_A}}}</span></label>
+		<label class="answer"><input type="radio" name="radgroup" value="B"><span class="label-text">{{{choice_B}}}</span></label>
+		<label class="answer"><input type="radio" name="radgroup" value="C"><span class="label-text">{{{choice_C}}}</span></label>
+		<label class="answer"><input type="radio" name="radgroup" value="D"><span class="label-text">{{{choice_D}}}</span></label>
+		<label class="answer"><input type="radio" name="radgroup" value="E"><span class="label-text">{{{choice_E}}}</span></label>
+	</form>
+</template>
