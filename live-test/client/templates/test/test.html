@@ -3,7 +3,9 @@
 		<div class="navigation navigation--test">
 			<a href="{{pathFor 'home'}}" class="logo nav-child"></a>
 			<span class="nav-child timer">3:00:00</span>
-			<a href="#" class="account nav-child"><i class="fa fa-user"></i>arman2152</a>
+			{{#if currentUser}}
+				<a href="#" class="account nav-child"><i class="fa fa-user"></i>Привет, {{user_name.name}}</a>
+			{{/if}}
 		</div>
 
 		<div class="test-navigation">
@@ -41,7 +43,7 @@
 						{{> m_question}}
 					{{/each}}
 				</div>
-
+				<a href="#" class="submit-test-btn">Завершить</a>
 			</div>
 		</section>
 	</div>

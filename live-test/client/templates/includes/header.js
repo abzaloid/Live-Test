@@ -1,3 +1,5 @@
 Template.header.rendered = function () {
-	// $("html").removeClass("test");
+	_.extend(Notifications.defaultOptions, {
+        timeout: 2500
+    });
 };

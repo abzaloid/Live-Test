@@ -4,18 +4,23 @@
 		<div class="container container--header">
 			<div class="navigation">
 				<a href="{{pathFor 'home'}}" class="logo nav-child"></a>
-				<a href="{{pathFor 'register'}}" class="nav-child register-btn">Регистрация</a>
-				<a href="{{pathFor 'enter'}}" class="nav-child enter-btn">Войти</a>
+				{{#if currentUser}}
+					<a href="#" class="account nav-child"><i class="fa fa-user"></i>Привет, {{user_name.name}}</a>
+					<!-- <a href="#" class="nav-child enter-btn">Выйти</a> -->
+				{{else}}
+					<a href="{{pathFor 'register'}}" class="nav-child register-btn">Регистрация</a>
+					<a href="{{pathFor 'enter'}}" class="nav-child enter-btn">Войти</a>
+				{{/if}}
 			</div>
 			
 			<div class="header-title">
 				<img src="/img/header-image.svg" alt="">
 				<span class="header-title__text">Онлайн подготовка к ЕНТ</span>
-				<a href="{{pathFor 'test'}}" class="cta cta-anim">
-					<span>Пройти тест</span>
+				<a href="{{pathFor 'test'}}" class="cta">
+					Пройти тест
 				</a>
-				<a href="#" class="cta cta-anim">
-					<span>Видео лекции</span>
+				<a href="#" class="cta">
+					Видео лекции
 				</a>
 			</div>
 		</div>

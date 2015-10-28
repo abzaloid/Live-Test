@@ -1,3 +1,71 @@
+if (Regions.find().count() === 0) {
+	Regions.insert({
+		'title_ru': 'Акмолинская область',
+		'title_kz': 'Ақмола облысы',
+	});
+	Regions.insert({
+		'title_ru': 'Актюбинская область',
+		'title_kz': 'Ақтөбе облысы',
+	});
+	Regions.insert({
+		'title_ru': 'Алматинская область',
+		'title_kz': 'Алматы облысы',
+	});
+	Regions.insert({
+		'title_ru': 'Атырауская область',
+		'title_kz': 'Атырау облысы',
+	});
+	Regions.insert({
+		'title_ru': 'Восточно-Казахстанская область',
+		'title_kz': 'Шығыс Қазақстан облысы',
+	});
+	Regions.insert({
+		'title_ru': 'Жамбылская область',
+		'title_kz': 'Жамбыл облысы',
+	});
+	Regions.insert({
+		'title_ru': 'Западно-Казахстанская область',
+		'title_kz': 'Шығыс Қазақстан облысы',
+	});
+	Regions.insert({
+		'title_ru': 'Карагандинская область',
+		'title_kz': 'Қарағанды облысы',
+	});
+	Regions.insert({
+		'title_ru': 'Костанайская область',
+		'title_kz': 'Қостанай облысы',
+	});
+	Regions.insert({
+		'title_ru': 'Кызылординская область',
+		'title_kz': 'Қызылорда облысы',
+	});
+	Regions.insert({
+		'title_ru': 'Мангистауская область',
+		'title_kz': 'Маңғыстау облысы',
+	});
+	Regions.insert({
+		'title_ru': 'Павлодарская область',
+		'title_kz': 'Павлодар облысы',
+	});
+	Regions.insert({
+		'title_ru': 'Северо-Казахстанская область',
+		'title_kz': 'Солтүстік Қазақстан облысы',
+	});
+	Regions.insert({
+		'title_ru': 'Южно-Казахстанская область',
+		'title_kz': 'Оңтүстік Қазақстан облысы',
+	});
+	Regions.insert({
+		'title_ru': 'Астана',
+		'title_kz': 'Астана',
+	});
+	Regions.insert({
+		'title_ru': 'Алматы',
+		'title_kz': 'Алматы',
+	});
+}
+
+
 if (Questions.find().count() === 0) {
 Questions.insert({
 						question: "1)  Адамға қан ауру қоздырғыштарын тарататын бунақденелер:<br/>",

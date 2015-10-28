@@ -1,0 +1,1 @@
+OUsers = new Mongo.Collection('ousers');

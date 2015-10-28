@@ -5,23 +5,13 @@
 		</div>
 
 		<form action="" class="form">
-			<input class="form__child" type="text" placeHolder="Логин">
-			<input class="form__child" type="text" placeHolder="Имя">
+			<input class="form__child" id="_name" type="text" placeHolder="Имя">
+			<input class="form__child" id="_surname" type="text" placeHolder="Фамилия">
 			<select class="form__child" name="region" id="">
 				<option value="" disabled selected>Выберите область</option>
-				<option value="Акмолинская область">Акмолинская область</option>
-				<option value="Акмолинская область">Акмолинская область</option>
-				<option value="Акмолинская область">Акмолинская область</option>
-				<option value="Акмолинская область">Акмолинская область</option>
-				<option value="Акмолинская область">Акмолинская область</option>
-				<option value="Акмолинская область">Акмолинская область</option>
-				<option value="Акмолинская область">Акмолинская область</option>
-				<option value="Акмолинская область">Акмолинская область</option>
-				<option value="Акмолинская область">Акмолинская область</option>
-				<option value="Акмолинская область">Акмолинская область</option>
-				<option value="Акмолинская область">Акмолинская область</option>
-				<option value="Акмолинская область">Акмолинская область</option>
-				<option value="Акмолинская область">Акмолинская область</option>
+				{{#each regions}}
+					<option value="{{title_ru}}">{{title_ru}}</option>
+				{{/each}}
 			</select>
 			<select class="form__child" name="subject" id="">
 				<option value="" disabled selected>Предмет по выбору</option>
@@ -30,6 +20,7 @@
 				<option value="Всемирная история">Всемирная история</option>
 				<option value="География">География</option>
 				<option value="Физика">Физика</option>
+				<option value="Литература">Литература</option>
 				<option value="Химия">Химия</option>
 			</select>
 			<label class="form__child">
@@ -41,8 +32,8 @@
 				<span class="label-text">Русский</span>
 			</label>
 			<input class="form__child" type="email" placeHolder="Адрес почты">
-			<input class="form__child" type="password" placeHolder="Пароль">
-			<input class="form__child" type="password" placeHolder="Повторите пароль">
+			<input class="form__child" id="pw1" type="password" placeHolder="Пароль">
+			<input class="form__child" id="pw2" type="password" placeHolder="Повторите пароль">
 			<input type="submit" value="Отправить">
 		</form>
 	</div>

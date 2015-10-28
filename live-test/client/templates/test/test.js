@@ -1,27 +1,11 @@
 Template.test.rendered = function () {
-	$("head > title").val("Тест");
+	$("head > title").text("Онлайн ЕНТ | StudySpace");
 	$("body").removeClass("register-body").addClass("test-body");
 	$("html").addClass('test');
 
-	$(".test-questions").children().hide();
+	$(".test-questions > div").hide();
 	$("div#kazakh").show();
 
-}
-
-function katexify(s) {
-	var p = "";
-	var cnt = 0;
-	for (var i = 0; i < s.length; i++) {
-		if (s[i] == '$') {
-			if (cnt % 2 == 0)
-				p += "{{#katex}}$";
-			else
-				p += "${{/katex}}";
-			cnt++;
-		} else
-			p += s[i];
-	}
-	return p;
 }
 
 Template.test.helpers({
@@ -32,17 +16,7 @@ Template.test.helpers({
 		return Questions.find({course_en: 'russian'});
 	},
 	math_questions: function () {
-		var my_questions = Questions.find({course_en: 'math'});
-		for (var i = 0; i < my_questions.length; i++) {
-			my_questions[i].question = katexify(my_questions[i].question);
-			my_questions[i].choice_A = katexify(my_questions[i].choice_A);
-			my_questions[i].choice_B = katexify(my_questions[i].choice_B);
-			my_questions[i].choice_C = katexify(my_questions[i].choice_C);
-			my_questions[i].choice_D = katexify(my_questions[i].choice_D);
-			my_questions[i].choice_E = katexify(my_questions[i].choice_E);
-		}
-		return my_questions;
-
+		return Questions.find({course_en: 'math'});
 	},
 	history_questions: function () {
 		return Questions.find({course_en: 'history'});
@@ -50,9 +24,14 @@ Template.test.helpers({
 	fifth_questions: function () {
 		return Questions.find({is_fifth: true, course_en: 'physics'});
 	},
-	katexify: function (s) {
-		return katexify(s);
+	user_name: function () {
+		if (Meteor.user()) {
+			return OUsers.findOne({email: Meteor.user().emails[0].address});
+		} else {
+			return "";
+		}
 	}
+
 });
 
 Template.test.events({
@@ -65,7 +44,7 @@ Template.test.events({
 		$(".test-navigation__item").parent().children().removeClass('active');
 		$this.addClass('active');
 
-		$(".test-questions").children().hide();
+		$(".test-questions > div").hide();
 		$("#"+$this.attr('data-for').split('_')[1]).show();
 
 	}
