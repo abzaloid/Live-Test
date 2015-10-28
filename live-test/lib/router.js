@@ -22,3 +22,27 @@ Router.route('/login', {
 Router.route('/ent', {
 	name: 'test'
 });
+
+Router.route('/profile', {
+	name: 'cabinet'
+});
+
+Router.route('/standings', {
+	name: 'rankings'
+});
+
+var requireLogin = function () {
+	if (! Meteor.user()) {
+		if (Meteor.loggingIn()) {
+			this.render(this.loadingTemplate);
+		} else {
+			this.render('accessDenied');
+		}
+	} else {
+		this.next();
+	}
+}
+
+Router.onBeforeAction(requireLogin, {
+	only: ['test', 'cabinet']
+});
