@@ -3393,11 +3393,11 @@ Questions.insert({
 				Questions.insert({
 						question: "13)  Слюдаланған $(\\epsilon = 6)$  конденсатордың пластиналар ара қашықтығы 0,02 см, ал пластина ауданы 15 см2. Конденсатордың сыйымдылығын анықтаңыз $(\\epsilon_0=8,85\\cdot10^{12}\\text{Кл}^2/\\text{(Нм)}^2)$<br/>",
 						answer: " C  <br/>",
-						choice_A: "А) $\\approx 200 \\codt 10^{-12}$ Ф<br/>",
-						choice_B: "B) $\\approx 100 \\codt 10^{-12}$ Ф<br/>",
-						choice_C: "C) $\\approx 400 \\codt 10^{-12}$ Ф<br/>",
-						choice_D: "D)  $\\approx 300 \\codt 10^{-12}$ Ф<br/>",
-						choice_E: "E)   $\\approx 500 \\codt 10^{-12}$ Ф<br/>",
+						choice_A: "А) $\\approx 200 \\cdot 10^{-12}$ Ф<br/>",
+						choice_B: "B) $\\approx 100 \\cdot 10^{-12}$ Ф<br/>",
+						choice_C: "C) $\\approx 400 \\cdot 10^{-12}$ Ф<br/>",
+						choice_D: "D)  $\\approx 300 \\cdot 10^{-12}$ Ф<br/>",
+						choice_E: "E)   $\\approx 500 \\cdot 10^{-12}$ Ф<br/>",
 						number: 13,
 						course_en: 'physics',
 						course_kz: 'Физика',
@@ -3439,7 +3439,7 @@ Questions.insert({
 					}
 					);
 				Questions.insert({
-						question: "16)  4 нКл зарядтан 3см қашықтықта өрістің кернеулігі 10 кВ/м-ге тең. Сұйықтың диэлектрлік өтімділігі $(k=9\\codt10^9\\cfrac{\\text{Нм}^2}{\\text{Кл}^2})$<br/>",
+						question: "16)  4 нКл зарядтан 3см қашықтықта өрістің кернеулігі 10 кВ/м-ге тең. Сұйықтың диэлектрлік өтімділігі $(k=9\\cdot10^9\\cfrac{\\text{Нм}^2}{\\text{Кл}^2})$<br/>",
 						answer: " C  <br/>",
 						choice_A: "А) Е = 1. <br/>",
 						choice_B: "B)  Е = 3. <br/>",
@@ -3489,10 +3489,10 @@ Questions.insert({
 				Questions.insert({
 						question: "19)  Көлбеулік бұрышы 30 градус жазықтықпен сырғанаған дененің үдеуі (g=10 м/$c^2$, үйкеліс ескерілмейді)<br/>",
 						answer: " E  <br/>",
-						choice_A: "А) $\\sqrt{{\\cfrac{2}{5}}$ м/с2<br/>",
-						choice_B: "B) ${\\cfrac{\\sqrt{3}}{20}$ м/с2<br/>",
-						choice_C: "C)${\\cfrac{10}{\\sqrt{3}}$ м/с2<br/>",
-						choice_D: "D) ${\\cfrac{\\sqrt{3}}{3}$ м/с2<br/>",
+						choice_A: "А) $\\sqrt{\\cfrac{2}{5}}$ м/с2<br/>",
+						choice_B: "B) $\\cfrac{\\sqrt{3}}{20}$ м/с2<br/>",
+						choice_C: "C)$\\cfrac{10}{\\sqrt{3}}$ м/с2<br/>",
+						choice_D: "D) $\\cfrac{\\sqrt{3}}{3}$ м/с2<br/>",
 						choice_E: "E)  5м/с2<br/>",
 						number: 19,
 						course_en: 'physics',
