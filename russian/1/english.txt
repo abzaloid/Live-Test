@@ -1,0 +1,470 @@
+["
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - B  
+ 
+  
+1) Дополните предложение в Past Indefinite Passive: 
+The theatre ..built in 1970.
+
+ А) is
+
+ B)  was
+
+ C) are
+
+ D)  were
+
+ E)  be
+
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - E  
+ 
+  
+2) Дополните предложение:
+Not to catch the train means to ..it.
+
+ А) have
+
+ B)  like
+
+ C) buy
+
+ D)  sell
+
+ E)  miss
+
+ ", "
+ 
+  
+Вы ответили A, и это правильный ответ!  
+ 
+  
+3) Выберите верное местоимение.
+… has taken my pen.
+
+ А) Somebody.
+
+ B)  Something.
+
+ C) Anybody.
+
+ D)  No.
+
+ E)  Anything. 
+
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - B  
+ 
+  
+4)  Выберите слово, близкое по значению: believe.
+
+ А) Advise.
+
+ B)  Suppose.
+
+ C) Reach.
+
+ D)  See.
+
+ E)  Notice. 
+ 
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - C  
+ 
+  
+5) Выберите правильный вариант притяжательной формы существительного:
+Astana is this … new capital.
+
+ А) Сountries’.
+
+ B)  Countries.
+
+ C) Country’s.
+
+ D)  Country.
+
+ E)  Countrys’. 
+
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - E  
+ 
+  
+6)  Выберите правильное слово
+This is … way to school.
+
+ А) any
+
+ B)  –
+
+ C) an
+
+ D)  some
+
+ E)  the
+ 
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - D  
+ 
+  
+7) Дополните предложение, вставив нужное местоимение:
+Did you meet ..on your way home? 
+
+ А) none
+
+ B)  nobody
+
+ C) any
+
+ D)  anybody
+
+ E)  some
+
+ ", "
+ 
+  
+Вы ответили A, и это правильный ответ!  
+ 
+  
+8)  Выберите правильное слово
+He was born in … small Russian town.
+
+ А) a
+
+ B)  an
+
+ C) some
+
+ D)  –
+
+ E)  the
+ 
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - B  
+ 
+  
+9)  Выберите правильный вариант артиклей.
+Kansas is situated in … central part of … USA.
+
+ А) -, -.
+
+ B)  The, the.
+
+ C) A, a.
+
+ D)  An, a.
+
+ E)  -, the. 
+ 
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - D  
+ 
+  
+10) Выберите правильный вариант местоимения:
+Have you got … new books?
+
+ А) Nothing.
+
+ B)  Something.
+
+ C) None.
+
+ D)  Any.
+
+ E)  Anything. 
+
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - D  
+ 
+  
+11) Определите название формы по приведенному примеру:
+To be going.
+
+ А) Indefinite Infinitive Active.
+
+ B)  Participle 1.
+
+ C) Participle 2.
+
+ D)  Continuous Infinitive Active.
+
+ E)  Gerund. 
+
+ ", "
+ 
+  
+Вы ответили A, и это правильный ответ!  
+ 
+  
+12)  Образуйте прилагательное с противоположным значением от слова "possible":
+
+ А) Impossible.
+
+ B)  Repossible.
+
+ C) Ilpossible.
+
+ D)  Inpossible.
+
+ E)  Unpossible. 
+ 
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - D  
+ 
+  
+13)  Найдите существительное в единственном числе.
+
+ А) feet.
+
+ B)  stories.
+
+ C) pages.
+
+ D)  advice.
+
+ E)  hobbies. 
+ 
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - D  
+ 
+  
+14) Выберите правильный вариант сказуемого:
+There … several beautiful parks in this city.
+
+ А) Be
+
+ B)  Been
+
+ C) Is
+
+ D)  Are
+
+ E)  Was
+
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - D  
+ 
+  
+15) Образуйте новое слово от глагола “write” с помощью следующих приставок.
+
+ А) Un.
+
+ B)  Im.
+
+ C) Ir.
+
+ D)  Re.
+
+ E)  In. 
+
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - B  
+ 
+  
+16)  Выберите правильный вариант артиклей.
+… Northern part of … state Michigan has many spots.
+
+ А) An, a.
+
+ B)  The, the.
+
+ C) An, -.
+
+ D)  An, the.
+
+ E)  A, a. 
+ 
+ ", "
+ 
+  
+Вы ответили A, и это правильный ответ!  
+ 
+  
+17)  Дополните предложение:
+Where … you going when you met your friend in the street yesterday?
+
+ А) were
+
+ B)  been
+
+ C) are
+
+ D)  is
+
+ E)  was 
+ 
+ ", "
+ 
+  
+Вы ответили A, и это правильный ответ!  
+ 
+  
+18)  Поставьте глагол в предложении в Present Simple Tense.
+A palace … a large and splendid building.
+
+ А) is.
+
+ B)  was.
+
+ C) are.
+
+ D)  were.
+
+ E)  am. 
+ 
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - C  
+ 
+  
+19) Выберите правильный вариант:
+We were told that the train … five minutes later.
+
+ А) would be arrivе
+
+ B)  had been arriving
+
+ C) would arrive
+
+ D)  will arrive
+
+ E)  has arrived
+
+ ", "
+ 
+  
+Вы ответили A, и это правильный ответ!  
+ 
+  
+20)  Выберите верное местоимение.
+Hello, Tom. Have … seen Pete?
+
+ А) You. 
+
+ B)  Your.
+
+ C) He.
+
+ D)  It.
+
+ E)  She. 
+ 
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - E  
+ 
+  
+21)  Антоним слова “Large”
+
+ А) High
+
+ B)  Difficult
+
+ C) Tall
+
+ D)  Heavy
+
+ E)  Small
+ 
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - D  
+ 
+  
+22) Выберите правильную  форму глагола “to be”:
+My flat ..very comfortable.
+
+ А) Been.
+
+ B)  Am.
+
+ C) Be.
+
+ D)  Is.
+
+ E)  Are. 
+
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - B  
+ 
+  
+23) Выберите фразовый глагол со значением "мыть посуду":
+
+ А) Wash out
+
+ B)  Wash up.
+
+ C) Wash.
+
+ D)  Wash for.
+
+ E)  Wash in. 
+
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - B  
+ 
+  
+24) Найдите эквивалент:
+Ей следует приходить вовремя.
+
+ А) Can she come?
+
+ B)  She should come in time. 
+
+ C) She is to come.  
+
+ D)  She needn’t come.
+
+ E)  She had to come in time. 
+
+ ", "
+ 
+  
+Вы ответили A, и это правильный ответ!  
+ 
+  
+25) Определите функцию инфинитива в следующем предложении:
+I’m sure he will be the last to leave.
+
+ А) дополнение 
+
+ B)  определение 
+
+ C) подлежащее 
+
+ D)  обстоятельство
+
+ E)  сказуемое 
+
+ "]

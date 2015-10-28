@@ -1,0 +1,3300 @@
+Tests.insert({
+		question: '1)  Адамға қан ауру қоздырғыштарын тарататын бунақденелер:<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Ұн кенесі. <br/>B)  Қан сорғыш шыбындар (шіркей). <br/>C) Кәдімгі маса.<br/>D)  Үй шыбыны. <br/>E)  Көбелектер. <br/>',
+		number: 1,
+		course_en: 'biology',
+		course_kz: 'Биология',
+		course_ru: 'Биология',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '2)  Қырықбуынның споралары дамиды<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Түйнекте<br/>B)  Сабақта<br/>C) Жемісінде<br/>D)  Масақшада<br/>E)  Тамырсабақта<br/>',
+		number: 2,
+		course_en: 'biology',
+		course_kz: 'Биология',
+		course_ru: 'Биология',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '3)  Көп тұқымбастамасы бар жатын-<br/>',
+		answer: 'A<br/>',
+		choices: 'А) Мақтада<br/>B)  Бидайда<br/>C) Арпада<br/>D)  Қарабидайда<br/>E)  Алхорыда<br/>',
+		number: 3,
+		course_en: 'biology',
+		course_kz: 'Биология',
+		course_ru: 'Биология',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '4)  Көп тұқымбастамасы бар жатын-<br/>',
+		answer: 'A<br/>',
+		choices: 'А) Мақтада<br/>B)  Бидайда<br/>C) Арпада<br/>D)  Қарабидайда<br/>E)  Алхорыда<br/>',
+		number: 4,
+		course_en: 'biology',
+		course_kz: 'Биология',
+		course_ru: 'Биология',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '5)  Хромосомаларда болатын.<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Көмірсу<br/>B)  Май.<br/>C) Ақуыз (нәруыз).<br/>D)  АТФ.<br/>E)  ДНҚ. <br/>',
+		number: 5,
+		course_en: 'biology',
+		course_kz: 'Биология',
+		course_ru: 'Биология',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '6)  Қыл тамырлар - <br/>',
+		answer: ' D  <br/>',
+		choices: 'А) жүректен шыққан қанды денеге тарататын қан тамырлар.<br/>B)  қанды бір бағытта өткізетін қан тамырлар.<br/>C) бас, мойын, қолдағы қанды жүрекке жеткізетін қан тамырлар.<br/>D)  қабырғасының өткізгіштік қасиеті бар өте ұсақ қан тамырлар.<br/>E)  денедегі қанды жүрекке қарай ағызатын қан тамырлар. <br/>',
+		number: 6,
+		course_en: 'biology',
+		course_kz: 'Биология',
+		course_ru: 'Биология',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '7)  Ағзаны микробтардың енуінен сақтайды:<br/>',
+		answer: ' E  <br/>',
+		choices: 'А)  Протромбин<br/>B)  Эритроцит<br/>C) Тромбоцит<br/>D)  Гемоглобин<br/>E)  Лейкоцит <br/>',
+		number: 7,
+		course_en: 'biology',
+		course_kz: 'Биология',
+		course_ru: 'Биология',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '8)  Жүгерінің жемісі-:<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Жидек.<br/>B)  Тұқымша. <br/>C) Бұршаққын. <br/>D)  Бұршаққап. <br/>E)  Дәнек. <br/>',
+		number: 8,
+		course_en: 'biology',
+		course_kz: 'Биология',
+		course_ru: 'Биология',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '9)  Жасушаның барлық органоидтарының орны:<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Жасуша орталығы.<br/>B)  Лизосома.<br/>C) Пластидтер.<br/>D)  Ядро.<br/>E)  Цитоплазма. <br/>',
+		number: 9,
+		course_en: 'biology',
+		course_kz: 'Биология',
+		course_ru: 'Биология',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '10)  Cәндік үшін өсірілетін тамырсабақты өсімдік<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Сиырқұйрық<br/>B)  Бозкілем<br/>C) Інжугүл<br/>D)  Асбұршақ<br/>E)  Шеңгел<br/>',
+		number: 10,
+		course_en: 'biology',
+		course_kz: 'Биология',
+		course_ru: 'Биология',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '11)  Нағыз  денешік, онда  ақуыз  және рибонуклеин қышқылы (РНҚ) болады:<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Митохондриялар<br/>B)  Гольджи жиынтығы<br/>C) Рибосомалар<br/>D)  Хромосомалар<br/>E)  Вакуольдер <br/>',
+		number: 11,
+		course_en: 'biology',
+		course_kz: 'Биология',
+		course_ru: 'Биология',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '12)  Жыныссыз жолмен көбеюі – бүршіктену деп аталатын жәндік:<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Өрмекші<br/>B)  Шаян<br/>C) Көбелек<br/>D)  Амеба<br/>E)  Гидра <br/>',
+		number: 12,
+		course_en: 'biology',
+		course_kz: 'Биология',
+		course_ru: 'Биология',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '13)  Ағаштардың тамырларымен симбиоздық тіршілік ететін саңырауқұлақтар:<br/>',
+		answer: 'A<br/>',
+		choices: 'А) Қайыңқұлақ.<br/>B)  Қастауыш.<br/>C) Ақ зең.<br/>D)  Ағашқұлақ.<br/>E)  Ашытқы саңырауқұлақтар. <br/>',
+		number: 13,
+		course_en: 'biology',
+		course_kz: 'Биология',
+		course_ru: 'Биология',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '14)  Паразит құрттарды зерттейтін ғылым саласы:<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) гинекология<br/>B)  кардиология<br/>C) гельминтология<br/>D)  эндокринология<br/>E)  дерматология<br/>',
+		number: 14,
+		course_en: 'biology',
+		course_kz: 'Биология',
+		course_ru: 'Биология',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '15)  Қорғаныш реңге мысал-<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) пішіні бұтаққа ұқсас жұлдызқұрт. <br/>B)  зебрдің ашық өрнегі. <br/>C) усыз жәндіктердің улы жәндіктерге ұқсауы. <br/>D)  ханқызының есте қалатын айқын түсі. <br/>E)  шағатын жабайы араның түсі. <br/>',
+		number: 15,
+		course_en: 'biology',
+		course_kz: 'Биология',
+		course_ru: 'Биология',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '16)  Жеке гүлдер бірінен соң бірі кезектесіп, ортақ кіндіктен таралатын ұзын гүлсағақтары бар гүлшоғыры<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Масақ<br/>B)  Қалқанша<br/>C) Шашақ<br/>D)  Собық<br/>E)  Шатыр<br/>',
+		number: 16,
+		course_en: 'biology',
+		course_kz: 'Биология',
+		course_ru: 'Биология',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '17)  Қорықтарды ұйымдастыру мақсаты - <br/>',
+		answer: ' E  <br/>',
+		choices: 'А) суайдындарын сақтау.<br/>B)  атмосфераны сақтау.<br/>C) табиғат ресурстарын сақтау.<br/>D)  топырақты сақтау.<br/>E)  табиғат байлықтарын табиғи қалпында сақтап қалу. <br/>',
+		number: 17,
+		course_en: 'biology',
+		course_kz: 'Биология',
+		course_ru: 'Биология',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '18)  Сыртынан қарағанда жасырын қалатын белгінің аталуы:<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Альтернативті.<br/>B)  Гетерозиготалы. <br/>C) Рецессивті.<br/>D)  Доминантты.<br/>E)  Гомозиготалы. <br/>',
+		number: 18,
+		course_en: 'biology',
+		course_kz: 'Биология',
+		course_ru: 'Биология',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '19)  Көңді (қиды) топыраққа күзде шашу себебі:<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Өсімдік сіңіруі үшін.<br/>B)  Тұқымның ісінуі үшін.<br/>C) Еруі үшін.<br/>D)  Шіруі үшін.<br/>E)  Өсуді тездету үшін. <br/>',
+		number: 19,
+		course_en: 'biology',
+		course_kz: 'Биология',
+		course_ru: 'Биология',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '20)  Жүректің бұлшықетті қабаты:<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Құлақша.<br/>B)  Миокард.<br/>C) Қарынша.<br/>D)  Эндокард.<br/>E)  Эпикард. <br/>',
+		number: 20,
+		course_en: 'biology',
+		course_kz: 'Биология',
+		course_ru: 'Биология',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '21)  Азотты тыңайтқыштары:<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) суыққа төзімділігін арттырады<br/>B)  пиязшықтың өсуін күшейтеді<br/>C) жемістердің пісуін тездетеді<br/>D)  тамырдың өсуін күшейтеді<br/>E)  сабақтар мен жапырақтардың өсуін күшейте түседі<br/>',
+		number: 21,
+		course_en: 'biology',
+		course_kz: 'Биология',
+		course_ru: 'Биология',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '22)  Мейоздық жолмен бөлінетіндер:<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) эмбриондық ұлпалар<br/>B)  прокариоттар<br/>C) зақымдалған ұлпалар<br/>D)  жыныс жасушалары<br/>E)  қуық бұлшық еті, эпителий ұлпасы<br/>',
+		number: 22,
+		course_en: 'biology',
+		course_kz: 'Биология',
+		course_ru: 'Биология',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '23)  Жемісі жел арқылы таралатын-<br/>',
+		answer: 'A<br/>',
+		choices: 'А) үйеңкі.<br/>B)  шетен.<br/>C) итошаған.<br/>D)  сары қараған.<br/>E)  інжугүл. <br/>',
+		number: 23,
+		course_en: 'biology',
+		course_kz: 'Биология',
+		course_ru: 'Биология',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '24)  Тамыр сабағынан көбейе алатын өсімдік:<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Бальзамин<br/>B)  Герань (қазтамақ)<br/>C) Қайың<br/>D)  Бегония<br/>E)  Бидайық<br/>',
+		number: 24,
+		course_en: 'biology',
+		course_kz: 'Биология',
+		course_ru: 'Биология',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '25)  Актинияның тіршілік ететін мекені-<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) мұхиттар. <br/>B)  топырақ. <br/>C) көлдер. <br/>D)  теңіздер. <br/>E)  тұщы су. <br/>',
+		number: 25,
+		course_en: 'biology',
+		course_kz: 'Биология',
+		course_ru: 'Биология',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '1)  Уақытша кермектілік судың құрамында болады.<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) кальций және магний карбонаты<br/>B)  кальций және магний гидрокарбонаты<br/>C) кальций хлориді<br/>D)  магний сульфаты<br/>E)  магний хлориді<br/>',
+		number: 1,
+		course_en: 'chemistry',
+		course_kz: 'Химия',
+		course_ru: 'Химия',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '2)  Көлемі 160 мл массалық үлесі 20%, (ρ=1,25г/мл) натрий гидроксиді ерітіндісіне қорғасын нитраты ерітіндісінің жеткілікті мөлшерімен әсер еткенде түзілген қорғасын (ІІ) гидроксидінің массасы<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) 118,5 г<br/>B)  120,5г<br/>C) 130,5<br/>D)  120,9 г<br/>E)  124,5 г<br/>',
+		number: 2,
+		course_en: 'chemistry',
+		course_kz: 'Химия',
+		course_ru: 'Химия',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '3)  Темір (III) оксидінің формуласы<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) FeO					<br/>B)  Fe2O3	<br/>C) Fe3O4<br/>D)  FeCl2<br/>E)  FeCl3<br/>',
+		number: 3,
+		course_en: 'chemistry',
+		course_kz: 'Химия',
+		course_ru: 'Химия',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '4)  Күшті тотықтырғыш<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) азот<br/>B)  аммиак<br/>C) азот (ІІ) оксиді<br/>D)  калий нитриті<br/>E)  азот қышқылы<br/>',
+		number: 4,
+		course_en: 'chemistry',
+		course_kz: 'Химия',
+		course_ru: 'Химия',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '5)  Өзгерістер сызба нұсқасында сілті қатысатын сатылар: <br/> 1 2 3 4  <br/> Br2 →KBrO3→Br2→NaBrO3→NaBr<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) 2,4<br/>B)  2,3<br/>C) 3,4<br/>D)  1,3<br/>E)  1,2<br/>',
+		number: 5,
+		course_en: 'chemistry',
+		course_kz: 'Химия',
+		course_ru: 'Химия',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '6)  3 ∙ 10 22 молекула саны бар оттектің массасы (г) <br/>',
+		answer: ' D  <br/>',
+		choices: 'А) 1,6<br/>B)  3,2<br/>C) 6,4 <br/>D)  12,8<br/>E)  10,5 <br/>',
+		number: 6,
+		course_en: 'chemistry',
+		course_kz: 'Химия',
+		course_ru: 'Химия',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '7)  Оттектің сутегі бойынша тығыздығы <br/>',
+		answer: ' B  <br/>',
+		choices: 'А) 32<br/>B)  16<br/>C) 64 <br/>D)  96<br/>E)  24<br/>',
+		number: 7,
+		course_en: 'chemistry',
+		course_kz: 'Химия',
+		course_ru: 'Химия',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '8)  Судағы оттегінің массалық үлесі (%)<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) 77,9<br/>B)  80,9<br/>C) 75,9<br/>D)  88,9<br/>E)  60,9 <br/>',
+		number: 8,
+		course_en: 'chemistry',
+		course_kz: 'Химия',
+		course_ru: 'Химия',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '9)  Темір (III) оксидінің формуласы<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) FeO					<br/>B)  Fe2O3	<br/>C) Fe3O4<br/>D)  FeCl2<br/>E)  FeCl3<br/>',
+		number: 9,
+		course_en: 'chemistry',
+		course_kz: 'Химия',
+		course_ru: 'Химия',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '10)  P – элемент<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Li<br/>B)  Mg<br/>C) Sr<br/>D)  Si<br/>E)  Rb<br/>',
+		number: 10,
+		course_en: 'chemistry',
+		course_kz: 'Химия',
+		course_ru: 'Химия',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '11)  Бір бірімен әрекеттесетін заттар жұбы <br/>',
+		answer: 'A<br/>',
+		choices: 'А) Na2O мен SiO2 <br/>B)  BaO мен K2O<br/>C) CO2 мен SO2<br/>D)  P2O5 мен NO2<br/>E)  Na2O мен CaO<br/>',
+		number: 11,
+		course_en: 'chemistry',
+		course_kz: 'Химия',
+		course_ru: 'Химия',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '12)  Орынбасу реакциясы<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Fe + S → <br/>B)  Сu (ОH)2 t→<br/>C) ZnO + H2SO4→<br/>D)  Ca (OH)2 + 2HCl → <br/>E)  Zn + 2HCl →<br/>',
+		number: 12,
+		course_en: 'chemistry',
+		course_kz: 'Химия',
+		course_ru: 'Химия',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '13)  6 моль О2 массасы (г) <br/>',
+		answer: ' E  <br/>',
+		choices: 'А) 152<br/>B)  162<br/>C) 172<br/>D)  182<br/>E)  192<br/>',
+		number: 13,
+		course_en: 'chemistry',
+		course_kz: 'Химия',
+		course_ru: 'Химия',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '14)  IV топта орналасқан элементтің үшқыш сутекті қосылысындағы массалық үлесі 75%, ал жоғары өттекті қосылысындағы массалық үлесі 27,3%, бұл элемент<br/>',
+		answer: 'A<br/>',
+		choices: 'А) C<br/>B)  Si<br/>C) Cl<br/>D)  Sn<br/>E)  Pb<br/>',
+		number: 14,
+		course_en: 'chemistry',
+		course_kz: 'Химия',
+		course_ru: 'Химия',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '15)  Тізбектегі «А» заты <br/> Cu→ CuSO4→ Cu (ОН)2→А→Сu <br/> Тізбегіндегі А заты <br/>',
+		answer: ' C  <br/>',
+		choices: 'А) CuOH<br/>B)  Cu2O<br/>C) CuO<br/>D)  Cu(OH)2<br/>E)  Cu<br/>',
+		number: 15,
+		course_en: 'chemistry',
+		course_kz: 'Химия',
+		course_ru: 'Химия',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '16)  20 %-тті 250 г ерітіндідегі заттың массасы:<br/>',
+		answer: 'A<br/>',
+		choices: 'А) 50 г<br/>B)  30 г<br/>C) 150 г<br/>D)  250 г<br/>E)  80 г<br/>',
+		number: 16,
+		course_en: 'chemistry',
+		course_kz: 'Химия',
+		course_ru: 'Химия',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '17)  алий перманганаты құрамындағы оттектің массалық үлесі (%)<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) 10,7<br/>B)  15,8<br/>C) 20,4 <br/>D)  30,6<br/>E)  40,5 <br/>',
+		number: 17,
+		course_en: 'chemistry',
+		course_kz: 'Химия',
+		course_ru: 'Химия',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '18)  Н3ВО3 осы қышқылға сәйкес келетін оксидтің формуласы<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) BeO<br/>B)  B2O3<br/>C) BO3<br/>D)  BO<br/>E)  Be2O3<br/>',
+		number: 18,
+		course_en: 'chemistry',
+		course_kz: 'Химия',
+		course_ru: 'Химия',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '19)  Оксиді қышқылдық қасиет көрсететін элемент<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) K<br/>B)  Ca<br/>C) Cl<br/>D)  Ba<br/>E)  Mg<br/>',
+		number: 19,
+		course_en: 'chemistry',
+		course_kz: 'Химия',
+		course_ru: 'Химия',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '20)  II топта орналасқан элементтің оттекті қосылысындағы оттектің массалық үлесі 28,6%, бұл элемент<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Be<br/>B)  Mg<br/>C) Ca<br/>D)  Sr<br/>E)  Ba<br/>',
+		number: 20,
+		course_en: 'chemistry',
+		course_kz: 'Химия',
+		course_ru: 'Химия',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '21)  Өзгерістер сызба нұсқасында сілті қатысатын сатылар: <br/> 1 2 3 4 </br> Br2 →KBrO3→Br2→NaBrO3→NaBr<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) 2,4<br/>B)  2,3<br/>C) 3,4<br/>D)  1,3<br/>E)  1,2<br/>',
+		number: 21,
+		course_en: 'chemistry',
+		course_kz: 'Химия',
+		course_ru: 'Химия',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '22)  3 ∙ 10 22 молекула саны бар оттектің массасы (г) <br/>',
+		answer: ' D  <br/>',
+		choices: 'А) 1,6<br/>B)  3,2<br/>C) 6,4 <br/>D)  12,8<br/>E)  10,5 <br/>',
+		number: 22,
+		course_en: 'chemistry',
+		course_kz: 'Химия',
+		course_ru: 'Химия',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '23)  Үшінші топта орналасқан екідайлы элементтің оксидінде 47% оттек бар, бұл элемент<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) B<br/>B)  Al<br/>C) Ca<br/>D)  Ln<br/>E)  Tl<br/>',
+		number: 23,
+		course_en: 'chemistry',
+		course_kz: 'Химия',
+		course_ru: 'Химия',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '24)  II топта орналасқан элементтің оттекті қосылысындағы оттектің массалық үлесі 28,6%, бұл элемент<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Be<br/>B)  Mg<br/>C) Ca<br/>D)  Sr<br/>E)  Ba<br/>',
+		number: 24,
+		course_en: 'chemistry',
+		course_kz: 'Химия',
+		course_ru: 'Химия',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '25)  Әк суының формуласы<br/>',
+		answer: 'A<br/>',
+		choices: 'А) Ca(OH)2<br/>B)  CaO<br/>C) CaCO3<br/>D)  Cu(OH)2<br/>E)  CuO<br/>',
+		number: 25,
+		course_en: 'chemistry',
+		course_kz: 'Химия',
+		course_ru: 'Химия',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '1)  Сөздің дұрыс аудармасын таңдаңыз.<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) қызығу<br/>B)  қызықтау<br/>C) өте қызық<br/>D)  қызық<br/>E)  қызықсыз   <br/>',
+		number: 1,
+		course_en: 'english',
+		course_kz: 'Ағылшын тілі',
+		course_ru: 'Английский',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '2)  Сөздің дұрыс аудармасын таңдаңыз:<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Payness.<br/>B)  Payment.<br/>C) Payful.<br/>D)  Repayed.<br/>E)  Unpayed. <br/>',
+		number: 2,
+		course_en: 'english',
+		course_kz: 'Ағылшын тілі',
+		course_ru: 'Английский',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '3)  Герундии таңдаңыз<br/>',
+		answer: 'A<br/>',
+		choices: 'А) doing<br/>B)  did<br/>C) have<br/>D)  having<br/>E)  done <br/>',
+		number: 3,
+		course_en: 'english',
+		course_kz: 'Ағылшын тілі',
+		course_ru: 'Английский',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '4)  Есімдіктің дұрыс нұсқасын таңдаңыз:<br/>',
+		answer: 'A<br/>',
+		choices: 'А) It.<br/>B)  Its.<br/>C) She.<br/>D)  I.<br/>E)  He. <br/>',
+		number: 4,
+		course_en: 'english',
+		course_kz: 'Ағылшын тілі',
+		course_ru: 'Английский',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '5)  Сөйлемге сәйкес келетін сөз: <br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Fіeld.<br/>B)  Ball.<br/>C) Garden.<br/>D)  Gymnasіum.<br/>E)  Forest. <br/>',
+		number: 5,
+		course_en: 'english',
+		course_kz: 'Ағылшын тілі',
+		course_ru: 'Английский',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '6)  Модаль етістіктің дұрыс нұсқасын табыңыз:<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Can’t be.<br/>B)  Are not.<br/>C) Don’t have.<br/>D)  Mustn’t.<br/>E)  Needn’t to. <br/>',
+		number: 6,
+		course_en: 'english',
+		course_kz: 'Ағылшын тілі',
+		course_ru: 'Английский',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '7)  “To be” етістігін қолданып, сөйлемді толықтырыңыз.<br/>',
+		answer: 'A<br/>',
+		choices: 'А) Is.<br/>B)  Are.<br/>C) Am.<br/>D)  Aren’t<br/>E)  -. <br/>',
+		number: 7,
+		course_en: 'english',
+		course_kz: 'Ағылшын тілі',
+		course_ru: 'Английский',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '8)  "Happy" сөзінің туынды сөзі:<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Happіc.<br/>B)  Rehappy.<br/>C) Happіatіon.<br/>D)  Happіness.<br/>E)  Happeless. <br/>',
+		number: 8,
+		course_en: 'english',
+		course_kz: 'Ағылшын тілі',
+		course_ru: 'Английский',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '9)  Сөйлемді Present Perfect-те толықтырыңыз<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) are finished<br/>B)  is finished<br/>C) have finished<br/>D)  had finished<br/>E)  has finished <br/>',
+		number: 9,
+		course_en: 'english',
+		course_kz: 'Ағылшын тілі',
+		course_ru: 'Английский',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '10)  Сөйлемді толықтырыңыз:<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) me<br/>B)  І<br/>C) ours<br/>D)  mіne<br/>E)  my<br/>',
+		number: 10,
+		course_en: 'english',
+		course_kz: 'Ағылшын тілі',
+		course_ru: 'Английский',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '11)  Етістіктің дұрыс нұсқасын таңдаңыз:<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Is.<br/>B)  Are.<br/>C) Be.<br/>D)  Am.<br/>E)  –.<br/>',
+		number: 11,
+		course_en: 'english',
+		course_kz: 'Ағылшын тілі',
+		course_ru: 'Английский',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '12)  'to have'  етістігі модальды етістік болатын сөйлемді көрсетіңіз.<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) She has a lot of work <br/>B)  She has done a lot of work today<br/>C) She didn’t do a lot of work <br/>D)  She has to do a lot of work today<br/>E)  She will do a lot of work <br/>',
+		number: 12,
+		course_en: 'english',
+		course_kz: 'Ағылшын тілі',
+		course_ru: 'Английский',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '13)  Белгіленген сөз сөйлемде:<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Adjectіve.<br/>B)  Partіcіple 2.<br/>C) Іnfіnіtіve.<br/>D)  Verb.<br/>E)  Gerund. <br/>',
+		number: 13,
+		course_en: 'english',
+		course_kz: 'Ағылшын тілі',
+		course_ru: 'Английский',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '14)  Тиісті артикльді қойыңыз.<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) At.<br/>B)  An. <br/>C) A.<br/>D)   - .<br/>E)  The. <br/>',
+		number: 14,
+		course_en: 'english',
+		course_kz: 'Ағылшын тілі',
+		course_ru: 'Английский',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '15)  Iс-әрекеттi бiлдiретiн жұрнақ<br/>',
+		answer: 'A<br/>',
+		choices: 'А) -ing<br/>B)  -ment<br/>C) -y<br/>D)  -ness<br/>E)  -or<br/>',
+		number: 15,
+		course_en: 'english',
+		course_kz: 'Ағылшын тілі',
+		course_ru: 'Английский',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '16)  Сөйлемнiң дұрыс баламасы<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) turn on the light<br/>B)  turn off the light<br/>C) turn up the light<br/>D)  turn at the light<br/>E)  turn in the light<br/>',
+		number: 16,
+		course_en: 'english',
+		course_kz: 'Ағылшын тілі',
+		course_ru: 'Английский',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '17)  Мәтінді оқып тапсырманы орындаңыз.<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) little<br/>B)  less<br/>C) poor<br/>D)  small<br/>E)  large<br/>',
+		number: 17,
+		course_en: 'english',
+		course_kz: 'Ағылшын тілі',
+		course_ru: 'Английский',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '18)  Модаль етістіктің дұрыс нұсқасын табыңыз:<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Have.<br/>B)  Mustn’t.<br/>C) Shouldn’t to.<br/>D)  Are not to.<br/>E)  May to. <br/>',
+		number: 18,
+		course_en: 'english',
+		course_kz: 'Ағылшын тілі',
+		course_ru: 'Английский',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '19)  Етістіктің дұрыс түрін табыңыз.<br/>',
+		answer: 'A<br/>',
+		choices: 'А) am<br/>B)  does <br/>C) is<br/>D)  are<br/>E)  were<br/>',
+		number: 19,
+		course_en: 'english',
+		course_kz: 'Ағылшын тілі',
+		course_ru: 'Английский',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '20)  “used to do”  айнaлымымен сөйлемді таңдаңыз<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) I use the grammar rules in doing exercises.<br/>B)  My grandmother used to walk to work when she was young.<br/>C) Mr. Jones is the oldest person in the village.<br/>D)  This exercise is getting boring.<br/>E)  She plays the piano better than anyone else in her class. <br/>',
+		number: 20,
+		course_en: 'english',
+		course_kz: 'Ағылшын тілі',
+		course_ru: 'Английский',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '21)  Етістіктің 3 формасын көрсет.<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) retells<br/>B)  retelling   <br/>C) retold<br/>D)  tells<br/>E)  tell<br/>',
+		number: 21,
+		course_en: 'english',
+		course_kz: 'Ағылшын тілі',
+		course_ru: 'Английский',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '22)  Бір сөзбен айтыңыз<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) park<br/>B)  museum<br/>C) theatre <br/>D)  club<br/>E)  cinema <br/>',
+		number: 22,
+		course_en: 'english',
+		course_kz: 'Ағылшын тілі',
+		course_ru: 'Английский',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '23)  Дұрыс нұсқасы<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) used to/moves<br/>B)  used to/moving<br/>C) used to/move<br/>D)  moved/used to <br/>E)  used to/moved<br/>',
+		number: 23,
+		course_en: 'english',
+		course_kz: 'Ағылшын тілі',
+		course_ru: 'Английский',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '24)  Сөйлемді толықтырыңыз:<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) your.<br/>B)  hе.<br/>C) they.<br/>D)  my.<br/>E)  yours. <br/>',
+		number: 24,
+		course_en: 'english',
+		course_kz: 'Ағылшын тілі',
+		course_ru: 'Английский',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '25)  Модаль етістігін таңдаңыз.<br/>',
+		answer: 'A<br/>',
+		choices: 'А) can<br/>B)  must   <br/>C) may<br/>D)  cannot<br/>E)  might <br/>',
+		number: 25,
+		course_en: 'english',
+		course_kz: 'Ағылшын тілі',
+		course_ru: 'Английский',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '1)  Көкжиек тұсының азимуты 1350<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Оңтүстік.<br/>B)  Оңтүстік батыс. <br/>C) Солтүстік батыс.<br/>D)  Солтүстік шығыс.<br/>E)  Оңтүстік шығыс. <br/>',
+		number: 1,
+		course_en: 'geography',
+		course_kz: 'География',
+		course_ru: 'География',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '2)  Ла-Манш бұғазы … елдерін бөліп жатыр.<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Швеция мен Норвегия<br/>B)  Ұлыбритания мен Франция<br/>C) Греция мен Албания<br/>D)  Германия мен Дания<br/>E)  Португалия мен Испания<br/>',
+		number: 2,
+		course_en: 'geography',
+		course_kz: 'География',
+		course_ru: 'География',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '3)  Түсті металлургия ... комбинаттардан тұрады.<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) қайта өңдейтін<br/>B)  комплексті<br/>C) толық циклді<br/>D)  байыту<br/>E)  жартылай циклді <br/>',
+		number: 3,
+		course_en: 'geography',
+		course_kz: 'География',
+		course_ru: 'География',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '4)  Азиядағы ірі тау жүйесі.<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Орал. <br/>B)  Карпат.<br/>C) Альпі.<br/>D)  Тянь-Шань.<br/>E)  Алтай. <br/>',
+		number: 4,
+		course_en: 'geography',
+		course_kz: 'География',
+		course_ru: 'География',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '5)  Антропогендік табиғат кешені.<br/>',
+		answer: 'A<br/>',
+		choices: 'А) Бөгендер мен демалыс парктері.<br/>B)  Көлдер мен батпақтар.<br/>C) Өзен аңғарлары.<br/>D)  Орман.<br/>E)  Шөлдер. <br/>',
+		number: 5,
+		course_en: 'geography',
+		course_kz: 'География',
+		course_ru: 'География',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '6)  Мұхит түбінің үштен бір көлемін құрайтын Үлкен қайраң (шельф) ... орналасқан.<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Үнді мұхитында<br/>B)  Тынық мұхитында<br/>C) Атлант мұхитында<br/>D)  Аравия теңізінде<br/>E)  Солтүстік Мұзды мұхитында<br/>',
+		number: 6,
+		course_en: 'geography',
+		course_kz: 'География',
+		course_ru: 'География',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '7)  Ішкі теңізі бар материк:<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Антарктида.<br/>B)  Еуразия.<br/>C) Австралия.<br/>D)  Оңтүстік Америка.<br/>E)  Африка. <br/>',
+		number: 7,
+		course_en: 'geography',
+		course_kz: 'География',
+		course_ru: 'География',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '8)  Қазақстандағы ферроқорытпа зауыттары:<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Кентау, Ақтау<br/>B)  Арал, Алматы<br/>C) Қостанай, Көкшетау<br/>D)  Жезқазған, Жезді<br/>E)  Ақсу, Ақтөбе <br/>',
+		number: 8,
+		course_en: 'geography',
+		course_kz: 'География',
+		course_ru: 'География',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '9)  Жезқазғандағы мыс кенін ашқан<br/>',
+		answer: 'A<br/>',
+		choices: 'А) Қ.Сәтбаев<br/>B)  Ш.Уәлиханов<br/>C) И. Мушкетов<br/>D)  Л.Берг<br/>E)  П.Семенов<br/>',
+		number: 9,
+		course_en: 'geography',
+		course_kz: 'География',
+		course_ru: 'География',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '10)  Қорғалатын ландшафтылық аймақ<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Жазықтар<br/>B)  Таулар<br/>C) Саябақтар<br/>D)  Саяжайлар<br/>E)  Ұлттық табиғи парктер<br/>',
+		number: 10,
+		course_en: 'geography',
+		course_kz: 'География',
+		course_ru: 'География',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '11)  Елді мекендердің негізгі түрлері.<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) мегополистік және агломерациялық.<br/>B)  қалалық және урбанизациялық.<br/>C) селолық.<br/>D)  ауылдық.<br/>E)  қалалық және селолық. <br/>',
+		number: 11,
+		course_en: 'geography',
+		course_kz: 'География',
+		course_ru: 'География',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '12)  Қазақстандағы ферроқорытпа зауыттары:<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Кентау, Ақтау<br/>B)  Арал, Алматы<br/>C) Қостанай, Көкшетау<br/>D)  Жезқазған, Жезді<br/>E)  Ақсу, Ақтөбе <br/>',
+		number: 12,
+		course_en: 'geography',
+		course_kz: 'География',
+		course_ru: 'География',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '13)  Антарктиданы қоршайтын теңіздер саны:<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) 5<br/>B)  4<br/>C) 3<br/>D)  1<br/>E)  2<br/>',
+		number: 13,
+		course_en: 'geography',
+		course_kz: 'География',
+		course_ru: 'География',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '14)  Меридиан доғасының экватордан берілген жерге дейінгі градуспен алынған шамасы:<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) бойлық<br/>B)  меридиан<br/>C) экватор<br/>D)  ендік<br/>E)  параллель <br/>',
+		number: 14,
+		course_en: 'geography',
+		course_kz: 'География',
+		course_ru: 'География',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '15)  Республикамыздағы ең ірі жылу электр станциялары:<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Атырау, Арқалықта.<br/>B)  Екібастұз, Таразыда.<br/>C) Қарағанды, Астанада.<br/>D)  Алматы, Қызылордада.<br/>E)  Рудный, Ақсуда. <br/>',
+		number: 15,
+		course_en: 'geography',
+		course_kz: 'География',
+		course_ru: 'География',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '16)  Темір рудасының қоры мол жер<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Каспий маңы ойпаты<br/>B)  Есік Атырау құмы<br/>C) Маңқыстау түбегі<br/>D)  Торғай үстірті<br/>E)  Батыс Сібір жазығы<br/>',
+		number: 16,
+		course_en: 'geography',
+		course_kz: 'География',
+		course_ru: 'География',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '17)  Мұхит суында ең көп зат:<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) оттегі<br/>B)  сутегі<br/>C) күкірт<br/>D)  ас тұз<br/>E)  қышқыл зат <br/>',
+		number: 17,
+		course_en: 'geography',
+		course_kz: 'География',
+		course_ru: 'География',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '18)  Аспан мен жердің түйіскен жері.<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Съемка.<br/>B)  Жер бедері.<br/>C) Бағдарлау.<br/>D)  Горизонталь.<br/>E)  Көкжиек. <br/>',
+		number: 18,
+		course_en: 'geography',
+		course_kz: 'География',
+		course_ru: 'География',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '19)  Қазіргі  материктердің  ең  ежелгі  тегіс  участкілері:<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Қатпарлар<br/>B)  Жоталар<br/>C) Жарықтар<br/>D)  Плиталар<br/>E)  Платформалар <br/>',
+		number: 19,
+		course_en: 'geography',
+		course_kz: 'География',
+		course_ru: 'География',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '20)  «Рахманов бұлағы » қорықшасы  ... орналасқан.<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Іле Алатауында<br/>B)  Қаратау тауларында<br/>C) Кетмен жотасында<br/>D)  Алтайда<br/>E)  Қазақтың ұсақ шоқыларында<br/>',
+		number: 20,
+		course_en: 'geography',
+		course_kz: 'География',
+		course_ru: 'География',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '21)  Хан-тәңірі массивін ашқан:<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) К.А.Северцов<br/>B)  И.П.Фальк<br/>C) П.П.Семенов<br/>D)  Х.Колумб<br/>E)  И.В.Мушкетов <br/>',
+		number: 21,
+		course_en: 'geography',
+		course_kz: 'География',
+		course_ru: 'География',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '22)  Еңбекке жарамды халықты… деп атайды.<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) халықтың құрамы<br/>B)  еңбек ресурстары<br/>C) ұдай өсуі<br/>D)  табиғи өсу<br/>E)  халықтың саны <br/>',
+		number: 22,
+		course_en: 'geography',
+		course_kz: 'География',
+		course_ru: 'География',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '23)  Қаратал өзені ... келіп құяды<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Зайсан көліне.<br/>B)  Алакөлге.<br/>C) Балқаш көліне.<br/>D)  Теңіз көліне.<br/>E)  Қапшағай су қоймасына. <br/>',
+		number: 23,
+		course_en: 'geography',
+		course_kz: 'География',
+		course_ru: 'География',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '24)  Топырақтың құрамындағы химиялық элементтер түзіледі<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Жауын құртының әсерінен.<br/>B)  Өсімдіктер мен жануарлардың әсерінен.<br/>C) Минерал бөлшектерінің әсерінен.<br/>D)  Құрт – құмырсқалар әсерінен.<br/>E)  Микроорганизмдер мен судың әсерінен. <br/>',
+		number: 24,
+		course_en: 'geography',
+		course_kz: 'География',
+		course_ru: 'География',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '25)  Қазақстанның «Алтын» тауы:<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Жоңғар Алатауы.<br/>B)  Саян.<br/>C) Памир.<br/>D)  Алтай.<br/>E)  Тянь-Шань. <br/>',
+		number: 25,
+		course_en: 'geography',
+		course_kz: 'География',
+		course_ru: 'География',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '1)  “Қазақстан отар болып келді және солай болып қалды ...” деген сөздерді күйінішпен айтқан:<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Ж.Мыңбаев.<br/>B)  І.Құрамысов.<br/>C) С.Сәдуақасов.<br/>D)  А.Розыбакиев.<br/>E)  Т.Рысқұлов. <br/>',
+		number: 1,
+		course_en: 'history',
+		course_kz: 'Қазақстан Тарихы',
+		course_ru: 'История Казахстана',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '2)  Ботай тұрағынан табылған деректерге қарағанда Қазақстанның далалық аудандарында жылқыны қолға үйрету ісі: <br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Қола дәуірінде басталды.                         <br/>B)  Неолитте басталған.<br/>C) Кейінгі палеолитте  басталды.               <br/>D)  Ерте темір дәуірінде басталған.<br/>E)  Мезолитте басталды.     <br/>',
+		number: 2,
+		course_en: 'history',
+		course_kz: 'Қазақстан Тарихы',
+		course_ru: 'История Казахстана',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '3)  Ұлы Отан соғысы жылдарында Кеңес Одағы өзінің шамамен қанша халқынан айрылды<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) 28 млн.<br/>B)  27 млн.<br/>C) 29 млн.<br/>D)  26 млн.<br/>E)  30 млн. <br/>',
+		number: 3,
+		course_en: 'history',
+		course_kz: 'Қазақстан Тарихы',
+		course_ru: 'История Казахстана',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '4)  Ұжымдастыруға қарсы «Көтеріліс бандалары» аталған қылмыстық істерді қараған орган:<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Жергілікті соттар.<br/>B)  Трибунал.<br/>C) Соттан тыс “үштіктер.”<br/>D)  Республикалық жоғары соты.<br/>E)  Би және қазылар соты. <br/>',
+		number: 4,
+		course_en: 'history',
+		course_kz: 'Қазақстан Тарихы',
+		course_ru: 'История Казахстана',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '5)  Ұжымдастыруға қарсы «Көтеріліс бандалары» аталған қылмыстық істерді қараған орган:<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Жергілікті соттар.<br/>B)  Трибунал.<br/>C) Соттан тыс “үштіктер.”<br/>D)  Республикалық жоғары соты.<br/>E)  Би және қазылар соты. <br/>',
+		number: 5,
+		course_en: 'history',
+		course_kz: 'Қазақстан Тарихы',
+		course_ru: 'История Казахстана',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '6)  Ұлы Отан соғысына қатысқан қазақтың батыр қыздары:<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Мәншүк пен Сара.<br/>B)  Роза мен Сара.<br/>C) Сара мен Әлия.<br/>D)  Әлия мен Мәншүк.<br/>E)  Әлия мен Роза. <br/>',
+		number: 6,
+		course_en: 'history',
+		course_kz: 'Қазақстан Тарихы',
+		course_ru: 'История Казахстана',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '7)  Егін салумен айналысқан, кедейленген қазақтар: <br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Қолөнершілер.<br/>B)  Кедей.<br/>C) Бай.<br/>D)  Жатақ.<br/>E)  Құл. <br/>',
+		number: 7,
+		course_en: 'history',
+		course_kz: 'Қазақстан Тарихы',
+		course_ru: 'История Казахстана',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '8)  Қайсысы бұрын болды.<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Қазақ КСР-нің жаңа Конституциясы қабылданды.<br/>B)  Ауғанстанға кеңес әскерін енгізу.<br/>C) Жалаңашкөлдегі кеңес-қытай қақтығысы.<br/>D)  Целиноградтағы толқу.<br/>E)  КОКП-нің XXV съезі. <br/>',
+		number: 8,
+		course_en: 'history',
+		course_kz: 'Қазақстан Тарихы',
+		course_ru: 'История Казахстана',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '9)  М. Черняев єскері қай жылы Шымкентті алды:<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) 1865 ж<br/>B)  1864 ж<br/>C) 1868 ж<br/>D)  1867 ж <br/>E)  1872 ж <br/>',
+		number: 9,
+		course_en: 'history',
+		course_kz: 'Қазақстан Тарихы',
+		course_ru: 'История Казахстана',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '10)  ХХ ғ-ң 70-80 жж. Қазақстанға импортталған өнім:<br/>',
+		answer: 'A<br/>',
+		choices: 'А) Металл кесетін станоктар мен электровоздар.<br/>B)  Жұқа қабат болаты.<br/>C) Түсті және қара металл.<br/>D)  Хромдық кен және ферросплав.<br/>E)  Медициналық жабдықтар. <br/>',
+		number: 10,
+		course_en: 'history',
+		course_kz: 'Қазақстан Тарихы',
+		course_ru: 'История Казахстана',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '11)  Жер-су реформасын жүргізген   уақыт аралығы:<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) 1922-1923 жж.<br/>B)  1924-1925 жж.<br/>C) 1920-1921 жж.<br/>D)  1921-1922 жж.<br/>E)  1923-1924 жж. <br/>',
+		number: 11,
+		course_en: 'history',
+		course_kz: 'Қазақстан Тарихы',
+		course_ru: 'История Казахстана',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '12)  Моғолстанда мемлекеттің саяси басшысы және ең жоғары билеушісі.<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Жабғы.<br/>B)  Қаған.<br/>C) Қонтайшы.<br/>D)  Хан.<br/>E)  Мырза. <br/>',
+		number: 12,
+		course_en: 'history',
+		course_kz: 'Қазақстан Тарихы',
+		course_ru: 'История Казахстана',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '13)  1910 жылғы Столыпин реформасының сипаты:<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Әлеуметтік. <br/>B)  Саяси. <br/>C) Діни.<br/>D)  Аграрлық.<br/>E)  Мәдени.    <br/>',
+		number: 13,
+		course_en: 'history',
+		course_kz: 'Қазақстан Тарихы',
+		course_ru: 'История Казахстана',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '14)  1859 жылы Ұлы жүз жерінде салынған бекініс:<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Қапал бекінісі.<br/>B)  Верный бекінісі.<br/>C) Қызылағаш бекінісі.<br/>D)  Қастек бекінісі.<br/>E)  Іле бекінісі. <br/>',
+		number: 14,
+		course_en: 'history',
+		course_kz: 'Қазақстан Тарихы',
+		course_ru: 'История Казахстана',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '15)  Бұқтырмада дәрігерлікпен айналысқан желтоқсаншы.<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Г.Батеньков.<br/>B)  Ф.Достоевский.<br/>C) М.Муравьев- Апостол.<br/>D)  М. Сперанский.<br/>E)  С.Семенов. <br/>',
+		number: 15,
+		course_en: 'history',
+		course_kz: 'Қазақстан Тарихы',
+		course_ru: 'История Казахстана',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '16)  1916 ж. көтерісшілер армиясының қолбасшысы:<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Ақын.<br/>B)  Сарбаз.<br/>C) Батыр.<br/>D)  Сардарбек.<br/>E)  Бек. <br/>',
+		number: 16,
+		course_en: 'history',
+		course_kz: 'Қазақстан Тарихы',
+		course_ru: 'История Казахстана',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '17)  1914 жылы Қазақстанға қоныстанған халықтар саны неше есеге өскенін көрсетіңіз:<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) 100 есеге. <br/>B)  300 есеге.<br/>C) 150 есеге.<br/>D)  211 есеге.<br/>E)  290 есеге. <br/>',
+		number: 17,
+		course_en: 'history',
+		course_kz: 'Қазақстан Тарихы',
+		course_ru: 'История Казахстана',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '18)  Ұқсастықтарына қарай ежелгі грек  авторлары «Азиялық скифтер» деп атаған:<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Қимақтарды.<br/>B)  Арабтарды.<br/>C) Қыпшақтарды.<br/>D)  Наймандарды.<br/>E)  Сақтарды. <br/>',
+		number: 18,
+		course_en: 'history',
+		course_kz: 'Қазақстан Тарихы',
+		course_ru: 'История Казахстана',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '19)  Қару-жарақтағы қандай бейнені сақтар шайқаста жауынгерлерге рух береді деп сенді?<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) От.<br/>B)  Адам.<br/>C) Қанатты ат.<br/>D)  Аң.<br/>E)  Ай. <br/>',
+		number: 19,
+		course_en: 'history',
+		course_kz: 'Қазақстан Тарихы',
+		course_ru: 'История Казахстана',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '20)  Қыпшақ бірлестігінің сол қанатының орталығы болған қала:<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Сайрам<br/>B)  Отырар<br/>C) Тараз<br/>D)  Сығанақ<br/>E)  Суяб <br/>',
+		number: 20,
+		course_en: 'history',
+		course_kz: 'Қазақстан Тарихы',
+		course_ru: 'История Казахстана',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '21)  VІ-Х ғасырларда Түрік қағанының сарайында мемлекет басқару ісінде маңызды рөл атқарған:<br/>',
+		answer: 'A<br/>',
+		choices: 'А) Соғдылықтар.<br/>B)  Арабтар.          <br/>C) Ұйғырлар.             <br/>D)  Қытайлар.            <br/>E)  Сириялықтар.          <br/>',
+		number: 21,
+		course_en: 'history',
+		course_kz: 'Қазақстан Тарихы',
+		course_ru: 'История Казахстана',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '22)  1718 жылы Тәуке өлгеннен кейін оның мирасқоры:<br/>',
+		answer: 'A<br/>',
+		choices: 'А) Қайып хан.<br/>B)  Тәуекел.<br/>C) Есім  хан.<br/>D)  Әбілқайыр хан.<br/>E)  Шығай хан. <br/>',
+		number: 22,
+		course_en: 'history',
+		course_kz: 'Қазақстан Тарихы',
+		course_ru: 'История Казахстана',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '23)  Қазақстанның қай жерінен түрік жазбалары табылды?<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Солтүстік Балқаш өңірінде.<br/>B)  Талас өзені маңында.<br/>C) Орталық Қазақстанда.<br/>D)  Арал маңында.<br/>E)  Іле Алатау бөктерінде. <br/>',
+		number: 23,
+		course_en: 'history',
+		course_kz: 'Қазақстан Тарихы',
+		course_ru: 'История Казахстана',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '24)  Кеңес Үкіметі «Қырғыз (Қазақ) Автономиясы Кеңестік Социалистік Республикасын құру туралы» декрет қабылдаған жыл:<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) 1921 ж.<br/>B)  1923 ж.<br/>C) 1919 ж.<br/>D)  1920 ж.<br/>E)  1922 ж. <br/>',
+		number: 24,
+		course_en: 'history',
+		course_kz: 'Қазақстан Тарихы',
+		course_ru: 'История Казахстана',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '25)  Ресейдің Қазақстанды қосып алуы мен жаулап алуы аяқталды:<br/>',
+		answer: 'A<br/>',
+		choices: 'А) XІX ғ. 70 жылдары.<br/>B)  XVІІІ ғ. 70 жылдары.<br/>C) XVІІІ ғ. 60 жылдары.<br/>D)  XVІІІ ғ. 30 жылдары.<br/>E)  XІX ғ. 20 жылдары. <br/>',
+		number: 25,
+		course_en: 'history',
+		course_kz: 'Қазақстан Тарихы',
+		course_ru: 'История Казахстана',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '1)  Күрделі зат есімді көрсетіңіз.<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Ауыл.<br/>B)  Көрме.<br/>C) Көкшетау.<br/>D)  Қақты.<br/>E)  Бейбітшілікті.<br/>',
+		number: 1,
+		course_en: 'kazakh',
+		course_kz: 'Қазақ тілі',
+		course_ru: 'Қазақ тілі',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '2)  Қосарлану жолымен жасалған туынды сөздерді белгілеңіз.<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Қабылдау.<br/>B)  Қанағат.<br/>C) Өсімтал.<br/>D)  Қарағай.<br/>E)  Зәбір-жапа.<br/>',
+		number: 2,
+		course_en: 'kazakh',
+		course_kz: 'Қазақ тілі',
+		course_ru: 'Қазақ тілі',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '3)  Қысқарған сөзді табыңыз.<br/>',
+		answer: 'A<br/>',
+		choices: 'А) Кг., т.б. <br/>B)  Қызылорда, Ақтөбе.<br/>C) Сөйтіп, ештеңе.<br/>D)  Әркім, әлдекім.<br/>E)  Өнерпаз.<br/>',
+		number: 3,
+		course_en: 'kazakh',
+		course_kz: 'Қазақ тілі',
+		course_ru: 'Қазақ тілі',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '4)  Тыныс белгісі дұрыс қойылмаған одағайды белгілеңіз.<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Бәрекелді, мынау қызық екен.<br/>B)  Уа, шіркін, ән деп осыны айт!<br/>C) Әттеген ай атын сұрамаппын ғой.<br/>D)  Беу-беу, туған жер, неткен келісті ең! <br/>E)  Бай-бай, Нұржан-ай, тілің қандай ащы!<br/>',
+		number: 4,
+		course_en: 'kazakh',
+		course_kz: 'Қазақ тілі',
+		course_ru: 'Қазақ тілі',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '5)  Септеулік шылауды табыңыз.<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Ән әрқашан күй сыйлайды.<br/>B)  Сен де ғашық болыпсың.<br/>C) Осы елді менсінбей жүреді екен.<br/>D)  Махаббат деген осы ма?<br/>E)  Бұрын көрген таныс тәрізді жаныңды билейді.<br/>',
+		number: 5,
+		course_en: 'kazakh',
+		course_kz: 'Қазақ тілі',
+		course_ru: 'Қазақ тілі',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '6)  “Әсем” сөзінің синонимдік тұрақты тіркесін көрсетіңіз.<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Азар да безер болды.<br/>B)  Тайға таңба басқандай.<br/>C) Бетінен оты шықты.<br/>D)  Ай оңынан туды.<br/>E)  Қыздың жиған жүгіндей.<br/>',
+		number: 6,
+		course_en: 'kazakh',
+		course_kz: 'Қазақ тілі',
+		course_ru: 'Қазақ тілі',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '7)  Тіркесу арқылы қалыптасқан үстеуді көрсетіңіз.<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Таңертең.<br/>B)  Жаздыгүні.<br/>C) Босқа.<br/>D)  Күні бүгін.<br/>E)  Жөнімен.<br/>',
+		number: 7,
+		course_en: 'kazakh',
+		course_kz: 'Қазақ тілі',
+		course_ru: 'Қазақ тілі',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '8)  Қаратпа сөз қатысып тұрған сөйлемді көрсетіңіз.<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Сенің ойынша, дұрыс па?<br/>B)  Бәсе, бұл соның ісі!<br/>C) Ой, бауырым, дос екенсің!<br/>D)  Әуелі, адамды түсінейік.<br/>E)  Мақұл, айтқаның болсын.<br/>',
+		number: 8,
+		course_en: 'kazakh',
+		course_kz: 'Қазақ тілі',
+		course_ru: 'Қазақ тілі',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '9)  Буын үндестігіне сай емес сөзді көрсетіңіз.<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Жартас.<br/>B)  Кітап.<br/>C) Қоғамтану.<br/>D)  Ұлболсын.<br/>E)  Өнер.<br/>',
+		number: 9,
+		course_en: 'kazakh',
+		course_kz: 'Қазақ тілі',
+		course_ru: 'Қазақ тілі',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '10)  Зат есімге лайық қатарды табыңыз.<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Етістік.<br/>B)  Көмекші сөздер.<br/>C) Бейтарап сөздер.<br/>D)  Еліктеу сөздер.<br/>E)  Есім сөздер.<br/>',
+		number: 10,
+		course_en: 'kazakh',
+		course_kz: 'Қазақ тілі',
+		course_ru: 'Қазақ тілі',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '11)  Іс-қағаздар стилін көрсетіңіз.<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Радио, теледидар арқылы шолу, сұхбат.<br/>B)  Суреттеу, ауыспалы мағыналы сөздер.<br/>C) Қарапайым сөздер, кәсіби сөздер.<br/>D)  Құжаттар, бұйрықтар, анықтамалар.<br/>E)  Ғылыми мақалалар, лекциялар.<br/>',
+		number: 11,
+		course_en: 'kazakh',
+		course_kz: 'Қазақ тілі',
+		course_ru: 'Қазақ тілі',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '12)  Зат есімнің анықтауыш қызметіндегі сөзін табыңыз.<br/>',
+		answer: 'A<br/>',
+		choices: 'А) Анасының тілін алмаған азапқа қалады.<br/>B)  Кең болсаң, кем болмайсың.<br/>C) Ол әрең келеді.<br/>D)  Абай қатты қуанды.<br/>E)  Мұның тамыры тереңде.<br/>',
+		number: 12,
+		course_en: 'kazakh',
+		course_kz: 'Қазақ тілі',
+		course_ru: 'Қазақ тілі',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '13)  Негізгі зат есімді белгілеңіз.<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Балықшы.<br/>B)  Кітапхана.<br/>C) Әке.<br/>D)  Бұрғы.<br/>E)  Егін.<br/>',
+		number: 13,
+		course_en: 'kazakh',
+		course_kz: 'Қазақ тілі',
+		course_ru: 'Қазақ тілі',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '14)  Болжалдық сан есімді жасайтын жұрнақтарды көрсетіңіз.<br/>',
+		answer: 'A<br/>',
+		choices: 'А) -лаған, -деген, -лап, -дай;<br/>B)  -ыншы, -інші, -ншы;<br/>C) -нан, -тен, -дан;<br/>D)  -дан, -сі, -і;<br/>E)  -ның, -ы, -тан;<br/>',
+		number: 14,
+		course_en: 'kazakh',
+		course_kz: 'Қазақ тілі',
+		course_ru: 'Қазақ тілі',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '15)  Еліктеуішті сөз тіркесін табыңыз.<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Кілт тоқтады. <br/>B)  Қолп-қолп етіп жүргізбейді.<br/>C) Гүрс-гүрс шығады.<br/>D)  Жарқ-жұрқ ойнайды.<br/>E)  Жалп-жалп құлады.<br/>',
+		number: 15,
+		course_en: 'kazakh',
+		course_kz: 'Қазақ тілі',
+		course_ru: 'Қазақ тілі',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '16)  Бейнелеуіш сөзден болған пысықтауышты табыңыз.<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Олар.<br/>B)  Жапыр-жұпыр.<br/>C) Тез.<br/>D)  Амандасып.<br/>E)  Шықты.<br/>',
+		number: 16,
+		course_en: 'kazakh',
+		course_kz: 'Қазақ тілі',
+		course_ru: 'Қазақ тілі',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '17)  Стиль түрін анықтаңыз.<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Көркем әдебиет.<br/>B)  Ауызекі сөйлеу.<br/>C) Іс-қағаздар.<br/>D)  Ғылыми.<br/>E)  Публицистикалық<br/>',
+		number: 17,
+		course_en: 'kazakh',
+		course_kz: 'Қазақ тілі',
+		course_ru: 'Қазақ тілі',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '18)  Ұяң дауыссыз дыбыстарды көрсетіңіз.<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Г, Ғ, Й, З.<br/>B)  Д, З, Ж, Л.<br/>C) Б, Д, З, Ж.<br/>D)  Ж, Б, В, М.<br/>E)  Ғ, Һ, Н, Ң.<br/>',
+		number: 18,
+		course_en: 'kazakh',
+		course_kz: 'Қазақ тілі',
+		course_ru: 'Қазақ тілі',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '19)  Қате жазылған болжалдық сан есімді табыңыз.<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) 1000-дап.<br/>B)  100-деген.<br/>C) Сағат 5-терде.<br/>D)  10 даған.<br/>E)  Қырық-елу.<br/>',
+		number: 19,
+		course_en: 'kazakh',
+		course_kz: 'Қазақ тілі',
+		course_ru: 'Қазақ тілі',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '20)  Тұйық буынды белгілеңіз.<br/>',
+		answer: 'A<br/>',
+		choices: 'А) Ант, аз.<br/>B)  Егін, өрті.<br/>C) Қант, қар.<br/>D)  Аға, қала.<br/>E)  Төркін, ашық.<br/>',
+		number: 20,
+		course_en: 'kazakh',
+		course_kz: 'Қазақ тілі',
+		course_ru: 'Қазақ тілі',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '21)  Сөйлемді анықтаңыз.<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Тепсе темір үзетін.<br/>B)  Ақ шағала.<br/>C) Қызыл күрең шай.<br/>D)  Суға жүзу жарысы.<br/>E)  Біз жидек тердік.<br/>',
+		number: 21,
+		course_en: 'kazakh',
+		course_kz: 'Қазақ тілі',
+		course_ru: 'Қазақ тілі',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '22)  Орфография бойынша дұрыс жазылған сөзді табыңыз.<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Жәйау.<br/>B)  Жайау.<br/>C) Жаяу.<br/>D)  Жайяу.<br/>E)  Жәйәу.<br/>',
+		number: 22,
+		course_en: 'kazakh',
+		course_kz: 'Қазақ тілі',
+		course_ru: 'Қазақ тілі',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '23)  Сын есімнің сөйлемдегі қызметін анықтаңыз.<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Бастауыш.<br/>B)  Баяндауыш.<br/>C) Анықтауыш.<br/>D)  Толықтауыш.<br/>E)  Пысықтауыш.<br/>',
+		number: 23,
+		course_en: 'kazakh',
+		course_kz: 'Қазақ тілі',
+		course_ru: 'Қазақ тілі',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '24)  “Дейін, шейін” септеулік шылауының жазылу емлесін көрсетіңіз.<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Сызықша арқылы.<br/>B)  Бірге.<br/>C) Нүктелі үтір арқылы.<br/>D)  Бөлек.<br/>E)  Үтір, сызықша арқылы.<br/>',
+		number: 24,
+		course_en: 'kazakh',
+		course_kz: 'Қазақ тілі',
+		course_ru: 'Қазақ тілі',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '25)  Сөзжасамның анықтамасын көрсетіңіз.<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Екі я одан да көп сөздің бірігуі.<br/>B)  Екі сөздің қосарлануы.<br/>C) Жаңа сөздердің жасалуы.<br/>D)  Дыбыстардың бірін-біріне ұқсатуы.<br/>E)  Сөздердің буынға бөлінуі.<br/>',
+		number: 25,
+		course_en: 'kazakh',
+		course_kz: 'Қазақ тілі',
+		course_ru: 'Қазақ тілі',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '1)  «Ш.Уәлиханов» пьесасының авторын белгілеңіз.<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) М.Әуезов.<br/>B)  С.Мұқанов.<br/>C) Ғ.Мұстафин.<br/>D)  Ж.Аймауытов.<br/>E)  С.Сейфуллин. <br/>',
+		number: 1,
+		course_en: 'literature',
+		course_kz: 'Әдебиет',
+		course_ru: 'Литература',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '2)  Сұлтанмахмұттың балалық шағы өткен жерді табыңыз.<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Ақтөбе.<br/>B)  Өскемен.<br/>C) Атырау.<br/>D)  Көкшетау.<br/>E)  Павлодар. <br/>',
+		number: 2,
+		course_en: 'literature',
+		course_kz: 'Әдебиет',
+		course_ru: 'Литература',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '3)  «Біржан мен Сара» айтысы айтыстың қай түріне жататындығын анықтаңыз.<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Жұмбақ айтысы.<br/>B)  Жар-жар айтысы.<br/>C) Ақындар айтысы.<br/>D)  Жануарлар мен адам айтысы.<br/>E)  Бәдік айтысы. <br/>',
+		number: 3,
+		course_en: 'literature',
+		course_kz: 'Әдебиет',
+		course_ru: 'Литература',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '4)  Асанның:<br/>',
+		answer: 'A<br/>',
+		choices: 'А) Кешірімділік.<br/>B)  Достық.<br/>C) Дәстүр, салт мәселесі.<br/>D)  Қамқорлық.<br/>E)  Жер мәселесі. <br/>',
+		number: 4,
+		course_en: 'literature',
+		course_kz: 'Әдебиет',
+		course_ru: 'Литература',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '5)  ХVІІ ғасырда өмір сүрген жырауды табыңыз.<br/>',
+		answer: 'A<br/>',
+		choices: 'А) Жиембет.<br/>B)  Доспамбет.<br/>C) Шалкиіз.<br/>D)  Махамбет.<br/>E)  Асан қайғы. <br/>',
+		number: 5,
+		course_en: 'literature',
+		course_kz: 'Әдебиет',
+		course_ru: 'Литература',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '6)  Қазақ тілі емлесінің реформаторы, грамматиканың, әдебиет теориясының негізін салушы кім екенін белгілеңіз.<br/>',
+		answer: 'A<br/>',
+		choices: 'А) А.Байтұрсынұлы.<br/>B)  Б.Майлин.<br/>C) І.Жансүгіров.<br/>D)  М.Жұмабаев.<br/>E)  С.Сейфуллин. <br/>',
+		number: 6,
+		course_en: 'literature',
+		course_kz: 'Әдебиет',
+		course_ru: 'Литература',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '7)  "Үш бақытымның" авторын табыңыз.<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Ақұштап Бақтыгереева.<br/>B)  Мұқағали Мақатаев.<br/>C) Фариза Оңғарсынова.<br/>D)  Жұмекен Нәжімеденов.<br/>E)  Қадыр Мырзалиев. <br/>',
+		number: 7,
+		course_en: 'literature',
+		course_kz: 'Әдебиет',
+		course_ru: 'Литература',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '8)  Алпамыс батырдың әкесінің атын табыңыз.<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Тоқтарбай.<br/>B)  Байбөрі.<br/>C) Тұяқбай.<br/>D)  Қарасай.<br/>E)  Сарыбай. <br/>',
+		number: 8,
+		course_en: 'literature',
+		course_kz: 'Әдебиет',
+		course_ru: 'Литература',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '9)  «Жұбату», «Жер қазғандар» шығармаларының авторын анықтаңыз.<br/>',
+		answer: 'A<br/>',
+		choices: 'А) С.Сейфуллин.<br/>B)  Б.Майлин.<br/>C) С.Мұқанов.<br/>D)  І.Жансүгіров.<br/>E)  Ғ.Мүсірепов. <br/>',
+		number: 9,
+		course_en: 'literature',
+		course_kz: 'Әдебиет',
+		course_ru: 'Литература',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '10)  «Ш.Уәлиханов» пьесасының авторын белгілеңіз.<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) М.Әуезов.<br/>B)  С.Мұқанов.<br/>C) Ғ.Мұстафин.<br/>D)  Ж.Аймауытов.<br/>E)  С.Сейфуллин. <br/>',
+		number: 10,
+		course_en: 'literature',
+		course_kz: 'Әдебиет',
+		course_ru: 'Литература',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '11)  Жаманды байқап қарасаң,<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Жастарға өнеге іс.<br/>B)  Жаманнан кесапат.<br/>C) Батырға тән мінез.<br/>D)  Адамгершілік.<br/>E)  Жақсыдан шарапат. <br/>',
+		number: 11,
+		course_en: 'literature',
+		course_kz: 'Әдебиет',
+		course_ru: 'Литература',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '12)  Шоқан Уәлиханов кадет корпусын қай жылы, неше жасында бітіргенін табыңыз.<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) 1854 жылы, 19 жасында.<br/>B)  1855 жылы, 20 жасында.<br/>C) 1853 жылы, 18 жасында.<br/>D)  1856 жылы, 21 жасында.<br/>E)  1857 жылы, 22 жасында. <br/>',
+		number: 12,
+		course_en: 'literature',
+		course_kz: 'Әдебиет',
+		course_ru: 'Литература',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '13)  Ғ.Мүсірепов «Шұғыла» әңгімесінде шұғыла деп нені айтқанын табыңыз.<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Кемпірқосақты айтады.<br/>B)  Күн сәулесін бейнелейді.<br/>C) Аспан әлемін суреттейді.<br/>D)  Қардан қаланған «аққаланы»айтады.<br/>E)  Сібір шұғыласын айтады. <br/>',
+		number: 13,
+		course_en: 'literature',
+		course_kz: 'Әдебиет',
+		course_ru: 'Литература',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '14)  Жамбылдың бір болысты әжуалап жазған сатиралық өлеңін атаңыз.<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) «Замана ағымы».<br/>B)  «Мәңке туралы».<br/>C) «Майданға хат».<br/>D)  «Шағым».<br/>E)  «Алынбас қамал». <br/>',
+		number: 14,
+		course_en: 'literature',
+		course_kz: 'Әдебиет',
+		course_ru: 'Литература',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '15)  «Құтты білік» дастанында ақыл-парасат бейнесінде кім жырланғанын белгілеңіз.<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Күнтолды.<br/>B)  Ұғділміш.<br/>C) Огдүрміш.<br/>D)  Айтолды.<br/>E)  Айтуды. <br/>',
+		number: 15,
+		course_en: 'literature',
+		course_kz: 'Әдебиет',
+		course_ru: 'Литература',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '16)  Сюжеттің анықтамасын белгілеңіз.<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Оқиғаның мезгілін, орнын көрсету.<br/>B)  Адамның сырт бітімін суреттеу.<br/>C) Оқиғалар арасындағы байланыс.<br/>D)  Бір адамның ұзақ сөзі.<br/>E)  Оқиға не оқиғалар жиынтығы. <br/>',
+		number: 16,
+		course_en: 'literature',
+		course_kz: 'Әдебиет',
+		course_ru: 'Литература',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '17)  Абайдың Семей кітапханасында танысқан орыс досының атын белгілеңіз.<br/>',
+		answer: 'A<br/>',
+		choices: 'А) Михаэлис.<br/>B)  Некрасов.<br/>C) Герцен.<br/>D)  Байрон.<br/>E)  Гете. <br/>',
+		number: 17,
+		course_en: 'literature',
+		course_kz: 'Әдебиет',
+		course_ru: 'Литература',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '18)  VІ-VІІ ғасырдағы туындыны табыңыз.<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) «Күлтегін», «Тоныкөк».<br/>B)  «Қисса-сул әнбия».<br/>C) «Қорқыт ата» кітабы.<br/>D)  «Мұхаббат-наме».<br/>E)  «Жамиғат тауарих». <br/>',
+		number: 18,
+		course_en: 'literature',
+		course_kz: 'Әдебиет',
+		course_ru: 'Литература',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '19)  Шәкәрімнің музыка зерттеушісі А.В.Затаевич нотаға түсіріп алған әнін табыңыз.<br/>',
+		answer: ' D  <br/>',
+		choices: 'А)  «Ақындарға».<br/>B)   «Дүние мен өмір».<br/>C)  «Бостандық туы жарқырап».<br/>D)   «Бұл ән бұрынғы әннен өзгерек».<br/>E)   «Жастарға». <br/>',
+		number: 19,
+		course_en: 'literature',
+		course_kz: 'Әдебиет',
+		course_ru: 'Литература',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '20)  Аяз би қандай бейне екендігін анықтаңыз.<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Қиялдан туған.<br/>B)  Сиқырлы бейне.<br/>C) Шыншыл бейне.<br/>D)  Типтік бейне.<br/>E)  Аңыздан туған. <br/>',
+		number: 20,
+		course_en: 'literature',
+		course_kz: 'Әдебиет',
+		course_ru: 'Литература',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '21)  Қ.Жұмаділовтің «Қаздар қайтып барады» әңгімесіндегі Байтас шалдың туған жерге не үшін оралғысы келгенін табыңыз.<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Қайтадан жаңа өмір бастау үшін.<br/>B)  Ашаршылықтан құтылу үшін.<br/>C) Жаулардан құтылу үшін.<br/>D)  Туған жерге жетіп өлу үшін.<br/>E)  Туысқандарына жолығу үшін. <br/>',
+		number: 21,
+		course_en: 'literature',
+		course_kz: 'Әдебиет',
+		course_ru: 'Литература',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '22)  М.Әуезовтің «Абай жолы» романының оқиғасы қанша уақытты қамтығанын табыңыз.<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Екі ғасырды.<br/>B)  Жарты ғасыр.<br/>C) Отыз жылдың оқиғасы.<br/>D)  Бір ғасырды.<br/>E)  Бір ғасырдан ұзақ. <br/>',
+		number: 22,
+		course_en: 'literature',
+		course_kz: 'Әдебиет',
+		course_ru: 'Литература',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '23)  Абайдың өлеңін көрсетіңіз.<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) «Өнер-білім бар жұрттар».<br/>B)  «Арғымаққа оқ тиді». <br/>C) «Әкеме».<br/>D)  «Өзен».<br/>E)  «Жазғытұры». <br/>',
+		number: 23,
+		course_en: 'literature',
+		course_kz: 'Әдебиет',
+		course_ru: 'Литература',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '24)  XVІІІ ғасырда өмір сүріп, Тәуке, Абылай хандарға кеңесші болған қай жырау екенін белгілеңіз.<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Доспамбет.<br/>B)  Ақтамберді.<br/>C) Бұқар. <br/>D)  Қазтуған.<br/>E)  Шалкиіз. <br/>',
+		number: 24,
+		course_en: 'literature',
+		course_kz: 'Әдебиет',
+		course_ru: 'Литература',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '25)  "Оқ тиіп он үшімде, ой түсіріп, <br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Ел мұңы.<br/>B)  Ғашықтық. <br/>C) Оқуға еріксіздігі.<br/>D)  Әкесінің ұсталуы.<br/>E)  Кедейлік. <br/>',
+		number: 25,
+		course_en: 'literature',
+		course_kz: 'Әдебиет',
+		course_ru: 'Литература',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '1)  Теңдеуді шешіңіз:  $\cfrac{x+4}{x-4}+\cfrac{x-4}{x+4}=3\cfrac{1}{3}$<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) -10; -8.<br/>B) -8; 10.<br/>C) 8; -10.<br/>D) 8; 10.<br/>E)  -8; 8. <br/>',
+		number: 1,
+		course_en: 'math',
+		course_kz: 'Математика',
+		course_ru: 'Математика',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '2)  Параллелограмның бір қабырғасы 10см, бір бұрышы 300. Периметрі 56см тең болғанда параллелограмның ауданын табыңдар.<br/>',
+		answer: 'A<br/>',
+		choices: 'А) 90 см²<br/>B)  150 см²<br/>C) 118 см²<br/>D)  80 см²<br/>E)  115 см²<br/>',
+		number: 2,
+		course_en: 'math',
+		course_kz: 'Математика',
+		course_ru: 'Математика',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '3)  Теңдеулер жүйесін шешіңіз: \begin{cases}4^{x+y}=128 \\5^{3x-2y-3}=1\end{cases}<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) (2; 1,2)<br/>B)  (1,2; 2)<br/>C) (2; 1,5)<br/>D)  (-4; 2)<br/>E)  (2; 1)<br/>',
+		number: 3,
+		course_en: 'math',
+		course_kz: 'Математика',
+		course_ru: 'Математика',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '4)  а-ның қандай мәндерінде y=3lnx+ax-2 функциясының кризистік нүктелері болмайтынын табыңыз.<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) (-∞; 0]<br/>B)  [0; +∞)<br/>C) (0; +∞)<br/>D)  0<br/>E)  (-∞; 0) <br/>',
+		number: 4,
+		course_en: 'math',
+		course_kz: 'Математика',
+		course_ru: 'Математика',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '5) $y=\log_5(3x-4)$ функциясының анықталу облысын табыңыз.<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) 0<x<3/4<br/>B)  x>0<br/>C) x>3/4<br/>D)  x<4/3<br/>E)  x>4/3<br/>',
+		number: 5,
+		course_en: 'math',
+		course_kz: 'Математика',
+		course_ru: 'Математика',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '6)  Тік бұрышты үшбұрыштың гипотенузасы 18 см-ге тең. Гипотенузаға жүргізілген медиананы табыңыз.<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) 8 см.<br/>B)  12 см.<br/>C) 9 см.<br/>D)  10 см.<br/>E)  11 см. <br/>',
+		number: 6,
+		course_en: 'math',
+		course_kz: 'Математика',
+		course_ru: 'Математика',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '7)  Теңсіздіктер жүйесін шешіңіз: \begin{cases}x^2 \le 9 \\x > 0\end{cases}<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) [0; 3)<br/>B)  (0; 3]<br/>C) [-3; 3]<br/>D)  (0; 3)<br/>E)  (-3; 3)<br/>',
+		number: 7,
+		course_en: 'math',
+		course_kz: 'Математика',
+		course_ru: 'Математика',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '8)  Өрнекті ықшамдаңыз: $\cfrac{x^3+x^2+x+1}{x^2+1}$<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) х² - х +1<br/>B)  х + 1<br/>C) 1 - х<br/>D)  х - 1<br/>E)  х² + х + 1<br/>',
+		number: 8,
+		course_en: 'math',
+		course_kz: 'Математика',
+		course_ru: 'Математика',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '9)  Теңсіздікті шешіңіз: $x^6-9x^3+8 > 0$<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) (2; +∞)<br/>B)  (-∞; 1)<br/>C) (-∞; 1)U(2; +∞)<br/>D)  (-∞; 1]U(2; +∞)<br/>E)  (-∞; 1)U[2; +∞)<br/>',
+		number: 9,
+		course_en: 'math',
+		course_kz: 'Математика',
+		course_ru: 'Математика',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '10)  Ұшақ Алматыдан Ганноверге ұшып келгенде өзінің ұшар алдындағы салмағының 8\% -ін жоғалтады. Егер ұшақтың Ганновердегі салмағы 11040 кг болса, онда ұшар алдындағы салмағы қандай болған?<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) 12,5 т.<br/>B)  13 т.<br/>C) 12 т.<br/>D)  10 т.<br/>E)  14 т. <br/>',
+		number: 10,
+		course_en: 'math',
+		course_kz: 'Математика',
+		course_ru: 'Математика',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '11)  Абсциссасы х = 0 нүктесінде f(x) = 5x³ + 9x - 27 функциясының графигіне жанама жүргізілген. Жанама мен Ох осінің қиылысу нүктесінің абсциссасын табыңыз.<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) 1<br/>B)  -2<br/>C) 2<br/>D)  4<br/>E)  3<br/>',
+		number: 11,
+		course_en: 'math',
+		course_kz: 'Математика',
+		course_ru: 'Математика',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '12)  Арифметикалық прогрессияның төртінші мен алтыншы мүшелерінің қосындысы 14-ке тең. Осы прогрессияның алғашқы тоғыз мүшесінің қосындысын табыңыз.<br/>',
+		answer: 'A<br/>',
+		choices: 'А) 63<br/>B)  14<br/>C) 56<br/>D)  126<br/>E)  64<br/>',
+		number: 12,
+		course_en: 'math',
+		course_kz: 'Математика',
+		course_ru: 'Математика',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '13)  Автобус 1-күні өтетін жолдың 1/4 бөлігін өтті, ал екінші күні бірінші күнде өткен жолдың 2/3 бөлігін өтті, үшінші күні қалған 252 км жолды өтті. Автобустың барлық жолға қанша бензин жұмсағанын есептеңіз, егер 4 км жолға 1/5л бензин жұмсалатын болса.<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) 345 л.<br/>B)  7 л.<br/>C) 21 л.<br/>D)  432 л.<br/>E)  4 л. <br/>',
+		number: 13,
+		course_en: 'math',
+		course_kz: 'Математика',
+		course_ru: 'Математика',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '14)  Тік төртбұрыштың ауданы 250 см²-ге тең, ал бір қабырғасы екіншісінен 2,5 есе үлкен болса, қабырғаларын табыңдар.<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) 20см; 40см.<br/>B)  10 см; 25 см.<br/>C) 16см; 32см.<br/>D)  5см; 10см.<br/>E)  15см; 30см. <br/>',
+		number: 14,
+		course_en: 'math',
+		course_kz: 'Математика',
+		course_ru: 'Математика',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '15)  Функцияның туындысын табыңыз: $f(x)=\ln\sqrt{x+4}{3}$<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) $\cfrac{3}{x+1}$<br/>B) $\cfrac{1}{x+3}$<br/>C) $\cfrac{1}{3(x+1)}$<br/>D) $\cfrac{1}{3(x-4)}$  <br/>E) $\cfrac{1}{3(x+4)}$<br/>',
+		number: 15,
+		course_en: 'math',
+		course_kz: 'Математика',
+		course_ru: 'Математика',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '16)  Абсциссасы х = 0 нүктесінде f(x) = 5x³ + 9x - 27 функциясының графигіне жанама жүргізілген. Жанама мен Ох осінің қиылысу нүктесінің абсциссасын табыңыз.<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) 1<br/>B)  -2<br/>C) 2<br/>D)  4<br/>E)  3<br/>',
+		number: 16,
+		course_en: 'math',
+		course_kz: 'Математика',
+		course_ru: 'Математика',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '17)  Функцияның туындысын табыңыз: $f(x)=\sin^4 x$<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) $\cfrac{3x}{8}-\cfrac{1}{4}\sin 2x - \cfrac{1}{32}\sin 4x + C$<br/>B) $\cfrac{3x}{8}+\cfrac{1}{4}\sin 2x - \cfrac{1}{32}\sin 4x + C$ <br/>C)  $\cfrac{3x}{8}-\cfrac{1}{4}\sin 2x + \cfrac{1}{32}\sin 4x + C$<br/>D) $\cfrac{3x}{8}-\cfrac{1}{4}\cos 2x + \cfrac{1}{32}\sin 4x + C$<br/>E) $\cfrac{x}{8}-\sin 2x + \sin 4x + C$<br/>',
+		number: 17,
+		course_en: 'math',
+		course_kz: 'Математика',
+		course_ru: 'Математика',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '18)  Есептеңіз: $19 - \left( \left(12\cfrac{2}{7} - 6\cfrac{3}{5}\right)\cdot2\cfrac{1}{3}\right)+9\cfrac{1}{6}:5\cfrac{1}{2}$<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) 28<br/>B)  48<br/>C) 38<br/>D)  36<br/>E)  26<br/>',
+		number: 18,
+		course_en: 'math',
+		course_kz: 'Математика',
+		course_ru: 'Математика',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '19)  A(1; 0; 3), B(1; 1; -3), C(3; 1; -1) төбелері болатындай үшбұрыштың AM медианасының ұзындығын табыңыз<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) 6<br/>B) $2\sqrt{3}$<br/>C) $3\sqrt{3}$<br/>D)  9<br/>E)  3<br/>',
+		number: 19,
+		course_en: 'math',
+		course_kz: 'Математика',
+		course_ru: 'Математика',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '20)  Абциссасы $x=-\cfrac{\pi}{6}$ болатын нүктеде $y=\cfrac{\ctg 3x}{\sqrt{3}}$ қисығына жүргізілген жанама Ox осіне қандай бұрышпен көлбеген?<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) $\cfrac{\pi}{9}$<br/>B) $\cfrac{\pi}{3}$  <br/>C) 5$\cfrac{\pi}{6}$<br/>D) $\cfrac{\pi}{6}$<br/>E) $\cfrac{2\pi}{3}$<br/>',
+		number: 20,
+		course_en: 'math',
+		course_kz: 'Математика',
+		course_ru: 'Математика',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '21)  Теңдеулер жүйесін шешіңіз: \begin{cases}x+5^{y+2}=9\\2x-5^{y+3}=11\end{cases}<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) (4;0)<br/>B)  (-4;2)<br/>C) (8;-2)<br/>D)  (0;-4)<br/>E)  (0;8) <br/>',
+		number: 21,
+		course_en: 'math',
+		course_kz: 'Математика',
+		course_ru: 'Математика',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '22)  Теңдеуді шешіңіз: log3(log5x) = 0.<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) x = 1,5<br/>B)  x = 3<br/>C) x = 5<br/>D)  x = 0,3<br/>E)  x = 1<br/>',
+		number: 22,
+		course_en: 'math',
+		course_kz: 'Математика',
+		course_ru: 'Математика',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '23)  Төбелері A(3; 4; -1), B(2; 3; -1), C(2; 4; 0) болатын үшбұрыштың АС табанындағы бұрыштарының қосындысын табыңыз.<br/>',
+		answer: 'A<br/>',
+		choices: 'А)120°<br/>B) 90°<br/>C)135°<br/>D) 60°<br/>E) 150°<br/>',
+		number: 23,
+		course_en: 'math',
+		course_kz: 'Математика',
+		course_ru: 'Математика',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '24)  Трапецияның орта сызығы 7см тең, ал табандарының бірі екіншісінен 4см-ге артық.Трапецияның табандарын табыңыз.<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) 11см және 7см<br/>B)  7см және 1см<br/>C) 12см және 8см<br/>D)  10см және 6см<br/>E)  9см және 5см <br/>',
+		number: 24,
+		course_en: 'math',
+		course_kz: 'Математика',
+		course_ru: 'Математика',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '25)  Функцияның мәндерінің облысын табыңыз: y=2cos²x+7<br/>',
+		answer: ' C  <br/>',
+		choices: 'А)(-П;0)<br/>B) (-1;6)<br/>C)[7;9]<br/>D) (0;9)<br/>E) [-1;1] <br/>',
+		number: 25,
+		course_en: 'math',
+		course_kz: 'Математика',
+		course_ru: 'Математика',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '1)  Электрондардың платинадан шығу жұмысы 9,1*$10^{-19}$ Дж. Платинаға толқын ұзындығы 0,5 мкм жарық түскенде ыршып шығатын электрондардың кинетикалық энергиясы <br/>',
+		answer: 'A<br/>',
+		choices: 'А) Жарық платинадан электрондарды шығара алмайды.<br/>B)  4,2*$10^{-19}$ Дж.<br/>C) 2,1*$10^{-19}$ Дж.<br/>D)  1,1*$10^{-19}$ Дж.<br/>E)  7,4*$10^{-19}$ Дж. <br/>',
+		number: 1,
+		course_en: 'physics',
+		course_kz: 'Физика',
+		course_ru: 'Физика',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '2)  Бүкіл әлемдік тартылыс күшін қолданып, гравитациялық тұрақтының өлшем бірлігін табыңыз.<br/>',
+		answer: 'A<br/>',
+		choices: 'А) $\cfrac{\text{Н}\cdot\text{м}^2}{\text{кг}^2}$<br/>B) $\cfrac{\text{Н}\cdot\text{м}}{\text{c}^2}$<br/>C) $\cfrac{\text{Н}\cdot\text{кг}}{\text{м}^2}$<br/>D) $\cfrac{\text{м}}{\text{с}^2}$<br/>E)  $a=\cfrac{F}{m}$<br/>',
+		number: 2,
+		course_en: 'physics',
+		course_kz: 'Физика',
+		course_ru: 'Физика',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '3)  Элементар бөлшектерді тіркейтін құралдардың газдың екпінді иондалуы кезінде ток импульсінің пайда болу құбылысына негізделуі<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Қалың қабатты фотоэмульсияда.<br/>B)  Көпіршіктік камерада.<br/>C) Гейгер есептегішінде.<br/>D)  Фотокамерада.<br/>E)  Вильсон камерасында. <br/>',
+		number: 3,
+		course_en: 'physics',
+		course_kz: 'Физика',
+		course_ru: 'Физика',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '4)  45 м/$c^2$ үдеумен қозғалатын ракета белгілі бір уақыт аралығы өткенде 900 м/с жылдамдыққа ие болды. Келесі 2с ішінде оның жүріп өткен жолы<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) 2400 км.<br/>B)  1890 км.<br/>C) 2000 км.<br/>D)  2100 км.<br/>E)  2090 км. <br/>',
+		number: 4,
+		course_en: 'physics',
+		course_kz: 'Физика',
+		course_ru: 'Физика',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '5)  Түзу өткізгіштен өтіп жатқан электр тогы сурет жазықтығына перпендикуляр бізден ары қарай бағытталған. Магнит индукциясы сызықтарының бағыты дұрыс көрсетілген сурет<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) 1.<br/>B)  2.<br/>C) 3.<br/>D)  5.<br/>E)  4. <br/>',
+		number: 5,
+		course_en: 'physics',
+		course_kz: 'Физика',
+		course_ru: 'Физика',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '6)  Мектептегі лабораториялық линзаның фокус аралығы 90 мм, оның оптикалық күшін анықтаңыз.<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) ≉ +11 дптр.<br/>B)  ≉ +1,1 дптр.<br/>C) ≉ -1,1 дптр.<br/>D)  ≉ -11 дптр.<br/>E)  ≉ -0,1 дптр. <br/>',
+		number: 6,
+		course_en: 'physics',
+		course_kz: 'Физика',
+		course_ru: 'Физика',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '7)  Салыстырмалық теориясының ядролық физика және элементар бөлшектер физикасы үшін ең маңызды салдары.<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) $m=\cfrac{m_0}{\sqrt{1 - \cfrac{\nu^2}{c^2}}}$<br/>B) $\cfrac{\triangle P}{\triangle t}=F$<br/>C) $E=mc^2=\cfrac{m_0}{\sqrt{1 - \cfrac{\nu^2}{c^2}}}$<br/>D)  E0 = m0c2. <br/>E) $P=\cfrac{m_0\nu}{\sqrt{1 - \cfrac{\nu^2}{c^2}}}$<br/>',
+		number: 7,
+		course_en: 'physics',
+		course_kz: 'Физика',
+		course_ru: 'Физика',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '8)  Массасы 5 кг дененің 15 м/c² үдеумен құлауы үшін оған әсер ететін күш <br/>',
+		answer: ' B  <br/>',
+		choices: 'А) 20 Н.<br/>B)  75 Н.<br/>C) 3 Н.<br/>D)  2 Н.<br/>E)  40 Н. <br/>',
+		number: 8,
+		course_en: 'physics',
+		course_kz: 'Физика',
+		course_ru: 'Физика',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '9)  Ядролық сәулелерді тіркеуге арналған приборларда шапшаң қозғалатын зарядталған бөлшектердің жасырын із қалдыратыны<br/>',
+		answer: 'A<br/>',
+		choices: 'А) Қалың қабатты фотоэмульсия.<br/>B)  Күкіртті цинкпен қапталған экран.<br/>C) Көпіршікті камера.<br/>D)  Гейгердің газ разрядты санағышы.<br/>E)  Вильсон камерасы. <br/>',
+		number: 9,
+		course_en: 'physics',
+		course_kz: 'Физика',
+		course_ru: 'Физика',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '10)  Изохоралық процесс үшін термодинамиканың бірінші заңының өрнегін анықтаңыз.<br/>',
+		answer: 'A<br/>',
+		choices: 'А) Q = ΔU. <br/>B)  Q = 0. <br/>C) Q = A. <br/>D)  A = -ΔU. <br/>E)  Q = ΔU + A. <br/>',
+		number: 10,
+		course_en: 'physics',
+		course_kz: 'Физика',
+		course_ru: 'Физика',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '11)  Кедергілері 15 Ом және 10 Ом болатын өткізгіштер өзара параллель қосылған. Олардың жалпы кедергісі<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) 8 Ом.<br/>B)  10 Ом.<br/>C) 25 Ом.<br/>D)  6 Ом. <br/>E)  12 Ом. <br/>',
+		number: 11,
+		course_en: 'physics',
+		course_kz: 'Физика',
+		course_ru: 'Физика',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '12)  СИ жүйесінде өлшенетін жылдамдық бірлігі <br/>',
+		answer: ' C  <br/>',
+		choices: 'А) км/сағ.<br/>B)  м/мин.<br/>C) м/с.<br/>D)  см/с.<br/>E)  км/с. <br/>',
+		number: 12,
+		course_en: 'physics',
+		course_kz: 'Физика',
+		course_ru: 'Физика',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '13)  Слюдаланған $(\epsilon = 6)$  конденсатордың пластиналар ара қашықтығы 0,02 см, ал пластина ауданы 15 см2. Конденсатордың сыйымдылығын анықтаңыз $(\epsilon_0=8,85\cdot10^{12}\text{Кл}^2/\text{(Нм)}^2)$<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) $\approx 200 \codt 10^{-12}$ Ф<br/>B) $\approx 100 \codt 10^{-12}$ Ф<br/>C) $\approx 400 \codt 10^{-12}$ Ф<br/>D)  $\approx 300 \codt 10^{-12}$ Ф<br/>E)   $\approx 500 \codt 10^{-12}$ Ф<br/>',
+		number: 13,
+		course_en: 'physics',
+		course_kz: 'Физика',
+		course_ru: 'Физика',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '14)  1 м/$c^2$ үдеумен тік жоғары көтеріліп бара жатқан лифт ішіндегі массасы 1 кг дененің салмағы: ( g = 10 м/$c^2$).<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) 12 Н.<br/>B)  10 Н.<br/>C) 11 Н.<br/>D)  7 Н.<br/>E)  9 Н. <br/>',
+		number: 14,
+		course_en: 'physics',
+		course_kz: 'Физика',
+		course_ru: 'Физика',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '15)  Дененің жылдамдық векторы мен үдеу векторының бағыты қарама-қарсы болуы<br/>',
+		answer: 'A<br/>',
+		choices: 'А) мүмкін.<br/>B)  мүмкін емес.<br/>C) дене тұрақты жылдамдықпен қозғалғанда.<br/>D)  тек қана элипс бойымен қозғалғанда.<br/>E)  тек қана шеңбер бойымен қозғалғанда. <br/>',
+		number: 15,
+		course_en: 'physics',
+		course_kz: 'Физика',
+		course_ru: 'Физика',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '16)  4 нКл зарядтан 3см қашықтықта өрістің кернеулігі 10 кВ/м-ге тең. Сұйықтың диэлектрлік өтімділігі $(k=9\codt10^9\cfrac{\text{Нм}^2}{\text{Кл}^2})$<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Е = 1. <br/>B)  Е = 3. <br/>C) Е = 4. <br/>D)  Е = 2. <br/>E)  Е = 5. <br/>',
+		number: 16,
+		course_en: 'physics',
+		course_kz: 'Физика',
+		course_ru: 'Физика',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '17)  Толқын ұзындығы 500 нм-ге сәйкес квант энергиясы: (h=6,63*$10^{-34}$ Дж*с, с=3*$10^8$ м/с )<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) ≈ 4*1019 Дж<br/>B)  ≈ 400*10-19 Дж<br/>C) ≈ 0,4*10-19 Дж<br/>D)  ≈ 4*10-19 Дж<br/>E)  ≈ 40*10-19 Дж<br/>',
+		number: 17,
+		course_en: 'physics',
+		course_kz: 'Физика',
+		course_ru: 'Физика',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '18)  3 кг дене 4 м биіктікте тұрса, оның потенциалдық энергиясы $(g=10\cfrac{\text{м}}{c^2})$<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) 12 Дж<br/>B)  40 Дж<br/>C) 70 Дж<br/>D)  30 Дж<br/>E)  120 Дж<br/>',
+		number: 18,
+		course_en: 'physics',
+		course_kz: 'Физика',
+		course_ru: 'Физика',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '19)  Көлбеулік бұрышы 30 градус жазықтықпен сырғанаған дененің үдеуі (g=10 м/$c^2$, үйкеліс ескерілмейді)<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) $\sqrt{{\cfrac{2}{5}}$ м/с2<br/>B) ${\cfrac{\sqrt{3}}{20}$ м/с2<br/>C)${\cfrac{10}{\sqrt{3}}$ м/с2<br/>D) ${\cfrac{\sqrt{3}}{3}$ м/с2<br/>E)  5м/с2<br/>',
+		number: 19,
+		course_en: 'physics',
+		course_kz: 'Физика',
+		course_ru: 'Физика',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '20)  Судың мольдік массасы (СИ жүйесінде ):<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) 18•10-3 кг/ моль.<br/>B)  18•10-2 кг/ моль.<br/>C) 103 кг/ моль.<br/>D)  34•102 кг/ моль.<br/>E)  34•10-3 кг/ моль. <br/>',
+		number: 20,
+		course_en: 'physics',
+		course_kz: 'Физика',
+		course_ru: 'Физика',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '21)  Жылдамдығы 0,8*с-ке тең болатын протонның массасы (протонның тыныштық массасы 1,67*10-27 кг)<br/>',
+		answer: 'A<br/>',
+		choices: 'А) 2,8*10-25 кг.<br/>B)  2,8*10-28 кг.<br/>C) 2,8*10-24 кг.<br/>D)  2,8*10-26 кг.<br/>E)  2,8*10-27 кг. <br/>',
+		number: 21,
+		course_en: 'physics',
+		course_kz: 'Физика',
+		course_ru: 'Физика',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '22)  q электр заряды, потенциалдар айырымы 8 В, нүктелер аралығында орын ауыстырғандағы электр өрісі күштерінің жұмысы 4 Дж болады. q зарядтың шамасы:<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) 2 Кл.<br/>B)  10 Кл.<br/>C) 32 Кл.<br/>D)  16 Кл.<br/>E)  0,5 Кл. <br/>',
+		number: 22,
+		course_en: 'physics',
+		course_kz: 'Физика',
+		course_ru: 'Физика',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '23)  Массасы 2 кг тас тік жоғары лақтырылған. Оның бастапқы кинетикалық энергиясы 400 Дж. 15 м биіктіктегі жылдамдығын анықтаңыз (g = 10 м/c²)<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) 14 м/с<br/>B)  0 м/с<br/>C) 7 м/с<br/>D)  10 м/с<br/>E)  5 м/с<br/>',
+		number: 23,
+		course_en: 'physics',
+		course_kz: 'Физика',
+		course_ru: 'Физика',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '24)  3 кг дене 4 м биіктікте тұрса, оның потенциалдық энергиясы (g = 10 м/c²)<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) 12 Дж<br/>B)  40 Дж<br/>C) 70 Дж<br/>D)  30 Дж<br/>E)  120 Дж<br/>',
+		number: 24,
+		course_en: 'physics',
+		course_kz: 'Физика',
+		course_ru: 'Физика',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '25)  Ампер заңының өрнегі:<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Q=І2RΔt<br/>B)  A=ІUΔt<br/>C) $I=q_0n\upsilon S$<br/>D) $F=k\cfrac{|q_1||q_2|}{R^2}$<br/>E)  $F=BI\triangle \ell \sin \alpha$<br/>',
+		number: 25,
+		course_en: 'physics',
+		course_kz: 'Физика',
+		course_ru: 'Физика',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '1) Причастия в словосочетаниях: <br/>',
+		answer: ' D  <br/>',
+		choices: 'А) красный платок, колющий  предмет <br/>B)  краснеющий вдали, колючие иголки <br/>C) юные друзья, мелькнувший в окне <br/>D)  надутый шар, улыбающийся  мальчик <br/>E)  сокровенные мысли, истинное, лицо <br/>',
+		number: 1,
+		course_en: 'russian',
+		course_kz: 'Русский язык',
+		course_ru: 'Русский язык',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '2) Укажите ряд, в котором слово с ни  пишется слитно<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) ...в какую не соглашаться. <br/>B)  ...что иное не нужно. <br/>C) ...к чему не приспособлен. <br/>D)  ...разу не ошибся. <br/>E)  ...днем  ...ночью. <br/>',
+		number: 2,
+		course_en: 'russian',
+		course_kz: 'Русский язык',
+		course_ru: 'Русский язык',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '3) Укажите ряд глаголов повелительного наклонения с мягким знаком после согласных<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Ключ..., обеспеч...те, привлеч... . <br/>B)  Умнож..., не замаж..., не трон...те. <br/>C) Испеч..., стрич... ся, признаеш.... <br/>D)  Не тревож...тесь, спряч...тесь,  обжеч...ся. <br/>E)  Шепчеш...ся, рассердит.. хя, грозиш... . <br/>',
+		number: 3,
+		course_en: 'russian',
+		course_kz: 'Русский язык',
+		course_ru: 'Русский язык',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '4) Бессоюзное сложное предложение (знаки не расставлены): <br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Гоша толкнул ногой калитку и друзья пролезли в большой  палисадник. <br/>B)  Я рассмеялся однако ей было нисколько не смешно. <br/>C) Ни одна тропа не была проторена ни одна травинка не шевельнулась. <br/>D)  Ум не имеющий никакой определённой цели теряется быть везде значит быть нигде. <br/>E)  С приближением поезда стала видна башня Старого Кремля и все вдруг заволновались. <br/>',
+		number: 4,
+		course_en: 'russian',
+		course_kz: 'Русский язык',
+		course_ru: 'Русский язык',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '5) Местоимение с приставкой ни пишется в предложении <br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Не стыдно молчать, коли н...чего  сказать. <br/>B)  Делать им было  н...чего. <br/>C) Худо тому, кто добра н.. .кому не делает. <br/>D)  Н.. .чего сказать в ответ. <br/>E)  Лежень лежит до вечера, а поесть ему н...чего. <br/>',
+		number: 5,
+		course_en: 'russian',
+		course_kz: 'Русский язык',
+		course_ru: 'Русский язык',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '6) В словосочетаниях  шум невыносимый,  невозможно  терпеть,  работать молча, хотеть  петь, сказочно  богат вид связи: <br/>',
+		answer: ' B  <br/>',
+		choices: 'А) примыкание, управление, управление, управление,  согласование <br/>B)  управление, управление, управление, согласование,  согласование <br/>C) согласование, согласование, согласование, примыкание, примыкание <br/>D)  примыкание, управление, управление, согласование,  согласование <br/>E)  согласование, примыкание, примыкание, примыкание,  примыкание <br/>',
+		number: 6,
+		course_en: 'russian',
+		course_kz: 'Русский язык',
+		course_ru: 'Русский язык',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '7)  В сочетаниях слов пишется при-<br/>',
+		answer: 'A<br/>',
+		choices: 'А) пр...ступить к  исполнению <br/>B)  пр...зирать за малодушие <br/>C) пр...клонять голову перед гением <br/>D)  пр...емник  традиций <br/>E)  пр...ступить закон <br/>',
+		number: 7,
+		course_en: 'russian',
+		course_kz: 'Русский язык',
+		course_ru: 'Русский язык',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '8)  Укажите слово с пропущенной буквой и<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Шприц... . <br/>B)  Лекц...я. <br/>C) Бледнолиц.. ,й. <br/>D)  Нет кожиц...  . <br/>E)  Пальц... . <br/>',
+		number: 8,
+		course_en: 'russian',
+		course_kz: 'Русский язык',
+		course_ru: 'Русский язык',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '9) Правильный вариант склонения числительного  полтора: <br/>',
+		answer: ' C  <br/>',
+		choices: 'А) полтора, полутора, полуторам, полутора, полуторами, полуторах <br/>B)  полтора, полутора, полуторам, полтора, полуторами, полуторах <br/>C) полтора, полутора, полутора, полтора, полутора, полутора <br/>D)  полтора, полтора, полутора, полтора, полуторами,  полуторах <br/>E)  полтора, полтора, полторам, полтора, полторами, полторах <br/>',
+		number: 9,
+		course_en: 'russian',
+		course_kz: 'Русский язык',
+		course_ru: 'Русский язык',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '10)  Укажите слово, не являющееся исключением из правила<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Р...сток. <br/>B)  Возр...ст. <br/>C) Рихтовщик. <br/>D)  Р...стов. <br/>E)  Отр...сль <br/>',
+		number: 10,
+		course_en: 'russian',
+		course_kz: 'Русский язык',
+		course_ru: 'Русский язык',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '11) Не с причастием пишется слитно в предложении <br/>',
+		answer: 'A<br/>',
+		choices: 'А) (Не ) прекращавшийся дождь  лил всю ночь. <br/>B)  Начинался новый день, ничем (не ) отличающийся  от ночи. <br/>C) Заря, еще (не ) закрытая чёрной тучей, освещала  окна. <br/>D)  Было страшно, что наш дом, ничем (не ) защищенный, может развалиться. <br/>E)  Сильный ливень, (не ) успевший напоить землю влагой, лишь размыл верхний слой. <br/>',
+		number: 11,
+		course_en: 'russian',
+		course_kz: 'Русский язык',
+		course_ru: 'Русский язык',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '12)  Слово с пропущенной буквой и <br/>',
+		answer: ' C  <br/>',
+		choices: 'А) пр...тензия <br/>B)  пр...валировать <br/>C) пр...митивный <br/>D)  пр...зентация<br/>E)  пр...зидиум <br/>',
+		number: 12,
+		course_en: 'russian',
+		course_kz: 'Русский язык',
+		course_ru: 'Русский язык',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '13) Ряд глаголов I спряжения: <br/>',
+		answer: ' C  <br/>',
+		choices: 'А) уходить, обидеть. <br/>B)  жить, терпеть. <br/>C) стелить, колоть. <br/>D)  клеить, гнать. <br/>E)  бороться, строить. <br/>',
+		number: 13,
+		course_en: 'russian',
+		course_kz: 'Русский язык',
+		course_ru: 'Русский язык',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '14) Схема, соответствующая  предложению: Мальчик  прислушался  и сквозь дальний городской  шум ему  внезапно показалось  что он слышит как растёт  и чуть шевелится  горячая  от солнца  трава.<br/>',
+		answer: ' E  <br/>',
+		choices: 'А)[...]и[...],(что...),(как...)<br/>B)  [...], (что...), (как...). <br/>C) [...], и (...), (что...), (как...)<br/>D) [...] и, [...], [что  ...],(как...)<br/>E)  [...], и [...], (что ...), (как ...)<br/>',
+		number: 14,
+		course_en: 'russian',
+		course_kz: 'Русский язык',
+		course_ru: 'Русский язык',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '15) В предложении есть уточняющее обособленное  обстоятельство: <br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Птиц старик жалел, особенно маленьких и хрупких ласточек. <br/>B)  Впереди, на том берегу моря, виднелись лесистые холмы. <br/>C) В этих пределах, кроме воды и неба, не существовало ничего. <br/>D)  Надо жить потребностями дня, то есть забыться. <br/>E)  К рассвету, догорев, погасла лампа. <br/>',
+		number: 15,
+		course_en: 'russian',
+		course_kz: 'Русский язык',
+		course_ru: 'Русский язык',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '16) Согласованное определение в предложении: <br/>',
+		answer: 'A<br/>',
+		choices: 'А) Грамотный человек не делает орфографических  ошибок. <br/>B)  Бабушка приготовила компот из малины. <br/>C) Я не видел реки великолепнее Енисея. <br/>D)  В библиотеку привезли книги с иллюстрациями. <br/>E)  Шуба из норки висит в шкафу. <br/>',
+		number: 16,
+		course_en: 'russian',
+		course_kz: 'Русский язык',
+		course_ru: 'Русский язык',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '17) Слова пишутся слитно:<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) двадцати?трёх, семи?тысячный<br/>B)  три?тысячи?пятнадцатый, пяти?сотый<br/>C) восьми?десяти,  триста?шестьдесят?пять <br/>D)  трёх?миллионный, двести?сорок<br/>E)  тридцати?миллиардный, двух?тысячный<br/>',
+		number: 17,
+		course_en: 'russian',
+		course_kz: 'Русский язык',
+		course_ru: 'Русский язык',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '18)  Укажите слово с Ь после шипящего<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Падеж... <br/>B)  Навзнич... <br/>C) Камыш... <br/>D)  Плакуч... <br/>E)  Шалаш... <br/>',
+		number: 18,
+		course_en: 'russian',
+		course_kz: 'Русский язык',
+		course_ru: 'Русский язык',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '19)  В сочетаниях слов пишется при-<br/>',
+		answer: 'A<br/>',
+		choices: 'А) пр...ступить к  исполнению <br/>B)  пр...зирать за малодушие <br/>C) пр...клонять голову перед гением <br/>D)  пр...емник  традиций <br/>E)  пр...ступить закон <br/>',
+		number: 19,
+		course_en: 'russian',
+		course_kz: 'Русский язык',
+		course_ru: 'Русский язык',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '20)  Буква е пишется в суффиксе  существительного: <br/>',
+		answer: ' B  <br/>',
+		choices: 'А) паут...нка. <br/>B)  часов...нка. <br/>C) горош...нка. <br/>D)  виноград...нка. <br/>E)  солом...нка. <br/>',
+		number: 20,
+		course_en: 'russian',
+		course_kz: 'Русский язык',
+		course_ru: 'Русский язык',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '21) Не с причастием пишется слитно в предложении <br/>',
+		answer: 'A<br/>',
+		choices: 'А) (Не ) прекращавшийся дождь  лил всю ночь. <br/>B)  Начинался новый день, ничем (не ) отличающийся  от ночи. <br/>C) Заря, еще (не ) закрытая чёрной тучей, освещала  окна. <br/>D)  Было страшно, что наш дом, ничем (не ) защищенный, может развалиться. <br/>E)  Сильный ливень, (не ) успевший напоить землю влагой, лишь размыл верхний слой. <br/>',
+		number: 21,
+		course_en: 'russian',
+		course_kz: 'Русский язык',
+		course_ru: 'Русский язык',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '22) Обособленное дополнение в предложении: <br/>',
+		answer: 'A<br/>',
+		choices: 'А) Ни звука не было слышно кроме вздохов моря. <br/>B)  Несмотря на частые невзгоды ему выпадало на долю подлинное  счастье быть обласканным своим народом. <br/>C) Земля под ногой стала как гамак подвешенный над бездной. <br/>D)  И Травке в каждом человеке как в зеркале виделся весь Антипыч. <br/>E)  Помедлим у реки полощущей цветные бусы фонарей. <br/>',
+		number: 22,
+		course_en: 'russian',
+		course_kz: 'Русский язык',
+		course_ru: 'Русский язык',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '23) Запятая ставится в предложении: <br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Неужели впереди бои и путь к отступлению  отрезан? <br/>B)  У Гаврилы смешно надулись щеки и серые глаза часто и смешно моргали. <br/>C) В туманной вышине запели птички и восток озолотился. <br/>D)  Подсудимых тоже куда-то выводили и только что ввели назад. <br/>E)  Необходимо  срочно разработать инновационные программы и заняться их апробацией. <br/>',
+		number: 23,
+		course_en: 'russian',
+		course_kz: 'Русский язык',
+		course_ru: 'Русский язык',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '24)  Буква и пропущена в слове <br/>',
+		answer: ' D  <br/>',
+		choices: 'А) под...екать <br/>B)  небезынтересный <br/>C) под...гранный <br/>D)  сверх...зысканный <br/>E)  раз...скивать <br/>',
+		number: 24,
+		course_en: 'russian',
+		course_kz: 'Русский язык',
+		course_ru: 'Русский язык',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '25) Глагол I спряжения есть в  словосочетании <br/>',
+		answer: 'A<br/>',
+		choices: 'А) закаля...шься по утрам <br/>B)  кос.шь траву <br/>C) вид...шь цель <br/>D)  печал...шься о матери <br/>E)  хвал...шь ребенка <br/>',
+		number: 25,
+		course_en: 'russian',
+		course_kz: 'Русский язык',
+		course_ru: 'Русский язык',
+		is_fifth: false,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '1)  ГФР-дегі Федералдық Парламент аталады:<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Конгресс.<br/>B)  Сенат.<br/>C) Кнессет.<br/>D)  Сейм.<br/>E)  Бундестаг. <br/>',
+		number: 1,
+		course_en: 'world_history',
+		course_kz: 'Дүние жүзі тарихы',
+		course_ru: 'Всемирная история',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '2)  1968 жылы Чехословакияға әскери күштерін кіргізген елдер:<br/>',
+		answer: 'A<br/>',
+		choices: 'А) ГДР, КСРО, Венгрия.<br/>B)  КСРО, ГДР, Албания.<br/>C) КСРО, ГДР, Югославия. <br/>D)  ГДР, ГФР, АҚШ.<br/>E)  Албания, КХР, Болгария. <br/>',
+		number: 2,
+		course_en: 'world_history',
+		course_kz: 'Дүние жүзі тарихы',
+		course_ru: 'Всемирная история',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '3)  1914 ж. Екінші интернационалдың күйреу себебі:<br/>',
+		answer: 'A<br/>',
+		choices: 'А) Өздерінің соғысып жатқан үкіметін Еуропалық социалистердің қолдауы.<br/>B)  Соғыстың бас кезіндегі саяси байланыстардың үзілуі.<br/>C) Социалистерді қуғындау.<br/>D)  Соғыс жағдайында халықаралық конгресті өткізудің мүмкін еместігі.<br/>E)  Француз және Германия социал-демократтары басшыларының арасындағы келіспеушілік. <br/>',
+		number: 3,
+		course_en: 'world_history',
+		course_kz: 'Дүние жүзі тарихы',
+		course_ru: 'Всемирная история',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '4)  Нидерландының  Испанияға бағынған уақыты:<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) XІV ғасырдың басы.<br/>B)  XVІІІ ғасырдың ортасы.<br/>C) XVІ ғасырдың ортасы.<br/>D)  XV ғасырдың  басы.<br/>E)  XVІІ ғасырдың басы. <br/>',
+		number: 4,
+		course_en: 'world_history',
+		course_kz: 'Дүние жүзі тарихы',
+		course_ru: 'Всемирная история',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '5)  Ленинград қорғанысы …<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) 2 айға созылды.<br/>B)  900 күнге созылды.<br/>C) 1 айға созылды.<br/>D)  250 күнге созылды.<br/>E)  1,5 айға созылды. <br/>',
+		number: 5,
+		course_en: 'world_history',
+		course_kz: 'Дүние жүзі тарихы',
+		course_ru: 'Всемирная история',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '6)  Александр Македонискийдің соғыссыз бағындырған мемлекеті:<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Үндістан.<br/>B)  Египет.<br/>C) Парсы.<br/>D)  Греция.<br/>E)  Орта Азия. <br/>',
+		number: 6,
+		course_en: 'world_history',
+		course_kz: 'Дүние жүзі тарихы',
+		course_ru: 'Всемирная история',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '7)  Ресейде Анна Иоанновна билік құрған жылдар:<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) 1745-1755 жылдар.<br/>B)  1735-1745 жылдар.<br/>C) 1720-1730 жылдар.<br/>D)  1732-1742 жылдар.<br/>E)  1730-1740 жылдар. <br/>',
+		number: 7,
+		course_en: 'world_history',
+		course_kz: 'Дүние жүзі тарихы',
+		course_ru: 'Всемирная история',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '8)  Антарктиданы ашқан орыстың дүние жүзін айналған экспедициясының басшысы:<br/>',
+		answer: 'A<br/>',
+		choices: 'А) Беллинсгаузен.<br/>B)  Крузенштерн.<br/>C) Головин.<br/>D)  Лазарев.<br/>E)  Невальской. <br/>',
+		number: 8,
+		course_en: 'world_history',
+		course_kz: 'Дүние жүзі тарихы',
+		course_ru: 'Всемирная история',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '9)  ’’Өлі жандар’’ романының авторы:<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Некрасов.<br/>B)  Толстой.<br/>C) Фонвизин.<br/>D)  Грибоедов.<br/>E)  Гоголь. <br/>',
+		number: 9,
+		course_en: 'world_history',
+		course_kz: 'Дүние жүзі тарихы',
+		course_ru: 'Всемирная история',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '10)  Дәрігер ретінде “Ғалымдардың атасы” аталған ұлы ғалым:<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Евклид.<br/>B)  Әл Фараби.<br/>C) Омар Хайам.<br/>D)  Ибн Сина.<br/>E)  Фирдоуси. <br/>',
+		number: 10,
+		course_en: 'world_history',
+		course_kz: 'Дүние жүзі тарихы',
+		course_ru: 'Всемирная история',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '11)  Ағылшын кемелері Ла-Манш бұғазында Испан флотына шабуыл жасады<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) 1586 ж.<br/>B)  1588 ж.<br/>C) 1587 ж.<br/>D)  1589 ж.<br/>E)  1590 ж. <br/>',
+		number: 11,
+		course_en: 'world_history',
+		course_kz: 'Дүние жүзі тарихы',
+		course_ru: 'Всемирная история',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '12)  Салыстырмалы теорияның авторы:<br/>',
+		answer: 'A<br/>',
+		choices: 'А) А.Эйнштейн.<br/>B)  Н.Бор.<br/>C) М.Планк.<br/>D)  Э.Резерфорд.<br/>E)  Д.И.Менделеев. <br/>',
+		number: 12,
+		course_en: 'world_history',
+		course_kz: 'Дүние жүзі тарихы',
+		course_ru: 'Всемирная история',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '13)  БҰҰ-ның штаб-пәтері:<br/>',
+		answer: 'A<br/>',
+		choices: 'А) Нью-Йоркте.<br/>B)  Женевада.<br/>C) Вашингтонда.<br/>D)  Брюссельде.<br/>E)  Парижде. <br/>',
+		number: 13,
+		course_en: 'world_history',
+		course_kz: 'Дүние жүзі тарихы',
+		course_ru: 'Всемирная история',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '14)  ХVI ғасырда Бабурдың жаулап алуынан кейін тәуелсіз үнді княздықтары тек Үндістанның: <br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Батысында ғана қалды. <br/>B)  Оңтүстігінде ғана қалды.<br/>C) Шығысында ғана қалды.<br/>D)  Солтүстігінде ғана қалды.<br/>E)  Орталығында ғана қалды. <br/>',
+		number: 14,
+		course_en: 'world_history',
+		course_kz: 'Дүние жүзі тарихы',
+		course_ru: 'Всемирная история',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '15)  ’’Индульгенция’’ сөзінің мағынасын анықтаңыз:<br/>',
+		answer: 'A<br/>',
+		choices: 'А) Күнәларды кешіру жайлы арнайы грамота.<br/>B)  Католик шіркеуінің заңы.<br/>C) Шіркеу соты.<br/>D)  Салық.<br/>E)  Діннен безгендерді жазалау. <br/>',
+		number: 15,
+		course_en: 'world_history',
+		course_kz: 'Дүние жүзі тарихы',
+		course_ru: 'Всемирная история',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '16)  1598 жылы Федор патша өлгеннен кейін,  оның баласы болмағандықтан, патриархтың қолдауымен Земство соборы таққа отырғызған адам:<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) І Василий.<br/>B)  Иван Грозный.<br/>C) Алексанр Невский.<br/>D)  Дмитрий Донской.<br/>E)  Борис Годунов. <br/>',
+		number: 16,
+		course_en: 'world_history',
+		course_kz: 'Дүние жүзі тарихы',
+		course_ru: 'Всемирная история',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '17)  1993 жылы 15 қарашада Қазақстанда:<br/>',
+		answer: 'A<br/>',
+		choices: 'А) ұлттық теңге шығарды<br/>B)  сом алтын шығады<br/>C) президент сайлады<br/>D)  алтын, алмас қорын жинады<br/>E)  тєуелсіздік жариялады <br/>',
+		number: 17,
+		course_en: 'world_history',
+		course_kz: 'Дүние жүзі тарихы',
+		course_ru: 'Всемирная история',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '18)  “Дон Кихот” романының авторы:<br/>',
+		answer: 'A<br/>',
+		choices: 'А) Сервантес<br/>B)  Ф.Рабле<br/>C) Вильям Шекспир<br/>D)  Томас Мор<br/>E)  Д.Веласкес <br/>',
+		number: 18,
+		course_en: 'world_history',
+		course_kz: 'Дүние жүзі тарихы',
+		course_ru: 'Всемирная история',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '19)  Осы заманғы генетика ғылымының негізін салушы:<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Дарвин.<br/>B)  Мечников.<br/>C) Герц.<br/>D)  Павлов.<br/>E)  Мендель. <br/>',
+		number: 19,
+		course_en: 'world_history',
+		course_kz: 'Дүние жүзі тарихы',
+		course_ru: 'Всемирная история',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '20)  КСРО-да халық шаруашылығын соғыс жағдайына бейімдеп қайта құрудың жүзеге асырылған уақыты.<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) 1943-1945 жылдары.<br/>B)  1942-1943 жылдары.<br/>C) 1939-1940 жылдары.<br/>D)  1941-1942 жылдары.<br/>E)  1940-1941 жылдары. <br/>',
+		number: 20,
+		course_en: 'world_history',
+		course_kz: 'Дүние жүзі тарихы',
+		course_ru: 'Всемирная история',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '21)  1905 жылы ұзындығы 20 км. болатын Симплон тоннелі жүргізілді:<br/>',
+		answer: ' B  <br/>',
+		choices: 'А) Гималайда.<br/>B)  Альпіде.<br/>C) Андыда.<br/>D)  Балканда.<br/>E)  Кордильерде. <br/>',
+		number: 21,
+		course_en: 'world_history',
+		course_kz: 'Дүние жүзі тарихы',
+		course_ru: 'Всемирная история',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '22)  1549 ж. Шығыс Англияда байлығы аз дворян Роберт Кет шаруалар отрядымен бірге неге қарсы шықты:<br/>',
+		answer: ' C  <br/>',
+		choices: 'А) Отарлар жаулап алуға.<br/>B)  Құл саудасына.<br/>C) Қоршап алуға.<br/>D)  Шіркеу билігіне.<br/>E)  Король билігіне. <br/>',
+		number: 22,
+		course_en: 'world_history',
+		course_kz: 'Дүние жүзі тарихы',
+		course_ru: 'Всемирная история',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '23)  Психоанализдің негізін салған австриялық оқымысты:<br/>',
+		answer: ' D  <br/>',
+		choices: 'А) Ф.Ницше.<br/>B)  А.Шопенгауэр.<br/>C) И.Кант.<br/>D)  З.Фрейд.<br/>E)  А.Бергсон. <br/>',
+		number: 23,
+		course_en: 'world_history',
+		course_kz: 'Дүние жүзі тарихы',
+		course_ru: 'Всемирная история',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '24)  1 мамырды еңбекшілердің халықаралық ынтымақтастық күні ретінде атап өтуге себеп болған оқиға:<br/>',
+		answer: 'A<br/>',
+		choices: 'А) 1886 ж. Чикаго демострациясы.<br/>B)  1885 ж. Морозов ереуілі.<br/>C) 1894 ж. Пульмандағы көтеріліс.<br/>D)  1911 ж. Ливерпульск ереуілі.<br/>E)  1844 ж. Силезия тоқымашыларының бас көтеруі. <br/>',
+		number: 24,
+		course_en: 'world_history',
+		course_kz: 'Дүние жүзі тарихы',
+		course_ru: 'Всемирная история',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
+Tests.insert({
+		question: '25)  К.Маркс пен Ф.Энгельстің 1848 ж. жарияланған «Коммунистік партия манифесінің» негізгі бағдарламалық міндеті:<br/>',
+		answer: ' E  <br/>',
+		choices: 'А) Кәсіподақ бірлестіктерін құру.<br/>B)  Буржуазиялық партияларды сынау.<br/>C) Жұмысшы табын саяси сауаттандыру.<br/>D)  Жалпыхалықтық имандылық-құқықтық нормаларды жариялау.<br/>E)  Тарихта жеке меншікті таптық қайшылықтың түпкі негізі ретінде жою. <br/>',
+		number: 25,
+		course_en: 'world_history',
+		course_kz: 'Дүние жүзі тарихы',
+		course_ru: 'Всемирная история',
+		is_fifth: true,
+		language: 'kazakh',
+	}
+	);
