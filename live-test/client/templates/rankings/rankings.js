@@ -13,6 +13,6 @@ Template.rankings.helpers({
 		}
 	},
 	students: function () {
-		return Results.find();		
+		return Results.find({},{sort: {total: -1}});		
 	}
 });

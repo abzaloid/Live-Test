@@ -9,6 +9,10 @@ UI.registerHelper("isNotNull", function(value) {
   return value !== null;
 });
 
+UI.registerHelper("inc", function (value) {
+    return value + 1;
+});
+
 var lf = null;
 var clock = 2 * 60 * 60 + 30 * 60;
 
