@@ -8,8 +8,7 @@
 		</div>
 
 		<section class="cabinet cabinet--flex">
-
-			{{#if result}}
+			{{#if isNotNull result}}
 				<span class="result">Ваш результат: <strong>{{result}}</strong></span>
 			{{/if}}
 			<div class="cabinet--flex__item account-info">
@@ -33,7 +32,7 @@
 				</table>
 			</div>
 			<div class="cabinet--flex__item actions-navigation">
-				<a href="{{#if result}}{{pathFor 'test'}}{{else}}{{pathFor 'confirm'}}{{/if}}" class="action">Пройти тест</a>
+				<a href="{{#if isNotNull result}}{{pathFor 'test'}}{{else}}{{pathFor 'confirm'}}{{/if}}" class="action">Пройти тест</a>
 				<a href="{{pathFor 'rankings'}}" class="action">Таблица результатов</a>
 				<a href="http://vk.com/studyspacekz" target="_blank" class="action">Онлайн урок</a>
 				<a href="http://vk.com/share.php?url=http://studyspace.kz" target="_blank" class="action" >Поделиться</a>

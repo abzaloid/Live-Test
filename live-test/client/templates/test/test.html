@@ -5,7 +5,7 @@
 			{{#if result}}
 				<span class="nav-child timer">Закончено</span>
 			{{else}}
-				<span class="nav-child timer">2:30:00</span>
+				<span class="nav-child timer">{{formatDate time}}</span>
 				<a href="#" class="general-button submit-test-btn">Завершить тест</a>
 			{{/if}}
 			{{#if currentUser}}

@@ -1,3 +1,19 @@
+var clock = 2 * 60 * 60 + 30 * 60;
+
+var timeLeft = function() {
+	Meteor.call("getServerTime", Meteor.userId(), function (error, result) {
+        Session.set(Meteor.userId() + "time", result);            
+    });
+    if (Session.get(Meteor.userId() + 'time') <= 0) {
+    	console.log("FINISHED");
+    	submit_ent();
+    	Meteor.clearInterval(interval);
+    }
+};
+
+var interval = Meteor.setInterval(timeLeft, 1000);
+
+
 function getAnswer (s) {
 
 	answer = "ABCDE";
@@ -43,6 +59,9 @@ Template.test.rendered = function () {
 
 
 Template.test.helpers({
+	time: function () {
+		return Session.get(Meteor.userId() + 'time');
+	},
 	kazakh_questions: function () {
 		m_user = OUsers.findOne({email: Meteor.user().emails[0].address})
 		console.log(m_user)
@@ -172,7 +191,15 @@ Template.test.events({
 	'click .submit-test-btn': function (e) {
 		e.preventDefault();
 
-		$("#m_spinner").show();
+		submit_ent();
+	
+	}
+});
+
+
+
+function submit_ent () {
+	$("#m_spinner").show();
 
 		m_user = OUsers.findOne({email: Meteor.user().emails[0].address})
 
@@ -256,5 +283,5 @@ Template.test.events({
 
 		Router.go('cabinet');
 
-	}
-});
+}
+
