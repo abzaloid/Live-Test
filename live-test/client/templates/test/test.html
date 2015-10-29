@@ -14,7 +14,7 @@
 			<a href="" data-for="q_math" class="test-navigation__item">Математика</a>
 			<a href="" data-for="q_russian" class="test-navigation__item">Русский</a>
 			<a href="" data-for="q_history" class="test-navigation__item">История</a>
-			<a href="" data-for="q_physics" class="test-navigation__item">5-ый Предмет</a>
+			<a href="" data-for="q_{{fifth}}" class="test-navigation__item">5-ый Предмет</a>
 		</div>
 
 		<section class="test-content">
@@ -39,7 +39,7 @@
 						{{> m_question}}
 					{{/each}}
 				</div>
-				<div id="physics">
+				<div id="{{fifth}}">
 					{{#each fifth_questions}}
 						{{> m_question}}
 					{{/each}}
@@ -47,6 +47,13 @@
 			</div>
 		</section>
 	</div>
+
+	<script type="text/x-mathjax-config">
+	  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+	</script>
+	<script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+
+	
 </template>
 
 <template name="m_question">

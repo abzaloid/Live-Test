@@ -4743,7 +4743,7 @@ Questions.insert({
 					}
 					);
 				
-Questions.insert({
+				Questions.insert({
 						question: "1)  Қанның эритроциттері<br/>",
 						answer: " E  <br/>",
 						choice_A: "А) қанның ақ түйіршіктері.<br/>",
@@ -9418,7 +9418,7 @@ Questions.insert({
 						variant: 2,
 					}
 					);
-Questions.insert({
+				Questions.insert({
 						question: "1)  Сорные растения  семейства  сложноцветных <br/>",
 						answer: " B  <br/>",
 						choice_A: "А)  Сафлор, подсолнечник <br/>",
@@ -14093,7 +14093,7 @@ Questions.insert({
 						variant: 1,
 					}
 					);
-Questions.insert({
+				Questions.insert({
 						question: "1) Олений  мох  или  ягель <br/>",
 						answer: "A<br/>",
 						choice_A: "А) Основной  корм  северных  оленей <br/>",
@@ -14106,8 +14106,8 @@ Questions.insert({
 						course_kz: 'Биология',
 						course_ru: 'Биология',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14123,8 +14123,8 @@ Questions.insert({
 						course_kz: 'Биология',
 						course_ru: 'Биология',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14140,8 +14140,8 @@ Questions.insert({
 						course_kz: 'Биология',
 						course_ru: 'Биология',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14157,8 +14157,8 @@ Questions.insert({
 						course_kz: 'Биология',
 						course_ru: 'Биология',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14174,8 +14174,8 @@ Questions.insert({
 						course_kz: 'Биология',
 						course_ru: 'Биология',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14191,8 +14191,8 @@ Questions.insert({
 						course_kz: 'Биология',
 						course_ru: 'Биология',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14208,8 +14208,8 @@ Questions.insert({
 						course_kz: 'Биология',
 						course_ru: 'Биология',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14225,8 +14225,8 @@ Questions.insert({
 						course_kz: 'Биология',
 						course_ru: 'Биология',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14242,8 +14242,8 @@ Questions.insert({
 						course_kz: 'Биология',
 						course_ru: 'Биология',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14259,8 +14259,8 @@ Questions.insert({
 						course_kz: 'Биология',
 						course_ru: 'Биология',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14276,8 +14276,8 @@ Questions.insert({
 						course_kz: 'Биология',
 						course_ru: 'Биология',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14293,8 +14293,8 @@ Questions.insert({
 						course_kz: 'Биология',
 						course_ru: 'Биология',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14310,8 +14310,8 @@ Questions.insert({
 						course_kz: 'Биология',
 						course_ru: 'Биология',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14327,8 +14327,8 @@ Questions.insert({
 						course_kz: 'Биология',
 						course_ru: 'Биология',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14344,8 +14344,8 @@ Questions.insert({
 						course_kz: 'Биология',
 						course_ru: 'Биология',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14361,8 +14361,8 @@ Questions.insert({
 						course_kz: 'Биология',
 						course_ru: 'Биология',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14378,8 +14378,8 @@ Questions.insert({
 						course_kz: 'Биология',
 						course_ru: 'Биология',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14395,8 +14395,8 @@ Questions.insert({
 						course_kz: 'Биология',
 						course_ru: 'Биология',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14412,8 +14412,8 @@ Questions.insert({
 						course_kz: 'Биология',
 						course_ru: 'Биология',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14429,8 +14429,8 @@ Questions.insert({
 						course_kz: 'Биология',
 						course_ru: 'Биология',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14446,8 +14446,8 @@ Questions.insert({
 						course_kz: 'Биология',
 						course_ru: 'Биология',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14463,8 +14463,8 @@ Questions.insert({
 						course_kz: 'Биология',
 						course_ru: 'Биология',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14480,8 +14480,8 @@ Questions.insert({
 						course_kz: 'Биология',
 						course_ru: 'Биология',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14497,8 +14497,8 @@ Questions.insert({
 						course_kz: 'Биология',
 						course_ru: 'Биология',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14514,8 +14514,8 @@ Questions.insert({
 						course_kz: 'Биология',
 						course_ru: 'Биология',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14531,8 +14531,8 @@ Questions.insert({
 						course_kz: 'Химия',
 						course_ru: 'Химия',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14548,8 +14548,8 @@ Questions.insert({
 						course_kz: 'Химия',
 						course_ru: 'Химия',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14565,8 +14565,8 @@ Questions.insert({
 						course_kz: 'Химия',
 						course_ru: 'Химия',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14582,8 +14582,8 @@ Questions.insert({
 						course_kz: 'Химия',
 						course_ru: 'Химия',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14599,8 +14599,8 @@ Questions.insert({
 						course_kz: 'Химия',
 						course_ru: 'Химия',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14616,8 +14616,8 @@ Questions.insert({
 						course_kz: 'Химия',
 						course_ru: 'Химия',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14633,8 +14633,8 @@ Questions.insert({
 						course_kz: 'Химия',
 						course_ru: 'Химия',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14650,8 +14650,8 @@ Questions.insert({
 						course_kz: 'Химия',
 						course_ru: 'Химия',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14667,8 +14667,8 @@ Questions.insert({
 						course_kz: 'Химия',
 						course_ru: 'Химия',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14684,8 +14684,8 @@ Questions.insert({
 						course_kz: 'Химия',
 						course_ru: 'Химия',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14701,8 +14701,8 @@ Questions.insert({
 						course_kz: 'Химия',
 						course_ru: 'Химия',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14718,8 +14718,8 @@ Questions.insert({
 						course_kz: 'Химия',
 						course_ru: 'Химия',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14735,8 +14735,8 @@ Questions.insert({
 						course_kz: 'Химия',
 						course_ru: 'Химия',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14752,8 +14752,8 @@ Questions.insert({
 						course_kz: 'Химия',
 						course_ru: 'Химия',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14769,8 +14769,8 @@ Questions.insert({
 						course_kz: 'Химия',
 						course_ru: 'Химия',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14786,8 +14786,8 @@ Questions.insert({
 						course_kz: 'Химия',
 						course_ru: 'Химия',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14803,8 +14803,8 @@ Questions.insert({
 						course_kz: 'Химия',
 						course_ru: 'Химия',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14820,8 +14820,8 @@ Questions.insert({
 						course_kz: 'Химия',
 						course_ru: 'Химия',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14837,8 +14837,8 @@ Questions.insert({
 						course_kz: 'Химия',
 						course_ru: 'Химия',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14854,8 +14854,8 @@ Questions.insert({
 						course_kz: 'Химия',
 						course_ru: 'Химия',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14871,8 +14871,8 @@ Questions.insert({
 						course_kz: 'Химия',
 						course_ru: 'Химия',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14888,8 +14888,8 @@ Questions.insert({
 						course_kz: 'Химия',
 						course_ru: 'Химия',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14905,8 +14905,8 @@ Questions.insert({
 						course_kz: 'Химия',
 						course_ru: 'Химия',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14922,8 +14922,8 @@ Questions.insert({
 						course_kz: 'Химия',
 						course_ru: 'Химия',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14939,8 +14939,8 @@ Questions.insert({
 						course_kz: 'Химия',
 						course_ru: 'Химия',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14956,8 +14956,8 @@ Questions.insert({
 						course_kz: 'Ағылшын тілі',
 						course_ru: 'Английский',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14973,8 +14973,8 @@ Questions.insert({
 						course_kz: 'Ағылшын тілі',
 						course_ru: 'Английский',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -14990,8 +14990,8 @@ Questions.insert({
 						course_kz: 'Ағылшын тілі',
 						course_ru: 'Английский',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15007,8 +15007,8 @@ Questions.insert({
 						course_kz: 'Ағылшын тілі',
 						course_ru: 'Английский',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15024,8 +15024,8 @@ Questions.insert({
 						course_kz: 'Ағылшын тілі',
 						course_ru: 'Английский',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15041,8 +15041,8 @@ Questions.insert({
 						course_kz: 'Ағылшын тілі',
 						course_ru: 'Английский',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15058,8 +15058,8 @@ Questions.insert({
 						course_kz: 'Ағылшын тілі',
 						course_ru: 'Английский',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15075,8 +15075,8 @@ Questions.insert({
 						course_kz: 'Ағылшын тілі',
 						course_ru: 'Английский',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15092,8 +15092,8 @@ Questions.insert({
 						course_kz: 'Ағылшын тілі',
 						course_ru: 'Английский',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15109,8 +15109,8 @@ Questions.insert({
 						course_kz: 'Ағылшын тілі',
 						course_ru: 'Английский',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15126,8 +15126,8 @@ Questions.insert({
 						course_kz: 'Ағылшын тілі',
 						course_ru: 'Английский',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15143,8 +15143,8 @@ Questions.insert({
 						course_kz: 'Ағылшын тілі',
 						course_ru: 'Английский',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15160,8 +15160,8 @@ Questions.insert({
 						course_kz: 'Ағылшын тілі',
 						course_ru: 'Английский',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15177,8 +15177,8 @@ Questions.insert({
 						course_kz: 'Ағылшын тілі',
 						course_ru: 'Английский',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15194,8 +15194,8 @@ Questions.insert({
 						course_kz: 'Ағылшын тілі',
 						course_ru: 'Английский',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15211,8 +15211,8 @@ Questions.insert({
 						course_kz: 'Ағылшын тілі',
 						course_ru: 'Английский',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15228,8 +15228,8 @@ Questions.insert({
 						course_kz: 'Ағылшын тілі',
 						course_ru: 'Английский',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15245,8 +15245,8 @@ Questions.insert({
 						course_kz: 'Ағылшын тілі',
 						course_ru: 'Английский',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15262,8 +15262,8 @@ Questions.insert({
 						course_kz: 'Ағылшын тілі',
 						course_ru: 'Английский',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15279,8 +15279,8 @@ Questions.insert({
 						course_kz: 'Ағылшын тілі',
 						course_ru: 'Английский',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15296,8 +15296,8 @@ Questions.insert({
 						course_kz: 'Ағылшын тілі',
 						course_ru: 'Английский',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15313,8 +15313,8 @@ Questions.insert({
 						course_kz: 'Ағылшын тілі',
 						course_ru: 'Английский',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15330,8 +15330,8 @@ Questions.insert({
 						course_kz: 'Ағылшын тілі',
 						course_ru: 'Английский',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15347,8 +15347,8 @@ Questions.insert({
 						course_kz: 'Ағылшын тілі',
 						course_ru: 'Английский',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15364,8 +15364,8 @@ Questions.insert({
 						course_kz: 'Ағылшын тілі',
 						course_ru: 'Английский',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15381,8 +15381,8 @@ Questions.insert({
 						course_kz: 'География',
 						course_ru: 'География',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15398,8 +15398,8 @@ Questions.insert({
 						course_kz: 'География',
 						course_ru: 'География',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15415,8 +15415,8 @@ Questions.insert({
 						course_kz: 'География',
 						course_ru: 'География',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15432,8 +15432,8 @@ Questions.insert({
 						course_kz: 'География',
 						course_ru: 'География',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15449,8 +15449,8 @@ Questions.insert({
 						course_kz: 'География',
 						course_ru: 'География',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15466,8 +15466,8 @@ Questions.insert({
 						course_kz: 'География',
 						course_ru: 'География',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15483,8 +15483,8 @@ Questions.insert({
 						course_kz: 'География',
 						course_ru: 'География',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15500,8 +15500,8 @@ Questions.insert({
 						course_kz: 'География',
 						course_ru: 'География',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15517,8 +15517,8 @@ Questions.insert({
 						course_kz: 'География',
 						course_ru: 'География',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15534,8 +15534,8 @@ Questions.insert({
 						course_kz: 'География',
 						course_ru: 'География',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15551,8 +15551,8 @@ Questions.insert({
 						course_kz: 'География',
 						course_ru: 'География',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15568,8 +15568,8 @@ Questions.insert({
 						course_kz: 'География',
 						course_ru: 'География',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15585,8 +15585,8 @@ Questions.insert({
 						course_kz: 'География',
 						course_ru: 'География',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15602,8 +15602,8 @@ Questions.insert({
 						course_kz: 'География',
 						course_ru: 'География',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15619,8 +15619,8 @@ Questions.insert({
 						course_kz: 'География',
 						course_ru: 'География',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15636,8 +15636,8 @@ Questions.insert({
 						course_kz: 'География',
 						course_ru: 'География',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15653,8 +15653,8 @@ Questions.insert({
 						course_kz: 'География',
 						course_ru: 'География',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15670,8 +15670,8 @@ Questions.insert({
 						course_kz: 'География',
 						course_ru: 'География',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15687,8 +15687,8 @@ Questions.insert({
 						course_kz: 'География',
 						course_ru: 'География',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15704,8 +15704,8 @@ Questions.insert({
 						course_kz: 'География',
 						course_ru: 'География',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15721,8 +15721,8 @@ Questions.insert({
 						course_kz: 'География',
 						course_ru: 'География',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15738,8 +15738,8 @@ Questions.insert({
 						course_kz: 'География',
 						course_ru: 'География',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15755,8 +15755,8 @@ Questions.insert({
 						course_kz: 'География',
 						course_ru: 'География',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15772,8 +15772,8 @@ Questions.insert({
 						course_kz: 'География',
 						course_ru: 'География',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15789,8 +15789,8 @@ Questions.insert({
 						course_kz: 'География',
 						course_ru: 'География',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15806,8 +15806,8 @@ Questions.insert({
 						course_kz: 'Қазақстан Тарихы',
 						course_ru: 'История Казахстана',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15823,8 +15823,8 @@ Questions.insert({
 						course_kz: 'Қазақстан Тарихы',
 						course_ru: 'История Казахстана',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15840,8 +15840,8 @@ Questions.insert({
 						course_kz: 'Қазақстан Тарихы',
 						course_ru: 'История Казахстана',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15857,8 +15857,8 @@ Questions.insert({
 						course_kz: 'Қазақстан Тарихы',
 						course_ru: 'История Казахстана',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15874,8 +15874,8 @@ Questions.insert({
 						course_kz: 'Қазақстан Тарихы',
 						course_ru: 'История Казахстана',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15891,8 +15891,8 @@ Questions.insert({
 						course_kz: 'Қазақстан Тарихы',
 						course_ru: 'История Казахстана',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15908,8 +15908,8 @@ Questions.insert({
 						course_kz: 'Қазақстан Тарихы',
 						course_ru: 'История Казахстана',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15925,8 +15925,8 @@ Questions.insert({
 						course_kz: 'Қазақстан Тарихы',
 						course_ru: 'История Казахстана',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15942,8 +15942,8 @@ Questions.insert({
 						course_kz: 'Қазақстан Тарихы',
 						course_ru: 'История Казахстана',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15959,8 +15959,8 @@ Questions.insert({
 						course_kz: 'Қазақстан Тарихы',
 						course_ru: 'История Казахстана',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15976,8 +15976,8 @@ Questions.insert({
 						course_kz: 'Қазақстан Тарихы',
 						course_ru: 'История Казахстана',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -15993,8 +15993,8 @@ Questions.insert({
 						course_kz: 'Қазақстан Тарихы',
 						course_ru: 'История Казахстана',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16010,8 +16010,8 @@ Questions.insert({
 						course_kz: 'Қазақстан Тарихы',
 						course_ru: 'История Казахстана',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16027,8 +16027,8 @@ Questions.insert({
 						course_kz: 'Қазақстан Тарихы',
 						course_ru: 'История Казахстана',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16044,8 +16044,8 @@ Questions.insert({
 						course_kz: 'Қазақстан Тарихы',
 						course_ru: 'История Казахстана',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16061,8 +16061,8 @@ Questions.insert({
 						course_kz: 'Қазақстан Тарихы',
 						course_ru: 'История Казахстана',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16078,8 +16078,8 @@ Questions.insert({
 						course_kz: 'Қазақстан Тарихы',
 						course_ru: 'История Казахстана',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16095,8 +16095,8 @@ Questions.insert({
 						course_kz: 'Қазақстан Тарихы',
 						course_ru: 'История Казахстана',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16112,8 +16112,8 @@ Questions.insert({
 						course_kz: 'Қазақстан Тарихы',
 						course_ru: 'История Казахстана',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16129,8 +16129,8 @@ Questions.insert({
 						course_kz: 'Қазақстан Тарихы',
 						course_ru: 'История Казахстана',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16146,8 +16146,8 @@ Questions.insert({
 						course_kz: 'Қазақстан Тарихы',
 						course_ru: 'История Казахстана',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16163,8 +16163,8 @@ Questions.insert({
 						course_kz: 'Қазақстан Тарихы',
 						course_ru: 'История Казахстана',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16180,8 +16180,8 @@ Questions.insert({
 						course_kz: 'Қазақстан Тарихы',
 						course_ru: 'История Казахстана',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16197,8 +16197,8 @@ Questions.insert({
 						course_kz: 'Қазақстан Тарихы',
 						course_ru: 'История Казахстана',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16214,8 +16214,8 @@ Questions.insert({
 						course_kz: 'Қазақстан Тарихы',
 						course_ru: 'История Казахстана',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16231,8 +16231,8 @@ Questions.insert({
 						course_kz: 'Қазақ тілі',
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16248,8 +16248,8 @@ Questions.insert({
 						course_kz: 'Қазақ тілі',
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16265,8 +16265,8 @@ Questions.insert({
 						course_kz: 'Қазақ тілі',
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16282,8 +16282,8 @@ Questions.insert({
 						course_kz: 'Қазақ тілі',
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16299,8 +16299,8 @@ Questions.insert({
 						course_kz: 'Қазақ тілі',
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16316,8 +16316,8 @@ Questions.insert({
 						course_kz: 'Қазақ тілі',
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16333,8 +16333,8 @@ Questions.insert({
 						course_kz: 'Қазақ тілі',
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16350,8 +16350,8 @@ Questions.insert({
 						course_kz: 'Қазақ тілі',
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16367,8 +16367,8 @@ Questions.insert({
 						course_kz: 'Қазақ тілі',
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16384,8 +16384,8 @@ Questions.insert({
 						course_kz: 'Қазақ тілі',
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16401,8 +16401,8 @@ Questions.insert({
 						course_kz: 'Қазақ тілі',
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16418,8 +16418,8 @@ Questions.insert({
 						course_kz: 'Қазақ тілі',
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16435,8 +16435,8 @@ Questions.insert({
 						course_kz: 'Қазақ тілі',
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16452,8 +16452,8 @@ Questions.insert({
 						course_kz: 'Қазақ тілі',
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16469,8 +16469,8 @@ Questions.insert({
 						course_kz: 'Қазақ тілі',
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16486,8 +16486,8 @@ Questions.insert({
 						course_kz: 'Қазақ тілі',
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16503,8 +16503,8 @@ Questions.insert({
 						course_kz: 'Қазақ тілі',
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16520,8 +16520,8 @@ Questions.insert({
 						course_kz: 'Қазақ тілі',
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16537,8 +16537,8 @@ Questions.insert({
 						course_kz: 'Қазақ тілі',
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16554,8 +16554,8 @@ Questions.insert({
 						course_kz: 'Қазақ тілі',
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16571,8 +16571,8 @@ Questions.insert({
 						course_kz: 'Қазақ тілі',
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16588,8 +16588,8 @@ Questions.insert({
 						course_kz: 'Қазақ тілі',
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16605,8 +16605,8 @@ Questions.insert({
 						course_kz: 'Қазақ тілі',
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16622,8 +16622,8 @@ Questions.insert({
 						course_kz: 'Қазақ тілі',
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16639,8 +16639,8 @@ Questions.insert({
 						course_kz: 'Қазақ тілі',
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16656,8 +16656,8 @@ Questions.insert({
 						course_kz: 'Әдебиет',
 						course_ru: 'Литература',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16673,8 +16673,8 @@ Questions.insert({
 						course_kz: 'Әдебиет',
 						course_ru: 'Литература',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16690,8 +16690,8 @@ Questions.insert({
 						course_kz: 'Әдебиет',
 						course_ru: 'Литература',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16707,8 +16707,8 @@ Questions.insert({
 						course_kz: 'Әдебиет',
 						course_ru: 'Литература',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16724,8 +16724,8 @@ Questions.insert({
 						course_kz: 'Әдебиет',
 						course_ru: 'Литература',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16741,8 +16741,8 @@ Questions.insert({
 						course_kz: 'Әдебиет',
 						course_ru: 'Литература',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16758,8 +16758,8 @@ Questions.insert({
 						course_kz: 'Әдебиет',
 						course_ru: 'Литература',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16775,8 +16775,8 @@ Questions.insert({
 						course_kz: 'Әдебиет',
 						course_ru: 'Литература',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16792,8 +16792,8 @@ Questions.insert({
 						course_kz: 'Әдебиет',
 						course_ru: 'Литература',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16809,8 +16809,8 @@ Questions.insert({
 						course_kz: 'Әдебиет',
 						course_ru: 'Литература',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16826,8 +16826,8 @@ Questions.insert({
 						course_kz: 'Әдебиет',
 						course_ru: 'Литература',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16843,8 +16843,8 @@ Questions.insert({
 						course_kz: 'Әдебиет',
 						course_ru: 'Литература',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16860,8 +16860,8 @@ Questions.insert({
 						course_kz: 'Әдебиет',
 						course_ru: 'Литература',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16877,8 +16877,8 @@ Questions.insert({
 						course_kz: 'Әдебиет',
 						course_ru: 'Литература',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16894,8 +16894,8 @@ Questions.insert({
 						course_kz: 'Әдебиет',
 						course_ru: 'Литература',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16911,8 +16911,8 @@ Questions.insert({
 						course_kz: 'Әдебиет',
 						course_ru: 'Литература',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16928,8 +16928,8 @@ Questions.insert({
 						course_kz: 'Әдебиет',
 						course_ru: 'Литература',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16945,8 +16945,8 @@ Questions.insert({
 						course_kz: 'Әдебиет',
 						course_ru: 'Литература',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16962,8 +16962,8 @@ Questions.insert({
 						course_kz: 'Әдебиет',
 						course_ru: 'Литература',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16979,8 +16979,8 @@ Questions.insert({
 						course_kz: 'Әдебиет',
 						course_ru: 'Литература',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -16996,8 +16996,8 @@ Questions.insert({
 						course_kz: 'Әдебиет',
 						course_ru: 'Литература',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17013,8 +17013,8 @@ Questions.insert({
 						course_kz: 'Әдебиет',
 						course_ru: 'Литература',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17030,8 +17030,8 @@ Questions.insert({
 						course_kz: 'Әдебиет',
 						course_ru: 'Литература',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17047,8 +17047,8 @@ Questions.insert({
 						course_kz: 'Әдебиет',
 						course_ru: 'Литература',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17064,8 +17064,8 @@ Questions.insert({
 						course_kz: 'Әдебиет',
 						course_ru: 'Литература',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17081,8 +17081,8 @@ Questions.insert({
 						course_kz: 'Математика',
 						course_ru: 'Математика',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17098,8 +17098,8 @@ Questions.insert({
 						course_kz: 'Математика',
 						course_ru: 'Математика',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17115,8 +17115,8 @@ Questions.insert({
 						course_kz: 'Математика',
 						course_ru: 'Математика',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17132,8 +17132,8 @@ Questions.insert({
 						course_kz: 'Математика',
 						course_ru: 'Математика',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17149,8 +17149,8 @@ Questions.insert({
 						course_kz: 'Математика',
 						course_ru: 'Математика',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17166,8 +17166,8 @@ Questions.insert({
 						course_kz: 'Математика',
 						course_ru: 'Математика',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17183,8 +17183,8 @@ Questions.insert({
 						course_kz: 'Математика',
 						course_ru: 'Математика',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17200,8 +17200,8 @@ Questions.insert({
 						course_kz: 'Математика',
 						course_ru: 'Математика',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17217,8 +17217,8 @@ Questions.insert({
 						course_kz: 'Математика',
 						course_ru: 'Математика',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17234,8 +17234,8 @@ Questions.insert({
 						course_kz: 'Математика',
 						course_ru: 'Математика',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17251,8 +17251,8 @@ Questions.insert({
 						course_kz: 'Математика',
 						course_ru: 'Математика',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17268,8 +17268,8 @@ Questions.insert({
 						course_kz: 'Математика',
 						course_ru: 'Математика',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17285,8 +17285,8 @@ Questions.insert({
 						course_kz: 'Математика',
 						course_ru: 'Математика',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17302,8 +17302,8 @@ Questions.insert({
 						course_kz: 'Математика',
 						course_ru: 'Математика',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17319,8 +17319,8 @@ Questions.insert({
 						course_kz: 'Математика',
 						course_ru: 'Математика',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17336,8 +17336,8 @@ Questions.insert({
 						course_kz: 'Математика',
 						course_ru: 'Математика',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17353,8 +17353,8 @@ Questions.insert({
 						course_kz: 'Математика',
 						course_ru: 'Математика',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17370,8 +17370,8 @@ Questions.insert({
 						course_kz: 'Математика',
 						course_ru: 'Математика',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17387,8 +17387,8 @@ Questions.insert({
 						course_kz: 'Математика',
 						course_ru: 'Математика',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17404,8 +17404,8 @@ Questions.insert({
 						course_kz: 'Математика',
 						course_ru: 'Математика',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17421,8 +17421,8 @@ Questions.insert({
 						course_kz: 'Математика',
 						course_ru: 'Математика',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17438,8 +17438,8 @@ Questions.insert({
 						course_kz: 'Математика',
 						course_ru: 'Математика',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17455,8 +17455,8 @@ Questions.insert({
 						course_kz: 'Математика',
 						course_ru: 'Математика',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17472,8 +17472,8 @@ Questions.insert({
 						course_kz: 'Математика',
 						course_ru: 'Математика',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17489,8 +17489,8 @@ Questions.insert({
 						course_kz: 'Математика',
 						course_ru: 'Математика',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17506,8 +17506,8 @@ Questions.insert({
 						course_kz: 'Физика',
 						course_ru: 'Физика',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17523,8 +17523,8 @@ Questions.insert({
 						course_kz: 'Физика',
 						course_ru: 'Физика',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17540,8 +17540,8 @@ Questions.insert({
 						course_kz: 'Физика',
 						course_ru: 'Физика',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17557,8 +17557,8 @@ Questions.insert({
 						course_kz: 'Физика',
 						course_ru: 'Физика',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17574,8 +17574,8 @@ Questions.insert({
 						course_kz: 'Физика',
 						course_ru: 'Физика',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17591,8 +17591,8 @@ Questions.insert({
 						course_kz: 'Физика',
 						course_ru: 'Физика',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17608,8 +17608,8 @@ Questions.insert({
 						course_kz: 'Физика',
 						course_ru: 'Физика',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17625,8 +17625,8 @@ Questions.insert({
 						course_kz: 'Физика',
 						course_ru: 'Физика',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17642,8 +17642,8 @@ Questions.insert({
 						course_kz: 'Физика',
 						course_ru: 'Физика',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17659,8 +17659,8 @@ Questions.insert({
 						course_kz: 'Физика',
 						course_ru: 'Физика',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17676,8 +17676,8 @@ Questions.insert({
 						course_kz: 'Физика',
 						course_ru: 'Физика',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17693,8 +17693,8 @@ Questions.insert({
 						course_kz: 'Физика',
 						course_ru: 'Физика',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17710,8 +17710,8 @@ Questions.insert({
 						course_kz: 'Физика',
 						course_ru: 'Физика',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17727,8 +17727,8 @@ Questions.insert({
 						course_kz: 'Физика',
 						course_ru: 'Физика',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17744,8 +17744,8 @@ Questions.insert({
 						course_kz: 'Физика',
 						course_ru: 'Физика',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17761,8 +17761,8 @@ Questions.insert({
 						course_kz: 'Физика',
 						course_ru: 'Физика',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17778,8 +17778,8 @@ Questions.insert({
 						course_kz: 'Физика',
 						course_ru: 'Физика',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17795,8 +17795,8 @@ Questions.insert({
 						course_kz: 'Физика',
 						course_ru: 'Физика',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17812,8 +17812,8 @@ Questions.insert({
 						course_kz: 'Физика',
 						course_ru: 'Физика',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17829,8 +17829,8 @@ Questions.insert({
 						course_kz: 'Физика',
 						course_ru: 'Физика',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17846,8 +17846,8 @@ Questions.insert({
 						course_kz: 'Физика',
 						course_ru: 'Физика',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17863,8 +17863,8 @@ Questions.insert({
 						course_kz: 'Физика',
 						course_ru: 'Физика',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17880,8 +17880,8 @@ Questions.insert({
 						course_kz: 'Физика',
 						course_ru: 'Физика',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17897,8 +17897,8 @@ Questions.insert({
 						course_kz: 'Физика',
 						course_ru: 'Физика',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17914,8 +17914,8 @@ Questions.insert({
 						course_kz: 'Физика',
 						course_ru: 'Физика',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17931,8 +17931,8 @@ Questions.insert({
 						course_kz: 'Русский язык',
 						course_ru: 'Русский язык',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17948,8 +17948,8 @@ Questions.insert({
 						course_kz: 'Русский язык',
 						course_ru: 'Русский язык',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17965,8 +17965,8 @@ Questions.insert({
 						course_kz: 'Русский язык',
 						course_ru: 'Русский язык',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17982,8 +17982,8 @@ Questions.insert({
 						course_kz: 'Русский язык',
 						course_ru: 'Русский язык',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -17999,8 +17999,8 @@ Questions.insert({
 						course_kz: 'Русский язык',
 						course_ru: 'Русский язык',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18016,8 +18016,8 @@ Questions.insert({
 						course_kz: 'Русский язык',
 						course_ru: 'Русский язык',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18033,8 +18033,8 @@ Questions.insert({
 						course_kz: 'Русский язык',
 						course_ru: 'Русский язык',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18050,8 +18050,8 @@ Questions.insert({
 						course_kz: 'Русский язык',
 						course_ru: 'Русский язык',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18067,8 +18067,8 @@ Questions.insert({
 						course_kz: 'Русский язык',
 						course_ru: 'Русский язык',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18084,8 +18084,8 @@ Questions.insert({
 						course_kz: 'Русский язык',
 						course_ru: 'Русский язык',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18101,8 +18101,8 @@ Questions.insert({
 						course_kz: 'Русский язык',
 						course_ru: 'Русский язык',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18118,8 +18118,8 @@ Questions.insert({
 						course_kz: 'Русский язык',
 						course_ru: 'Русский язык',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18135,8 +18135,8 @@ Questions.insert({
 						course_kz: 'Русский язык',
 						course_ru: 'Русский язык',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18152,8 +18152,8 @@ Questions.insert({
 						course_kz: 'Русский язык',
 						course_ru: 'Русский язык',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18169,8 +18169,8 @@ Questions.insert({
 						course_kz: 'Русский язык',
 						course_ru: 'Русский язык',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18186,8 +18186,8 @@ Questions.insert({
 						course_kz: 'Русский язык',
 						course_ru: 'Русский язык',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18203,8 +18203,8 @@ Questions.insert({
 						course_kz: 'Русский язык',
 						course_ru: 'Русский язык',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18220,8 +18220,8 @@ Questions.insert({
 						course_kz: 'Русский язык',
 						course_ru: 'Русский язык',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18237,8 +18237,8 @@ Questions.insert({
 						course_kz: 'Русский язык',
 						course_ru: 'Русский язык',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18254,8 +18254,8 @@ Questions.insert({
 						course_kz: 'Русский язык',
 						course_ru: 'Русский язык',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18271,8 +18271,8 @@ Questions.insert({
 						course_kz: 'Русский язык',
 						course_ru: 'Русский язык',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18288,8 +18288,8 @@ Questions.insert({
 						course_kz: 'Русский язык',
 						course_ru: 'Русский язык',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18305,8 +18305,8 @@ Questions.insert({
 						course_kz: 'Русский язык',
 						course_ru: 'Русский язык',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18322,8 +18322,8 @@ Questions.insert({
 						course_kz: 'Русский язык',
 						course_ru: 'Русский язык',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18339,8 +18339,8 @@ Questions.insert({
 						course_kz: 'Русский язык',
 						course_ru: 'Русский язык',
 						is_fifth: false,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18356,8 +18356,8 @@ Questions.insert({
 						course_kz: 'Дүние жүзі тарихы',
 						course_ru: 'Всемирная история',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18373,8 +18373,8 @@ Questions.insert({
 						course_kz: 'Дүние жүзі тарихы',
 						course_ru: 'Всемирная история',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18390,8 +18390,8 @@ Questions.insert({
 						course_kz: 'Дүние жүзі тарихы',
 						course_ru: 'Всемирная история',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18407,8 +18407,8 @@ Questions.insert({
 						course_kz: 'Дүние жүзі тарихы',
 						course_ru: 'Всемирная история',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18424,8 +18424,8 @@ Questions.insert({
 						course_kz: 'Дүние жүзі тарихы',
 						course_ru: 'Всемирная история',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18441,8 +18441,8 @@ Questions.insert({
 						course_kz: 'Дүние жүзі тарихы',
 						course_ru: 'Всемирная история',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18458,8 +18458,8 @@ Questions.insert({
 						course_kz: 'Дүние жүзі тарихы',
 						course_ru: 'Всемирная история',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18475,8 +18475,8 @@ Questions.insert({
 						course_kz: 'Дүние жүзі тарихы',
 						course_ru: 'Всемирная история',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18492,8 +18492,8 @@ Questions.insert({
 						course_kz: 'Дүние жүзі тарихы',
 						course_ru: 'Всемирная история',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18509,8 +18509,8 @@ Questions.insert({
 						course_kz: 'Дүние жүзі тарихы',
 						course_ru: 'Всемирная история',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18526,8 +18526,8 @@ Questions.insert({
 						course_kz: 'Дүние жүзі тарихы',
 						course_ru: 'Всемирная история',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18543,8 +18543,8 @@ Questions.insert({
 						course_kz: 'Дүние жүзі тарихы',
 						course_ru: 'Всемирная история',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18560,8 +18560,8 @@ Questions.insert({
 						course_kz: 'Дүние жүзі тарихы',
 						course_ru: 'Всемирная история',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18577,8 +18577,8 @@ Questions.insert({
 						course_kz: 'Дүние жүзі тарихы',
 						course_ru: 'Всемирная история',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18594,8 +18594,8 @@ Questions.insert({
 						course_kz: 'Дүние жүзі тарихы',
 						course_ru: 'Всемирная история',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18611,8 +18611,8 @@ Questions.insert({
 						course_kz: 'Дүние жүзі тарихы',
 						course_ru: 'Всемирная история',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18628,8 +18628,8 @@ Questions.insert({
 						course_kz: 'Дүние жүзі тарихы',
 						course_ru: 'Всемирная история',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18645,8 +18645,8 @@ Questions.insert({
 						course_kz: 'Дүние жүзі тарихы',
 						course_ru: 'Всемирная история',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18662,8 +18662,8 @@ Questions.insert({
 						course_kz: 'Дүние жүзі тарихы',
 						course_ru: 'Всемирная история',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18679,8 +18679,8 @@ Questions.insert({
 						course_kz: 'Дүние жүзі тарихы',
 						course_ru: 'Всемирная история',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18696,8 +18696,8 @@ Questions.insert({
 						course_kz: 'Дүние жүзі тарихы',
 						course_ru: 'Всемирная история',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18713,8 +18713,8 @@ Questions.insert({
 						course_kz: 'Дүние жүзі тарихы',
 						course_ru: 'Всемирная история',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18730,8 +18730,8 @@ Questions.insert({
 						course_kz: 'Дүние жүзі тарихы',
 						course_ru: 'Всемирная история',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18747,8 +18747,8 @@ Questions.insert({
 						course_kz: 'Дүние жүзі тарихы',
 						course_ru: 'Всемирная история',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
 				Questions.insert({
@@ -18764,9 +18764,9 @@ Questions.insert({
 						course_kz: 'Дүние жүзі тарихы',
 						course_ru: 'Всемирная история',
 						is_fifth: true,
-						language: 'kazakh',
-						variant: 1,
+						language: 'russian',
+						variant: 2,
 					}
 					);
-																
+																				
 }

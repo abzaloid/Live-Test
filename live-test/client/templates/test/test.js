@@ -12,6 +12,13 @@ function getAnswer (s) {
 
 }
 
+var m_user;
+data = {};
+
+var choices = {},
+	len = {},
+	results = {};
+
 Template.test.rendered = function () {
 	$("head > title").text("Онлайн ЕНТ | StudySpace");
 	$("body").removeClass("register-body").addClass("test-body");
@@ -34,28 +41,104 @@ Template.test.rendered = function () {
 
 }
 
+
 Template.test.helpers({
 	kazakh_questions: function () {
-		return Questions.find({course_en: 'kazakh'}, {sort: {number: 1}});
+		m_user = OUsers.findOne({email: Meteor.user().emails[0].address})
+		console.log(m_user)
+		var language = "kazakh";
+		if ("kaz".indexOf(m_user.language) == -1)
+			language = "russian";
+		var variant = (new Date()) % 2 + 1;
+		var course = 'kazakh';
+		var tests = Tests.findOne({email: m_user.email, course_en: course});
+		if (tests) {
+			console.log('WORKS');
+			return data[course] = Questions.find({course_en: course, variant: tests.variant, language: language});
+		}
+		data[course] = Questions.find({course_en: course, language: language, variant: variant}, {sort: {number: 1}});
+		Tests.insert({email: m_user.email, course_en: course, language: language, variant: variant});
+		return data[course];
 	},
 	russian_questions: function () {
-		return Questions.find({course_en: 'russian'}, {sort: {number: 1}});
+		m_user = OUsers.findOne({email: Meteor.user().emails[0].address})
+		console.log(m_user)
+		var language = "kazakh";
+		if ("kaz".indexOf(m_user.language) == -1)
+			language = "russian";
+		var variant = (new Date()) % 2 + 1;
+		var course = 'russian';
+		var tests = Tests.findOne({email: m_user.email, course_en: course});
+		if (tests) {
+			return data[course] = Questions.find({course_en: course, variant: tests.variant, language: language});
+		}
+		data[course] = Questions.find({course_en: course, language: language, variant: variant}, {sort: {number: 1}});
+		Tests.insert({email: m_user.email, course_en: course, language: language, variant: variant});
+		return data[course];
 	},
 	math_questions: function () {
-		return Questions.find({course_en: 'math'}, {sort: {number: 1}});
+		m_user = OUsers.findOne({email: Meteor.user().emails[0].address})
+		console.log(m_user)
+		var language = "kazakh";
+		if ("kaz".indexOf(m_user.language) == -1)
+			language = "russian";
+		var variant = (new Date()) % 2 + 1;
+		var course = 'math';
+		var tests = Tests.findOne({email: m_user.email, course_en: course});
+		if (tests) {
+			return data[course] = Questions.find({course_en: course, variant: tests.variant, language: language});
+		}
+		data[course] = Questions.find({course_en: course, language: language, variant: variant}, {sort: {number: 1}});
+		Tests.insert({email: m_user.email, course_en: course, language: language, variant: variant});
+		return data[course];
 	},
 	history_questions: function () {
-		return Questions.find({course_en: 'history'}, {sort: {number: 1}});
+		m_user = OUsers.findOne({email: Meteor.user().emails[0].address})
+		console.log(m_user)
+		var language = "kazakh";
+		if ("kaz".indexOf(m_user.language) == -1)
+			language = "russian";
+		var variant = (new Date()) % 2 + 1;
+		var course = 'history';
+		var tests = Tests.findOne({email: m_user.email, course_en: course});
+		if (tests) {
+			return data[course] = Questions.find({course_en: course, variant: tests.variant, language: language});
+		}
+		data[course] = Questions.find({course_en: course, language: language, variant: variant}, {sort: {number: 1}});
+		Tests.insert({email: m_user.email, course_en: course, language: language, variant: variant});
+		return data[course];
 	},
 	fifth_questions: function () {
-		return Questions.find({is_fifth: true, course_en: 'physics'}, {sort: {number: 1}});
+		m_user = OUsers.findOne({email: Meteor.user().emails[0].address})
+		console.log(m_user)
+		var language = "kazakh";
+		if ("kaz".indexOf(m_user.language) == -1)
+			language = "russian";
+		var variant = (new Date()) % 2 + 1;
+		var user_subject = OUsers.findOne({email: Meteor.user().emails[0].address}).subject;
+		var course = user_subject;
+		var tests = Tests.findOne({email: m_user.email, course_en: course});
+		if (tests) {
+			return data[course] = Questions.find({course_en: course, variant: tests.variant, language: language});
+		}
+		data[course] = Questions.find({course_en: course, language: language, variant: variant}, {sort: {number: 1}});
+		Tests.insert({email: m_user.email, course_en: course, language: language, variant: variant});
+		return data[course];
+
 	},
 	user_name: function () {
+		m_user = OUsers.findOne({email: Meteor.user().emails[0].address})
+		console.log(m_user)
 		if (Meteor.user()) {
 			return OUsers.findOne({email: Meteor.user().emails[0].address});
 		} else {
 			return "";
 		}
+	},
+	fifth: function () {
+		m_user = OUsers.findOne({email: Meteor.user().emails[0].address})
+		console.log(m_user)
+		return m_user.subject;
 	}
 
 });
@@ -83,38 +166,59 @@ Template.test.events({
 	'click .submit-test-btn': function (e) {
 		e.preventDefault();
 
+		$("#m_spinner").show();
+
+		m_user = OUsers.findOne({email: Meteor.user().emails[0].address})
+
+		var user_subject = OUsers.findOne({email: Meteor.user().emails[0].address}).subject;
+
+		if (Results.findOne({email: m_user.email})) {
+			// already submitted
+			Notifications.error('Вы уже закончили этот вариант ЕНТ!', 'Просим дождаться следующего ЕНТ и вы можете прослеживать результаты других и сравнивать себя');
+			$("#m_spinner").hide();
+			Router.go('cabinet');
+			return;
+		}
+
 		var subjects = [
 			'kazakh',
 			'russian',
 			'math',
 			'history',
-			'physics',]
-
-		var data = {},
-			choices = {},
-			len = {},
-			results = {};
+			user_subject,]
 
 		for (var i = 0; i < subjects.length; i++) {
 			var cur_subject = subjects[i];
-			data[cur_subject] = Questions.find({course_en: cur_subject}, {sort: {number: 1}}).fetch(),
 			results[cur_subject] = 0;
 			choices[cur_subject] = $("div#" + cur_subject + " > form");
 			len[cur_subject] = choices[cur_subject].length;
 		}
 
+		console.log("DATA = " + data);
+
 		for (var i = 0; i < subjects.length; i++) {
 			var cur_subject = subjects[i];
 			console.log(cur_subject);
+			var m_data = data[cur_subject].fetch();
 			for (var j = 0; j < len[cur_subject]; j++) {
 				var res = choices[cur_subject].eq(j).find("label > input:radio[name='radgroup']").filter(":checked").val();
-				var correct_ans = getAnswer(data[cur_subject][j].answer);
+				var correct_ans = getAnswer(m_data[j].answer);
 				console.log(res + " BUT " + correct_ans);
 				if (res === correct_ans) {
 					results[cur_subject]++;
 				}
 			}
+			Results.insert({
+				email: m_user.email,
+				added: new Date(),
+				subject: cur_subject,
+				results: results[cur_subject],					
+			});
 			console.log(cur_subject + " = ", results[cur_subject]);
 		}
+		$("#m_spinner").hide();
+
+		Router.go('cabinet');
+
 	}
 });

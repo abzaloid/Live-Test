@@ -14,7 +14,7 @@ Template.register.events({
 			name = $("#_name").val(),
 			surname = $("#_surname").val(),
 			subject = $("select[name='subject']").val(),
-			language = $("input[name='lang']").val(),
+			language = $("input[name='lang']:checked").val(),
 			region = $("select[name='region']").val();
 
 		if (!name || !surname || !subject || !language || !region || !email || !pw1) {
