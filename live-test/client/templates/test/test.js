@@ -163,7 +163,7 @@ Template.test.helpers({
 		if (Results.findOne({email: Meteor.user().emails[0].address})) {
 			return true;
 		}
-		return false;
+		return null;
 	}
 
 });
