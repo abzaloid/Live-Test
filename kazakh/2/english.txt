@@ -1,0 +1,470 @@
+["
+ 
+  
+Вы ответили A, и это правильный ответ!  
+ 
+  
+1)  Дұрыс жауапты таңдаңыз.
+When did the Great Fire of London take place?
+
+ А) 1666.
+
+ B)  1816.
+
+ C) 1768.
+
+ D)  1516.
+
+ E)  1566. 
+
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - E  
+ 
+  
+2)  Сөйлемге дұрыс сұрақ таңдаңыз.
+There is much sugar in the cup.
+
+ А) Do you have much sugar is there in the cup? 
+
+ B)  Are there much sugar in the cup? 
+
+ C) How much sugar in the cup? 
+
+ D)  There is much sugar in the cup, is it?
+
+ E)  How much sugar is there in the cup? 
+
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - C  
+ 
+  
+3)  "To be goіng to do" тіркесімен сөйлемді толықтырыңыз:
+Her bіrthday іs next week. We ... a present.
+
+ А) іs goіng to sell her
+
+ B)  are goіng to play her
+
+ C) are goіng to buy her 
+
+ D)  іs goіng to take her
+
+ E)  are goіng to eat her
+
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - D  
+ 
+  
+4)  Future in the Past-тағы етiстiк
+
+ А) uses
+
+ B)  will go out
+
+ C) is staying
+
+ D)  would give 
+
+ E)  gave
+
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - E  
+ 
+  
+5)  Төмендегі сөзге синонимдес сөзді  табыңыз:
+“Quiet”
+
+ А) Rainy.
+
+ B)  Daily.
+
+ C) Misty.
+
+ D)  Dull.
+
+ E)  Calm. 
+ 
+ ", "
+ 
+  
+Вы ответили A, и это правильный ответ!  
+ 
+  
+6)  Артикльдердің дұрыс нұсқасын қойыңыз.
+… weather was fine in … May.
+
+ А) the/-.
+
+ B)  -/-.
+
+ C) a/the.
+
+ D)  the/the.
+
+ E)  the/a. 
+ 
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - B  
+ 
+  
+7)  Етістіктен жасалған  зат есімді табыңыз
+
+ А) socialist
+
+ B)  building
+
+ C) socialism 
+
+ D)  winter
+
+ E)  continent
+
+ ", "
+ 
+  
+Вы ответили A, и это правильный ответ!  
+ 
+  
+8)  Саналмайтын зат есім:
+
+ А) Wheat.
+
+ B)  Cattle-farm.
+
+ C) Competіtіon.
+
+ D)  Plot.
+
+ E)  Monument. 
+ 
+ ", "
+ 
+  
+Вы ответили A, и это правильный ответ!  
+ 
+  
+9)  Префикс арқылы жасалған eтістікті табыңыз
+
+ А) misdo
+
+ B)  lighten 
+
+ C) characterise 
+
+ D)  agree
+
+ E)  stand
+ 
+ ", "
+ 
+  
+Вы ответили A, и это правильный ответ!  
+ 
+  
+10)  Жекеше тордегі зат есім.
+
+ А) notebook.
+
+ B)  bags.
+
+ C) games.
+
+ D)  pens.
+
+ E)  books. 
+ 
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - C  
+ 
+  
+11)  Етістікті табыңыз
+
+ А) Pleasant.
+
+ B)  Fog.
+
+ C) Freeze.
+
+ D)  Cold.
+
+ E)  Hot. 
+
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - E  
+ 
+  
+12)  Сөздің дұрыс аудармасын таңдаңыз:
+Сүйкімсіз
+
+ А) Pleasant.
+
+ B)  Displeasant.
+
+ C) Repleasant.
+
+ D)  Mispleasant.
+
+ E)  Unpleasant. 
+
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - D  
+ 
+  
+13)  Лайықты сөзді таңдаңыз: 
+All towers are … and the keys are carried by the Chief Warder to the Queen’s house.
+
+ А) based 
+
+ B)  thrown 
+
+ C) proposed
+
+ D)  locked 
+
+ E)  stolen
+
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - B  
+ 
+  
+14)  Сөйлемдi толықтырыңыз
+Where is the…?
+
+ А) manager of office
+
+ B)  manager’s office
+
+ C) offices’ manager
+
+ D)  managers office
+
+ E)  office’s manager
+
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - D  
+ 
+  
+15)  Сөйлемді Present Perfect-те толықтырыңыз
+I ... my work by 7 o’clock.
+
+ А) are finished
+
+ B)  is finished
+
+ C) have finished
+
+ D)  had finished
+
+ E)  has finished 
+ 
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - E  
+ 
+  
+16)  Жауаптың дұрыс вариантын таңдаңыз: 
+Who is the main figure in the emblem of the USA?  
+
+ А) owl
+
+ B)  hen
+
+ C) swan
+
+ D)  cuckoo
+
+ E)  eagle
+
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - D  
+ 
+  
+17)  Сөйлемді аяқтаңыз:
+The chіldren haven’t fіnіshed theіr work ...
+
+ А) now.
+
+ B)  then.
+
+ C) tomorrow
+
+ D)  yet.
+
+ E)  yesterday. 
+
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - C  
+ 
+  
+18)  “to be going to’’ айналымымен сөйлемді табыңыз
+
+ А) He’s staying at this hotel.
+
+ B)  She is good at mathematics.
+
+ C) Are you going to come to the meeting tomorrow?
+
+ D)  She’s writing to her mother.
+
+ E)  We’re going to the theatre tonight. 
+
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - B  
+ 
+  
+19)  Аударманың дұрыс нұсқасын табыңыз.
+She needn’t come.
+
+ А) Ол келе алмауы мүмкін
+
+ B)  Ол келмесе де болады 
+
+ C) Оған келуге рұқсат бермейді 
+
+ D)  Ол келе алады
+
+ E)  Ол келе алмайды
+
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - C  
+ 
+  
+20)  Артикльді дұрыс таңдаңыз.
+We go to  … school in … morning.
+
+ А) a / --
+
+ B)  a / the
+
+ C) –- / the
+
+ D)  the / the
+
+ E)  The / --
+ 
+ ", "
+ 
+  
+Вы ответили A, и это правильный ответ!  
+ 
+  
+21)  Есімдіктің дұрыс нұсқасын таңдаңыз:
+I don’t want to do … this evening.
+
+ А) Anything.
+
+ B)  Somebody.
+
+ C) Some.
+
+ D)  Nothing.
+
+ E)  No. 
+
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - C  
+ 
+  
+22)  Мағынасы ұқсас мақалды таңдаңыз:
+Тәуекел тау жығар.
+
+ А) Let sleepіng dogs lіe.
+
+ B)  Don’t count your chіckens before they are hatched.
+
+ C) Fortune favours the brave.
+
+ D)  Half a loaf іs better than no bread.
+
+ E)  Busіness before pleasure. 
+
+ ", "
+ 
+  
+Вы ответили A, и это неверный ответ! Правильный ответ - D  
+ 
+  
+23)  Сөйлемді аяқтаңыз:
+My lіttle sіster ... of horse-rіdіng.
+
+ А) be fond
+
+ B)  am fond
+
+ C) are fond
+
+ D)  іs fond
+
+ E)  to be fond
+
+ ", "
+ 
+  
+Вы ответили A, и это правильный ответ!  
+ 
+  
+24)  Төмендегі сөзге  антоним табыңыз:
+“Famous”
+
+ А) Unknown.
+
+ B)  Charming.
+
+ C) Attractive.
+
+ D)  Common.
+
+ E)  Well-known. 
+
+ ", "
+ 
+  
+Вы ответили A, и это правильный ответ!  
+ 
+  
+25)  Дұрыс сұрақ
+-…
+-Oh,yes.It’s quite nice
+
+ А) Do you like the salad?
+
+ B)  What is the most typical dish in your country
+
+ C) Could you show us the menu,please?
+
+ D)  What do you want?
+
+ E)  Anything else? 
+ 
+ "]

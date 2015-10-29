@@ -15,7 +15,7 @@
 			<div class="header-title">
 				<img src="/img/header-image.svg" alt="">
 				<span class="header-title__text">Онлайн подготовка к ЕНТ</span>
-				<a href="{{pathFor 'test'}}" class="cta">
+				<a href="{{#if result}}{{pathFor 'test'}}{{else}}{{pathFor 'confirm'}}{{/if}}" class="cta">
 					Пройти тест
 				</a>
 				<a href="#" class="cta">

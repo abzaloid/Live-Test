@@ -139,6 +139,12 @@ Template.test.helpers({
 		m_user = OUsers.findOne({email: Meteor.user().emails[0].address})
 		console.log(m_user)
 		return m_user.subject;
+	},
+	result: function () {
+		if (Results.findOne({email: Meteor.user().emails[0].address})) {
+			return true;
+		}
+		return false;
 	}
 
 });

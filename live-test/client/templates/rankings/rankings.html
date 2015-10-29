@@ -1,0 +1,44 @@
+<template name="rankings">
+	<div class="container container--cabinet">
+		<div class="navigation navigation--cabinet">
+			<a href="{{pathFor 'home'}}" class="logo nav-child"></a>
+			{{#if currentUser}}
+				<a href="{{pathFor 'cabinet'}}" class="account nav-child"><i class="fa fa-user"></i>Привет, {{user_name.name}}</a>
+			{{/if}}
+		</div>
+
+		<section class="rankings-section">
+			<table class="rankings-table">
+				<thead>
+				<tr>
+					<td>Имя</td>
+					<td>Регион</td>
+					<td>Предмет по выбору</td>
+					<td class="subject">Математика</td>
+					<td class="subject">Казахский</td>
+					<td class="subject">Русский</td>
+					<td class="subject">История</td>
+					<td class="subject">Предмет по выбору</td>
+					<td>Общий балл</td>
+				</tr>
+				</thead>
+				<tbody>
+				{{#each student}}
+				<tr>
+					<td>{{surname}} {{name}}</td>
+					<td>{{region}}</td>
+					<td>{{fifth}}</td>
+					<td>{{kazakh}}</td>
+					<td>10</td>
+					<td>10</td>
+					<td>10</td>
+					<td>10</td>
+					<td>50</td>
+				</tr>
+				{{/each}}
+				</tbody>
+			</table>
+		</section>
+	</div>
+
+</template>

@@ -31,6 +31,10 @@ Router.route('/standings', {
 	name: 'rankings'
 });
 
+Router.route('/confirm', {
+	name: 'confirm'
+});
+
 var requireLogin = function () {
 	if (! Meteor.user()) {
 		if (Meteor.loggingIn()) {
@@ -44,5 +48,5 @@ var requireLogin = function () {
 }
 
 Router.onBeforeAction(requireLogin, {
-	only: ['test', 'cabinet']
+	only: ['test', 'cabinet', 'confirm']
 });
