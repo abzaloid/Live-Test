@@ -160,7 +160,7 @@ Template.test.events({
 		$this.addClass('active');
 
 		$(".test-questions > div").hide();
-		$("#"+$this.attr('data-for').split('_')[1]).show();
+		$("#"+$this.attr('data-for').split('-')[1]).show();
 
 	},
 	'click input:radio[name="radgroup"]': function (e) {
@@ -202,6 +202,8 @@ Template.test.events({
 
 		console.log("DATA = " + data);
 
+		var total = 0;
+
 		for (var i = 0; i < subjects.length; i++) {
 			var cur_subject = subjects[i];
 			console.log(cur_subject);
@@ -214,14 +216,42 @@ Template.test.events({
 					results[cur_subject]++;
 				}
 			}
-			Results.insert({
-				email: m_user.email,
-				added: new Date(),
-				subject: cur_subject,
-				results: results[cur_subject],					
-			});
+			total += results[cur_subject];
 			console.log(cur_subject + " = ", results[cur_subject]);
 		}
+
+		var ru = {
+			'biology' : 'Биология',
+			'chemistry': 'Химия',
+			'english': 'Английский',
+			'geography': 'География', 
+			'history': 'История Казахстана',
+			'kazakh': 'Қазақ тілі',
+			'literature': 'Литература',
+			'math': 'Математика',
+			'physics': 'Физика',
+			'russian': 'Русский язык',
+			'world_history': 'Всемирная история',
+			};
+
+
+		Results.insert({
+			email: m_user.email,
+			name: m_user.name,
+			surname: m_user.surname,
+			added: new Date(),
+			fifth: ru[user_subject],
+			kazakh: results['kazakh'],
+			russian: results['russian'],
+			math: results['math'],
+			history: results['history'],
+			subject: results[user_subject],
+			total: total,
+			language: m_user.language,
+			region: m_user.region,					
+		});
+
+
 		$("#m_spinner").hide();
 
 		Router.go('cabinet');

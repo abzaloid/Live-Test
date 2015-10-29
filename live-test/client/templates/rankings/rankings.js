@@ -11,5 +11,8 @@ Template.rankings.helpers({
 		} else {
 			return "";
 		}
+	},
+	students: function () {
+		return Results.find();		
 	}
 });

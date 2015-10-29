@@ -4,3 +4,12 @@ Template.confirm.rendered = function () {
 	$("html").addClass('test');
 }
 
+Template.confirm.helpers({
+	name: function () {
+		if (Meteor.user())
+			return OUsers.findOne({email: Meteor.user().emails[0].address}).name;
+		else
+			return null;
+	},
+
+});

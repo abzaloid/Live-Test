@@ -13,28 +13,30 @@
 				<tr>
 					<td>Имя</td>
 					<td>Регион</td>
-					<td>Предмет по выбору</td>
+					<td>Язык</td>
+					<td>5-ый предмет</td>
 					<td class="subject">Математика</td>
 					<td class="subject">Казахский</td>
 					<td class="subject">Русский</td>
 					<td class="subject">История</td>
-					<td class="subject">Предмет по выбору</td>
+					<td class="subject">5-ый предмет</td>
 					<td>Общий балл</td>
 				</tr>
 				</thead>
 				<tbody>
-				{{#each student}}
-				<tr>
-					<td>{{surname}} {{name}}</td>
-					<td>{{region}}</td>
-					<td>{{fifth}}</td>
-					<td>{{kazakh}}</td>
-					<td>10</td>
-					<td>10</td>
-					<td>10</td>
-					<td>10</td>
-					<td>50</td>
-				</tr>
+				{{#each students}}
+					<tr>
+						<td>{{surname}} {{name}}</td>
+						<td>{{region}}</td>
+						<td>{{language}}</td>
+						<td>{{fifth}}</td>
+						<td>{{math}}</td>
+						<td>{{kazakh}}</td>
+						<td>{{russian}}</td>
+						<td>{{history}}</td>
+						<td>{{subject}}</td>
+						<td>{{total}}</td>
+					</tr>
 				{{/each}}
 				</tbody>
 			</table>

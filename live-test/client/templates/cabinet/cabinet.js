@@ -41,22 +41,17 @@ Template.cabinet.helpers({
 			return null;
 	},
 	result: function () {
-		var res = Results.find({email: getUserInfo().email});
+		var res = Results.findOne({email: getUserInfo().email});
 
-		var sum = 0;
-		if (res && res.count() > 0) {
-			res = res.fetch();
-			for (var i = 0; i < res.length; i++) {
-				sum += res[i].results;
-			}
-			return sum;
+		if (res) {
+			return res.total;
 		}
 		return null;
 	}
 });
 
 Template.cabinet.events({
-	'click .general-button cabinet-logout' : function (e) {
+	'click .cabinet-logout' : function (e) {
 		e.preventDefault();
 		Accounts.logout();
 		Router.go('home');
