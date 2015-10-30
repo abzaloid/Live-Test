@@ -1,0 +1,1 @@
+LifeTime = new Mongo.Collection('lifetime');

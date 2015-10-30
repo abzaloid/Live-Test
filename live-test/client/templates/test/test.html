@@ -2,19 +2,23 @@
 	<div class="container container--test">
 		<div class="navigation navigation--test">
 			<a href="{{pathFor 'home'}}" class="logo nav-child"></a>
-			<span class="nav-child timer">3:00:00</span>
-			<a href="#" class="general-button submit-test-btn">Завершить тест</a>
+			{{#if result}}
+				<span class="nav-child timer">Закончено</span>
+			{{else}}
+				<span class="nav-child timer">{{formatDate time}}</span>
+				<a href="#" class="general-button submit-test-btn">Завершить тест</a>
+			{{/if}}
 			{{#if currentUser}}
 				<a href="{{pathFor 'cabinet'}}" class="account nav-child"><i class="fa fa-user"></i>Привет, {{user_name.name}}</a>
 			{{/if}}
 		</div>
 
 		<div class="test-navigation">
-			<a href="" data-for="q_kazakh" class="test-navigation__item active">Казахский</a>
-			<a href="" data-for="q_math" class="test-navigation__item">Математика</a>
-			<a href="" data-for="q_russian" class="test-navigation__item">Русский</a>
-			<a href="" data-for="q_history" class="test-navigation__item">История</a>
-			<a href="" data-for="q_physics" class="test-navigation__item">5-ый Предмет</a>
+			<a href="" data-for="q-kazakh" class="test-navigation__item active">Казахский</a>
+			<a href="" data-for="q-math" class="test-navigation__item">Математика</a>
+			<a href="" data-for="q-russian" class="test-navigation__item">Русский</a>
+			<a href="" data-for="q-history" class="test-navigation__item">История</a>
+			<a href="" data-for="q-{{fifth}}" class="test-navigation__item">5-ый Предмет</a>
 		</div>
 
 		<section class="test-content">
@@ -39,7 +43,7 @@
 						{{> m_question}}
 					{{/each}}
 				</div>
-				<div id="physics">
+				<div id="{{fifth}}">
 					{{#each fifth_questions}}
 						{{> m_question}}
 					{{/each}}
@@ -47,6 +51,13 @@
 			</div>
 		</section>
 	</div>
+
+	<script type="text/x-mathjax-config">
+	  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+	</script>
+	<script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+
+
 </template>
 
 <template name="m_question">

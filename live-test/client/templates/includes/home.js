@@ -11,5 +11,11 @@ Template.home.helpers({
 		} else {
 			return "";
 		}
+	},
+	result: function () {
+		if (Meteor.user() && Results.findOne({email: Meteor.user().emails[0].address})) {
+			return true;
+		}
+		return null;
 	}
 });

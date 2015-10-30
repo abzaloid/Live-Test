@@ -1,0 +1,18 @@
+<template name="confirm">
+	<div class="container container--cabinet">
+		<div class="navigation navigation--cabinet">
+			<a href="{{pathFor 'home'}}" class="logo nav-child"></a>
+			{{#if currentUser}}
+				<a href="{{pathFor 'cabinet'}}" class="account nav-child"><i class="fa fa-user"></i>Привет, {{name}}</a>
+			{{/if}}
+		</div>
+		<section class="cabinet cabinet--flex">
+			<span style="font-size: 1.4em;">Вам дается 2:30 часа на прохождение теста.<br/>
+			Всего 125 вопросов<br/>
+			Уверены ли вы что хотите продолжить?</span>
+			<div class="cabinet--flex__item actions-navigation">
+				<a href="{{pathFor 'test'}}" class="action">Пройти тест</a>
+			</div>
+		</section>
+	</div>
+</template>

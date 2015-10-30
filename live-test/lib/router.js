@@ -31,12 +31,16 @@ Router.route('/standings', {
 	name: 'rankings'
 });
 
+Router.route('/confirm', {
+	name: 'confirm'
+});
+
 var requireLogin = function () {
 	if (! Meteor.user()) {
 		if (Meteor.loggingIn()) {
 			this.render(this.loadingTemplate);
 		} else {
-			this.render('accessDenied');
+			this.render('no_access');
 		}
 	} else {
 		this.next();
@@ -44,5 +48,5 @@ var requireLogin = function () {
 }
 
 Router.onBeforeAction(requireLogin, {
-	only: ['test', 'cabinet']
+	only: ['test', 'cabinet', 'confirm']
 });

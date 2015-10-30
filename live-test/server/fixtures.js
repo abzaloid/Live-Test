@@ -81,6 +81,7 @@ Questions.insert({
 						course_ru: 'Биология',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -97,6 +98,7 @@ Questions.insert({
 						course_ru: 'Биология',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -113,6 +115,7 @@ Questions.insert({
 						course_ru: 'Биология',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -129,6 +132,7 @@ Questions.insert({
 						course_ru: 'Биология',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -145,6 +149,7 @@ Questions.insert({
 						course_ru: 'Биология',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -161,6 +166,7 @@ Questions.insert({
 						course_ru: 'Биология',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -177,6 +183,7 @@ Questions.insert({
 						course_ru: 'Биология',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -193,6 +200,7 @@ Questions.insert({
 						course_ru: 'Биология',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -209,6 +217,7 @@ Questions.insert({
 						course_ru: 'Биология',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -225,6 +234,7 @@ Questions.insert({
 						course_ru: 'Биология',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -241,6 +251,7 @@ Questions.insert({
 						course_ru: 'Биология',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -257,6 +268,7 @@ Questions.insert({
 						course_ru: 'Биология',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -273,6 +285,7 @@ Questions.insert({
 						course_ru: 'Биология',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -289,6 +302,7 @@ Questions.insert({
 						course_ru: 'Биология',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -305,6 +319,7 @@ Questions.insert({
 						course_ru: 'Биология',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -321,6 +336,7 @@ Questions.insert({
 						course_ru: 'Биология',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -337,6 +353,7 @@ Questions.insert({
 						course_ru: 'Биология',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -353,6 +370,7 @@ Questions.insert({
 						course_ru: 'Биология',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -369,6 +387,7 @@ Questions.insert({
 						course_ru: 'Биология',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -385,6 +404,7 @@ Questions.insert({
 						course_ru: 'Биология',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -401,6 +421,7 @@ Questions.insert({
 						course_ru: 'Биология',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -417,6 +438,7 @@ Questions.insert({
 						course_ru: 'Биология',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -433,6 +455,7 @@ Questions.insert({
 						course_ru: 'Биология',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -449,6 +472,7 @@ Questions.insert({
 						course_ru: 'Биология',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -465,6 +489,7 @@ Questions.insert({
 						course_ru: 'Биология',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -481,6 +506,7 @@ Questions.insert({
 						course_ru: 'Химия',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -497,6 +523,7 @@ Questions.insert({
 						course_ru: 'Химия',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -513,6 +540,7 @@ Questions.insert({
 						course_ru: 'Химия',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -529,6 +557,7 @@ Questions.insert({
 						course_ru: 'Химия',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -545,6 +574,7 @@ Questions.insert({
 						course_ru: 'Химия',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -561,6 +591,7 @@ Questions.insert({
 						course_ru: 'Химия',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -577,6 +608,7 @@ Questions.insert({
 						course_ru: 'Химия',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -593,6 +625,7 @@ Questions.insert({
 						course_ru: 'Химия',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -609,6 +642,7 @@ Questions.insert({
 						course_ru: 'Химия',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -625,6 +659,7 @@ Questions.insert({
 						course_ru: 'Химия',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -641,6 +676,7 @@ Questions.insert({
 						course_ru: 'Химия',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -657,6 +693,7 @@ Questions.insert({
 						course_ru: 'Химия',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -673,6 +710,7 @@ Questions.insert({
 						course_ru: 'Химия',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -689,6 +727,7 @@ Questions.insert({
 						course_ru: 'Химия',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -705,6 +744,7 @@ Questions.insert({
 						course_ru: 'Химия',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -721,6 +761,7 @@ Questions.insert({
 						course_ru: 'Химия',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -737,6 +778,7 @@ Questions.insert({
 						course_ru: 'Химия',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -753,6 +795,7 @@ Questions.insert({
 						course_ru: 'Химия',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -769,6 +812,7 @@ Questions.insert({
 						course_ru: 'Химия',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -785,6 +829,7 @@ Questions.insert({
 						course_ru: 'Химия',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -801,6 +846,7 @@ Questions.insert({
 						course_ru: 'Химия',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -817,6 +863,7 @@ Questions.insert({
 						course_ru: 'Химия',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -833,6 +880,7 @@ Questions.insert({
 						course_ru: 'Химия',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -849,6 +897,7 @@ Questions.insert({
 						course_ru: 'Химия',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -865,6 +914,7 @@ Questions.insert({
 						course_ru: 'Химия',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -881,6 +931,7 @@ Questions.insert({
 						course_ru: 'Английский',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -897,6 +948,7 @@ Questions.insert({
 						course_ru: 'Английский',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -913,6 +965,7 @@ Questions.insert({
 						course_ru: 'Английский',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -929,6 +982,7 @@ Questions.insert({
 						course_ru: 'Английский',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -945,6 +999,7 @@ Questions.insert({
 						course_ru: 'Английский',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -961,6 +1016,7 @@ Questions.insert({
 						course_ru: 'Английский',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -977,6 +1033,7 @@ Questions.insert({
 						course_ru: 'Английский',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -993,6 +1050,7 @@ Questions.insert({
 						course_ru: 'Английский',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1009,6 +1067,7 @@ Questions.insert({
 						course_ru: 'Английский',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1025,6 +1084,7 @@ Questions.insert({
 						course_ru: 'Английский',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1041,6 +1101,7 @@ Questions.insert({
 						course_ru: 'Английский',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1057,6 +1118,7 @@ Questions.insert({
 						course_ru: 'Английский',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1073,6 +1135,7 @@ Questions.insert({
 						course_ru: 'Английский',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1089,6 +1152,7 @@ Questions.insert({
 						course_ru: 'Английский',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1105,6 +1169,7 @@ Questions.insert({
 						course_ru: 'Английский',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1121,6 +1186,7 @@ Questions.insert({
 						course_ru: 'Английский',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1137,6 +1203,7 @@ Questions.insert({
 						course_ru: 'Английский',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1153,6 +1220,7 @@ Questions.insert({
 						course_ru: 'Английский',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1169,6 +1237,7 @@ Questions.insert({
 						course_ru: 'Английский',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1185,6 +1254,7 @@ Questions.insert({
 						course_ru: 'Английский',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1201,6 +1271,7 @@ Questions.insert({
 						course_ru: 'Английский',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1217,6 +1288,7 @@ Questions.insert({
 						course_ru: 'Английский',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1233,6 +1305,7 @@ Questions.insert({
 						course_ru: 'Английский',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1249,6 +1322,7 @@ Questions.insert({
 						course_ru: 'Английский',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1265,6 +1339,7 @@ Questions.insert({
 						course_ru: 'Английский',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1281,6 +1356,7 @@ Questions.insert({
 						course_ru: 'География',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1297,6 +1373,7 @@ Questions.insert({
 						course_ru: 'География',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1313,6 +1390,7 @@ Questions.insert({
 						course_ru: 'География',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1329,6 +1407,7 @@ Questions.insert({
 						course_ru: 'География',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1345,6 +1424,7 @@ Questions.insert({
 						course_ru: 'География',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1361,6 +1441,7 @@ Questions.insert({
 						course_ru: 'География',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1377,6 +1458,7 @@ Questions.insert({
 						course_ru: 'География',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1393,6 +1475,7 @@ Questions.insert({
 						course_ru: 'География',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1409,6 +1492,7 @@ Questions.insert({
 						course_ru: 'География',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1425,6 +1509,7 @@ Questions.insert({
 						course_ru: 'География',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1441,6 +1526,7 @@ Questions.insert({
 						course_ru: 'География',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1457,6 +1543,7 @@ Questions.insert({
 						course_ru: 'География',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1473,6 +1560,7 @@ Questions.insert({
 						course_ru: 'География',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1489,6 +1577,7 @@ Questions.insert({
 						course_ru: 'География',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1505,6 +1594,7 @@ Questions.insert({
 						course_ru: 'География',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1521,6 +1611,7 @@ Questions.insert({
 						course_ru: 'География',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1537,6 +1628,7 @@ Questions.insert({
 						course_ru: 'География',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1553,6 +1645,7 @@ Questions.insert({
 						course_ru: 'География',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1569,6 +1662,7 @@ Questions.insert({
 						course_ru: 'География',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1585,6 +1679,7 @@ Questions.insert({
 						course_ru: 'География',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1601,6 +1696,7 @@ Questions.insert({
 						course_ru: 'География',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1617,6 +1713,7 @@ Questions.insert({
 						course_ru: 'География',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1633,6 +1730,7 @@ Questions.insert({
 						course_ru: 'География',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1649,6 +1747,7 @@ Questions.insert({
 						course_ru: 'География',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1665,6 +1764,7 @@ Questions.insert({
 						course_ru: 'География',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1681,6 +1781,7 @@ Questions.insert({
 						course_ru: 'История Казахстана',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1697,6 +1798,7 @@ Questions.insert({
 						course_ru: 'История Казахстана',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1713,6 +1815,7 @@ Questions.insert({
 						course_ru: 'История Казахстана',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1729,6 +1832,7 @@ Questions.insert({
 						course_ru: 'История Казахстана',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1745,6 +1849,7 @@ Questions.insert({
 						course_ru: 'История Казахстана',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1761,6 +1866,7 @@ Questions.insert({
 						course_ru: 'История Казахстана',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1777,6 +1883,7 @@ Questions.insert({
 						course_ru: 'История Казахстана',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1793,6 +1900,7 @@ Questions.insert({
 						course_ru: 'История Казахстана',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1809,6 +1917,7 @@ Questions.insert({
 						course_ru: 'История Казахстана',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1825,6 +1934,7 @@ Questions.insert({
 						course_ru: 'История Казахстана',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1841,6 +1951,7 @@ Questions.insert({
 						course_ru: 'История Казахстана',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1857,6 +1968,7 @@ Questions.insert({
 						course_ru: 'История Казахстана',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1873,6 +1985,7 @@ Questions.insert({
 						course_ru: 'История Казахстана',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1889,6 +2002,7 @@ Questions.insert({
 						course_ru: 'История Казахстана',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1905,6 +2019,7 @@ Questions.insert({
 						course_ru: 'История Казахстана',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1921,6 +2036,7 @@ Questions.insert({
 						course_ru: 'История Казахстана',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1937,6 +2053,7 @@ Questions.insert({
 						course_ru: 'История Казахстана',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1953,6 +2070,7 @@ Questions.insert({
 						course_ru: 'История Казахстана',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1969,6 +2087,7 @@ Questions.insert({
 						course_ru: 'История Казахстана',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -1985,6 +2104,7 @@ Questions.insert({
 						course_ru: 'История Казахстана',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2001,6 +2121,7 @@ Questions.insert({
 						course_ru: 'История Казахстана',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2017,6 +2138,7 @@ Questions.insert({
 						course_ru: 'История Казахстана',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2033,6 +2155,7 @@ Questions.insert({
 						course_ru: 'История Казахстана',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2049,6 +2172,7 @@ Questions.insert({
 						course_ru: 'История Казахстана',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2065,6 +2189,7 @@ Questions.insert({
 						course_ru: 'История Казахстана',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2081,6 +2206,7 @@ Questions.insert({
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2097,6 +2223,7 @@ Questions.insert({
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2113,6 +2240,7 @@ Questions.insert({
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2129,6 +2257,7 @@ Questions.insert({
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2145,6 +2274,7 @@ Questions.insert({
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2161,6 +2291,7 @@ Questions.insert({
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2177,6 +2308,7 @@ Questions.insert({
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2193,6 +2325,7 @@ Questions.insert({
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2209,6 +2342,7 @@ Questions.insert({
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2225,6 +2359,7 @@ Questions.insert({
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2241,6 +2376,7 @@ Questions.insert({
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2257,6 +2393,7 @@ Questions.insert({
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2273,6 +2410,7 @@ Questions.insert({
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2289,6 +2427,7 @@ Questions.insert({
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2305,6 +2444,7 @@ Questions.insert({
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2321,6 +2461,7 @@ Questions.insert({
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2337,6 +2478,7 @@ Questions.insert({
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2353,6 +2495,7 @@ Questions.insert({
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2369,6 +2512,7 @@ Questions.insert({
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2385,6 +2529,7 @@ Questions.insert({
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2401,6 +2546,7 @@ Questions.insert({
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2417,6 +2563,7 @@ Questions.insert({
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2433,6 +2580,7 @@ Questions.insert({
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2449,6 +2597,7 @@ Questions.insert({
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2465,6 +2614,7 @@ Questions.insert({
 						course_ru: 'Қазақ тілі',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2481,6 +2631,7 @@ Questions.insert({
 						course_ru: 'Литература',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2497,6 +2648,7 @@ Questions.insert({
 						course_ru: 'Литература',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2513,6 +2665,7 @@ Questions.insert({
 						course_ru: 'Литература',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2529,6 +2682,7 @@ Questions.insert({
 						course_ru: 'Литература',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2545,6 +2699,7 @@ Questions.insert({
 						course_ru: 'Литература',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2561,6 +2716,7 @@ Questions.insert({
 						course_ru: 'Литература',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2577,6 +2733,7 @@ Questions.insert({
 						course_ru: 'Литература',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2593,6 +2750,7 @@ Questions.insert({
 						course_ru: 'Литература',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2609,6 +2767,7 @@ Questions.insert({
 						course_ru: 'Литература',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2625,6 +2784,7 @@ Questions.insert({
 						course_ru: 'Литература',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2641,6 +2801,7 @@ Questions.insert({
 						course_ru: 'Литература',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2657,6 +2818,7 @@ Questions.insert({
 						course_ru: 'Литература',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2673,6 +2835,7 @@ Questions.insert({
 						course_ru: 'Литература',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2689,6 +2852,7 @@ Questions.insert({
 						course_ru: 'Литература',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2705,6 +2869,7 @@ Questions.insert({
 						course_ru: 'Литература',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2721,6 +2886,7 @@ Questions.insert({
 						course_ru: 'Литература',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2737,6 +2903,7 @@ Questions.insert({
 						course_ru: 'Литература',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2753,6 +2920,7 @@ Questions.insert({
 						course_ru: 'Литература',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2769,6 +2937,7 @@ Questions.insert({
 						course_ru: 'Литература',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2785,6 +2954,7 @@ Questions.insert({
 						course_ru: 'Литература',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2801,6 +2971,7 @@ Questions.insert({
 						course_ru: 'Литература',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2817,6 +2988,7 @@ Questions.insert({
 						course_ru: 'Литература',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2833,6 +3005,7 @@ Questions.insert({
 						course_ru: 'Литература',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2849,6 +3022,7 @@ Questions.insert({
 						course_ru: 'Литература',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2865,6 +3039,7 @@ Questions.insert({
 						course_ru: 'Литература',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2881,6 +3056,7 @@ Questions.insert({
 						course_ru: 'Математика',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2897,6 +3073,7 @@ Questions.insert({
 						course_ru: 'Математика',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2913,6 +3090,7 @@ Questions.insert({
 						course_ru: 'Математика',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2929,6 +3107,7 @@ Questions.insert({
 						course_ru: 'Математика',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2945,6 +3124,7 @@ Questions.insert({
 						course_ru: 'Математика',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2961,6 +3141,7 @@ Questions.insert({
 						course_ru: 'Математика',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2977,6 +3158,7 @@ Questions.insert({
 						course_ru: 'Математика',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -2993,6 +3175,7 @@ Questions.insert({
 						course_ru: 'Математика',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3009,6 +3192,7 @@ Questions.insert({
 						course_ru: 'Математика',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3025,6 +3209,7 @@ Questions.insert({
 						course_ru: 'Математика',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3041,6 +3226,7 @@ Questions.insert({
 						course_ru: 'Математика',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3057,6 +3243,7 @@ Questions.insert({
 						course_ru: 'Математика',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3073,6 +3260,7 @@ Questions.insert({
 						course_ru: 'Математика',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3089,6 +3277,7 @@ Questions.insert({
 						course_ru: 'Математика',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3105,6 +3294,7 @@ Questions.insert({
 						course_ru: 'Математика',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3121,6 +3311,7 @@ Questions.insert({
 						course_ru: 'Математика',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3137,6 +3328,7 @@ Questions.insert({
 						course_ru: 'Математика',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3153,6 +3345,7 @@ Questions.insert({
 						course_ru: 'Математика',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3169,6 +3362,7 @@ Questions.insert({
 						course_ru: 'Математика',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3185,6 +3379,7 @@ Questions.insert({
 						course_ru: 'Математика',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3201,6 +3396,7 @@ Questions.insert({
 						course_ru: 'Математика',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3217,6 +3413,7 @@ Questions.insert({
 						course_ru: 'Математика',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3233,6 +3430,7 @@ Questions.insert({
 						course_ru: 'Математика',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3249,6 +3447,7 @@ Questions.insert({
 						course_ru: 'Математика',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3265,6 +3464,7 @@ Questions.insert({
 						course_ru: 'Математика',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3281,6 +3481,7 @@ Questions.insert({
 						course_ru: 'Физика',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3297,6 +3498,7 @@ Questions.insert({
 						course_ru: 'Физика',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3313,6 +3515,7 @@ Questions.insert({
 						course_ru: 'Физика',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3329,6 +3532,7 @@ Questions.insert({
 						course_ru: 'Физика',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3345,6 +3549,7 @@ Questions.insert({
 						course_ru: 'Физика',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3361,6 +3566,7 @@ Questions.insert({
 						course_ru: 'Физика',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3377,6 +3583,7 @@ Questions.insert({
 						course_ru: 'Физика',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3393,6 +3600,7 @@ Questions.insert({
 						course_ru: 'Физика',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3409,6 +3617,7 @@ Questions.insert({
 						course_ru: 'Физика',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3425,6 +3634,7 @@ Questions.insert({
 						course_ru: 'Физика',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3441,6 +3651,7 @@ Questions.insert({
 						course_ru: 'Физика',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3457,6 +3668,7 @@ Questions.insert({
 						course_ru: 'Физика',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3473,6 +3685,7 @@ Questions.insert({
 						course_ru: 'Физика',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3489,6 +3702,7 @@ Questions.insert({
 						course_ru: 'Физика',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3505,6 +3719,7 @@ Questions.insert({
 						course_ru: 'Физика',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3521,6 +3736,7 @@ Questions.insert({
 						course_ru: 'Физика',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3537,6 +3753,7 @@ Questions.insert({
 						course_ru: 'Физика',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3553,6 +3770,7 @@ Questions.insert({
 						course_ru: 'Физика',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3569,6 +3787,7 @@ Questions.insert({
 						course_ru: 'Физика',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3585,6 +3804,7 @@ Questions.insert({
 						course_ru: 'Физика',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3601,6 +3821,7 @@ Questions.insert({
 						course_ru: 'Физика',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3617,6 +3838,7 @@ Questions.insert({
 						course_ru: 'Физика',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3633,6 +3855,7 @@ Questions.insert({
 						course_ru: 'Физика',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3649,6 +3872,7 @@ Questions.insert({
 						course_ru: 'Физика',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3665,6 +3889,7 @@ Questions.insert({
 						course_ru: 'Физика',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3681,6 +3906,7 @@ Questions.insert({
 						course_ru: 'Русский язык',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3697,6 +3923,7 @@ Questions.insert({
 						course_ru: 'Русский язык',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3713,6 +3940,7 @@ Questions.insert({
 						course_ru: 'Русский язык',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3729,6 +3957,7 @@ Questions.insert({
 						course_ru: 'Русский язык',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3745,6 +3974,7 @@ Questions.insert({
 						course_ru: 'Русский язык',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3761,6 +3991,7 @@ Questions.insert({
 						course_ru: 'Русский язык',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3777,6 +4008,7 @@ Questions.insert({
 						course_ru: 'Русский язык',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3793,6 +4025,7 @@ Questions.insert({
 						course_ru: 'Русский язык',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3809,6 +4042,7 @@ Questions.insert({
 						course_ru: 'Русский язык',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3825,6 +4059,7 @@ Questions.insert({
 						course_ru: 'Русский язык',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3841,6 +4076,7 @@ Questions.insert({
 						course_ru: 'Русский язык',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3857,6 +4093,7 @@ Questions.insert({
 						course_ru: 'Русский язык',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3873,6 +4110,7 @@ Questions.insert({
 						course_ru: 'Русский язык',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3889,6 +4127,7 @@ Questions.insert({
 						course_ru: 'Русский язык',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3905,6 +4144,7 @@ Questions.insert({
 						course_ru: 'Русский язык',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3921,6 +4161,7 @@ Questions.insert({
 						course_ru: 'Русский язык',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3937,6 +4178,7 @@ Questions.insert({
 						course_ru: 'Русский язык',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3953,6 +4195,7 @@ Questions.insert({
 						course_ru: 'Русский язык',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3969,6 +4212,7 @@ Questions.insert({
 						course_ru: 'Русский язык',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -3985,6 +4229,7 @@ Questions.insert({
 						course_ru: 'Русский язык',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4001,6 +4246,7 @@ Questions.insert({
 						course_ru: 'Русский язык',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4017,6 +4263,7 @@ Questions.insert({
 						course_ru: 'Русский язык',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4033,6 +4280,7 @@ Questions.insert({
 						course_ru: 'Русский язык',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4049,6 +4297,7 @@ Questions.insert({
 						course_ru: 'Русский язык',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4065,6 +4314,7 @@ Questions.insert({
 						course_ru: 'Русский язык',
 						is_fifth: false,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4081,6 +4331,7 @@ Questions.insert({
 						course_ru: 'Всемирная история',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4097,6 +4348,7 @@ Questions.insert({
 						course_ru: 'Всемирная история',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4113,6 +4365,7 @@ Questions.insert({
 						course_ru: 'Всемирная история',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4129,6 +4382,7 @@ Questions.insert({
 						course_ru: 'Всемирная история',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4145,6 +4399,7 @@ Questions.insert({
 						course_ru: 'Всемирная история',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4161,6 +4416,7 @@ Questions.insert({
 						course_ru: 'Всемирная история',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4177,6 +4433,7 @@ Questions.insert({
 						course_ru: 'Всемирная история',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4193,6 +4450,7 @@ Questions.insert({
 						course_ru: 'Всемирная история',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4209,6 +4467,7 @@ Questions.insert({
 						course_ru: 'Всемирная история',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4225,6 +4484,7 @@ Questions.insert({
 						course_ru: 'Всемирная история',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4241,6 +4501,7 @@ Questions.insert({
 						course_ru: 'Всемирная история',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4257,6 +4518,7 @@ Questions.insert({
 						course_ru: 'Всемирная история',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4273,6 +4535,7 @@ Questions.insert({
 						course_ru: 'Всемирная история',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4289,6 +4552,7 @@ Questions.insert({
 						course_ru: 'Всемирная история',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4305,6 +4569,7 @@ Questions.insert({
 						course_ru: 'Всемирная история',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4321,6 +4586,7 @@ Questions.insert({
 						course_ru: 'Всемирная история',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4337,6 +4603,7 @@ Questions.insert({
 						course_ru: 'Всемирная история',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4353,6 +4620,7 @@ Questions.insert({
 						course_ru: 'Всемирная история',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4369,6 +4637,7 @@ Questions.insert({
 						course_ru: 'Всемирная история',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4385,6 +4654,7 @@ Questions.insert({
 						course_ru: 'Всемирная история',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4401,6 +4671,7 @@ Questions.insert({
 						course_ru: 'Всемирная история',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4417,6 +4688,7 @@ Questions.insert({
 						course_ru: 'Всемирная история',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4433,6 +4705,7 @@ Questions.insert({
 						course_ru: 'Всемирная история',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4449,6 +4722,7 @@ Questions.insert({
 						course_ru: 'Всемирная история',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
 				Questions.insert({
@@ -4465,7 +4739,14034 @@ Questions.insert({
 						course_ru: 'Всемирная история',
 						is_fifth: true,
 						language: 'kazakh',
+						variant: 1,
 					}
 					);
-												
+				
+				Questions.insert({
+						question: "1)  Қанның эритроциттері<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) қанның ақ түйіршіктері.<br/>",
+						choice_B: "B)  қан жарғақшасы.<br/>",
+						choice_C: "C) сұйық клеткааралық зат.<br/>",
+						choice_D: "D)  сұйық ішкі орта.<br/>",
+						choice_E: "E)  қанның қызыл түйіршіктері. <br/>",
+						number: 1,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "2)  Шұбалшаңның негізгі қорегі:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) шыбын-шіркей<br/>",
+						choice_B: "B)  ауадағы азот<br/>",
+						choice_C: "C) өсімдіктердің шіріген қалдықтары<br/>",
+						choice_D: "D)  сазды топырақ<br/>",
+						choice_E: "E)  бір жасушалы қарапайымдылар<br/>",
+						number: 2,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "3)  Жарық сүйгіш өсімдік<br/>",
+						answer: "A<br/>",
+						choice_A: "А) қарағай<br/>",
+						choice_B: "B)  шаң жапырақ<br/>",
+						choice_C: "C) мүкжидек<br/>",
+						choice_D: "D)  інжугүл<br/>",
+						choice_E: "E)  шырша<br/>",
+						number: 3,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "4)  Тіршілігінде тым болмаса бір рет гүлдейтін өсімдіктің аталуы:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) бір жылдық.<br/>",
+						choice_B: "B)  гүлді.<br/>",
+						choice_C: "C) көп жылдық.<br/>",
+						choice_D: "D)  екі жылдық.<br/>",
+						choice_E: "E)  шөптектес. <br/>",
+						number: 4,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "5)  Микседема ауруының пайда болуы<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Өсу гормонының жетіспеушілігінен.<br/>",
+						choice_B: "B)  Қалқанша безі қызметінің жетіспеушілігінен.<br/>",
+						choice_C: "C) Адреналин гормонының артық бөлінуінен.<br/>",
+						choice_D: "D)  Қалқанша безі қызметінің шектен тыс болуынан.<br/>",
+						choice_E: "E)  Тимозин гормонының артық мөлшерінен. <br/>",
+						number: 5,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "6)  Тамыр сабағынан көбейе алатын өсімдік:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Бальзамин<br/>",
+						choice_B: "B)  Герань (қазтамақ)<br/>",
+						choice_C: "C) Қайың<br/>",
+						choice_D: "D)  Бегония<br/>",
+						choice_E: "E)  Бидайық<br/>",
+						number: 6,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "7)  Жеке гүлдер бірінен соң бірі кезектесіп, ортақ кіндіктен таралатын ұзын гүлсағақтары бар гүлшоғыры<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Масақ<br/>",
+						choice_B: "B)  Қалқанша<br/>",
+						choice_C: "C) Шашақ<br/>",
+						choice_D: "D)  Собық<br/>",
+						choice_E: "E)  Шатыр<br/>",
+						number: 7,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "8)  Биологиялық активті заттар түзілетін мүше<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Өкпе.<br/>",
+						choice_B: "B)  Несеп ағар.<br/>",
+						choice_C: "C) Бүйрек.<br/>",
+						choice_D: "D)  Несеп жолы.<br/>",
+						choice_E: "E)  Қуық. <br/>",
+						number: 8,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "9)  Өсімдіктің азот жинақтаушы-түйнек бактериялары орналасқан орны:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Жапырақта.<br/>",
+						choice_B: "B)  Тұқымда.<br/>",
+						choice_C: "C) Тамырда.<br/>",
+						choice_D: "D)  Сабақта.<br/>",
+						choice_E: "E)  Жемісте. <br/>",
+						number: 9,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "10)  Ішекқуыстылардың денесі-<br/>",
+						answer: "A<br/>",
+						choice_A: "А) екі қабатты. <br/>",
+						choice_B: "B)  көп қабатты. <br/>",
+						choice_C: "C) бір жасушалы. <br/>",
+						choice_D: "D)  бір қабатты. <br/>",
+						choice_E: "E)  үш қабатты. <br/>",
+						number: 10,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "11)  Ми бағанасына кіретін бөлігі<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Мишық.<br/>",
+						choice_B: "B)  Соматикалық жүйкелер.<br/>",
+						choice_C: "C) Шеткі жүйке жүйесі.<br/>",
+						choice_D: "D)  Сопақша ми.<br/>",
+						choice_E: "E)  Үлкен ми сыңарлары. <br/>",
+						number: 11,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "12)  Тыныс алатын ауаны жылытып, залалсыздандыратын мүше:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) көмей<br/>",
+						choice_B: "B)  аңқа<br/>",
+						choice_C: "C) ауыз<br/>",
+						choice_D: "D)  кеңірдек<br/>",
+						choice_E: "E)  мұрын қуысы<br/>",
+						number: 12,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "13)  Үлкен қан айналым шеңбері аяқталатын жүрек бөлігі:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Қолқа.<br/>",
+						choice_B: "B)  Сол жақ құлақша.<br/>",
+						choice_C: "C) Оң жақ құлақша.<br/>",
+						choice_D: "D)  Сол жақ қарынша.<br/>",
+						choice_E: "E)  Оң жақ қарынша. <br/>",
+						number: 13,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "14)  Биосферада атом энергиясын пайдаланғанда-<br/>",
+						answer: "A<br/>",
+						choice_A: "А) радиоактивті сәулелер жинақталады.<br/>",
+						choice_B: "B)  көп мөлшерде оттегі сіңіріледі.<br/>",
+						choice_C: "C) зиянды газдар жинақталады.<br/>",
+						choice_D: "D)  атмосфера құрамы ластанады.<br/>",
+						choice_E: "E)  көмірқышқыл газының мөлшері азаяды. <br/>",
+						number: 14,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "15)  Бастама гүлшанағы бар бүршіктің атауы - <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Қолтық бүршігі.<br/>",
+						choice_B: "B)  Қосалқы бүршік.<br/>",
+						choice_C: "C) Генеративті бүршік.<br/>",
+						choice_D: "D)  Вегетативті бүршік.<br/>",
+						choice_E: "E)  Төбе бүршік. <br/>",
+						number: 15,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "16)  Қалқанша безінің қызметі күшейсе:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) жүректің соғу ритмі баяулайды.<br/>",
+						choice_B: "B)  жүректің жиырылуы жиілеп, қан қысымы, жүйке жүйесінің қозғыштығы артады.<br/>",
+						choice_C: "C) көбею жүйесінің өсуі.<br/>",
+						choice_D: "D)  дене температурасы жоғарылап, глюкоза деңгейі артады.<br/>",
+						choice_E: "E)  көмірсулар, ақуыз, май алмасуы бұзылады. <br/>",
+						number: 16,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "17)  Жасушаның негізгі құрылыс материалы болатын органикалық зат:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Нуклеин қышқылдары.<br/>",
+						choice_B: "B)  Көмірсулар.<br/>",
+						choice_C: "C) Майлар.<br/>",
+						choice_D: "D)  АТФ.<br/>",
+						choice_E: "E)  Ақуыздар. <br/>",
+						number: 17,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "18)  Туберкулез қоздырғышы-<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Вирус. <br/>",
+						choice_B: "B)  Бактерия. <br/>",
+						choice_C: "C) Амеба. <br/>",
+						choice_D: "D)  Кірпікшелі кебісше. <br/>",
+						choice_E: "E)  Безгек паразиті. <br/>",
+						number: 18,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "19)  Аллополиплондия:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) әр түрлі түр және туыстардың тұтас геномдарын қосу<br/>",
+						choice_B: "B)  туыстарды өзара будастыру<br/>",
+						choice_C: "C) әр түрлі түрлер өзара будастыру<br/>",
+						choice_D: "D)  көп белгісі бар түрлерді өзара будандастыру<br/>",
+						choice_E: "E)  әр түрлі белгісі бар туыстарды өзара будандастыру <br/>",
+						number: 19,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "20)  Әрбір нейрондағы аксон саны:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) 1.<br/>",
+						choice_B: "B)  3.<br/>",
+						choice_C: "C) 7.<br/>",
+						choice_D: "D)  4. <br/>",
+						choice_E: "E)  5. <br/>",
+						number: 20,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "21)  «Динозаврлар дәуірі» болып есептелетін заман:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Мезозой.<br/>",
+						choice_B: "B)  Архей.<br/>",
+						choice_C: "C) Протерозой.<br/>",
+						choice_D: "D)  Палеозой.<br/>",
+						choice_E: "E)  Кайнозой. <br/>",
+						number: 21,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "22)  Қазіргі адамдарға жақын келетін түрлер:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Неандертальдық.<br/>",
+						choice_B: "B)  Синантроптар.<br/>",
+						choice_C: "C) Питекантроптар.<br/>",
+						choice_D: "D)  Австралопитектер.<br/>",
+						choice_E: "E)  Кроманьондар. <br/>",
+						number: 22,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "23)  Қорғаныштық қызмет атқаратын ұлпа<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Жүйке ұлпасы.<br/>",
+						choice_B: "B)  Дәнекер.<br/>",
+						choice_C: "C) Бірыңғай салалы бұлшықет.<br/>",
+						choice_D: "D)  Эпителий.<br/>",
+						choice_E: "E)  Безді ұлпасы. <br/>",
+						number: 23,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "24)  Хитинді жабынның атқаратын қызметі:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Қорғаныш.<br/>",
+						choice_B: "B)  Сыртқы ортамен байланыс.<br/>",
+						choice_C: "C) Тыныс алу.<br/>",
+						choice_D: "D)  Қанайналым.<br/>",
+						choice_E: "E)  Сезім мүшесі. <br/>",
+						number: 24,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "25)  Жүгерінің гүлдері:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Екі үйлі<br/>",
+						choice_B: "B)  Қос жынысты<br/>",
+						choice_C: "C) Бір үйлі<br/>",
+						choice_D: "D)  Дара жынысты<br/>",
+						choice_E: "E)  Жыныссыз<br/>",
+						number: 25,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "1)  FeO→Х→FeCl2 өзгерісінде Х заты <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Fe(OH)3<br/>",
+						choice_B: "B)  FeCl3	<br/>",
+						choice_C: "C) Fe	<br/>",
+						choice_D: "D)  Fe(OH)2<br/>",
+						choice_E: "E)  FeSO4<br/>",
+						number: 1,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "2)   Галогендер қатары:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) F,O,N,C,B<br/>",
+						choice_B: "B)  F,Cl,Br,IAc<br/>",
+						choice_C: "C) F,Cl,Mn,At<br/>",
+						choice_D: "D)  I,Fe,Sb,Sn, Zn<br/>",
+						choice_E: "E)  Mn, Br, I, Re<br/>",
+						number: 2,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "3)  Атомның электрондың формуласы 1s 22s 22p 63s 23p 3 болатын белгісіз элемнттің жоғарғы оксидінің формуласы<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) B2O3<br/>",
+						choice_B: "B)  Al2O3<br/>",
+						choice_C: "C) N2O5<br/>",
+						choice_D: "D)  P2O5<br/>",
+						choice_E: "E)  SO3<br/>",
+						number: 3,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "4)  Оттектің массалық үлесі көп заттың формуласы:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Fe2O3<br/>",
+						choice_B: "B)  KClO3<br/>",
+						choice_C: "C) SiO2<br/>",
+						choice_D: "D)  CaCO3<br/>",
+						choice_E: "E)  H2O2<br/>",
+						number: 4,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "5)  CO2 газының ауа бойынша тығыздығы<br/>",
+						answer: "A<br/>",
+						choice_A: "А) 1,52<br/>",
+						choice_B: "B)  2,32<br/>",
+						choice_C: "C) 23,2<br/>",
+						choice_D: "D)  15,2<br/>",
+						choice_E: "E)  4,56<br/>",
+						number: 5,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "6)  Атом ядросының құрамында 33 протон және 42 нейтроны бар химиялық элемент<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) молибден<br/>",
+						choice_B: "B)  мышьяк<br/>",
+						choice_C: "C) рений<br/>",
+						choice_D: "D)  борий<br/>",
+						choice_E: "E)  технеций<br/>",
+						number: 6,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "7)  Зат құрамының түрақтылық заңын ашқан ғалым<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Дж.Пристли<br/>",
+						choice_B: "B)  Ж.Л.Пруст<br/>",
+						choice_C: "C) К.Шееле<br/>",
+						choice_D: "D)  Дж.Дальтон<br/>",
+						choice_E: "E)  А.Авагадро<br/>",
+						number: 7,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "8)  III топ қосымша топша элементі<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) B<br/>",
+						choice_B: "B)  Al<br/>",
+						choice_C: "C) Sc<br/>",
+						choice_D: "D)  Ca<br/>",
+						choice_E: "E)  Ln<br/>",
+						number: 8,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "9)  CO2 газының ауа бойынша тығыздығы<br/>",
+						answer: "A<br/>",
+						choice_A: "А) 1,52<br/>",
+						choice_B: "B)  2,32<br/>",
+						choice_C: "C) 23,2<br/>",
+						choice_D: "D)  15,2<br/>",
+						choice_E: "E)  4,56<br/>",
+						number: 9,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "10)  Оттек газы<br/>",
+						answer: "A<br/>",
+						choice_A: "А) түссіз<br/>",
+						choice_B: "B)  суда жақсы ериді<br/>",
+						choice_C: "C) дәмді<br/>",
+						choice_D: "D)  өткір иісті<br/>",
+						choice_E: "E)  ауадан жеңіл<br/>",
+						number: 10,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "11)  Қорғасының массалық үлесі ең көп заттың формуласы<br/>",
+						answer: "A<br/>",
+						choice_A: "А) PbO<br/>",
+						choice_B: "B)  PbO2<br/>",
+						choice_C: "C) Pb3O4<br/>",
+						choice_D: "D)  Pb2O3<br/>",
+						choice_E: "E)  PbO4<br/>",
+						number: 11,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "12)  325г мырыш тұз қышқылымен әрекеттескенде түзілген сутегінің зат мөлшері (моль)<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 1<br/>",
+						choice_B: "B)  2<br/>",
+						choice_C: "C) 3<br/>",
+						choice_D: "D)  4<br/>",
+						choice_E: "E)  5<br/>",
+						number: 12,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "13)  Табиғатта кездесетін 2010 Ne – 20 изотопының массалық үлесі 90$\\%$, 2210 Ne – 22 изотопының массалық үлесі 10$\\%$. Неон элементінің салыстырмалы атомдық массасы<br/>",
+						answer: "A<br/>",
+						choice_A: "А) 20,2<br/>",
+						choice_B: "B)  19,5<br/>",
+						choice_C: "C) 18,2<br/>",
+						choice_D: "D)  17,5<br/>",
+						choice_E: "E)  14<br/>",
+						number: 13,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "14)  Фтор атомы электрондарының энергетикалық денгейлерге орналасуын көрсетеді:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) 2е 8е 3е <br/>",
+						choice_B: "B)  2е 7е<br/>",
+						choice_C: "C) 2е 8е 1е<br/>",
+						choice_D: "D)  2е 8е 8е<br/>",
+						choice_E: "E)  2е 8е 2е<br/>",
+						number: 14,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "15)  Амфотерлі элемент таңбасы<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) K<br/>",
+						choice_B: "B)  Al<br/>",
+						choice_C: "C) Cl<br/>",
+						choice_D: "D)  Ca<br/>",
+						choice_E: "E)  Br<br/>",
+						number: 15,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "16)   Хлор осы затпен әрекеттесуі мүмкін<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) O2<br/>",
+						choice_B: "B)  H2<br/>",
+						choice_C: "C) H2SO4<br/>",
+						choice_D: "D)  HCl<br/>",
+						choice_E: "E)  PbO<br/>",
+						number: 16,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "17)  Н3ВО3 осы қышқылға сәйкес келетін оксидтің формуласы<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) BeO<br/>",
+						choice_B: "B)  B2O3<br/>",
+						choice_C: "C) BO3<br/>",
+						choice_D: "D)  BO<br/>",
+						choice_E: "E)  Be2O3<br/>",
+						number: 17,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "18)  Ауа құрамы<br/>",
+						answer: "A<br/>",
+						choice_A: "А) 90 $\\%$ - N2, 8 $\\%$ - O2, 2 $\\%$ - He, Ne, Ar, Kr, Xe<br/>",
+						choice_B: "B)  78 $\\%$ - N2, 21 $\\%$ - O2, 1 $\\%$ - He, Ne, Ar, Kr, Xe<br/>",
+						choice_C: "C) 60 $\\%$ - N2, 35 $\\%$ - O2, 5 $\\%$ - He, Ne, Ar, Kr, Xe<br/>",
+						choice_D: "D)  50 $\\%$ - N2, 50 $\\%$ - O2<br/>",
+						choice_E: "E)  70 $\\%$ - N2, 30 $\\%$ - O2<br/>",
+						number: 18,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "19)  Pb(NO3)2 айрылғанда түзілетін оксид<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) NO<br/>",
+						choice_B: "B)  N2O5<br/>",
+						choice_C: "C) N2O<br/>",
+						choice_D: "D)  NO2<br/>",
+						choice_E: "E)  O2<br/>",
+						number: 19,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "20)  Еріген заттың массалық үлесі 20$\\%$ , (ρ=1,25г/мл) көлемі 500 мл натрий гидроксиді ерітіндісінен көлемі 200 мл суды буландырғаннан кейінгі ерітіндідегі негіздің массалық үлесі<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 27 $\\%$<br/>",
+						choice_B: "B)  28 $\\%$<br/>",
+						choice_C: "C) 30 $\\%$<br/>",
+						choice_D: "D)  26 $\\%$<br/>",
+						choice_E: "E)  29 $\\%$<br/>",
+						number: 20,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "21)  C2H6 – этанның жану реакциясындағы көмірқышқыл газы алдындағы коэффициент саны<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) 2<br/>",
+						choice_B: "B)  3<br/>",
+						choice_C: "C) 4<br/>",
+						choice_D: "D)  5<br/>",
+						choice_E: "E)  6<br/>",
+						number: 21,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "22)  Сутегінің латынша аталуы<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) оксигениум <br/>",
+						choice_B: "B)  гидрогениум<br/>",
+						choice_C: "C) гидраргирум<br/>",
+						choice_D: "D)  силициум<br/>",
+						choice_E: "E)  аурум<br/>",
+						number: 22,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "23)  Cr2(SO4)3+KMnO4+H2O=K2Cr2O7+Mn(OH)4+H2SO4 барлық коэффициенттер қосындысы<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 9<br/>",
+						choice_B: "B)  6<br/>",
+						choice_C: "C) 10<br/>",
+						choice_D: "D)  8<br/>",
+						choice_E: "E)  16<br/>",
+						number: 23,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "24)  Оттегі мен озон қоспасының сутегі бойынша тығыздығы – 18.Қоспадағы озонның массалық үлесі ($\\%$) <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) 14,33<br/>",
+						choice_B: "B)  21,33<br/>",
+						choice_C: "C) 33,33<br/>",
+						choice_D: "D)  42,33<br/>",
+						choice_E: "E)  55,33<br/>",
+						number: 24,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "25)  Аммоний гидрокарбонаты кондитер тағамдарын пісіруге қолданылады. Егер қамырға 39,5 г NH4HCO3 қосылған болса, термиялық айырылу кезінде түзілген газдардың (қ.ж) көлемі<br/>",
+						answer: "A<br/>",
+						choice_A: "А) 22,4л<br/>",
+						choice_B: "B)  44,8л<br/>",
+						choice_C: "C) 42,5л<br/>",
+						choice_D: "D)  4,25л<br/>",
+						choice_E: "E)  425л<br/>",
+						number: 25,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "1)  Дұрыс жауапты таңдаңыз.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) 1666.<br/>",
+						choice_B: "B)  1816.<br/>",
+						choice_C: "C) 1768.<br/>",
+						choice_D: "D)  1516.<br/>",
+						choice_E: "E)  1566. <br/>",
+						number: 1,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "2)  Сөйлемге дұрыс сұрақ таңдаңыз.<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Do you have much sugar is there in the cup? <br/>",
+						choice_B: "B)  Are there much sugar in the cup? <br/>",
+						choice_C: "C) How much sugar in the cup? <br/>",
+						choice_D: "D)  There is much sugar in the cup, is it?<br/>",
+						choice_E: "E)  How much sugar is there in the cup? <br/>",
+						number: 2,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "3)  &quot;To be goіng to do&quot; тіркесімен сөйлемді толықтырыңыз:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) іs goіng to sell her<br/>",
+						choice_B: "B)  are goіng to play her<br/>",
+						choice_C: "C) are goіng to buy her <br/>",
+						choice_D: "D)  іs goіng to take her<br/>",
+						choice_E: "E)  are goіng to eat her<br/>",
+						number: 3,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "4)  Future in the Past-тағы етiстiк<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) uses<br/>",
+						choice_B: "B)  will go out<br/>",
+						choice_C: "C) is staying<br/>",
+						choice_D: "D)  would give <br/>",
+						choice_E: "E)  gave<br/>",
+						number: 4,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "5)  Төмендегі сөзге синонимдес сөзді  табыңыз:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Rainy.<br/>",
+						choice_B: "B)  Daily.<br/>",
+						choice_C: "C) Misty.<br/>",
+						choice_D: "D)  Dull.<br/>",
+						choice_E: "E)  Calm. <br/>",
+						number: 5,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "6)  Артикльдердің дұрыс нұсқасын қойыңыз.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) the/-.<br/>",
+						choice_B: "B)  -/-.<br/>",
+						choice_C: "C) a/the.<br/>",
+						choice_D: "D)  the/the.<br/>",
+						choice_E: "E)  the/a. <br/>",
+						number: 6,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "7)  Етістіктен жасалған  зат есімді табыңыз<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) socialist<br/>",
+						choice_B: "B)  building<br/>",
+						choice_C: "C) socialism <br/>",
+						choice_D: "D)  winter<br/>",
+						choice_E: "E)  continent<br/>",
+						number: 7,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "8)  Саналмайтын зат есім:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Wheat.<br/>",
+						choice_B: "B)  Cattle-farm.<br/>",
+						choice_C: "C) Competіtіon.<br/>",
+						choice_D: "D)  Plot.<br/>",
+						choice_E: "E)  Monument. <br/>",
+						number: 8,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "9)  Префикс арқылы жасалған eтістікті табыңыз<br/>",
+						answer: "A<br/>",
+						choice_A: "А) misdo<br/>",
+						choice_B: "B)  lighten <br/>",
+						choice_C: "C) characterise <br/>",
+						choice_D: "D)  agree<br/>",
+						choice_E: "E)  stand<br/>",
+						number: 9,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "10)  Жекеше тордегі зат есім.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) notebook.<br/>",
+						choice_B: "B)  bags.<br/>",
+						choice_C: "C) games.<br/>",
+						choice_D: "D)  pens.<br/>",
+						choice_E: "E)  books. <br/>",
+						number: 10,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "11)  Етістікті табыңыз<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Pleasant.<br/>",
+						choice_B: "B)  Fog.<br/>",
+						choice_C: "C) Freeze.<br/>",
+						choice_D: "D)  Cold.<br/>",
+						choice_E: "E)  Hot. <br/>",
+						number: 11,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "12)  Сөздің дұрыс аудармасын таңдаңыз:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Pleasant.<br/>",
+						choice_B: "B)  Displeasant.<br/>",
+						choice_C: "C) Repleasant.<br/>",
+						choice_D: "D)  Mispleasant.<br/>",
+						choice_E: "E)  Unpleasant. <br/>",
+						number: 12,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "13)  Лайықты сөзді таңдаңыз: <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) based <br/>",
+						choice_B: "B)  thrown <br/>",
+						choice_C: "C) proposed<br/>",
+						choice_D: "D)  locked <br/>",
+						choice_E: "E)  stolen<br/>",
+						number: 13,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "14)  Сөйлемдi толықтырыңыз<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) manager of office<br/>",
+						choice_B: "B)  manager’s office<br/>",
+						choice_C: "C) offices’ manager<br/>",
+						choice_D: "D)  managers office<br/>",
+						choice_E: "E)  office’s manager<br/>",
+						number: 14,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "15)  Сөйлемді Present Perfect-те толықтырыңыз<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) are finished<br/>",
+						choice_B: "B)  is finished<br/>",
+						choice_C: "C) have finished<br/>",
+						choice_D: "D)  had finished<br/>",
+						choice_E: "E)  has finished <br/>",
+						number: 15,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "16)  Жауаптың дұрыс вариантын таңдаңыз: <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) owl<br/>",
+						choice_B: "B)  hen<br/>",
+						choice_C: "C) swan<br/>",
+						choice_D: "D)  cuckoo<br/>",
+						choice_E: "E)  eagle<br/>",
+						number: 16,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "17)  Сөйлемді аяқтаңыз:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) now.<br/>",
+						choice_B: "B)  then.<br/>",
+						choice_C: "C) tomorrow<br/>",
+						choice_D: "D)  yet.<br/>",
+						choice_E: "E)  yesterday. <br/>",
+						number: 17,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "18)  “to be going to’’ айналымымен сөйлемді табыңыз<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) He’s staying at this hotel.<br/>",
+						choice_B: "B)  She is good at mathematics.<br/>",
+						choice_C: "C) Are you going to come to the meeting tomorrow?<br/>",
+						choice_D: "D)  She’s writing to her mother.<br/>",
+						choice_E: "E)  We’re going to the theatre tonight. <br/>",
+						number: 18,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "19)  Аударманың дұрыс нұсқасын табыңыз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Ол келе алмауы мүмкін<br/>",
+						choice_B: "B)  Ол келмесе де болады <br/>",
+						choice_C: "C) Оған келуге рұқсат бермейді <br/>",
+						choice_D: "D)  Ол келе алады<br/>",
+						choice_E: "E)  Ол келе алмайды<br/>",
+						number: 19,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "20)  Артикльді дұрыс таңдаңыз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) a / --<br/>",
+						choice_B: "B)  a / the<br/>",
+						choice_C: "C) –- / the<br/>",
+						choice_D: "D)  the / the<br/>",
+						choice_E: "E)  The / --<br/>",
+						number: 20,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "21)  Есімдіктің дұрыс нұсқасын таңдаңыз:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Anything.<br/>",
+						choice_B: "B)  Somebody.<br/>",
+						choice_C: "C) Some.<br/>",
+						choice_D: "D)  Nothing.<br/>",
+						choice_E: "E)  No. <br/>",
+						number: 21,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "22)  Мағынасы ұқсас мақалды таңдаңыз:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Let sleepіng dogs lіe.<br/>",
+						choice_B: "B)  Don’t count your chіckens before they are hatched.<br/>",
+						choice_C: "C) Fortune favours the brave.<br/>",
+						choice_D: "D)  Half a loaf іs better than no bread.<br/>",
+						choice_E: "E)  Busіness before pleasure. <br/>",
+						number: 22,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "23)  Сөйлемді аяқтаңыз:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) be fond<br/>",
+						choice_B: "B)  am fond<br/>",
+						choice_C: "C) are fond<br/>",
+						choice_D: "D)  іs fond<br/>",
+						choice_E: "E)  to be fond<br/>",
+						number: 23,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "24)  Төмендегі сөзге  антоним табыңыз:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Unknown.<br/>",
+						choice_B: "B)  Charming.<br/>",
+						choice_C: "C) Attractive.<br/>",
+						choice_D: "D)  Common.<br/>",
+						choice_E: "E)  Well-known. <br/>",
+						number: 24,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "25)  Дұрыс сұрақ<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Do you like the salad?<br/>",
+						choice_B: "B)  What is the most typical dish in your country<br/>",
+						choice_C: "C) Could you show us the menu,please?<br/>",
+						choice_D: "D)  What do you want?<br/>",
+						choice_E: "E)  Anything else? <br/>",
+						number: 25,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "1)  Жаңа индустриалды елдер.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Гонконг, Ветьнам.<br/>",
+						choice_B: "B)  Корея, Сингапур.<br/>",
+						choice_C: "C) Қытай, Тайланд.<br/>",
+						choice_D: "D)  Аргентина, Мексика.<br/>",
+						choice_E: "E)  Бразилия, Уругвай. <br/>",
+						number: 1,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "2)  Халқының саны көп халық:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) американдықтар<br/>",
+						choice_B: "B)  орыстар<br/>",
+						choice_C: "C) үндістер<br/>",
+						choice_D: "D)  қытайлықтар<br/>",
+						choice_E: "E)  ағылшын <br/>",
+						number: 2,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "3)  Қазақстан территориясына шамалы жауын-шашын әкелетін ауа массалары.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Қоңыржай.<br/>",
+						choice_B: "B)  Арктикалық.<br/>",
+						choice_C: "C) Экваторлық.<br/>",
+						choice_D: "D)  Субтропиктік.<br/>",
+						choice_E: "E)  Тропиктік. <br/>",
+						number: 3,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "4)  Нәсілдік белгілердің қалыптасуына ... әсер етті:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Қоршаған орта<br/>",
+						choice_B: "B)  Ақыл- ой қабілеті<br/>",
+						choice_C: "C) Халықтың дамуы<br/>",
+						choice_D: "D)  Қоғамның дамуы<br/>",
+						choice_E: "E)  Экономикалық даму <br/>",
+						number: 4,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "5)  Мұхиттағы табиғат кешендерін ... байланысты айырады.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) жер бетіне шығып жатқан вулкандарға<br/>",
+						choice_B: "B)  аралдар мен түбектерге<br/>",
+						choice_C: "C) ендікке<br/>",
+						choice_D: "D)  мұхит түбінің әртүрлі тереңдігіне<br/>",
+						choice_E: "E)  биіктік белдеуге<br/>",
+						number: 5,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "6)  Қазақстандағы ферроқорытпа зауыттары:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Қостанай, Көкшетау<br/>",
+						choice_B: "B)  Ақсу, Ақтөбе<br/>",
+						choice_C: "C) Арал, Алматы<br/>",
+						choice_D: "D)  Кентау, Ақтау<br/>",
+						choice_E: "E)  Жезқазған, Жезді <br/>",
+						number: 6,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "7)  Жапонияның ұлттық символы болып табылатын табиғи объектіні көрсетіңіз.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Сагами шығанағы.<br/>",
+						choice_B: "B)  Кисо өзені.<br/>",
+						choice_C: "C) Окинава аралы.<br/>",
+						choice_D: "D)  Фудзияма вулканы.<br/>",
+						choice_E: "E)  Асахи тауы. <br/>",
+						number: 7,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "8)  Солтүстік полюстен Гренланд теңізіне дейін ығып барған экспедиция басшысы<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) М.Ломоносов.<br/>",
+						choice_B: "B)  Р.Амундсен.<br/>",
+						choice_C: "C) И.Д.Потанин.<br/>",
+						choice_D: "D)  С.Макаров.<br/>",
+						choice_E: "E)  Г.Седов. <br/>",
+						number: 8,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "9)  Жайық, Сырдария өзендері туралы алғашқы мәліметтер қалдырған:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Әл-Идриси<br/>",
+						choice_B: "B)  Ш. Уәлиханов<br/>",
+						choice_C: "C) Геродот <br/>",
+						choice_D: "D)  Әл-Фараби<br/>",
+						choice_E: "E)  М. Қашқари  <br/>",
+						number: 9,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "10)  Мұхит түбінің үштен бір көлемін құрайтын Үлкен қайраң (шельф) ... орналасқан.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Атлант мұхитында<br/>",
+						choice_B: "B)  Солтүстік Мұзды мұхитында<br/>",
+						choice_C: "C) Тынық мұхитында<br/>",
+						choice_D: "D)  Үнді мұхитында<br/>",
+						choice_E: "E)  Аравия теңізінде<br/>",
+						number: 10,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "11)  Шымкенттің фосфор тұздарын өндіретін зауыты шикізатты алады.<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Арқалықтан.<br/>",
+						choice_B: "B)  Павлодардан.<br/>",
+						choice_C: "C) Қызылордадан.<br/>",
+						choice_D: "D)  Ақтөбеден.<br/>",
+						choice_E: "E)  Қаратаудан. <br/>",
+						number: 11,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "12)  Түсті металлургия ... комбинаттардан тұрады.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) қайта өңдейтін<br/>",
+						choice_B: "B)  комплексті<br/>",
+						choice_C: "C) толық циклді<br/>",
+						choice_D: "D)  байыту<br/>",
+						choice_E: "E)  жартылай циклді <br/>",
+						number: 12,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "13)  Ұсақ  масштаб<br/>",
+						answer: "A<br/>",
+						choice_A: "А) 1 : 2 000 000.<br/>",
+						choice_B: "B)  1 : 1 000 000.<br/>",
+						choice_C: "C) 1 : 2 000.<br/>",
+						choice_D: "D)  1 : 10 000.<br/>",
+						choice_E: "E)  1 : 50 000. <br/>",
+						number: 13,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "14)  Қазақстанның негізгі табиғи газ қоры шоғырланған жер :<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Шымкент<br/>",
+						choice_B: "B)  Қарағанды<br/>",
+						choice_C: "C) Ақтөбе<br/>",
+						choice_D: "D)  Павлодар<br/>",
+						choice_E: "E)  Маңғыстау түбегі <br/>",
+						number: 14,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "15)  Дүние жүзін алғаш рет айналып шыққан саяхатшы:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Н.М.Преживальский<br/>",
+						choice_B: "B)  Х. Колумб<br/>",
+						choice_C: "C) Ф. Магеллан<br/>",
+						choice_D: "D)  Васко да Гама<br/>",
+						choice_E: "E)  Дж. Кук <br/>",
+						number: 15,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "16)  Еуропаның биік тауы:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Алпі.<br/>",
+						choice_B: "B)  Аппалач.<br/>",
+						choice_C: "C) Қырым.<br/>",
+						choice_D: "D)  Орал.<br/>",
+						choice_E: "E)  Хибин. <br/>",
+						number: 16,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "17)  Антропогендік табиғат кешені.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Бөгендер мен демалыс парктері.<br/>",
+						choice_B: "B)  Көлдер мен батпақтар.<br/>",
+						choice_C: "C) Өзен аңғарлары.<br/>",
+						choice_D: "D)  Орман.<br/>",
+						choice_E: "E)  Шөлдер. <br/>",
+						number: 17,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "18)  Жер шарындағы ең терең көл - Байкалдың тереңдігі:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 1610 м.<br/>",
+						choice_B: "B)  1640 м.<br/>",
+						choice_C: "C) 1650 м. <br/>",
+						choice_D: "D)  1600 м.<br/>",
+						choice_E: "E)  1620 м. <br/>",
+						number: 18,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "19)  Мұхиттағы табиғат кешендерін ... байланысты айырады.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) жер бетіне шығып жатқан вулкандарға<br/>",
+						choice_B: "B)  аралдар мен түбектерге<br/>",
+						choice_C: "C) ендікке<br/>",
+						choice_D: "D)  мұхит түбінің әртүрлі тереңдігіне<br/>",
+						choice_E: "E)  биіктік белдеуге<br/>",
+						number: 19,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "20)  Жер шарын бірінші рет айналып шыққан адам-<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Джон Кабот.<br/>",
+						choice_B: "B)  Вaско да Гама.<br/>",
+						choice_C: "C) Джеймс Кук.<br/>",
+						choice_D: "D)  Христофор Колумб.<br/>",
+						choice_E: "E)  Фернан Магеллан. <br/>",
+						number: 20,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "21)  Үндістер ... байырғы халықтары.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Европаның<br/>",
+						choice_B: "B)  Антарктиданың<br/>",
+						choice_C: "C) Азияның<br/>",
+						choice_D: "D)  Американың<br/>",
+						choice_E: "E)  Австралияның<br/>",
+						number: 21,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "22)  Сарыарқаның биік нүктесі.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Ақсоран.<br/>",
+						choice_B: "B)  Мұзбел.<br/>",
+						choice_C: "C) Мұзтау.<br/>",
+						choice_D: "D)  Хан тәңірі.<br/>",
+						choice_E: "E)  Бесбақан. <br/>",
+						number: 22,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "23)  Жердегі белгілі бір зат пен солтүстік бағыт арасындағы  бұрыш:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) полюс<br/>",
+						choice_B: "B)  нивелир<br/>",
+						choice_C: "C) азимут<br/>",
+						choice_D: "D)  масштаб<br/>",
+						choice_E: "E)  рулетка <br/>",
+						number: 23,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "24)  Меридиан доғасының экватордан берілген жерге дейінгі градуспен алынған шамасы:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) бойлық<br/>",
+						choice_B: "B)  меридиан<br/>",
+						choice_C: "C) экватор<br/>",
+						choice_D: "D)  ендік<br/>",
+						choice_E: "E)  параллель <br/>",
+						number: 24,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "25)  Республикамыздың қай аймағында халық басым қоныстанған: <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Орталығында.<br/>",
+						choice_B: "B)  Шығысында, Батысында.<br/>",
+						choice_C: "C) Солтүстік-батысында.<br/>",
+						choice_D: "D)  Оңтүстігінде және Солтүстігінде.<br/>",
+						choice_E: "E)  Солтүстігінде, Орталығында. <br/>",
+						number: 25,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "1)  Қарағанды облысы Теміртау қаласында әлеуметтік саясатқа қарсы ашық наразылық болған жыл:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) 1959  <br/>",
+						choice_B: "B)  1961 <br/>",
+						choice_C: "C) 1960<br/>",
+						choice_D: "D)  1958 <br/>",
+						choice_E: "E)  1957 <br/>",
+						number: 1,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "2)  Қасым ханнан кейінгі талас-тартыстың салдарынан әлсіреп қалған хандықты қайтадан нығайтқан ханның баласы:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Ақназар.<br/>",
+						choice_B: "B)  Бақназар.<br/>",
+						choice_C: "C) Ерназар.<br/>",
+						choice_D: "D)  Хақназар.<br/>",
+						choice_E: "E)  Сақназар. <br/>",
+						number: 2,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "3)  Республикада 1954 мен 1986 жылдар аралағында жабылған қазақ тіліндегі мектептер саны:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 300 ден астам.<br/>",
+						choice_B: "B)  500 ден астам.<br/>",
+						choice_C: "C) 400 ден астам.<br/>",
+						choice_D: "D)  700 ден астам.<br/>",
+						choice_E: "E)  600 ден астам. <br/>",
+						number: 3,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "4)  Қарақытайлар мемлекетінің басшысы:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Шаньюй.<br/>",
+						choice_B: "B)  Горхан.<br/>",
+						choice_C: "C) Падишах.<br/>",
+						choice_D: "D)  Шах.<br/>",
+						choice_E: "E)  Патша. <br/>",
+						number: 4,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "5)  1710 жылы жоңғарларға қарсы үш жүздің басын қосқан:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Тәуке хан.<br/>",
+						choice_B: "B)  Қасым хан.<br/>",
+						choice_C: "C) Жәңгір хан.<br/>",
+						choice_D: "D)  Әбілқайыр.<br/>",
+						choice_E: "E)  Сұлтан Қайып. <br/>",
+						number: 5,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "6)  I Дарий әскерін шөл далаға апарып қырған сақ малшысы:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Спаргапис.<br/>",
+						choice_B: "B)  Бахтиар.<br/>",
+						choice_C: "C) Рустем.<br/>",
+						choice_D: "D)  Шарыш.<br/>",
+						choice_E: "E)  Ширақ. <br/>",
+						number: 6,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "7)  Белгілі түрколог Дж.Клоусонның болжамы бойынша алғашқы түркеш теңгелері соғылған қала:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Фараб.<br/>",
+						choice_B: "B)  Соғды.<br/>",
+						choice_C: "C) Ақбешім (Суяб).<br/>",
+						choice_D: "D)  Отырар.<br/>",
+						choice_E: "E)  Тараз. <br/>",
+						number: 7,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "8)  Қыпшақ қауымында малдарынан айырылған қауым мүшесі ...<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) қолөнершілерге айналды.<br/>",
+						choice_B: "B)  саудагерге айналды.<br/>",
+						choice_C: "C) құлға айналды.<br/>",
+						choice_D: "D)  қала тұрғынына айналды.<br/>",
+						choice_E: "E)  жатақтарға айналды. <br/>",
+						number: 8,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "9)  Еуропаны «дүр сілкіндірген» ғұндардың атақты патшасы:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Анақарыс.<br/>",
+						choice_B: "B)  Алпамыс.<br/>",
+						choice_C: "C) Атлант.<br/>",
+						choice_D: "D)  Аттика.<br/>",
+						choice_E: "E)  Аттила. <br/>",
+						number: 9,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "10)  1919 жылы қазақ өлкесіндегі жоғарғы әскери-азаматтық басқарма:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Ревтрибунал.<br/>",
+						choice_B: "B)  Қазақ АКСР ХКК.<br/>",
+						choice_C: "C) Қазақ АКСР төтенше комитеті.<br/>",
+						choice_D: "D)  Қазревком.<br/>",
+						choice_E: "E)  Қазақ АКСР ОАК. <br/>",
+						number: 10,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "11)  Қазақтын батыр қызы, мерген:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Роза.<br/>",
+						choice_B: "B)  Әлия.<br/>",
+						choice_C: "C) Шынар.<br/>",
+						choice_D: "D)  Мәншүк.<br/>",
+						choice_E: "E)  Айжан. <br/>",
+						number: 11,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "12)  Алтын Орданың билеушісі, барлық қарулы күштерінің бас қолбасшысы:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Батыр.<br/>",
+						choice_B: "B)  Жырау.<br/>",
+						choice_C: "C) Хақан.<br/>",
+						choice_D: "D)  Би.<br/>",
+						choice_E: "E)  Хан. <br/>",
+						number: 12,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "13)  1920 жылғы маусымда революцияға қарсы бүлік болған қала.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Семей.<br/>",
+						choice_B: "B)  Орал.<br/>",
+						choice_C: "C) Ақмола.<br/>",
+						choice_D: "D)  Верный.<br/>",
+						choice_E: "E)  Орынбор. <br/>",
+						number: 13,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "14)  «Қазақ ұлтының өмір сүруінің өзі проблемаға айналды» - деп 1913 жылы жазған қазақтың зиялы азаматы:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Тоқаш Бокин.<br/>",
+						choice_B: "B)  Бекболат Әшекеев.<br/>",
+						choice_C: "C) Ахмет Байтұрсынов.<br/>",
+						choice_D: "D)  Әліби Жангелдин.<br/>",
+						choice_E: "E)  Амангелді Иманов. <br/>",
+						number: 14,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "15)  Қазақ хандығының құрылған кезінен бастап Шайбани ұрпақтарымен қазақ хандарының арасындағы Оңтүстік Қазақстан және Сыр бойындағы қалалар үшін шайқас қай ханның кезінде аяқталды?<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Жәңгір.<br/>",
+						choice_B: "B)  Тәуекел.<br/>",
+						choice_C: "C) Хақназар.<br/>",
+						choice_D: "D)  Есім.<br/>",
+						choice_E: "E)  Қасым. <br/>",
+						number: 15,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "16)  1916 жылғы көтерілістің негізгі қозғаушы күші:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Қазақ болыстары.<br/>",
+						choice_B: "B)  Қазақ шаруалары мен қолөнершілері.<br/>",
+						choice_C: "C) Қазақ сұлтандары.<br/>",
+						choice_D: "D)  Қазақ интеллигенциясы.<br/>",
+						choice_E: "E)  Қазақ байлары. <br/>",
+						number: 16,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "17)  I Дарий әскерін шөл далаға апарып қырған сақ малшысы:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Шарыш.<br/>",
+						choice_B: "B)  Рустем.<br/>",
+						choice_C: "C) Бахтиар.<br/>",
+						choice_D: "D)  Спаргапис.<br/>",
+						choice_E: "E)  Ширақ. <br/>",
+						number: 17,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "18)  Азамат соғысы жылдары құрылған Тарбағатай мен Алтайдағы партизан полкі.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) “Дала қырандары”.<br/>",
+						choice_B: "B)  “Алтай қырандары”.<br/>",
+						choice_C: "C) “Алтайдың қызыл тау қырандары”.<br/>",
+						choice_D: "D)  “Қызыл қырандар”.<br/>",
+						choice_E: "E)  “Қыран дружинасы”.<br/>",
+						number: 18,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "19)  1930-32 жж. еліміздегі жаппай етек алған жағдай:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Экономикалық дағдарыс.<br/>",
+						choice_B: "B)  Саяси дағдарыс.<br/>",
+						choice_C: "C) Діни негіздегі қарама-қайшылық.<br/>",
+						choice_D: "D)  Ашаршылық.<br/>",
+						choice_E: "E)  Қаржы дағдарысы. <br/>",
+						number: 19,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "20)  Ұлы Отан соғысына дейінгі бесжылдық қорытындысы бойынша бірінші орынға шыққан Қазақстан өндірісі:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Мұнай.<br/>",
+						choice_B: "B)  Мыс.<br/>",
+						choice_C: "C) Көмір.<br/>",
+						choice_D: "D)  Қорғасын.<br/>",
+						choice_E: "E)  Түсті металл. <br/>",
+						number: 20,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "21)  Е.Пугачев бастаған шаруалар соғысына қатысқан қазақ сұлтаны<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Досалы.<br/>",
+						choice_B: "B)  Иман.<br/>",
+						choice_C: "C) Дәуқара.<br/>",
+						choice_D: "D)  Жанқожа.<br/>",
+						choice_E: "E)  Бөгенбай. <br/>",
+						number: 21,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "22)  Қай жылы Ертіс шебінің полктері Бородино шайқасына қатысты?<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 1813 ж.<br/>",
+						choice_B: "B)  1814 ж.<br/>",
+						choice_C: "C) 1815 ж.<br/>",
+						choice_D: "D)  1810 ж. <br/>",
+						choice_E: "E)  1812 ж. <br/>",
+						number: 22,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "23)  Кеңес қоғамының саяси жүйесіне тән белгілер:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Кәсіподақтарға дербестік беру.<br/>",
+						choice_B: "B)  Қоғамдық ұйымдардың белсенділігін арттыру.<br/>",
+						choice_C: "C) Еңбек адамын меншік пен билікке жақындатпау.<br/>",
+						choice_D: "D)  Кеңестерге демократиялық мүмкіндіктер беру.<br/>",
+						choice_E: "E)  Демократияны өрістету. <br/>",
+						number: 23,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "24)  Ұлы Отан соғысы алдында халықтық құрылыс әдісімен каналдар мен суландыру жүйелері салынған аудан.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Қызылқұм.<br/>",
+						choice_B: "B)  Сарыарқа.<br/>",
+						choice_C: "C) Қарақұм.<br/>",
+						choice_D: "D)  Бетпақдала.<br/>",
+						choice_E: "E)  Мойынқұм. <br/>",
+						number: 24,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "25)  Қазақстан аумағында ертефеодалдық кезеңде исламды бірінші болып мемлекеттік дін деп жариялаған.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Қарахандықтар.<br/>",
+						choice_B: "B)  Түркештер.<br/>",
+						choice_C: "C) Наймандар.<br/>",
+						choice_D: "D)  Қыпшақтар.<br/>",
+						choice_E: "E)  Қарлұқтар. <br/>",
+						number: 25,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "1)  Төл сөзді сөйлемді көрсетіңіз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) “Тарақ” деген сөздегі “та” буыны – ашық буын.<br/>",
+						choice_B: "B)  Ұста: “Бұны қайдан көрдім?” – деп ойлады.<br/>",
+						choice_C: "C) “Қол ұстату” деген ырым осы.<br/>",
+						choice_D: "D)  “Қозы Көрпеш – Баян сұлу” жырын оқыдың ба?<br/>",
+						choice_E: "E)  Сен дегенде ойым таза.<br/>",
+						number: 1,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "2)  “Ұ” дыбысы қай сөзде жазылатынын көрсетіңіз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) С...мке.<br/>",
+						choice_B: "B)  ...стаған.<br/>",
+						choice_C: "C) Жая...лап.<br/>",
+						choice_D: "D)  Т...сін.<br/>",
+						choice_E: "E)  Т...скен.<br/>",
+						number: 2,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "3)  Қысаң дауысты дыбыстарды көрсетіңіз.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Ү, У, Е.<br/>",
+						choice_B: "B)  А, Ә, И.<br/>",
+						choice_C: "C) Э, Е, Ү.<br/>",
+						choice_D: "D)  Ы, Ұ, И.<br/>",
+						choice_E: "E)  Ә, Ү, Ы.<br/>",
+						number: 3,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "4)  Дұрыс жазылған одағайды табыңыз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Құрметті достым; амансың ба?<br/>",
+						choice_B: "B)  Шіркін, ақын болсаң, осындай бол!<br/>",
+						choice_C: "C) Әрине, оның айтқаны дұрыс.<br/>",
+						choice_D: "D)  Аллаңнан ойбайым тыныш.<br/>",
+						choice_E: "E)  Арылма, өлең, арылма.<br/>",
+						number: 4,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "5)  Төрт буыннан тұратын сөзді көрсетіңіз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Төзімді. <br/>",
+						choice_B: "B)  Саңырауқұлақ.<br/>",
+						choice_C: "C) Шаруашылық.<br/>",
+						choice_D: "D)  Жақсылық.<br/>",
+						choice_E: "E)  Орта.<br/>",
+						number: 5,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "6)  Сын есімнің шырай түрін көрсетіңіз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) 3<br/>",
+						choice_B: "B)  4<br/>",
+						choice_C: "C) 2<br/>",
+						choice_D: "D)  5<br/>",
+						choice_E: "E)  1<br/>",
+						number: 6,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "7)  Тәуелденген зат есімді көрсетіңіз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Үйлерге.<br/>",
+						choice_B: "B)  Қонақтар.<br/>",
+						choice_C: "C) Атыңыз.<br/>",
+						choice_D: "D)  Темірсің.<br/>",
+						choice_E: "E)  Таумен.<br/>",
+						number: 7,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "8)  Еліктеуішті сөз тіркесін табыңыз.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Назданып сөйлесу.<br/>",
+						choice_B: "B)  Тал шыбықтай бұраңдайды.<br/>",
+						choice_C: "C) Еріксіз күліп жіберді.<br/>",
+						choice_D: "D)  Сылқ-сылқ күліп жіберді.<br/>",
+						choice_E: "E)  Елден алдырыпты.<br/>",
+						number: 8,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "9)  Сөйлем түрін белгілеңіз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Хабарлы сөйлем.<br/>",
+						choice_B: "B)  Бұйрықты сөйлем.<br/>",
+						choice_C: "C) Лепті сөйлем.<br/>",
+						choice_D: "D)  Жай сөйлем.<br/>",
+						choice_E: "E)  Сұраулы сөйлем.<br/>",
+						number: 9,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "10)  Тасымалданбайтын сөздер тобын анықтаңыз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Атақты, шалқу, маңызды.<br/>",
+						choice_B: "B)  От, қарт, сия.<br/>",
+						choice_C: "C) Ғарыш, бетін, мұндай.<br/>",
+						choice_D: "D)  Сабақ, мектеп, таңертең.<br/>",
+						choice_E: "E)  Күндіз, келесі, тамаша.<br/>",
+						number: 10,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "11)  Ма, ме, ба, бе, па, пе шылауларының қатысуымен жасалатын сөйлемді атаңыз.<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Хабарлы сөйлем.<br/>",
+						choice_B: "B)  Бұйрықты сөйлем.<br/>",
+						choice_C: "C) Лепті сөйлем.<br/>",
+						choice_D: "D)  Жай сөйлем.<br/>",
+						choice_E: "E)  Сұраулы сөйлем.<br/>",
+						number: 11,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "12)  Жақсыз сөйлемнің анықтамасын көрсетіңіз.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Бір ғана сөзден жасалса.<br/>",
+						choice_B: "B)  Іс, оқиғаны баяндамай, атап қана тұратын сөйлем.<br/>",
+						choice_C: "C) Сөйлемнің оқшау келетін түрі.<br/>",
+						choice_D: "D)  Баяндауыштың өзі сөйлемге негіз болатын түрі.<br/>",
+						choice_E: "E)  Ойға қатысты сөйлем мүшелерінің қатысуы.<br/>",
+						number: 12,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "13)  Үндестік заңына бағынбайтын септік жалғауын көрсетіңіз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Барыс септік жалғауы.<br/>",
+						choice_B: "B)  Шығыс септік жалғауы.<br/>",
+						choice_C: "C) Көмектес септік жалғауы.<br/>",
+						choice_D: "D)  Табыс септік жалғауы<br/>",
+						choice_E: "E)  Жатыс септік жалғауы.<br/>",
+						number: 13,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "14)  Бейнелеуіш сөз қатысып тұрған сөйлемді көрсетіңіз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Ауыл сыртынан саңқ етіп бұйрық берген дауыс шықты.<br/>",
+						choice_B: "B)  Ауыздықтарын қарш-қарш шайнап аттар тыпыршиды .<br/>",
+						choice_C: "C) Екі көзі үлкейіп ашу шақыратындай жалт-жұлт етеді.<br/>",
+						choice_D: "D)  Олар сарт-сұрт еткен дауысқа жалт қарады.<br/>",
+						choice_E: "E)  Шабыттан қызынған ақынның маңдайы тершіп, даусы саңқылдап шықты.<br/>",
+						number: 14,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "15)  Туынды сөзді табыңыз.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Айбындылық, ұрыншақ.<br/>",
+						choice_B: "B)  Мектеп, мол.<br/>",
+						choice_C: "C) Сау, көр.<br/>",
+						choice_D: "D)  Бала, шәкірт.<br/>",
+						choice_E: "E)  Мұғалім, емтихан.<br/>",
+						number: 15,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "16)  Тыныс белгісі дұрыс қойылған одағайды табыңыз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Моһ моһ, менің асау тайым.<br/>",
+						choice_B: "B)  Мен не қылдым, япырмау?<br/>",
+						choice_C: "C) Алма, алманы әкел.<br/>",
+						choice_D: "D)  Бәрекелді мынау, қызық екен.<br/>",
+						choice_E: "E)  Ей аққу, сәлем деші жолыққанда.<br/>",
+						number: 16,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "17)  Жақсыз сөйлемді табыңыз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Ауылдың малы өсті.<br/>",
+						choice_B: "B)  Асан ұйықтап қалды.<br/>",
+						choice_C: "C) Досанның тауға барғысы келді.<br/>",
+						choice_D: "D)  Бұл - үлкен сыйлық.<br/>",
+						choice_E: "E)  Ермек өте жақсы оқиды.<br/>",
+						number: 17,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "18)  Қаратпа сөзді белгілеңіз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Пай-пай, киелі неткен жер!<br/>",
+						choice_B: "B)  Балаларым, сөзімді тыңда.<br/>",
+						choice_C: "C) Қырға құстар келді.<br/>",
+						choice_D: "D)  Әнеки, ілулі тұр ақ семсері.<br/>",
+						choice_E: "E)  Қасыңдамын, міне, тұрмын.<br/>",
+						number: 18,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "19)  Буын құрай алатын дыбыстарды белгілеңіз.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Дауысты дыбыстар.<br/>",
+						choice_B: "B)  Үнді дауыссыз дыбыстар.<br/>",
+						choice_C: "C) Дауыссыз дыбыстар.<br/>",
+						choice_D: "D)  Қатаң дауыссыз дыбыстар.<br/>",
+						choice_E: "E)  Ұяң дауыссыз дыбыстар.  <br/>",
+						number: 19,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "20)  Етістіктердің ішінен туынды етістікті табыңыз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Оқы, көр.<br/>",
+						choice_B: "B)  Жасар, бірік.<br/>",
+						choice_C: "C) Кір, шық.<br/>",
+						choice_D: "D)  Жүрді, тұрады.<br/>",
+						choice_E: "E)  Тұрды, отыр.<br/>",
+						number: 20,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "21)  Жинақтық сан есімді табыңыз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Үш-үштен.<br/>",
+						choice_B: "B)  Жиырма екі. <br/>",
+						choice_C: "C) Бесеу.<br/>",
+						choice_D: "D)  Оннан үш.<br/>",
+						choice_E: "E)  Жүз.<br/>",
+						number: 21,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "22)  Жіктеу есімдігін табыңыз.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Мен.<br/>",
+						choice_B: "B)  Сол.<br/>",
+						choice_C: "C) Мынау.<br/>",
+						choice_D: "D)  Кім?<br/>",
+						choice_E: "E)  Барлық.<br/>",
+						number: 22,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "23)  Қате жазылған болжалдық сан есімді табыңыз.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) 1000-дап.<br/>",
+						choice_B: "B)  100-деген.<br/>",
+						choice_C: "C) Сағат 5-терде.<br/>",
+						choice_D: "D)  10 даған.<br/>",
+						choice_E: "E)  Қырық-елу.<br/>",
+						number: 23,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "24)  Қаратпа сөзі бар сөйлемді табыңыз.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Құр, жануар, құр.<br/>",
+						choice_B: "B)  О не дегенің?<br/>",
+						choice_C: "C) Өлтіре алмас, алайда, өлеңді ешкім.<br/>",
+						choice_D: "D)  Қош болыңдар, амандықпен кездесейік.<br/>",
+						choice_E: "E)  Жоқ, дұрыс емес.<br/>",
+						number: 24,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "25)  Тұрақты сөз тіркесін белгілеңіз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Мұзды еріту.<br/>",
+						choice_B: "B)  Мұздай суық.<br/>",
+						choice_C: "C) Мұзға отырғызып кету.<br/>",
+						choice_D: "D)  Мұз айдыны.<br/>",
+						choice_E: "E)  Мұзда сырғанау.<br/>",
+						number: 25,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "1)  «Қамар сұлу» романында көтерілген мәселені анықтаңыз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Жер дауы.<br/>",
+						choice_B: "B)  Әйел теңсіздігі.<br/>",
+						choice_C: "C) Жесір дауы.<br/>",
+						choice_D: "D)  Қалың мал.<br/>",
+						choice_E: "E)  Кедей теңдігі. <br/>",
+						number: 1,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "2)  Найман-Ана аңызындағы (Ш.Айтматов ) оқиға қай жерде өтетінін табыңыз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Шекер ауылында.<br/>",
+						choice_B: "B)  Ош оймағында.<br/>",
+						choice_C: "C) Сарыөзекте.<br/>",
+						choice_D: "D)  Ыстықкөлде.<br/>",
+						choice_E: "E)  Таразда. <br/>",
+						number: 2,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "3)  «Алтын сақа» ертегісінде жанынан қорыққан байдың жалмауызға бермек болған нәрсесін атаңыз.<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Жылқысын.<br/>",
+						choice_B: "B)  Алтын сақасын.<br/>",
+						choice_C: "C) Дүниесін.<br/>",
+						choice_D: "D)  Жанын.<br/>",
+						choice_E: "E)  Жалғыз баласын. <br/>",
+						number: 3,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "4)  Махамбет ақынның өлеңін табыңыз.<br/>",
+						answer: " E  <br/>",
+						choice_A: "А)  «Керей қайда барасың».<br/>",
+						choice_B: "B)   «Ғылым таппай, мақтанба».<br/>",
+						choice_C: "C)  «Жал – құйрығы қаба деп».<br/>",
+						choice_D: "D)   «Жанбота».<br/>",
+						choice_E: "E)   «Қызғыш құс». <br/>",
+						number: 4,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "5)  Ертегі кейіпкерін табыңыз.<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Баян.<br/>",
+						choice_B: "B)  Қарашаш.<br/>",
+						choice_C: "C) Құртқа.<br/>",
+						choice_D: "D)  Таңсық.<br/>",
+						choice_E: "E)  Күнікей. <br/>",
+						number: 5,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "6)  Асан қайғының елді аралауына не себеп болғанын белгілеңіз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Өлеңдерін тарату.<br/>",
+						choice_B: "B)  Шұрайлы жер іздеу.<br/>",
+						choice_C: "C) Игі жақсыларды жинау.<br/>",
+						choice_D: "D)  Өзінің кәсібі.<br/>",
+						choice_E: "E)  Саяхат жасау. <br/>",
+						number: 6,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "7)  М. Мақатаевтың қызмет еткен қаласын табыңыз. <br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Павлодар қаласы.<br/>",
+						choice_B: "B)  Алматы қаласы.<br/>",
+						choice_C: "C) Атырау қаласы.<br/>",
+						choice_D: "D)  Ақтау қаласы.<br/>",
+						choice_E: "E)  Орал қаласы. <br/>",
+						number: 7,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "8)  Қазақ ауыз әдебиетіндегі жаңа әйел, саналы қыз образын белгілеңіз.<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Сұлушаш<br/>",
+						choice_B: "B)  Шолпан<br/>",
+						choice_C: "C) Қамар сұлу<br/>",
+						choice_D: "D)  Баян сұлу<br/>",
+						choice_E: "E)  Айман <br/>",
+						number: 8,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "9)  Махамбет Өтемісұлының туған жерін табыңыз.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Ақмола облысы<br/>",
+						choice_B: "B)  Қызылорда облысы<br/>",
+						choice_C: "C) Атырау облысы<br/>",
+						choice_D: "D)  Батыс Қазақстан облысы<br/>",
+						choice_E: "E)  Алматы облысы <br/>",
+						number: 9,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "10)  Дағыстан халқының ақынын табыңыз.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Ғ.Ибрагимов.<br/>",
+						choice_B: "B)  С.Құдаш.<br/>",
+						choice_C: "C) М.Жәлел.<br/>",
+						choice_D: "D)  Р.Ғамзатов.<br/>",
+						choice_E: "E)  Н.Фазылов. <br/>",
+						number: 10,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "11)  М.Жұмабаевтың оқиғасы мысықтар мен тышқандар арасындағы жанжал соғысты көрсетуге арналған шығармасын белгілеңіз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) «Қойлыбайдың қобызы».<br/>",
+						choice_B: "B)  «Тоқсанның тобы».<br/>",
+						choice_C: "C) «Ертегі».<br/>",
+						choice_D: "D)  «Бала мен құс».<br/>",
+						choice_E: "E)  «Орман патшасы». <br/>",
+						number: 11,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "12)  «Егер Ғайшажанды айттыра келген болса, он құлынды бие сұрасам ба екен, болмаса таза мың теңге ақша сұрасам ба екен » деген үзінді қай шығармадан алынғандығын табыңыз.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) «Қалың мал».<br/>",
+						choice_B: "B)  «Кім жазықты».<br/>",
+						choice_C: "C) «Қамар сұлу».<br/>",
+						choice_D: "D)  «Көкшетау».<br/>",
+						choice_E: "E)  «Дала». <br/>",
+						number: 12,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "13)  Қ.Жұмаділовтің «Қаздар қайтып барады» әңгімесіндегі Байтас шалдың шекарадан өтіп, атамекендегі ескі қыстауға кіргенде не істегенін табыңыз.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Өткен өмірін ойлай бастады.<br/>",
+						choice_B: "B)  Бойтұмарын алып, сөгіп, ішіндегі бір уыс топырақты төкті.<br/>",
+						choice_C: "C) Шекпенін төсеп, үстіне жантая кетті.<br/>",
+						choice_D: "D)  Су ішіп есін жинады.<br/>",
+						choice_E: "E)  Алаңсыз ұйқыға кетті. <br/>",
+						number: 13,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "14)  Ғ. Мүсірепов жұмысшы факультетіне (рабфакқа ) оқуға қай қалада түскенін белгілеңіз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Ақтөбе.<br/>",
+						choice_B: "B)  Орынбор.<br/>",
+						choice_C: "C) Қызылжар.<br/>",
+						choice_D: "D)  Алматы.<br/>",
+						choice_E: "E)  Семей. <br/>",
+						number: 14,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "15)  Дулат Бабатайұлының өлеңін табыңыз.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) «Анаңнан асыл бар ма?!»<br/>",
+						choice_B: "B)  «Еділ бол да, Жайық бол»<br/>",
+						choice_C: "C) «Артықша туған азамат»<br/>",
+						choice_D: "D)  «Аягөз, қайда барасың?!»<br/>",
+						choice_E: "E)  «Абайдың суретіне» <br/>",
+						number: 15,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "16)  Бұқар жыраудың шығармасын табыңыз.<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) “Қамыстың басы майда, түбі сайда”<br/>",
+						choice_B: "B)  “Күмбір, күмбір кісінетіп”<br/>",
+						choice_C: "C) “Мұнар күн”<br/>",
+						choice_D: "D)  “Асқар, асқар, асқар тау”<br/>",
+						choice_E: "E)  “Жиырма деген жасыңыз”<br/>",
+						number: 16,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "17)  Хайуанаттар туралы ертегіні табыңыз.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) «Аққудың күйі»<br/>",
+						choice_B: "B)  «Тұлпар» <br/>",
+						choice_C: "C) «Ер Төстік»<br/>",
+						choice_D: "D)  «Түлкі, аю, қойшы»<br/>",
+						choice_E: "E)  «Керқұла атты Кендебай» <br/>",
+						number: 17,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "18)  Найман-Ана аңызындағы (Ш.Айтматов ) оқиға қай жерде өтетінін табыңыз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Шекер ауылында.<br/>",
+						choice_B: "B)  Ош оймағында.<br/>",
+						choice_C: "C) Сарыөзекте.<br/>",
+						choice_D: "D)  Ыстықкөлде.<br/>",
+						choice_E: "E)  Таразда. <br/>",
+						number: 18,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "19)  Қарақалпақ жерінде туған қазақ ақынын табыңыз.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Қ.Мырзалиев.<br/>",
+						choice_B: "B)  А.Бақтыгереева.<br/>",
+						choice_C: "C) М.Шаханов.<br/>",
+						choice_D: "D)  Т.Айбергенов.<br/>",
+						choice_E: "E)  Т.Молдағалиев. <br/>",
+						number: 19,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "20)  Шәкәрімнің өлеңін табыңыз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А)  «Шәкірт ойы»<br/>",
+						choice_B: "B)   «Әсемпаз болма әрнеге»<br/>",
+						choice_C: "C)  «Жастарға»<br/>",
+						choice_D: "D)   «Ғылым таппай мақтанба»<br/>",
+						choice_E: "E)   «Мен - қазақ» <br/>",
+						number: 20,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "21)  Ы.Алтынсариннің жастарға бата ретінде жазған шығармасын белгілеңіз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) «Қыпшақ Сейітқұл»<br/>",
+						choice_B: "B)  «Өнер-білім бар жұрттар»<br/>",
+						choice_C: "C) «Таза бұлақ»<br/>",
+						choice_D: "D)  «Асыл шөп»<br/>",
+						choice_E: "E)  «Кел, балалар, оқылық!» <br/>",
+						number: 21,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "22)  Абайдың баласы Әбдірахманға арнаған өлеңдері қандай туынды екенін белгілеңіз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Мадақтау өлең.<br/>",
+						choice_B: "B)  Әзіл өлең.<br/>",
+						choice_C: "C) Жоқтау өлең.<br/>",
+						choice_D: "D)  Арнау өлең.<br/>",
+						choice_E: "E)  Эпиграмма. <br/>",
+						number: 22,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "23)  «Сот реформасы туралы жазбалар», «Жоңғария очерктері» еңбектерінің авторын көрсетіңіз.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Ы.Алтынсарин.<br/>",
+						choice_B: "B)  А.Байтұрсынов.<br/>",
+						choice_C: "C) Ә.Бөкейханов.<br/>",
+						choice_D: "D)  Ш.Уәлиханов.<br/>",
+						choice_E: "E)  М.Дулатов. <br/>",
+						number: 23,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "24)  XІX ғасырдың ІІ жартысында және ХХ ғасырдың басында қазақ халқымен тығыз әдеби байланыста болған туысқан халықтарды белгілеңіз.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Қарақалпақ, араб.<br/>",
+						choice_B: "B)  Түрік, құмық.<br/>",
+						choice_C: "C) Ұйғыр, тәжік, чуваш.<br/>",
+						choice_D: "D)  Татар, қырғыз, өзбек.<br/>",
+						choice_E: "E)  Орыс, қарашай. <br/>",
+						number: 24,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "25)  ХVІІ ғасырда өмір сүрген жырауды табыңыз.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Жиембет.<br/>",
+						choice_B: "B)  Доспамбет.<br/>",
+						choice_C: "C) Шалкиіз.<br/>",
+						choice_D: "D)  Махамбет.<br/>",
+						choice_E: "E)  Асан қайғы. <br/>",
+						number: 25,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "1)  Теңдеуді шешіңіз: $5\\cos \\left( 5x - \\cfrac{\\pi}{6}\\right) = 2$<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) $\\cfrac{1}{5}arcsin \\left( \\cfrac{2}{5} \\right) + \\cfrac{\\pi}{30} + \\cfrac{\\pi}{5}k, \\quad k \\in \\mathbf{Z}$<br/>",
+						choice_B: "B) $\\cfrac{1}{5}arccos \\left( \\cfrac{2}{5} \\right) + \\cfrac{\\pi}{30} + \\cfrac{\\pi}{5}k, \\quad k \\in \\mathbf{Z}$ <br/>",
+						choice_C: "C) $\\pm \\cfrac{1}{5}arccos \\left( \\cfrac{2}{5} \\right) + \\cfrac{\\pi}{30} + \\cfrac{2\\pi}{5}k, \\quad k \\in \\mathbf{Z}$<br/>",
+						choice_D: "D)  $(-1)^k\\cfrac{1}{5}arccos \\left( \\cfrac{2}{5} \\right) + \\cfrac{2\\pi}{5}k, \\quad k \\in \\mathbf{Z}$<br/>",
+						choice_E: "E) $\\cfrac{arccos \\cfrac{2}{5}}{5} + \\cfrac{\\pi}{30} + \\cfrac{2\\pi}{5}k, \\quad k \\in \\mathbf{Z}$ <br/>",
+						number: 1,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "2)  Тік бұрышты үшбұрыштың гипотенузасы 18 см-ге тең. Гипотенузаға жүргізілген медиананы табыңыз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) 8 см.<br/>",
+						choice_B: "B)  12 см.<br/>",
+						choice_C: "C) 9 см.<br/>",
+						choice_D: "D)  10 см.<br/>",
+						choice_E: "E)  11 см. <br/>",
+						number: 2,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "3)  Көбейткішке жіктеңіз:  х(у-z)–(z–y)<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) y(x–z)<br/>",
+						choice_B: "B)  (x+1)(z–y)<br/>",
+						choice_C: "C) (x+1)(y–z)<br/>",
+						choice_D: "D)  (x–1)(z–y)<br/>",
+						choice_E: "E)  (x-1)(y–z) <br/>",
+						number: 3,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "4)  Өрнекті ықшамдаңыздар:  $\\left(2x + 1 - \\cfrac{1}{1 - 2x} \\right) : \\left( 2x - \\cfrac{4x^2}{2x - 1} \\right)$<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 5.<br/>",
+						choice_B: "B)  2x.<br/>",
+						choice_C: "C) 1 - 2x.<br/>",
+						choice_D: "D)  2x - 1.<br/>",
+						choice_E: "E)  -2x. <br/>",
+						number: 4,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "5)  Теңдеулер жүйесінің бір ғана шешімі болатындай а-параметрінің қабылдайтын бүкіл мәндерін табыңыз:  <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) a= {2;4}<br/>",
+						choice_B: "B)  a= {4;8}<br/>",
+						choice_C: "C) a= {0;4}<br/>",
+						choice_D: "D)  a= {0;8}<br/>",
+						choice_E: "E)  a= {0;2}<br/>",
+						number: 5,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "6)  Функцияның туындысын табыңыз:  $f(x) = x \\cdot 7^x$<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) 7(1+ln7)<br/>",
+						choice_B: "B) $x(1 + 7^x)$ <br/>",
+						choice_C: "C) 7 <br/>",
+						choice_D: "D) $7^x\\ln x$  <br/>",
+						choice_E: "E) $7^x(1 + x)$  <br/>",
+						number: 6,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "7)  Теңдеулер жүйесін шешіңіз:  $\\begin{cases}\\lg(x^2-y^2)=1\\\\x-y=2\\end{cases}$<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) (3; 1).<br/>",
+						choice_B: "B)  (3,5; 1,5).<br/>",
+						choice_C: "C) (1,25; 0,75).<br/>",
+						choice_D: "D)  (2; 0).<br/>",
+						choice_E: "E)  (-1; -3)<br/>",
+						number: 7,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "8)  С бұрышы тік болатын тік бұрышты ABC үшбұрышының AC катеті 2-ге тең, В төбесінен жүргізілген  медиана BD=2. Үшбұрыштың гипотенузасын табыңыз:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) корень из 14<br/>",
+						choice_B: "B)  корень из 3 <br/>",
+						choice_C: "C) корень из 42<br/>",
+						choice_D: "D)  корень из 21<br/>",
+						choice_E: "E)  корень из  7 <br/>",
+						number: 8,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "9)  Үшбұрыштың екі сыртқы бұрышы 100° және 150°. Үшбұрыштың үшінші сыртқы бұрышын табыңыз. <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 90° <br/>",
+						choice_B: "B)  130°<br/>",
+						choice_C: "C) 105°<br/>",
+						choice_D: "D)  120°<br/>",
+						choice_E: "E)  110°<br/>",
+						number: 9,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "10)  Теңдеулер жүйесін шешіңіз:  $\\begin{cases}5^{|x+3|}=125\\\\13^{|x+y|=1}\\end{cases}$<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) (2; 2), (12; 0)<br/>",
+						choice_B: "B)  (-3; 9), (4; -6)<br/>",
+						choice_C: "C) (12; 1), (-6; 4)<br/>",
+						choice_D: "D)  (-6; 6), (0; 0)<br/>",
+						choice_E: "E)  (0; 6), (6; -6) <br/>",
+						number: 10,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "11)  Көбейткіштерге жіктеңіз: $x^3+5x^2+3x-9$<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) (x² - 1)(x + 3)².<br/>",
+						choice_B: "B)  (x + 1)(x + 3).<br/>",
+						choice_C: "C) (x - 1)(x + 2)².<br/>",
+						choice_D: "D)  (x - 1)(x + 3)². <br/>",
+						choice_E: "E)  (x + 1)(x + 3)². <br/>",
+						number: 11,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "12)  Теңсіздікті шешіңіз: $7x^2 - 4x + 1 > 0$.<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) (4/7; +∞)<br/>",
+						choice_B: "B)  (1/7;4/7)<br/>",
+						choice_C: "C) (-∞; -4/7)<br/>",
+						choice_D: "D)  (-4/7; -1/7)<br/>",
+						choice_E: "E)  (-∞; +∞)<br/>",
+						number: 12,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "13) $f(x)=2\\sqrt{x}+\\cfrac{1}{x}$  функциясының кризистік нүктелерін табыңыз.<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) х=0 <br/>",
+						choice_B: "B)  х=0; х=-1<br/>",
+						choice_C: "C) х=-1; х=-1<br/>",
+						choice_D: "D)  х=0; х=1<br/>",
+						choice_E: "E)  х=1 <br/>",
+						number: 13,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "14) $y=x^{123}$   функция графигі мына координаттық ширектерде орналасқан:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) бірінші және үшінші<br/>",
+						choice_B: "B)  үшінші және төртінші<br/>",
+						choice_C: "C) екінші және үшінші<br/>",
+						choice_D: "D)  екінші және төртінші<br/>",
+						choice_E: "E)  бірінші және екінші <br/>",
+						number: 14,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "15)  Теңдеулер жүйесін шешіңіз:  $\\begin{cases}x^2-3y=-5\\\\7x+3y=-1\\end{cases}$<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) (0; -1),(1; 0)<br/>",
+						choice_B: "B)  (0; 0)<br/>",
+						choice_C: "C) шешімі жоқ<br/>",
+						choice_D: "D) $(-1;2),(-6,13\\cfrac{2}{3})$ <br/>",
+						choice_E: "E)  (-1; -10) <br/>",
+						number: 15,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "16)  Ықшамдаңыз: $\\cfrac{\\cos (\\alpha + \\beta) + 2\\sin\\alpha\\cdot\\sin\\beta}{\\cos(\\alpha-\\beta)}$<br/>",
+						answer: " D  <br/>",
+						choice_A: "А)  cos(a + b)<br/>",
+						choice_B: "B)  -1<br/>",
+						choice_C: "C)  cos(a - b)<br/>",
+						choice_D: "D)  1<br/>",
+						choice_E: "E)  $\\cfrac{1}{\\cos(\\alpha-\\beta)}$<br/>",
+						number: 16,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "17)  Есептеңіз: $\\displaystyle \\int_{-\\cfrac{\\pi}{3}}^{\\cfrac{\\pi}{2}} \\left( \\cos x - \\sqrt{3}\\sin x \\right)dx$   <br/>",
+						answer: " B  <br/>",
+						choice_A: "А) -1<br/>",
+						choice_B: "B)  1<br/>",
+						choice_C: "C) 3<br/>",
+						choice_D: "D)  2<br/>",
+						choice_E: "E)  -2<br/>",
+						number: 17,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "18)  Қабырғалары 2 м-ге тең ромбының периметрін табыңыз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) 12 м.<br/>",
+						choice_B: "B)  8 м.<br/>",
+						choice_C: "C) 4 м.<br/>",
+						choice_D: "D)  6 м.<br/>",
+						choice_E: "E)  16 м. <br/>",
+						number: 18,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "19)  АВСD  квадратының қабырғасы 4см. СD қабырғасынан Е нүктесі алынған.  ЕА=5 см. СЕ-ні табыңдар.   <br/>",
+						answer: " B  <br/>",
+						choice_A: "А) 9см<br/>",
+						choice_B: "B)  1см<br/>",
+						choice_C: "C) 2см<br/>",
+						choice_D: "D)  0,5см<br/>",
+						choice_E: "E)  4см<br/>",
+						number: 19,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "20)  Теңсіздіктер жүйесін шешіңіз: $\\begin{cases}\\sqrt{x^2-16}>-16\\\\3^{x^2} > \\cfrac{1}{27}\\end{cases}$ <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) (-∞;-8]U[8;+∞)<br/>",
+						choice_B: "B)  (-∞;-∞)<br/>",
+						choice_C: "C) шешімі жоқ<br/>",
+						choice_D: "D)  (-∞;-4]U[4;+∞)<br/>",
+						choice_E: "E)  [0;+∞)<br/>",
+						number: 20,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "21)  Көбейткіштерге жіктеңіз: $m^2x^4 - mnx^3 + 2mx^2 - 2nx - n + mx$.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) (m - nx)(mx³ - 2x + 1).<br/>",
+						choice_B: "B)  (mx - n)(mx³ + 2x + 1).<br/>",
+						choice_C: "C) (nx - m)(mx³ + 2x + 1).<br/>",
+						choice_D: "D)  (nx + m)(mx³ - 2x + 1).<br/>",
+						choice_E: "E)  (mx - n)(mx³ - 2x - 1). <br/>",
+						number: 21,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "22)  Екі санның қосындысы 21, ал олардың көбейтіндісі 90. Осы сандарды табыңыз.<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 10 және 11.<br/>",
+						choice_B: "B)  5 және 18.<br/>",
+						choice_C: "C) 7 және 14.<br/>",
+						choice_D: "D)  9 және 12.<br/>",
+						choice_E: "E)  6 және 15. <br/>",
+						number: 22,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "23)  Абциссасы $x=-\\cfrac{\\pi}{6}$ болатын нүктеде $y=\\cfrac{ctg 3x}{\\sqrt{3}}$ қисығына жүргізілген жанама Ox осіне қандай бұрышпен көлбеген?<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) $\\cfrac{\\pi}{9}$<br/>",
+						choice_B: "B)  $\\cfrac{\\pi}{3}$<br/>",
+						choice_C: "C)  $5\\cfrac{\\pi}{6}$<br/>",
+						choice_D: "D)   $\\cfrac{\\pi}{6}$<br/>",
+						choice_E: "E)   $2\\pi$<br/>",
+						number: 23,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "24)  Берілген кесіндідегі функцияның ең үлкен және ең кіші мәнін табыңыз. $f(x)=x+\\cfrac{1}{x}; \\quad x \\in \\left[ \\cfrac{1}{2}; 1 \\right]$<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 3; -3.<br/>",
+						choice_B: "B)  9; -3. <br/>",
+						choice_C: "C) 2; -1/4.<br/>",
+						choice_D: "D)  4; -3.<br/>",
+						choice_E: "E)  2,5; 2. <br/>",
+						number: 24,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "25) $f(x)=\\cfrac{3x-11}{\\sqrt{2-x}}$   функциясының кризистік нүктелерін табыңыз.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) х=1;<br/>",
+						choice_B: "B)  х=0; х=1<br/>",
+						choice_C: "C) х=0; х=1/3<br/>",
+						choice_D: "D)  х=1/3 <br/>",
+						choice_E: "E)  х=0  <br/>",
+						number: 25,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "1)  Магнит индукциясы векторының бағытына тогы бар тұйық контурдың сәйкес келетін бағыты<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Сол нормалы бағыты<br/>",
+						choice_B: "B)  Оң нормалы бағыты.<br/>",
+						choice_C: "C) Жанама бағыты.<br/>",
+						choice_D: "D)  Перпендикуляр бағыты.<br/>",
+						choice_E: "E)  Параллель бағыты. <br/>",
+						number: 1,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "2)  Жер бетінен h1 биіктікте орналасқан, массасы m дене h2 биіктікке еркін түскен кезде ауырлық күшінің атқаратын жұмысы:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) A=mg(h1- h2).<br/>",
+						choice_B: "B) $A=\\cfrac{mg}{h_1-h_2}$<br/>",
+						choice_C: "C) A=mg(h1+ h2).<br/>",
+						choice_D: "D) Нет верного ответа<br/>",
+						choice_E: "E)  A=mg(h2- h1). <br/>",
+						number: 2,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "3)  Қуаты 10 кВт және ПӘК-і $75\\%$ жонғыш станоктың кесу жылдамдығы 0,75 м/с. Осы станоктың кесу кезіндегі кедергі күші:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 10 Н.<br/>",
+						choice_B: "B)  100 Н.<br/>",
+						choice_C: "C) 5 кН.<br/>",
+						choice_D: "D)  50 Н.<br/>",
+						choice_E: "E)  10 кН. <br/>",
+						number: 3,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "4)  Тұйық өткізгіш контурда токтың пайда болатын жағдайы<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Контур магнит өрісінде тыныш тұрғанда.<br/>",
+						choice_B: "B)  Магнит индукциясы векторының бағытын өзгерткенде.<br/>",
+						choice_C: "C) Контурды электр өрісіне енгізгенде.<br/>",
+						choice_D: "D)  Магнит индукциясы векторының бағытын өзгертпегенде.<br/>",
+						choice_E: "E)  Контур ауданын қиып өтетін магнит индукциясы сызықтарының саны өзгергенде. <br/>",
+						number: 4,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "5)  Толқынның таралу жылдамдығының өрнегі $\\text{ }_7^{14}N + \\text{ }_2^4He \\to \\text{ }_8^{17}O + ?$<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) $\\text{ }_0^{-1}e$<br/>",
+						choice_B: "B) $\\text{ }_4^{2}He$   <br/>",
+						choice_C: "C) $\\gamma$  <br/>",
+						choice_D: "D) $\\text{ }_1^{0}n$   <br/>",
+						choice_E: "E) $\\text{ }_1^{1}p$   <br/>",
+						number: 5,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "6)  Электр өрісінің $W=\\cfrac{CU^2}{2}$ формуласында  U таңбасы қандай  шамаға сәйкес?<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Өрістің таралу   жылдамдығына<br/>",
+						choice_B: "B)  Өрістің жұмысына<br/>",
+						choice_C: "C) Өрістің кернеуіне<br/>",
+						choice_D: "D)  Өрістің кернеулігіне<br/>",
+						choice_E: "E)  Конденсатор сыйымдылығына <br/>",
+						number: 6,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "7)  Температура тұрақты болған жағдайда, газ қысымы 4 есе төмендеген болса, онда сол газдың көлемі<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) өзгермейді.<br/>",
+						choice_B: "B)  4 есе кемиді.<br/>",
+						choice_C: "C) 4 есе артады.<br/>",
+						choice_D: "D)  2 есе артады.<br/>",
+						choice_E: "E)  2 есе кемиді. <br/>",
+						number: 7,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "8)  Радиоактивті сәуле шығару көзінен қашықтық 4 есе көбейсе, радиация активтілігі:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) өзгермейді.<br/>",
+						choice_B: "B)  4 есе көбейеді.<br/>",
+						choice_C: "C) 16-есе көбейеді.<br/>",
+						choice_D: "D)  16 есе кемиді.<br/>",
+						choice_E: "E)  4 есе кемиді. <br/>",
+						number: 8,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "9)  Қыздырғышының температурасы 500 К идеал двигатель қыздырғыштан алған әрбір килоджоуль энергияның есесінен 350 Дж механикалық жұмыс атқарады. Салқындатқыштың температурасын анықтаңыз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) 300 К.<br/>",
+						choice_B: "B)  325 К.<br/>",
+						choice_C: "C) 315 К.<br/>",
+						choice_D: "D)  330 К.<br/>",
+						choice_E: "E)  320 К. <br/>",
+						number: 9,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "10)  Электр  өрісінің кернеулік векторының  бағытты:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Теріс зарядқа  әсер ететін күшпен бағыттас<br/>",
+						choice_B: "B)  Оң және  теріс зарядтарға  әсер ететін күшпен бағыттас<br/>",
+						choice_C: "C) Кернеулік-скаляр шама, бағыты жоқ<br/>",
+						choice_D: "D)  Оң  зарядқа  әсер ететін күшпен бағыттас<br/>",
+						choice_E: "E)  Зарядқа әсер етуші  күшке перпендикуляр <br/>",
+						number: 10,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "11)  Массасы 2 кг дененің жер бетінен 3 м биіктіктегі потенциялдық энергиясын анықтаңыз (g=10м/c2).<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) 40 Дж.<br/>",
+						choice_B: "B)  60 Дж.<br/>",
+						choice_C: "C) 20 Дж.<br/>",
+						choice_D: "D)  30 Дж.<br/>",
+						choice_E: "E)  50 Дж. <br/>",
+						number: 11,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "12)  Горизонталь жазықтықта тұрған денеге 4 м/с жылдамдық берген. Үйкеліс күші әсерінен ол модулі бойынша 1 м/с2 үдеумен қозғалды. Осы дененің 5 с ішінде жүрген жолы <br/>",
+						answer: "A<br/>",
+						choice_A: "А) 7,5 м.<br/>",
+						choice_B: "B)  5 м.<br/>",
+						choice_C: "C) 12 м.<br/>",
+						choice_D: "D)  20 м. <br/>",
+						choice_E: "E)  2 м.<br/>",
+						number: 12,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "13)  Жылдамдығы 400 м/с массасы 25 г оқ бөгетке тиді және тоқтағанға дейін 0,5 м-ге өтті. Оқтың қозғалысына бөгеттің кедергі күші:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) 5 кН.<br/>",
+						choice_B: "B)  4,5 кН.<br/>",
+						choice_C: "C) 1,25 кН.<br/>",
+						choice_D: "D)  4 кН.<br/>",
+						choice_E: "E)  2 кН. <br/>",
+						number: 13,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "14)  Қысым тұрақты р болғанда, газдың көлемі ΔV-ға ұлғаяды. Бұл жағдайдағы  р*ΔV көбейтіндісіне тең болатын физикалық шама<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Газдан бөлініп шыққан жылу мөлшері.<br/>",
+						choice_B: "B)  Сыртқы күштердің әсерінен газбен істейтін жұмыс.<br/>",
+						choice_C: "C) Газдың ішкі энергиясы.<br/>",
+						choice_D: "D)  Газдың алған жылу мөлшері.<br/>",
+						choice_E: "E)  Газдың жасаған жұмысы. <br/>",
+						number: 14,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "15) $\\text{ }_1^2H + \\text{ }_1^3 \\to \\text{ }_2^4He + ?$ термоядролық синтез реакциясында пайда болатын белгісіз бөлшек:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) нейтрон.<br/>",
+						choice_B: "B)  электрон.<br/>",
+						choice_C: "C) позитрон.<br/>",
+						choice_D: "D)  нейтрино.<br/>",
+						choice_E: "E)  протон. <br/>",
+						number: 15,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "16)  Ядролық сәулелерді тіркеуге арналған приборлардың қайсысында шапшаң қозғалатын зарядталған бөлшектер буда сұйық тамшыларынан тұратын із қалдырады?<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Күкіртті цинкпен қапталған экран.<br/>",
+						choice_B: "B)  Гейгердің газ разрядты санағышы.<br/>",
+						choice_C: "C) Вильсон камерасы.<br/>",
+						choice_D: "D)  Қалың қабатты фотоэмульсия.<br/>",
+						choice_E: "E)  Көпіршікті камера. <br/>",
+						number: 16,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "17)  Импульстің сақталу заңының анықтамасына сәйкес өрнек:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) I=F•Δt<br/>",
+						choice_B: "B) $Ft=m\\upsilon - m\\upsilon_0$<br/>",
+						choice_C: "C) $P = m\\upsilon$<br/>",
+						choice_D: "D) $m\\upsilon_0 + Mu_0 = m\\upsilon + Mu$<br/>",
+						choice_E: "E) $\\triangle P = m\\upsilon$<br/>",
+						number: 17,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "18) $\\text{ }_1^2H + \\text{ }_1^3 \\to \\text{ }_2^4He + ?$ термоядролық синтез реакциясында пайда болатын белгісіз бөлшек:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) нейтрон.<br/>",
+						choice_B: "B)  электрон.<br/>",
+						choice_C: "C) позитрон.<br/>",
+						choice_D: "D)  нейтрино.<br/>",
+						choice_E: "E)  протон. <br/>",
+						number: 18,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "19)  Толқынның таралу жылдамдығының өрнегі<br/>",
+						answer: "A<br/>",
+						choice_A: "А) $\\upsilon = \\lambda \\cdot \\nu$<br/>",
+						choice_B: "B) $\\upsilon = s/t$<br/>",
+						choice_C: "C) $\\upsilon = (x - x_0)/t$<br/>",
+						choice_D: "D) $\\upsilon = x / t$<br/>",
+						choice_E: "E) $\\upsilon = dx/dt$<br/>",
+						number: 19,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "20)  Көлбеулік бұрышы 30 градусов жазықтықпен сырғанаған дененің үдеуі (g=10 м/с2, үйкеліс ескерілмейді)<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) $\\sqrt{\\cfrac{2}{5}}$ м/с2<br/>",
+						choice_B: "B) $\\cfrac{\\sqrt{3}}{20}$ м/с2<br/>",
+						choice_C: "C)$\\cfrac{10}{\\sqrt{3}}$ м/с2<br/>",
+						choice_D: "D) $\\cfrac{\\sqrt{3}}{3}$ м/с2<br/>",
+						choice_E: "E)  $5$ м/с2<br/>",
+						number: 20,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "21)  Жердің бетінен 10 м биіктіктегі балконнан көкжиекке параллель, массасы 0,5 кг доп 10 м/с жылдамдықпен лақтырылған. Доптың Жерге түсер кездегі жылдамдығы:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А)≈ 12 м/с.<br/>",
+						choice_B: "B) ≈ 17 м/с.<br/>",
+						choice_C: "C)≈ 14 м/с.<br/>",
+						choice_D: "D) ≈ 24 м/с.<br/>",
+						choice_E: "E) ≈ 10 м/с. <br/>",
+						number: 21,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "22)  Жер бетінен h1 биіктікте орналасқан, массасы m дене h2 биіктікке еркін түскен кезде ауырлық күшінің атқаратын жұмысы:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) A=mg(h1+ h2)<br/>",
+						choice_B: "B)  $A = \\cfrac{mg}{h_1-h_2}$<br/>",
+						choice_C: "C) A=mg(h2- h1)<br/>",
+						choice_D: "D)  $A=\\cfrac{mg}{h_1+h_2}$ <br/>",
+						choice_E: "E)  A=mg(h1- h2)<br/>",
+						number: 22,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "23)  Массасы 5 кг денеге бір жазықтықта |вектор F1|=10Н және |вектор F2|=5Н екі күш әсер етеді.  Дененің үдеуі мен қозғалу бағыты<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) 2 м/с2, F1 бағытымен. <br/>",
+						choice_B: "B)  1 м/с2, F1 бағытымен.<br/>",
+						choice_C: "C) 3 м/с2, F1 бағытымен.<br/>",
+						choice_D: "D)  1 м/с2, F2 бағытымен.<br/>",
+						choice_E: "E)  2 м/с2, F2 бағытымен. <br/>",
+						number: 23,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "24)  Жазық конденсатордың ауданы 520 см2. Конденсатордың сыйымдылығы $46\\cdot 10^{-12}$  Ф болу үшін пластиналардың арақашықтығы $\\left( \\epsilon = 1; \\epsilon_0=8,85\\cdot 10^{-12} \\cfrac{\\text{Ф}}{\\text{м}}\\right)$  <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 5,1 м.<br/>",
+						choice_B: "B)  100 м.<br/>",
+						choice_C: "C) 4,1 м.<br/>",
+						choice_D: "D)  0,02 м.<br/>",
+						choice_E: "E)  0,01 м. <br/>",
+						number: 24,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "25)  150 С температурада көлемі V=120 м3 бөлмедегі салыстырмалы ылғалдылық=60. Бөлме ауасындағы су буының массасы: (150C-дегі қаныққан будың қысымы 1,71 кПа )<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) 0,98 кг.<br/>",
+						choice_B: "B)  0,95 кг.<br/>",
+						choice_C: "C) 0,92 кг.<br/>",
+						choice_D: "D)  1,1 кг.<br/>",
+						choice_E: "E)  1,4 кг. <br/>",
+						number: 25,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "1)  Местоимение<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) часть речи, которая обозначает предмет<br/>",
+						choice_B: "B)  часть речи, которая обозначает признак предмета<br/>",
+						choice_C: "C) часть речи, которая указывает на предметы, признаки и количество, но не называет их<br/>",
+						choice_D: "D)  часть речи, которая обозначает признак действия<br/>",
+						choice_E: "E)  часть речи, которая обозначает действие предмета<br/>",
+						number: 1,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "2)  Словосочетание, образованное по способу согласования<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) медленно опускаться<br/>",
+						choice_B: "B)  опустевший дом<br/>",
+						choice_C: "C) носить очки<br/>",
+						choice_D: "D)  ночевка в лесу<br/>",
+						choice_E: "E)  очень опустел<br/>",
+						number: 2,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "3)  Укажите правильный вариант написания местоимения в предложении: Что касается кучера, то о нем (н...)чего было и говорить.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Не (слитно)<br/>",
+						choice_B: "B)  Не (раздельно)<br/>",
+						choice_C: "C) Ни (слитно)<br/>",
+						choice_D: "D)  Ни (раздельно)<br/>",
+						choice_E: "E)  Ни (через дефис )<br/>",
+						number: 3,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "4)  Словосочетание с относительным прилагательным<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) волчьи следы<br/>",
+						choice_B: "B)  необыкновенная красота<br/>",
+						choice_C: "C) мелкие плоды<br/>",
+						choice_D: "D)  приморская тайга<br/>",
+						choice_E: "E)  чудесные растения<br/>",
+						number: 4,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "5)  Признак является общим для деепричастия и наречий<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) В предложении могут быть определением<br/>",
+						choice_B: "B)  Не изменяются<br/>",
+						choice_C: "C) Обозначает добавочное при основном действии<br/>",
+						choice_D: "D)  Образуются только от глаголов<br/>",
+						choice_E: "E)  Обозначают признак предмета<br/>",
+						number: 5,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "6)  Местоимение<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) часть речи, которая обозначает предмет<br/>",
+						choice_B: "B)  часть речи, которая обозначает признак предмета<br/>",
+						choice_C: "C) часть речи, которая указывает на предметы, признаки и количество, но не называет их<br/>",
+						choice_D: "D)  часть речи, которая обозначает признак действия<br/>",
+						choice_E: "E)  часть речи, которая обозначает действие предмета<br/>",
+						number: 6,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "7)  Укажите слово с суффиксом -щик-<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) батон...<br/>",
+						choice_B: "B)  объезд...<br/>",
+						choice_C: "C) разнос...<br/>",
+						choice_D: "D)  мебель...<br/>",
+						choice_E: "E)  перевоз...<br/>",
+						number: 7,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "8)  Укажите, в каком из словосочетаний главное слово стоит перед зависимым словом<br/>",
+						answer: "A<br/>",
+						choice_A: "А) работать над чертежом<br/>",
+						choice_B: "B)  настойчиво требовать<br/>",
+						choice_C: "C) наш коллектив<br/>",
+						choice_D: "D)  рабочий чертеж<br/>",
+						choice_E: "E)  зимняя дорога<br/>",
+						number: 8,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "9)  Укажите тип предложения. На деньги ума не купишь.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Назывное.<br/>",
+						choice_B: "B)  Безличное предложение.<br/>",
+						choice_C: "C) Неопределенно - личное.<br/>",
+						choice_D: "D)  Обобщенно - личное предложение.<br/>",
+						choice_E: "E)  Определенно - личное.<br/>",
+						number: 9,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "10)  Укажите односоставное назывное предложение<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Твоей одежды не коснусь<br/>",
+						choice_B: "B)  Это была песня последней встречи<br/>",
+						choice_C: "C) Москва! Какой огромный город!<br/>",
+						choice_D: "D)  Полночной порой камыши шелестят<br/>",
+						choice_E: "E)  Приди на рассвете на склон косогора...<br/>",
+						number: 10,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "11)  В предложении «Как говорят поэты, началась осень жизни» вводное слово<br/>",
+						answer: "A<br/>",
+						choice_A: "А) оценку стиля высказывания<br/>",
+						choice_B: "B)  способ выражения мысли<br/>",
+						choice_C: "C) источник высказывания<br/>",
+						choice_D: "D)  различные чувства<br/>",
+						choice_E: "E)  порядок явлений<br/>",
+						number: 11,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "12)  Соединительные союзы<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) а, но, однако<br/>",
+						choice_B: "B)  или, либо, толи<br/>",
+						choice_C: "C) когда, лишь<br/>",
+						choice_D: "D)  и, да, тоже<br/>",
+						choice_E: "E)  если, как<br/>",
+						number: 12,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "13)  Предложение «Воздух раздражал странным запахом, щекотавшим ноздри.» осложнено<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) несогласованным определением<br/>",
+						choice_B: "B)  согласованным определением<br/>",
+						choice_C: "C) обособленным определением, выраженным причастным оборотом<br/>",
+						choice_D: "D)  обособленным дополнением<br/>",
+						choice_E: "E)  обособленным обстоятельством<br/>",
+						number: 13,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "14)  Обращение стоит в начале предложения<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Как ты хорош, простор пашен!<br/>",
+						choice_B: "B)  Кудесник, ты лживый безумный старик!<br/>",
+						choice_C: "C) Что же ты, моя старушка, приумолкла у окна?<br/>",
+						choice_D: "D)  О чем ты думаешь, казак?<br/>",
+						choice_E: "E)  Завтра, друзья, мы совершим поездку на автобусе.<br/>",
+						number: 14,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "15)  Укажите количество запятых в предложении.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) 1<br/>",
+						choice_B: "B)  2<br/>",
+						choice_C: "C) 3<br/>",
+						choice_D: "D)  4<br/>",
+						choice_E: "E)  5<br/>",
+						number: 15,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "16)  Не является названием способа связи<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) согласование<br/>",
+						choice_B: "B)  дополнение<br/>",
+						choice_C: "C) примыкание<br/>",
+						choice_D: "D)  согласование<br/>",
+						choice_E: "E)  управление <br/>",
+						number: 16,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "17)  Укажите вариант с буквой -И-<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Молчали, потому что н...чего было сказать.<br/>",
+						choice_B: "B)  Наегозовн... кто не явился.<br/>",
+						choice_C: "C) На н... которые вопросы следует отвечать молчанием.<br/>",
+						choice_D: "D)  Бояться ему теперь было н... кого.<br/>",
+						choice_E: "E)  Н...в чем было теперь их упрекнуть.  <br/>",
+						number: 17,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "18)  Заимствованное слово<br/>",
+						answer: "A<br/>",
+						choice_A: "А) девиз<br/>",
+						choice_B: "B)  рука<br/>",
+						choice_C: "C) княжич<br/>",
+						choice_D: "D)  кафтан<br/>",
+						choice_E: "E)  боярин<br/>",
+						number: 18,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "19)  Укажите сложноподчиненное предложение с придаточным времени<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Мы шли туда, куда вела лесная тропинка.<br/>",
+						choice_B: "B)  Особенно хорош лес осенью, когда на землю летят золотые листья.<br/>",
+						choice_C: "C) Всякое дело надо делать хорошо, коли взялся за него.<br/>",
+						choice_D: "D)  Он не приехал, несмотря на то, что дал твердое обещание.<br/>",
+						choice_E: "E)  Актер сыграл свою роль так, что взволновал всех зрителей. <br/>",
+						number: 19,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "20)  Укажите безличное предложение<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Не в свои сани не садись.<br/>",
+						choice_B: "B)  Коня в гости зовут не мёду пить, а воду возить.<br/>",
+						choice_C: "C) Сильный мороз.<br/>",
+						choice_D: "D)  Только к вечеру ему удалось причалить к острову и перевести дух.<br/>",
+						choice_E: "E)  Вишнёвый сад теперь мой.<br/>",
+						number: 20,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "21)  Сложное предложение с разными типами связи<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Дед оказался прав: к вечеру пришла гроза.<br/>",
+						choice_B: "B)  Ему было некогда, жизнь заранее была рассчитана так, чтобы успеть написать не меньше пятидесяти романов.<br/>",
+						choice_C: "C) У человека должны быть любимые произведения, к которым он обращается неоднократно, которые знает в деталях.<br/>",
+						choice_D: "D)  Литература делает человека интеллигентным, развивает в нем не только чувство красоты, но и понимание жизни.<br/>",
+						choice_E: "E)  Пьеса, которая идет в нашем театре, пользуется успехом у зрителей.<br/>",
+						number: 21,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "22)  Найдите сложносочиненное предложение:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Он начал выкидывать такие шутки, что публика с места не могла сойти.<br/>",
+						choice_B: "B)  Солнце скрылось, и ночные тени быстро надвигались со стороны леса.<br/>",
+						choice_C: "C) День был холодный, но ясный.<br/>",
+						choice_D: "D)  Но шепот дождя то стихал, то опять повышался.<br/>",
+						choice_E: "E)  Павел сошел вниз и встал рядом с матерью.<br/>",
+						number: 22,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "23)  В словосочетании слова связаны по способу согласования<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) потребовал в столице<br/>",
+						choice_B: "B)  на больших улицах<br/>",
+						choice_C: "C) купить украшения<br/>",
+						choice_D: "D)  в виде ветвей<br/>",
+						choice_E: "E)  расположения на улицах<br/>",
+						number: 23,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "24)  Найдите слово с одним слогом<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Улыбка<br/>",
+						choice_B: "B)  Дочь<br/>",
+						choice_C: "C) Счастье<br/>",
+						choice_D: "D)  Мечта<br/>",
+						choice_E: "E)  Радость<br/>",
+						number: 24,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "25)  Лексика изучает<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Устойчивые сочетания слов<br/>",
+						choice_B: "B)  Словарный состав языка<br/>",
+						choice_C: "C) От чего и с помощью чего образовано данное слово<br/>",
+						choice_D: "D)  Грамматический строй языка<br/>",
+						choice_E: "E)  Звуки речи<br/>",
+						number: 25,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "1)  Алғаш рет орыс князьдарының дружиналары монғол-татарлардан Калка өзенінің маңында жеңіліс тапқан жыл:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) 1207 ж.<br/>",
+						choice_B: "B)  1221 ж.<br/>",
+						choice_C: "C) 1219 ж.<br/>",
+						choice_D: "D)  1223 ж.<br/>",
+						choice_E: "E)  1209 ж. <br/>",
+						number: 1,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "2)  Бір мемлекеттің екінші мемлекеттің жерін күштеп өзіне қосып алуы:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Аннексия.<br/>",
+						choice_B: "B)  Экспансия.<br/>",
+						choice_C: "C) Экспроприация.<br/>",
+						choice_D: "D)  Агрессия.<br/>",
+						choice_E: "E)  Контрибуция. <br/>",
+						number: 2,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "3)  Ежелгі грек поэмасындағы Одиссейдің отаны:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Кипр.<br/>",
+						choice_B: "B)  Крит.<br/>",
+						choice_C: "C) Эллин.<br/>",
+						choice_D: "D)  Олимп.<br/>",
+						choice_E: "E)  Итака. <br/>",
+						number: 3,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "4)  XIX ғасырдың 40-шы жылдарында Африкадағы Гвинея шығанағының батысындағы территориясында құрылған АҚШ ықпалындағы мемлекет:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Сенегал.<br/>",
+						choice_B: "B)  Либерия.<br/>",
+						choice_C: "C) Ангола.<br/>",
+						choice_D: "D)  Нигерия.<br/>",
+						choice_E: "E)  Марокко. <br/>",
+						number: 4,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "5)  Дәрігер ретінде “Ғалымдардың атасы” аталған ұлы ғалым:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Фирдоуси.<br/>",
+						choice_B: "B)  Әл Фараби.<br/>",
+						choice_C: "C) Омар Хайам.<br/>",
+						choice_D: "D)  Евклид.<br/>",
+						choice_E: "E)  Ибн Сина. <br/>",
+						number: 5,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "6)  Византия мемлекетіне көпестер төлейтін салық<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Оброк <br/>",
+						choice_B: "B)  Баж<br/>",
+						choice_C: "C) Барщина<br/>",
+						choice_D: "D)  Харадж<br/>",
+						choice_E: "E)  Ақша<br/>",
+						number: 6,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "7)  Кирилл мен Мефодий славян халықтарының мәдениетіне қандай еңбек сіңірді?<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Славяндардың тұңғыш мемлекет басшылары болды.<br/>",
+						choice_B: "B)  Славян тайпаларына ортақ негізгі заңдарының авторлары болды.<br/>",
+						choice_C: "C) Славяндарға христиан дінін үйретті.<br/>",
+						choice_D: "D)  Славян халықтарының Византия арасындағы елшісі болды.<br/>",
+						choice_E: "E)  Славян алфавитін жасап, кітаптар аударды. <br/>",
+						number: 7,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "8)  Ленинград қорғанысы …<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 1 айға созылды.<br/>",
+						choice_B: "B)  1,5 айға созылды.<br/>",
+						choice_C: "C) 250 күнге созылды.<br/>",
+						choice_D: "D)  2 айға созылды.<br/>",
+						choice_E: "E)  900 күнге созылды. <br/>",
+						number: 8,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "9)  Францияның XVІІ ғ. аяғы мен XVІІІ ғ. басында экономикалық дамуын тежеген:   <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Дворяндардың ықпалының әлсіреуі.<br/>",
+						choice_B: "B)  Абсолюттік монархияның әлсіреуі.<br/>",
+						choice_C: "C) Сыртқы сауданың дамуы.<br/>",
+						choice_D: "D)  Буржуазияның күшеюі.<br/>",
+						choice_E: "E)  Феодалдық тәртіп. <br/>",
+						number: 9,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "10)  Берлин қабырғасы  тұрғызылған жыл:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 1962 ж. 12 тамыз.<br/>",
+						choice_B: "B)  1963 ж. 12 тамыз.<br/>",
+						choice_C: "C) 1960 ж. 12 тамыз.<br/>",
+						choice_D: "D)  1964 ж. 12 тамыз.<br/>",
+						choice_E: "E)  1961 ж. 12 тамыз. <br/>",
+						number: 10,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "11)  Антарктиданы ашқан орыстың дүние жүзін айналған экспедициясының басшысы:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Беллинсгаузен.<br/>",
+						choice_B: "B)  Крузенштерн.<br/>",
+						choice_C: "C) Лазарев.<br/>",
+						choice_D: "D)  Невальской.<br/>",
+						choice_E: "E)  Головин. <br/>",
+						number: 11,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "12)  Үндістанда «Күш қолданбай қарсыласу» науқандарын үйымдастырушы:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Д.Неру <br/>",
+						choice_B: "B)  Д.Синх<br/>",
+						choice_C: "C) М.Ганди<br/>",
+						choice_D: "D)  Б.Тилак<br/>",
+						choice_E: "E)  Р.Капур <br/>",
+						number: 12,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "13)  “Дүние жүзін дүр сілкіндірген он күн” деген кітаптың авторы:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Линкольн Стеффенс.<br/>",
+						choice_B: "B)  Теодор Драйзер.<br/>",
+						choice_C: "C) Альберт Рис Вильямс.<br/>",
+						choice_D: "D)  Джон Рид.<br/>",
+						choice_E: "E)  Эптон Билл Синклер. <br/>",
+						number: 13,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "14)  Алғаш рет орыс князьдарының дружиналары монғол-татарлардан Калка өзенінің маңында жеңіліс тапқан жыл:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) 1207 ж.<br/>",
+						choice_B: "B)  1221 ж.<br/>",
+						choice_C: "C) 1219 ж.<br/>",
+						choice_D: "D)  1223 ж.<br/>",
+						choice_E: "E)  1209 ж. <br/>",
+						number: 14,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "15)  1960 ж. АҚШ-тағы президенттік сайлауда кім жеңді?<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Д.Кеннеди.<br/>",
+						choice_B: "B)  Д.Картер.<br/>",
+						choice_C: "C) Д.Эйзенхауэр.<br/>",
+						choice_D: "D)  Р.Рейган.<br/>",
+						choice_E: "E)  Р.Никсон. <br/>",
+						number: 15,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "16)  1979 жылы желтоқсанда кеңес әскері енгізілген ел:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Польша.<br/>",
+						choice_B: "B)  Ауғанстан.<br/>",
+						choice_C: "C) Пәкістан.<br/>",
+						choice_D: "D)  Чехословакия.<br/>",
+						choice_E: "E)  Венгрия. <br/>",
+						number: 16,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "17)  Польшаны екінші рет бөлу:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) 1788 жылы болды.<br/>",
+						choice_B: "B)  1793 жылы болды.<br/>",
+						choice_C: "C) 1799 жылы болды.<br/>",
+						choice_D: "D)  1789 жылы болды.<br/>",
+						choice_E: "E)  1795 жылы болды. <br/>",
+						number: 17,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "18)  ХХ ғ. басында дүние жүзі халқының саны шамамен:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) 1 млрд адам.<br/>",
+						choice_B: "B)  2,5 млрд адам. <br/>",
+						choice_C: "C) 2 млрд адам.<br/>",
+						choice_D: "D)  1 млрд 656 млн адам.<br/>",
+						choice_E: "E)  500 млн адам. <br/>",
+						number: 18,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "19)  АҚШ-тың артынан іле-шала дүние жүзін шарпыған терең экономикалық дағдарыстың толқыны басталған жыл.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) 1932 ж. 15 наурыз. <br/>",
+						choice_B: "B)  1931 ж. 22 желтоқсан.<br/>",
+						choice_C: "C) 1929 ж. 24 қазан.<br/>",
+						choice_D: "D)  1933 ж. 16 мамыр.<br/>",
+						choice_E: "E)  1930 ж. 17 наурыз. <br/>",
+						number: 19,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "20)  Ежелгі адамдар өлген адам жаны қайда кетеді деп ойлаған:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Басқа денеге.<br/>",
+						choice_B: "B)  Аспанға<br/>",
+						choice_C: "C) «Өліктер еліне»<br/>",
+						choice_D: "D)  Елді мекен маңына<br/>",
+						choice_E: "E)  Жұмаққа <br/>",
+						number: 20,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "21)  XIX ғасырдың соңында Үндістанды өз отарына айналдырған империалистік мемлекет:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Франция.<br/>",
+						choice_B: "B)  Ұлыбритания.<br/>",
+						choice_C: "C) Жапония.<br/>",
+						choice_D: "D)  АҚШ.<br/>",
+						choice_E: "E)  Германия. <br/>",
+						number: 21,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "22)  Жердің қозғалмайтындығы туралы католик шіркеуінің ілімін жоққа шығарған ғалымдар:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Д.Бруно, Н.Коперник, Г.Галилей.<br/>",
+						choice_B: "B)  Ч.Дарвин, И.Гутенберг, Т.Мор.<br/>",
+						choice_C: "C) Ибн Сина, Ұлықбек, Әл-Фараби.<br/>",
+						choice_D: "D)  Фейербах, Кант, Гегель.<br/>",
+						choice_E: "E)  Т.Мюнцер, М.Лютер, У.Тайлер. <br/>",
+						number: 22,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "23)  Урартудағы әсемділігімен, құдыреттілігімен көз тартатын құрлыстар:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Кірпіштен қаланды.<br/>",
+						choice_B: "B)  Батпақтан қаланды.<br/>",
+						choice_C: "C) Қоладан қаланды.<br/>",
+						choice_D: "D)  Тастан қаланды.<br/>",
+						choice_E: "E)  Ағаштан соғылды. <br/>",
+						number: 23,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "24)  Потсдам конференциясының шешімі бойынша Кеңес еліне берілген жер: <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Печенга.<br/>",
+						choice_B: "B)  Белосток.<br/>",
+						choice_C: "C) Кенигсберг.<br/>",
+						choice_D: "D)  Брест.<br/>",
+						choice_E: "E)  Курил. <br/>",
+						number: 24,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "25)  Англияда феодалдық құрылыстың орнаған уақыты: <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) XII ғасыр<br/>",
+						choice_B: "B)  VIII ғасыр<br/>",
+						choice_C: "C) IX ғасыр<br/>",
+						choice_D: "D)  X ғасыр<br/>",
+						choice_E: "E)  XI ғасыр<br/>",
+						number: 25,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'kazakh',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "1)  Сорные растения  семейства  сложноцветных <br/>",
+						answer: " B  <br/>",
+						choice_A: "А)  Сафлор, подсолнечник <br/>",
+						choice_B: "B)   Василек,  чертополох <br/>",
+						choice_C: "C)  Череда,  календула <br/>",
+						choice_D: "D)   Георгины,  астры <br/>",
+						choice_E: "E)   Салат,  артишок <br/>",
+						number: 1,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "2)  В рамках теории  происхождения  жизни  на Земле  наиболее  существенны две  гипотезы <br/>",
+						answer: " B  <br/>",
+						choice_A: "А)  Овогенеза,  биогенеза <br/>",
+						choice_B: "B)   Абиогенеза,  биогенеза <br/>",
+						choice_C: "C)  Эмбриогенеза,  филогенеза <br/>",
+						choice_D: "D)   Онтогенеза,  метаморфоза <br/>",
+						choice_E: "E)   Филогенеза,  абиогенеза <br/>",
+						number: 2,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "3)  Тормозит  работу  сердца веществом<br/>",
+						answer: " C  <br/>",
+						choice_A: "А)  Тироксин <br/>",
+						choice_B: "B)   Гемоглобин <br/>",
+						choice_C: "C)  Ацетилхолин <br/>",
+						choice_D: "D)   Инсулин <br/>",
+						choice_E: "E)   Адреналин <br/>",
+						number: 3,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "4)  Биогенез  - это  теория <br/>",
+						answer: " D  <br/>",
+						choice_A: "А)  развития  организма от  момента  оплодотворения  до  момента  смерти. <br/>",
+						choice_B: "B)   исторического  развития  органического  мира. <br/>",
+						choice_C: "C) индивидуального  развития. <br/>",
+						choice_D: "D)   происхождение  живого только  от  живого. <br/>",
+						choice_E: "E)  развития живого  из  неживого. <br/>",
+						number: 4,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "5) Низкая  способность  к саморегуляции,  снижение  видового  разнообразия, использование  дополнительных  источников  энергии  и  высокая продуктивность  характерны  для <br/>",
+						answer: " E  <br/>",
+						choice_A: "А)  Океана <br/>",
+						choice_B: "B)   Биогеоценоза <br/>",
+						choice_C: "C)  Леса <br/>",
+						choice_D: "D)   Пустыни <br/>",
+						choice_E: "E)   Агроценоза <br/>",
+						number: 5,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "6)  Яйцеклетка -  это: <br/>",
+						answer: "A<br/>",
+						choice_A: "А) Женская  половая  клетка <br/>",
+						choice_B: "B)  Мужская  половая клетка <br/>",
+						choice_C: "C) Пыльцевое  зерно <br/>",
+						choice_D: "D)  Семязачаток <br/>",
+						choice_E: "E)  Любая  крупная  клетка <br/>",
+						number: 6,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "7)  Число  зародышевых  листков у  бластулы <br/>",
+						answer: " C  <br/>",
+						choice_A: "А)  Пять. <br/>",
+						choice_B: "B)   Два. <br/>",
+						choice_C: "C)  Один. <br/>",
+						choice_D: "D)   Четыре. <br/>",
+						choice_E: "E)   Три. <br/>",
+						number: 7,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "8)   Простейшие  служат  пищей <br/>",
+						answer: " D  <br/>",
+						choice_A: "А)  Саламандрам <br/>",
+						choice_B: "B)   Змеям <br/>",
+						choice_C: "C)  Актиниям <br/>",
+						choice_D: "D)   Малькам <br/>",
+						choice_E: "E)   Черепахам <br/>",
+						number: 8,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "9)  У  особи  с генотипом  ааВВ  могут  образоваться  гаметы <br/>",
+						answer: " D  <br/>",
+						choice_A: "А)  Аа, ВВ <br/>",
+						choice_B: "B)   Аав <br/>",
+						choice_C: "C)  Авв <br/>",
+						choice_D: "D)   аВ <br/>",
+						choice_E: "E)   АА, вв <br/>",
+						number: 9,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "10)  Бактериозом  называют  заболевание <br/>",
+						answer: " E  <br/>",
+						choice_A: "А)  Животных. <br/>",
+						choice_B: "B)   Вирусов. <br/>",
+						choice_C: "C)  Бактерий. <br/>",
+						choice_D: "D)   Грибов. <br/>",
+						choice_E: "E)   Растений. <br/>",
+						number: 10,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "11) Смертельно  опасное  кишечное  заболевание <br/>",
+						answer: "A<br/>",
+						choice_A: "А)  Ботулизм. <br/>",
+						choice_B: "B)   Пневмония. <br/>",
+						choice_C: "C)  Ангина. <br/>",
+						choice_D: "D)   Грипп. <br/>",
+						choice_E: "E)   Туберкулез. <br/>",
+						number: 11,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "12)  Неродственное  скрещивание <br/>",
+						answer: " C  <br/>",
+						choice_A: "А)  Ибридинг <br/>",
+						choice_B: "B)   Гетерозис <br/>",
+						choice_C: "C)  Аутбридинг <br/>",
+						choice_D: "D)   Индуцирование <br/>",
+						choice_E: "E)   Полиплоидия <br/>",
+						number: 12,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "13)  К прокариотам  относятся <br/>",
+						answer: " E  <br/>",
+						choice_A: "А)  Животные. <br/>",
+						choice_B: "B)   Грибы. <br/>",
+						choice_C: "C)  Мхи. <br/>",
+						choice_D: "D)   Амеба,  эвглена. <br/>",
+						choice_E: "E)   Цианобактерии. <br/>",
+						number: 13,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "14) Белок  синтезируют <br/>",
+						answer: " B  <br/>",
+						choice_A: "А)  Лизосомы <br/>",
+						choice_B: "B)   Рибосомы <br/>",
+						choice_C: "C)  Митохондрии <br/>",
+						choice_D: "D)   Вакуоли <br/>",
+						choice_E: "E)   Пластиды <br/>",
+						number: 14,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "15)  Видоизмененный  подземный  побег: <br/>",
+						answer: " E  <br/>",
+						choice_A: "А)  Корнеплод. <br/>",
+						choice_B: "B)   Верхушечная  почка. <br/>",
+						choice_C: "C)  Кочан. <br/>",
+						choice_D: "D)   Любая  почка. <br/>",
+						choice_E: "E)   Клубень. <br/>",
+						number: 15,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "16)   Придает цвет глазам вещество,  называемое <br/>",
+						answer: " E  <br/>",
+						choice_A: "А)  Фермент <br/>",
+						choice_B: "B)   Отолит <br/>",
+						choice_C: "C)  Витамин <br/>",
+						choice_D: "D)   Гормон <br/>",
+						choice_E: "E)   Пигмент <br/>",
+						number: 16,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "17)  К прокариотам  относятся <br/>",
+						answer: " E  <br/>",
+						choice_A: "А)  Животные. <br/>",
+						choice_B: "B)   Грибы. <br/>",
+						choice_C: "C)  Мхи. <br/>",
+						choice_D: "D)   Амеба,  эвглена. <br/>",
+						choice_E: "E)   Цианобактерии. <br/>",
+						number: 17,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "18)   Сапрофитные  бактерии  питаются <br/>",
+						answer: " E  <br/>",
+						choice_A: "А)  Грибами. <br/>",
+						choice_B: "B)   Водой. <br/>",
+						choice_C: "C)  Вирусами. <br/>",
+						choice_D: "D)   Водорослями. <br/>",
+						choice_E: "E)  Органическими  веществами  отмерших  организмов. <br/>",
+						number: 18,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "19)  Трубчатые,  язычковые  цветки  характерны  для: <br/>",
+						answer: " B  <br/>",
+						choice_A: "А)  Пасленовых. <br/>",
+						choice_B: "B)   Сложноцветных. <br/>",
+						choice_C: "C)  Злаков. <br/>",
+						choice_D: "D)   Бобовых. <br/>",
+						choice_E: "E)   Розоцветных. <br/>",
+						number: 19,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "20)   Возбудитель  лейшманиоза <br/>",
+						answer: " C  <br/>",
+						choice_A: "А)  Арцелла <br/>",
+						choice_B: "B)   Палочка  Коха <br/>",
+						choice_C: "C)  Лейшмания <br/>",
+						choice_D: "D)   Трипанозома <br/>",
+						choice_E: "E)   Бодо <br/>",
+						number: 20,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "21) Впервые  произвел  безматричный синтез полипептидов  вне живой  клетки <br/>",
+						answer: " E  <br/>",
+						choice_A: "А)  Холдейн <br/>",
+						choice_B: "B)   Опарин <br/>",
+						choice_C: "C)  Геккель <br/>",
+						choice_D: "D)   Миллер <br/>",
+						choice_E: "E)   Фокс <br/>",
+						number: 21,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "22)  Скопление колбочек  на  сетчатке <br/>",
+						answer: "A<br/>",
+						choice_A: "А) Жёлтое  пятно <br/>",
+						choice_B: "B)  Темное  пятно <br/>",
+						choice_C: "C) Слепое  пятно <br/>",
+						choice_D: "D)  Палочки <br/>",
+						choice_E: "E)  Белое  пятно <br/>",
+						number: 22,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "23)  Изменение  в пределах  структуры  гена является примером <br/>",
+						answer: " E  <br/>",
+						choice_A: "А)  Хромосомных  мутаций <br/>",
+						choice_B: "B)   Комбинативной  изменчивости <br/>",
+						choice_C: "C)  Геномных  мутаций <br/>",
+						choice_D: "D)   Соотносительной  изменчивости <br/>",
+						choice_E: "E)   Генных  мутаций <br/>",
+						number: 23,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "24)  Отличие автотрофных клеток от гетеротрофных - это:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А)  Наличие  клеточной  стенки<br/>",
+						choice_B: "B)   Использование готовых питательных  веществ <br/>",
+						choice_C: "C)  Появление  жгутиков <br/>",
+						choice_D: "D)   Присутствие  рибосом <br/>",
+						choice_E: "E)   Синтез  органических  веществ  из  неорганических <br/>",
+						number: 24,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "25)  Чернильный  мешок  имеет <br/>",
+						answer: " E  <br/>",
+						choice_A: "А)  Мидия <br/>",
+						choice_B: "B)   Устрица <br/>",
+						choice_C: "C)  Камнеточец <br/>",
+						choice_D: "D)   Беззубка<br/>",
+						choice_E: "E)   Осьминог <br/>",
+						number: 25,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "1)  Степень окисления центрального атома +4 в кислоте<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Угольной<br/>",
+						choice_B: "B)  Соляной<br/>",
+						choice_C: "C) Хлорной<br/>",
+						choice_D: "D)  Сероводородной<br/>",
+						choice_E: "E)  Серной<br/>",
+						number: 1,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "2) При электролизе водного раствора хлорида меди (II) на катоде выделилось 3,2 г металла, на аноде – газ объемом ( при н.у.) <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 5,6 л<br/>",
+						choice_B: "B)  0,56 л<br/>",
+						choice_C: "C) 11,2 л<br/>",
+						choice_D: "D)  112 л<br/>",
+						choice_E: "E)  1,12 л<br/>",
+						number: 2,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "3) Количество атомов водорода в 6 моль воды <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) 9 моль<br/>",
+						choice_B: "B)  3 моль<br/>",
+						choice_C: "C) 2 моль<br/>",
+						choice_D: "D)  12 моль<br/>",
+						choice_E: "E)  6 моль<br/>",
+						number: 3,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "4)  Электронное облако шарообразной формы образует:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) p-электрон<br/>",
+						choice_B: "B)  g- электрон<br/>",
+						choice_C: "C) s-электрон<br/>",
+						choice_D: "D)  f-электрон<br/>",
+						choice_E: "E)  d-электрон <br/>",
+						number: 4,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "5) В реакцию «серебряного зеркала» могут  вступать оба вещества<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Дезоксирибоза и фруктоза<br/>",
+						choice_B: "B)  Крахмал и фруктоза<br/>",
+						choice_C: "C) Рибоза и фруктоза<br/>",
+						choice_D: "D)  Глюкоза и рибоза<br/>",
+						choice_E: "E)  Глюкоза и фруктоза<br/>",
+						number: 5,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "6) С натрием будет реагировать<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 2,2-диметилпропан<br/>",
+						choice_B: "B)  С3Н8<br/>",
+						choice_C: "C) С6Н6<br/>",
+						choice_D: "D)  С3Н7СНО<br/>",
+						choice_E: "E)  С3Н7СООН.<br/>",
+						number: 6,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "7) Алюминий в чистом виде впервые получил<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Либих 1843 г.<br/>",
+						choice_B: "B)  Дэви 1809 г. <br/>",
+						choice_C: "C) Велер 1827 г.<br/>",
+						choice_D: "D)  Берцелиус 1861 г.<br/>",
+						choice_E: "E)  Аррениус 1887 г. <br/>",
+						number: 7,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "8)  Соединение частиц растворенного вещества с молекулами воды называют<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Сплавами<br/>",
+						choice_B: "B)  Ассоциатами<br/>",
+						choice_C: "C) Гидроксидами<br/>",
+						choice_D: "D)  Ангидридами<br/>",
+						choice_E: "E)  Гидратами<br/>",
+						number: 8,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "9) Бензол получают из циклогексана реакцией  <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) присоединения.<br/>",
+						choice_B: "B)  замещения.<br/>",
+						choice_C: "C) окисления.<br/>",
+						choice_D: "D)  дегидрирования.<br/>",
+						choice_E: "E)  горения. <br/>",
+						number: 9,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "10) Пропускают хлор через горячий раствор гидроксида натрия и получают<br/>",
+						answer: "A<br/>",
+						choice_A: "А) NaCl и NaClO3<br/>",
+						choice_B: "B)  NaCl и NaClO4<br/>",
+						choice_C: "C) NaCl и NaClO2<br/>",
+						choice_D: "D)  NaClO2 и NaClO3<br/>",
+						choice_E: "E)  NaCl и NaClO<br/>",
+						number: 10,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "11) В схеме превращений веществами X, Y, Z являются<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Al(OH)3, H2SO4, H2O <br/>",
+						choice_B: "B)  H2O, K2SO4, H2O <br/>",
+						choice_C: "C) H2O, SO¬3, H2SO4 <br/>",
+						choice_D: "D)  NaOH, H2SO4, H2 SO3 <br/>",
+						choice_E: "E)  H2O, H2SO4, NaOH <br/>",
+						number: 11,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "12)  Водород образует гидриды с<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Br2<br/>",
+						choice_B: "B)  O2<br/>",
+						choice_C: "C) S<br/>",
+						choice_D: "D)  K<br/>",
+						choice_E: "E)  Cl2<br/>",
+						number: 12,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "13) Название алкана по систематической номенклатуре<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) 2-метил-3-этилбутан.<br/>",
+						choice_B: "B)  2-метил 2-этилбутан.<br/>",
+						choice_C: "C) диметилдиэтилметан.<br/>",
+						choice_D: "D)  3, 3-диметилпентан.<br/>",
+						choice_E: "E)  гептан. <br/>",
+						number: 13,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "14)  Соединения с ионной связью:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) NaCl, BaCl2<br/>",
+						choice_B: "B)  O2, H2O<br/>",
+						choice_C: "C) I2, H2<br/>",
+						choice_D: "D)  C2H5OH, CH3COOH<br/>",
+						choice_E: "E)  Fe, CuO <br/>",
+						number: 14,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "15)  Качественная реакция на ион железа (III)<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Fe2++2OH– = Fe(OH)2<br/>",
+						choice_B: "B)  Fe3++3OH- = Fe(OH)3<br/>",
+						choice_C: "C) Ba2++  = BaSO4<br/>",
+						choice_D: "D)  Ag++Cl- = AgCl<br/>",
+						choice_E: "E)  H++OH- = H2O <br/>",
+						number: 15,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "16) Наиболее полярная связь в молекуле:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) NH3;<br/>",
+						choice_B: "B)  H2O;<br/>",
+						choice_C: "C) H2S;<br/>",
+						choice_D: "D)  HCl;<br/>",
+						choice_E: "E)  HF; <br/>",
+						number: 16,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "17)  Качественным реактивом на ортофосфат-ион является ион<br/>",
+						answer: "A<br/>",
+						choice_A: "А) серебра<br/>",
+						choice_B: "B)  калия<br/>",
+						choice_C: "C) натрия<br/>",
+						choice_D: "D)  водорода<br/>",
+						choice_E: "E)  аммония<br/>",
+						number: 17,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "18) Формула вещества, для которого возможна цис-, транс-изомерия.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) HOOC – CH = CH – COOH<br/>",
+						choice_B: "B)  <br/>",
+						choice_C: "C) <br/>",
+						choice_D: "D)  CH3 – CH2 – COOH<br/>",
+						choice_E: "E)  CH2 = CH – COOH<br/>",
+						number: 18,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "19)  К реакциям соединения относится:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) CuCO3 → CuO+CO2<br/>",
+						choice_B: "B)  CuO+ H2SO4 → CuSO4+H2O<br/>",
+						choice_C: "C) CuSO4+2NaOH → Cu(OH)2+Na2SO4<br/>",
+						choice_D: "D)  Cu(OH)2+2HCI → CuCI2+2H2O<br/>",
+						choice_E: "E)  2Cu+O2 → 2CuO <br/>",
+						number: 19,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "20) К гомологическому ряду с общей формулой CnH2n+1COOH относятся кислоты:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) 1, 2<br/>",
+						choice_B: "B)  1, 5<br/>",
+						choice_C: "C) 2, 3<br/>",
+						choice_D: "D)  4, 5<br/>",
+						choice_E: "E)  2 ,5<br/>",
+						number: 20,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "1СН3 – (СН2)16 – СООН<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Угольной<br/>",
+						choice_B: "B)  Соляной<br/>",
+						choice_C: "C) Хлорной<br/>",
+						choice_D: "D)  Сероводородной<br/>",
+						choice_E: "E)  Серной<br/>",
+						number: 21,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "2СН3 – (СН2)5 – СООН<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) стерео<br/>",
+						choice_B: "B)  зеркальной (оптической)<br/>",
+						choice_C: "C) положения атомов водорода<br/>",
+						choice_D: "D)  углеродного скелета<br/>",
+						choice_E: "E)  положения функциональных групп<br/>",
+						number: 22,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "3СН3 – (СН2)7 – СН = СН – (СН2)7 – СООН<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) 31 <br/>",
+						choice_B: "B)  32 <br/>",
+						choice_C: "C) 30 <br/>",
+						choice_D: "D)  27 <br/>",
+						choice_E: "E)  28 <br/>",
+						number: 23,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "4СН3 – СН = СН – (СН2)7 – СООН<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 0,022 моль/л•с<br/>",
+						choice_B: "B)  0,02 моль/л•с<br/>",
+						choice_C: "C) 0,0005 моль/л•с<br/>",
+						choice_D: "D)  0,035 моль/л•с<br/>",
+						choice_E: "E)  0,01 моль/л•с<br/>",
+						number: 24,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "5С17Н31СООН<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Либих 1843 г.<br/>",
+						choice_B: "B)  Дэви 1809 г. <br/>",
+						choice_C: "C) Велер 1827 г.<br/>",
+						choice_D: "D)  Берцелиус 1861 г.<br/>",
+						choice_E: "E)  Аррениус 1887 г. <br/>",
+						number: 25,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "1) Дополните предложение в Past Indefinite Passive: <br/>",
+						answer: " B  <br/>",
+						choice_A: "А) is<br/>",
+						choice_B: "B)  was<br/>",
+						choice_C: "C) are<br/>",
+						choice_D: "D)  were<br/>",
+						choice_E: "E)  be<br/>",
+						number: 1,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "2) Дополните предложение:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) have<br/>",
+						choice_B: "B)  like<br/>",
+						choice_C: "C) buy<br/>",
+						choice_D: "D)  sell<br/>",
+						choice_E: "E)  miss<br/>",
+						number: 2,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "3) Выберите верное местоимение.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Somebody.<br/>",
+						choice_B: "B)  Something.<br/>",
+						choice_C: "C) Anybody.<br/>",
+						choice_D: "D)  No.<br/>",
+						choice_E: "E)  Anything. <br/>",
+						number: 3,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "4)  Выберите слово, близкое по значению: believe.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Advise.<br/>",
+						choice_B: "B)  Suppose.<br/>",
+						choice_C: "C) Reach.<br/>",
+						choice_D: "D)  See.<br/>",
+						choice_E: "E)  Notice. <br/>",
+						number: 4,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "5) Выберите правильный вариант притяжательной формы существительного:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Сountries’.<br/>",
+						choice_B: "B)  Countries.<br/>",
+						choice_C: "C) Country’s.<br/>",
+						choice_D: "D)  Country.<br/>",
+						choice_E: "E)  Countrys’. <br/>",
+						number: 5,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "6)  Выберите правильное слово<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) any<br/>",
+						choice_B: "B)  –<br/>",
+						choice_C: "C) an<br/>",
+						choice_D: "D)  some<br/>",
+						choice_E: "E)  the<br/>",
+						number: 6,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "7) Дополните предложение, вставив нужное местоимение:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) none<br/>",
+						choice_B: "B)  nobody<br/>",
+						choice_C: "C) any<br/>",
+						choice_D: "D)  anybody<br/>",
+						choice_E: "E)  some<br/>",
+						number: 7,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "8)  Выберите правильное слово<br/>",
+						answer: "A<br/>",
+						choice_A: "А) a<br/>",
+						choice_B: "B)  an<br/>",
+						choice_C: "C) some<br/>",
+						choice_D: "D)  –<br/>",
+						choice_E: "E)  the<br/>",
+						number: 8,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "9)  Выберите правильный вариант артиклей.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) -, -.<br/>",
+						choice_B: "B)  The, the.<br/>",
+						choice_C: "C) A, a.<br/>",
+						choice_D: "D)  An, a.<br/>",
+						choice_E: "E)  -, the. <br/>",
+						number: 9,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "10) Выберите правильный вариант местоимения:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Nothing.<br/>",
+						choice_B: "B)  Something.<br/>",
+						choice_C: "C) None.<br/>",
+						choice_D: "D)  Any.<br/>",
+						choice_E: "E)  Anything. <br/>",
+						number: 10,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "11) Определите название формы по приведенному примеру:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Indefinite Infinitive Active.<br/>",
+						choice_B: "B)  Participle 1.<br/>",
+						choice_C: "C) Participle 2.<br/>",
+						choice_D: "D)  Continuous Infinitive Active.<br/>",
+						choice_E: "E)  Gerund. <br/>",
+						number: 11,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "12)  Образуйте прилагательное с противоположным значением от слова &quot;possible&quot;:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Impossible.<br/>",
+						choice_B: "B)  Repossible.<br/>",
+						choice_C: "C) Ilpossible.<br/>",
+						choice_D: "D)  Inpossible.<br/>",
+						choice_E: "E)  Unpossible. <br/>",
+						number: 12,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "13)  Найдите существительное в единственном числе.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) feet.<br/>",
+						choice_B: "B)  stories.<br/>",
+						choice_C: "C) pages.<br/>",
+						choice_D: "D)  advice.<br/>",
+						choice_E: "E)  hobbies. <br/>",
+						number: 13,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "14) Выберите правильный вариант сказуемого:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Be<br/>",
+						choice_B: "B)  Been<br/>",
+						choice_C: "C) Is<br/>",
+						choice_D: "D)  Are<br/>",
+						choice_E: "E)  Was<br/>",
+						number: 14,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "15) Образуйте новое слово от глагола “write” с помощью следующих приставок.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Un.<br/>",
+						choice_B: "B)  Im.<br/>",
+						choice_C: "C) Ir.<br/>",
+						choice_D: "D)  Re.<br/>",
+						choice_E: "E)  In. <br/>",
+						number: 15,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "16)  Выберите правильный вариант артиклей.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) An, a.<br/>",
+						choice_B: "B)  The, the.<br/>",
+						choice_C: "C) An, -.<br/>",
+						choice_D: "D)  An, the.<br/>",
+						choice_E: "E)  A, a. <br/>",
+						number: 16,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "17)  Дополните предложение:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) were<br/>",
+						choice_B: "B)  been<br/>",
+						choice_C: "C) are<br/>",
+						choice_D: "D)  is<br/>",
+						choice_E: "E)  was <br/>",
+						number: 17,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "18)  Поставьте глагол в предложении в Present Simple Tense.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) is.<br/>",
+						choice_B: "B)  was.<br/>",
+						choice_C: "C) are.<br/>",
+						choice_D: "D)  were.<br/>",
+						choice_E: "E)  am. <br/>",
+						number: 18,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "19) Выберите правильный вариант:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) would be arrivе<br/>",
+						choice_B: "B)  had been arriving<br/>",
+						choice_C: "C) would arrive<br/>",
+						choice_D: "D)  will arrive<br/>",
+						choice_E: "E)  has arrived<br/>",
+						number: 19,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "20)  Выберите верное местоимение.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) You. <br/>",
+						choice_B: "B)  Your.<br/>",
+						choice_C: "C) He.<br/>",
+						choice_D: "D)  It.<br/>",
+						choice_E: "E)  She. <br/>",
+						number: 20,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "21)  Антоним слова “Large”<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) High<br/>",
+						choice_B: "B)  Difficult<br/>",
+						choice_C: "C) Tall<br/>",
+						choice_D: "D)  Heavy<br/>",
+						choice_E: "E)  Small<br/>",
+						number: 21,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "22) Выберите правильную  форму глагола “to be”:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Been.<br/>",
+						choice_B: "B)  Am.<br/>",
+						choice_C: "C) Be.<br/>",
+						choice_D: "D)  Is.<br/>",
+						choice_E: "E)  Are. <br/>",
+						number: 22,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "23) Выберите фразовый глагол со значением &quot;мыть посуду&quot;:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Wash out<br/>",
+						choice_B: "B)  Wash up.<br/>",
+						choice_C: "C) Wash.<br/>",
+						choice_D: "D)  Wash for.<br/>",
+						choice_E: "E)  Wash in. <br/>",
+						number: 23,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "24) Найдите эквивалент:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Can she come?<br/>",
+						choice_B: "B)  She should come in time. <br/>",
+						choice_C: "C) She is to come.  <br/>",
+						choice_D: "D)  She needn’t come.<br/>",
+						choice_E: "E)  She had to come in time. <br/>",
+						number: 24,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "25) Определите функцию инфинитива в следующем предложении:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) дополнение <br/>",
+						choice_B: "B)  определение <br/>",
+						choice_C: "C) подлежащее <br/>",
+						choice_D: "D)  обстоятельство<br/>",
+						choice_E: "E)  сказуемое <br/>",
+						number: 25,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "1) Впервые батискаф с человеком опустился на дно Марианского желоба и проводил исследования в<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) 1970 г.<br/>",
+						choice_B: "B)  1960 г.<br/>",
+						choice_C: "C) 1930 г.<br/>",
+						choice_D: "D)  1910 г.<br/>",
+						choice_E: "E)  1918 г. <br/>",
+						number: 1,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "2) Разрушение почв – это:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) рекультивация.<br/>",
+						choice_B: "B)  плодородие.<br/>",
+						choice_C: "C) мелиорация.<br/>",
+						choice_D: "D)  эрозия.<br/>",
+						choice_E: "E)  осушение. <br/>",
+						number: 2,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "3) Весенние и осенние заморозки вызываются<br/>",
+						answer: "A<br/>",
+						choice_A: "А) арктическими континентальными воздушными массами.<br/>",
+						choice_B: "B)  тропическими континентальными воздушными массами.<br/>",
+						choice_C: "C) тропическими морскими воздушными массами.<br/>",
+						choice_D: "D)  умеренными морскими воздушными массами.<br/>",
+						choice_E: "E)  умеренными континентальными воздушными массами. <br/>",
+						number: 3,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "4)  Эндемиком Антарктиды является<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) кит.<br/>",
+						choice_B: "B)  соболь.<br/>",
+						choice_C: "C) тюлень.<br/>",
+						choice_D: "D)  пингвин.<br/>",
+						choice_E: "E)  чайка. <br/>",
+						number: 4,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "5) Три океана омывают берега<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Канады.<br/>",
+						choice_B: "B)  Польши.<br/>",
+						choice_C: "C) Бразилии.<br/>",
+						choice_D: "D)  Китая.<br/>",
+						choice_E: "E)  Великобритании. <br/>",
+						number: 5,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "6)  Самое большое государство в мире по площади:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Германия.<br/>",
+						choice_B: "B)  Канада.<br/>",
+						choice_C: "C) США.<br/>",
+						choice_D: "D)  Бразилия.<br/>",
+						choice_E: "E)  Российская Федерация. <br/>",
+						number: 6,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "7)  Одним из основных вопросов современной географии считается:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) рациональное использование богатств природы.<br/>",
+						choice_B: "B)  открытие новых рек, озер, островов и т.д.<br/>",
+						choice_C: "C) создание искусственной природы.<br/>",
+						choice_D: "D)  исследование других планет.<br/>",
+						choice_E: "E)  составление новых географических карт. <br/>",
+						number: 7,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "8) Большинство населения Южного Казахстана сосредоточено в:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) предгорьях и долинах рек.<br/>",
+						choice_B: "B)  западной части.<br/>",
+						choice_C: "C) районах высокогорья.<br/>",
+						choice_D: "D)  северной части.<br/>",
+						choice_E: "E)  местах примыкающих к разработкам полезных ископаемых. <br/>",
+						number: 8,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "9)  Экватор пересекает материки<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Северную Америку и Австралию<br/>",
+						choice_B: "B)  Австралию и Африку<br/>",
+						choice_C: "C) Южную Америку и Австралию<br/>",
+						choice_D: "D)  Евразию и Северную Америку<br/>",
+						choice_E: "E)  Африку и Южную Америку<br/>",
+						number: 9,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "10) Средняя температура января на юге Казахстана:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) -100 С.<br/>",
+						choice_B: "B)  -80 С.<br/>",
+						choice_C: "C) -150 С.<br/>",
+						choice_D: "D)  -200 С.<br/>",
+						choice_E: "E)  -20 С. <br/>",
+						number: 10,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "11) 80 % территории занимает пустыня Каракум в республике:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Азербайджан.<br/>",
+						choice_B: "B)  Казахстан.<br/>",
+						choice_C: "C) Узбекистан.<br/>",
+						choice_D: "D)  Кыргызстан.<br/>",
+						choice_E: "E)  Туркменистан. <br/>",
+						number: 11,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "12)  Африку омывают океаны<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Атлантический и Индийский.<br/>",
+						choice_B: "B)  Тихий и Индийский.<br/>",
+						choice_C: "C) Южный и Атлантический.<br/>",
+						choice_D: "D)  Тихий и Атлантический.<br/>",
+						choice_E: "E)  Северный Ледовитый и Индийский. <br/>",
+						number: 12,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "13) Круговорот воды осуществляется благодаря:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Солнечной энергии и движению воздушных масс.<br/>",
+						choice_B: "B)  Закону географической зональности.<br/>",
+						choice_C: "C) Изменению атмосферного давления.<br/>",
+						choice_D: "D)  Движению литосферных плит.<br/>",
+						choice_E: "E)  Внутренней энергии Земли. <br/>",
+						number: 13,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "14) Национальный парк имени Крюгера находится на территории:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Центральной Африки.<br/>",
+						choice_B: "B)  Западной Африки.<br/>",
+						choice_C: "C) Северной Африки.<br/>",
+						choice_D: "D)  Южной Африки. <br/>",
+						choice_E: "E)  Восточной Африки. <br/>",
+						number: 14,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "15)  Академик, открывший богатейшие запасы медной руды в Жезказгане: <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) К.Глинка.<br/>",
+						choice_B: "B)  А.Краснов.<br/>",
+						choice_C: "C) К.Сатпаев. <br/>",
+						choice_D: "D)  Н.Баранский.<br/>",
+						choice_E: "E)  И.Борщов. <br/>",
+						number: 15,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "16)  Часть географической оболочки, заселенная и измененная живыми организмами: <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Гидросфера<br/>",
+						choice_B: "B)  Литосфера<br/>",
+						choice_C: "C) Часть литосферы и часть гидросферы<br/>",
+						choice_D: "D)  Биосфера<br/>",
+						choice_E: "E)  Часть атмосферы и часть литосферы<br/>",
+						number: 16,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "17) Государство занимает второе место в мире по добыче алмазов, третье по добыче уранового концентрата:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Зимбабве.<br/>",
+						choice_B: "B)  Египет.<br/>",
+						choice_C: "C) Алжир.<br/>",
+						choice_D: "D)  Ангола.<br/>",
+						choice_E: "E)  ЮАР. <br/>",
+						number: 17,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "18) Переходных природных зон насчитывается на территории Казахстана:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) 2<br/>",
+						choice_B: "B)  1<br/>",
+						choice_C: "C) 5<br/>",
+						choice_D: "D)  4<br/>",
+						choice_E: "E)  3.<br/>",
+						number: 18,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "19) Количество водяного пара в граммах в 1м3 воздуха (г/м3) называют.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Испаряемостью.<br/>",
+						choice_B: "B)  Относительной влажностью.<br/>",
+						choice_C: "C) Влажностью воздуха.<br/>",
+						choice_D: "D)  Абсолютной влажностью.<br/>",
+						choice_E: "E)  Испарением. <br/>",
+						number: 19,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "20)  Западно-Сибирская равнина в Казахстане находится <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) На западе <br/>",
+						choice_B: "B)  На юго-западе<br/>",
+						choice_C: "C) На севере<br/>",
+						choice_D: "D)  На востоке <br/>",
+						choice_E: "E)  На юге<br/>",
+						number: 20,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "21)  Прибор для измерения давления<br/>",
+						answer: "A<br/>",
+						choice_A: "А) барометр<br/>",
+						choice_B: "B)  анемометр<br/>",
+						choice_C: "C) альтимометр <br/>",
+						choice_D: "D)  спидометр<br/>",
+						choice_E: "E)  термометр<br/>",
+						number: 21,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "22)  Разрушение почв – это:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) эрозия.<br/>",
+						choice_B: "B)  плодородие.<br/>",
+						choice_C: "C) осушение.<br/>",
+						choice_D: "D)  рекультивация.<br/>",
+						choice_E: "E)  мелиорация. <br/>",
+						number: 22,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "23) В жизни Земли наблюдались ритмы, охватывающие многие миллионы лет<br/>",
+						answer: "A<br/>",
+						choice_A: "А) похолодание и потепление климата.<br/>",
+						choice_B: "B)  годовой ход температуры.<br/>",
+						choice_C: "C) вращение Земли вокруг своей оси.<br/>",
+						choice_D: "D)  активность человека днем и отдых ночью.<br/>",
+						choice_E: "E)  вращение Земли вокруг Солнца. <br/>",
+						number: 23,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "24) В состав тяжелой промышленности входят<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) стадионы, кинотеатры.<br/>",
+						choice_B: "B)  предприятия пищевой промышленности.<br/>",
+						choice_C: "C) машиностроительные заводы.<br/>",
+						choice_D: "D)  швейные фабрики.<br/>",
+						choice_E: "E)  текстильные комбинаты. <br/>",
+						number: 24,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "25) Месяц года, с наибольшим уровнем суммарной солнечной радиации в Казахстане:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Октябрь.<br/>",
+						choice_B: "B)  Январь.<br/>",
+						choice_C: "C) Июль.<br/>",
+						choice_D: "D)  Сентябрь.<br/>",
+						choice_E: "E)  Апрель. <br/>",
+						number: 25,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "1) Закон о развитии просвещения, принятый в 1906 гсоздавал  ограничения и препятствовал деятельности в Казахстане: <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Профессиональных  учебных  заведений <br/>",
+						choice_B: "B)  Русско-казахских  школ <br/>",
+						choice_C: "C) Женского  образования <br/>",
+						choice_D: "D)  Конфессиональных  учебных  заведений <br/>",
+						choice_E: "E)  Церковно-лриходских  школ <br/>",
+						number: 1,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "2)  Поводом для вторжения монгол  на территорию Казахстана и Среднюю Азию стала: <br/>",
+						answer: " B  <br/>",
+						choice_A: "А) ослабление власти хорезмшаха  Мухаммеда <br/>",
+						choice_B: "B)  гибель в Отраре торгового каравана, посланного  Чингисханом <br/>",
+						choice_C: "C) джут в Монголии <br/>",
+						choice_D: "D)  срыв дипломатических  переговоров в Отраре <br/>",
+						choice_E: "E)  джут в Отрарском оазисе <br/>",
+						number: 2,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "3) Введённый  14 июня  1921 года  Декрет «О натуральном  мясном налоге»: <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Заменял сбор мясного налога ценными  вещами <br/>",
+						choice_B: "B)  Облагал кочевое и полукочевое население мясным  налогом <br/>",
+						choice_C: "C) Временно приостанавливал  сбор мясного  налога <br/>",
+						choice_D: "D)  Освобождал  кочевое и полукочевое  население от мясного налога <br/>",
+						choice_E: "E)  Заменял сбор мясного налога хлебом <br/>",
+						number: 3,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "4) Книга поэта эпохи Караханидов Ахмеда Иугнеки, написанная на тюркском языке и дошедшая до наших дней: <br/>",
+						answer: "A<br/>",
+						choice_A: "А) «Дар истины» <br/>",
+						choice_B: "B)   «Диуан-и-хикмет» <br/>",
+						choice_C: "C)  «Шынгыснаме» <br/>",
+						choice_D: "D)   «Тарих-и-Рашиди» <br/>",
+						choice_E: "E)  «Джами  ат-тауарих» <br/>",
+						number: 4,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "5) «Примерно наказать мятежников»-участников восстания  1870 года на Мангыстау распорядился: <br/>",
+						answer: " B  <br/>",
+						choice_A: "А) подполковник Рукин <br/>",
+						choice_B: "B)  военный министр России Милютин <br/>",
+						choice_C: "C) Александр И <br/>",
+						choice_D: "D)  военный губернатор  Н.А.Веревкин <br/>",
+						choice_E: "E)  генерал-губернатор  Н.А.Крыжановский <br/>",
+						number: 5,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "6) Этническая централизация  единой казахской народности  произошла в период правления хана: <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Есима <br/>",
+						choice_B: "B)  Керея <br/>",
+						choice_C: "C) Касыма <br/>",
+						choice_D: "D)  Тауекеля <br/>",
+						choice_E: "E)  Тауке <br/>",
+						number: 6,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "7) Видные советские ученые, в конце 20-ых-начале 30-ых годов XX века, изучавшие сырьевые ресурсы  Казахстана: <br/>",
+						answer: "A<br/>",
+						choice_A: "А) Н.Курнаков и И.Губкин <br/>",
+						choice_B: "B)  Н.Гамалей и Л.Шевяков <br/>",
+						choice_C: "C) Н.Зелинский  и В.Комаров <br/>",
+						choice_D: "D)  В.Вернадский  и  С.Вавилов <br/>",
+						choice_E: "E)  Н.Вавилов  и В.Алексеев <br/>",
+						number: 7,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "8)  Государство, основателями которого стали Жаныбек и Керей: <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Государство кочевых узбеков <br/>",
+						choice_B: "B)  Могулистан <br/>",
+						choice_C: "C) Ногайская  Орда <br/>",
+						choice_D: "D)  Золотая Орда <br/>",
+						choice_E: "E)  Казахское ханство <br/>",
+						number: 8,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "9)  Хакназар был убит людьми: <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) ногайских мурз <br/>",
+						choice_B: "B)  хана Сибири  Кучума <br/>",
+						choice_C: "C)ойратов <br/>",
+						choice_D: "D)  хивинцев <br/>",
+						choice_E: "E)  Баба-султана <br/>",
+						number: 9,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "10) Государственная  публичная библиотека имА.С.Пушкина  (ныне Национальная библиотека Республики Казахстан) была открыта в: <br/>",
+						answer: " B  <br/>",
+						choice_A: "А)  1935 г. <br/>",
+						choice_B: "B)   1939 г. <br/>",
+						choice_C: "C) 1937 г. <br/>",
+						choice_D: "D)   1938 г. <br/>",
+						choice_E: "E)   1936 г. <br/>",
+						number: 10,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "11) В  1975 году была опубликована книга Олжаса Сулейменова  &quot;Аз и Я&quot;:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Романтического  содержания <br/>",
+						choice_B: "B)  Политического  содержания <br/>",
+						choice_C: "C) Националистической  направленности <br/>",
+						choice_D: "D)  Историко-лингвистического  содержания <br/>",
+						choice_E: "E)  Сатирического  жанра <br/>",
+						number: 11,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "12)  В период раннего средневековья тюркские  племена  поклонялись: <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Мани <br/>",
+						choice_B: "B)  Аллаху <br/>",
+						choice_C: "C) Иисусу <br/>",
+						choice_D: "D)  Будде <br/>",
+						choice_E: "E)  Тенгри <br/>",
+						number: 12,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "13)  В период раннего средневековья тюркские племена поклонялись  женскому божеству Умай, которая считалась  покровительницей: <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) животного мира <br/>",
+						choice_B: "B) воинов <br/>",
+						choice_C: "C) очага и детей <br/>",
+						choice_D: "D) скотоводов <br/>",
+						choice_E: "E)  земледельцев <br/>",
+						number: 13,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "14) Для военно-политического  проникновения  в глубь казахских  земель Россия в  1716-1720 годах возводит военные крепости в: <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Приуралье <br/>",
+						choice_B: "B)  Средней Азии <br/>",
+						choice_C: "C) Приилийском  крае <br/>",
+						choice_D: "D)  В Монголии <br/>",
+						choice_E: "E)  Верхнем Прииртышье <br/>",
+						number: 14,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "15)  130(5 монет Ill-IV вв. н.э) найденные в Присырдарьинском  регионе принадлежали: <br/>",
+						answer: "A<br/>",
+						choice_A: "А) кангюям <br/>",
+						choice_B: "B) гуннам <br/>",
+						choice_C: "C) массагетам <br/>",
+						choice_D: "D) аварам <br/>",
+						choice_E: "E)  уйсунам <br/>",
+						number: 15,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "16) В  1938 году с Дальнего Востока в Казахстан было переселено более  100 тысяч человек: <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Немцев <br/>",
+						choice_B: "B)  Чеченцев <br/>",
+						choice_C: "C) Уйгур <br/>",
+						choice_D: "D)  Корейцев <br/>",
+						choice_E: "E)  Татар <br/>",
+						number: 16,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "17)  Женщины в сакском обществе пользовались: <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Избирательным  правом <br/>",
+						choice_B: "B)  Неограниченными  правами <br/>",
+						choice_C: "C) Равными с мужчинами  правами <br/>",
+						choice_D: "D)  Не имели  прав <br/>",
+						choice_E: "E)  Ограниченными  правами <br/>",
+						number: 17,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "18) Вопросы военной учебы в отрядах Амангельды Иманова решались: <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Советом биев <br/>",
+						choice_B: "B)  Советом  старшин <br/>",
+						choice_C: "C) Советом  аксакалов <br/>",
+						choice_D: "D)  Военным  Советом <br/>",
+						choice_E: "E)  Самими воинами <br/>",
+						number: 18,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "19) По личному распоряжению Петра I, «искавшего пути в полуденную Азию», была организована  экспедиция: <br/>",
+						answer: " C  <br/>",
+						choice_A: "А)  А.Джангильдина <br/>",
+						choice_B: "B)   Н.С.Курнакова <br/>",
+						choice_C: "C)  И.Д.Бухгольца <br/>",
+						choice_D: "D)  Н.А.Веревкина <br/>",
+						choice_E: "E)  К.И.Сатпаева <br/>",
+						number: 19,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "20)  ущемление в правах, карательная мера, применяемая  государственным органами: <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) аннексия <br/>",
+						choice_B: "B)  радикализм <br/>",
+						choice_C: "C) агрессия <br/>",
+						choice_D: "D)  репрессия <br/>",
+						choice_E: "E)  контрибуция <br/>",
+						number: 20,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "21)   Походы гуннов во главе с Аттилой способствовали  освобождению Европы от: <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Арабского  халифата <br/>",
+						choice_B: "B)  Византийской  империи <br/>",
+						choice_C: "C) Римской  империи <br/>",
+						choice_D: "D)  Тюркского каганата <br/>",
+						choice_E: "E)  Монгольского  владычества <br/>",
+						number: 21,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "22)  Переселение гуннов на территорию Казахстана связано с именем шаньюя: <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Баламбера <br/>",
+						choice_B: "B)  Атиллы <br/>",
+						choice_C: "C) Чжи-Чжи <br/>",
+						choice_D: "D)  Лю-Бана <br/>",
+						choice_E: "E)  Моде <br/>",
+						number: 22,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "23) Согласно «Устава о сибирских киргизах», аульные старшины  избирались на срок: <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) 1  год <br/>",
+						choice_B: "B)  10 лет <br/>",
+						choice_C: "C) 5 лет <br/>",
+						choice_D: "D)  3 года <br/>",
+						choice_E: "E)  7 лет <br/>",
+						number: 23,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "24) Автор «Маса», вышедшего в Оренбурге в  1911 году: <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Шакарима  Кудайбердиева <br/>",
+						choice_B: "B)  Магжана  Жумабаева <br/>",
+						choice_C: "C) Сабита Донентаева <br/>",
+						choice_D: "D)  Ахмета  Байтурсынова <br/>",
+						choice_E: "E)  Мыржакыгга Дулатова <br/>",
+						number: 24,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "25)  В  1598-1628 годах Казахским ханством  правил: <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Абылай <br/>",
+						choice_B: "B)  Абулхаир <br/>",
+						choice_C: "C) Хакназар <br/>",
+						choice_D: "D)  Есим <br/>",
+						choice_E: "E)  Тауке <br/>",
+						number: 25,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "1)  Дұрыс тасымалданған сөзді көрсетіңіз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Театр-рлар.<br/>",
+						choice_B: "B)  Баяндау-ыш.<br/>",
+						choice_C: "C) Та-рақ.<br/>",
+						choice_D: "D)  Бір-ыңғай.<br/>",
+						choice_E: "E)  О-тан.<br/>",
+						number: 1,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "2)  Салыстырмалы шырайды көрсетіңіз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Ұп-ұзын.<br/>",
+						choice_B: "B)  Сұп-суық.<br/>",
+						choice_C: "C) Үлкенірек.<br/>",
+						choice_D: "D)  Аппақ.<br/>",
+						choice_E: "E)  Тым биік.<br/>",
+						number: 2,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "3)  Қалау рай қатысып тұрған сөйлемді белгілеңіз.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Тағы да қайталаймын.<br/>",
+						choice_B: "B)  Өзіме сеніп жазбасам.<br/>",
+						choice_C: "C) Жау жолына атам сені, Бомба бол да, жарыл жүрек!<br/>",
+						choice_D: "D)  Ол да тілегін айтқысы келді.<br/>",
+						choice_E: "E)  Қасым қаладан шетіректегі ескі мекенінде тұратын.<br/>",
+						number: 3,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "4)  -aу, -ақ, ғой демеулік шылаулары арқылы жасалатын сөйлем түрін көрсетіңіз.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Лепті сөйлем.<br/>",
+						choice_B: "B)  Сұраулы сөйлем.<br/>",
+						choice_C: "C) Хабарлы сөйлем.<br/>",
+						choice_D: "D)  Бұйрықты сөйлем.<br/>",
+						choice_E: "E)  Атаулы сөйлем.<br/>",
+						number: 4,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "5)  -aу, -еу жұрнағы арқылы жасалатын сан есімнің түрін көрсетіңіз.<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Бөлшектік сан есім.<br/>",
+						choice_B: "B)  Болжалдық сан есім.<br/>",
+						choice_C: "C) Есептік сан есім.<br/>",
+						choice_D: "D)  Топтау сан есім.<br/>",
+						choice_E: "E)  Жинақтық сан есім.<br/>",
+						number: 5,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "6)  Еліктеуішті сөз тіркесін табыңыз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Кілт тоқтады. <br/>",
+						choice_B: "B)  Қолп-қолп етіп жүргізбейді.<br/>",
+						choice_C: "C) Гүрс-гүрс шығады.<br/>",
+						choice_D: "D)  Жарқ-жұрқ ойнайды.<br/>",
+						choice_E: "E)  Жалп-жалп құлады.<br/>",
+						number: 6,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "7)  Дерексіз зат есімдерді белгілеңіз.<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Қайың, ағаш, құдық.<br/>",
+						choice_B: "B)  Қалам, кітап, сақа.<br/>",
+						choice_C: "C) Гүлзар, теледидар, қоржын.<br/>",
+						choice_D: "D)  Жылқышы, ауыл, дала.<br/>",
+						choice_E: "E)  Сана, қуаныш, ыза.<br/>",
+						number: 7,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "8)  Мезгіл үстеуін белгілеңіз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Тым.<br/>",
+						choice_B: "B)  Аса.<br/>",
+						choice_C: "C) Енді.<br/>",
+						choice_D: "D)  Шапшаң.<br/>",
+						choice_E: "E)  Сонша.<br/>",
+						number: 8,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "9)  Мезгіл үстеуін белгілеңіз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Тым.<br/>",
+						choice_B: "B)  Аса.<br/>",
+						choice_C: "C) Енді.<br/>",
+						choice_D: "D)  Шапшаң.<br/>",
+						choice_E: "E)  Сонша.<br/>",
+						number: 9,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "10)  Тек тұрлаулы мүшелерден тұрған сөйлемді белгілеңіз.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Атың әдемі екен.<br/>",
+						choice_B: "B)  Оның өзі шеткерірек тұр екен.<br/>",
+						choice_C: "C) Көп ұзамай жауын басылды.<br/>",
+						choice_D: "D)  Өңі алабұрта күрең тартқан.<br/>",
+						choice_E: "E)  Бүгін сабақта Әмір жоқ.<br/>",
+						number: 10,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "11)  Етістікті сөз тіркесін көрсетіңіз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Кірпіш үй.<br/>",
+						choice_B: "B)  Бес бала.<br/>",
+						choice_C: "C) Оқыған қыз.<br/>",
+						choice_D: "D)  Сөзіне таңғалды.<br/>",
+						choice_E: "E)  Әдемі әуен.<br/>",
+						number: 11,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "12)  Еліктеу сөздердің басқа сөз таптарынан ерекшелігін көрсетіңіз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Құбылыстардың атауларын білдіреді.<br/>",
+						choice_B: "B)  Іс-қимылдың мекенін, амалын білдіреді.<br/>",
+						choice_C: "C) Айналадағы әр түрлі дыбысқа, жеке қимылға еліктеуді білдіреді.<br/>",
+						choice_D: "D)  Сөйлеушінің сөзі арқылы қимылдың шындыққа қатысын білдіреді.<br/>",
+						choice_E: "E)  Іс-әрекеттің өту кезеңін білдіреді.<br/>",
+						number: 12,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "13)  Дұрыс тасымалданған сөзді көрсетіңіз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Театр-рлар.<br/>",
+						choice_B: "B)  Баяндау-ыш.<br/>",
+						choice_C: "C) Та-рақ.<br/>",
+						choice_D: "D)  Бір-ыңғай.<br/>",
+						choice_E: "E)  О-тан.<br/>",
+						number: 13,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "14)  Лепті сөйлемді анықтаңыз.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Па! Шіркіннің сөзі!<br/>",
+						choice_B: "B)  Мынау қоян жепті ғой.<br/>",
+						choice_C: "C) Не күдігіңіз бар еді?<br/>",
+						choice_D: "D)  Қандай айғақ таптыңыз?<br/>",
+						choice_E: "E)  Ертең қызық болады.<br/>",
+						number: 14,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "15)  Есімдіктен болып тұрған бастауышты анықтаңыз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Маған сыйлық әкелді.<br/>",
+						choice_B: "B)  Мен еңбекті бағалаймын.<br/>",
+						choice_C: "C) Ана сүтін ардақта.<br/>",
+						choice_D: "D)  Оның төрттен бірін ал.<br/>",
+						choice_E: "E)  Сыйлық бәріне жетті.<br/>",
+						number: 15,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "16)  “Н” дауыссыз дыбысы қай топқа жататынын белгілеңіз.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Қатаң дауыссыз дыбыс.<br/>",
+						choice_B: "B)  Ұяң дауыссыз дыбыс.<br/>",
+						choice_C: "C) Жуан сөзде ғана жазылатын дауыссыз дыбыс.<br/>",
+						choice_D: "D)  Үнді дауыссыз дыбыс.<br/>",
+						choice_E: "E)  Жіңішке сөзде ғана жазылатын дауыссыз дыбыс.<br/>",
+						number: 16,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "17)  Салдар мәнді жай сөйлемі бұрын орналасқан құрмалас сөйлемді анықтаңыз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Қостанайдан шыққалы он күн: біз түнде де жүріп келеміз. <br/>",
+						choice_B: "B)  Күріш тұқымы суға қолмен себіледі, өйткені тұқым сепкен суға жүре алмайды.<br/>",
+						choice_C: "C) Өзгеңнен гөрі менің жаным қаттырақ ауырар еді: бұл егін дәнін қолымнан мен септім ғой.<br/>",
+						choice_D: "D)  Қазір ол сақалың да қырған, киімін де өзгерткен, сондықтан кескін-кейпі де өзгерген.<br/>",
+						choice_E: "E)  Қайыр сөзді әрі қарай тереңдеткісі келмеді, сондықтан әңгіме желісін бұрып жіберді.<br/>",
+						number: 17,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "18)  Тұйық буынды анықтаңыз.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Ас.<br/>",
+						choice_B: "B)  Жұрт.<br/>",
+						choice_C: "C) Ұран.<br/>",
+						choice_D: "D)  Дала.<br/>",
+						choice_E: "E)  Қант.<br/>",
+						number: 18,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "19)  Жұп дауыссыз дыбыстар қатысқан сөздер қатарын анықтаңыз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Ес, ақыл.<br/>",
+						choice_B: "B)  Дақ, табыс.<br/>",
+						choice_C: "C) Өмір, жолдас.<br/>",
+						choice_D: "D)  Ескілік, нұр.<br/>",
+						choice_E: "E)  Өлшем, қанағат.<br/>",
+						number: 19,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "20)  Бірігу арқылы жасалған күрделі үстеу.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Жөнімен.<br/>",
+						choice_B: "B)  Шынымен.<br/>",
+						choice_C: "C) Ендігәрі.<br/>",
+						choice_D: "D)  Күні бүгін.<br/>",
+						choice_E: "E)  Кешірек.<br/>",
+						number: 20,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "21)  Қыстырма сөзді сөйлемді көрсетіңіз.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Қарағым, бүгін күн жұма ғой.<br/>",
+						choice_B: "B)  Қой, не де болса қалмайық енді.<br/>",
+						choice_C: "C) Жүрегім, ойбай, соқпай енді.<br/>",
+						choice_D: "D)  Дүниеде, сірә, сендей маған жар жоқ.<br/>",
+						choice_E: "E)  Уа, халқым, құлаш жаздың кең өріске.<br/>",
+						number: 21,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "22)  Демеулік шылаулар қатысып тұрған сөйлемді белгілеңіз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Ғасырлар бойы жасап келе жатқан, бірақ өмірі қартаймайтын адам тәрізді.<br/>",
+						choice_B: "B)  Ол – кезінде сонет жазуда да алдына жан салмаған ақын.<br/>",
+						choice_C: "C) Жеті сайын көрісіп, ұзақ-ұзақ сөйлесіп, сырластық.<br/>",
+						choice_D: "D)  Біз Ахаңмен күй туралы бұл жолы көп сырластық.<br/>",
+						choice_E: "E)  Содан кейін бұл жағын азайта бастадым.<br/>",
+						number: 22,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "23)  Бірыңғай қатаң дауыссыз қатысқан сөзді көрсетіңіз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Қорытынды.<br/>",
+						choice_B: "B)  Тасаттық.<br/>",
+						choice_C: "C) Қос бұрым.<br/>",
+						choice_D: "D)  Өркен.<br/>",
+						choice_E: "E)  Бағдарсыз.<br/>",
+						number: 23,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "24)  Төрт буыннан тұратын сөзді көрсетіңіз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Төзімді. <br/>",
+						choice_B: "B)  Саңырауқұлақ.<br/>",
+						choice_C: "C) Шаруашылық.<br/>",
+						choice_D: "D)  Жақсылық.<br/>",
+						choice_E: "E)  Орта.<br/>",
+						number: 24,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "25)  Көптелмейтін әрі тәуелді жалғауларын қабылдамайтын сан есімді көрсетіңіз.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Реттік сан есім<br/>",
+						choice_B: "B)  Есептік сан есім.<br/>",
+						choice_C: "C) Жинақтық сан есім.<br/>",
+						choice_D: "D)  Бөлшектік сан есім.<br/>",
+						choice_E: "E)  Топтау сан есім.<br/>",
+						number: 25,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "1) Определите жанр казахского фольклора по его формулировке: «Народное повествование о событиях далекого прошлого, батырах и героях».<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Эпос.<br/>",
+						choice_B: "B)  Пословица.<br/>",
+						choice_C: "C) Сказка.<br/>",
+						choice_D: "D)  Былина.<br/>",
+						choice_E: "E)  Небылица. <br/>",
+						number: 1,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "2) Укажите, какой поэт *серебряного века* считал сущностью своего творчества собственную фантазию:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Н. Гумилев.<br/>",
+						choice_B: "B)  И. Анненский.<br/>",
+						choice_C: "C) К. Бальмонт.<br/>",
+						choice_D: "D)  А. Белый.<br/>",
+						choice_E: "E)  И. Северянин. <br/>",
+						number: 2,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "3) М. Горький говорил, что, прежде чем писать, надо подумать, «что писать, зачем писать и как писать»Слова «зачем писать» в этом высказывании отражают:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) сюжет.<br/>",
+						choice_B: "B)  образную систему.<br/>",
+						choice_C: "C) композицию.<br/>",
+						choice_D: "D)  идею.<br/>",
+						choice_E: "E)  тему. <br/>",
+						number: 3,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "4) Трагические страницы эпохи коллективизации отражены в произведении:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) А. Нурпеисова “Кровь и пот”.<br/>",
+						choice_B: "B)  А. Алимжанова “Стрела Махамбета”.<br/>",
+						choice_C: "C) С. Жунусова “Ахан-серэ”.<br/>",
+						choice_D: "D)  М. Магауина “Вешние снега”.<br/>",
+						choice_E: "E)  С. Елубаева “Одинокая юрта”.<br/>",
+						number: 4,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "5)  Автором произведения &quot;Путешествие из Петербурга в Москву&quot; является:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) А.С.Пушкин.<br/>",
+						choice_B: "B)  Г.Р.Державин.<br/>",
+						choice_C: "C) М.В.Ломоносов.<br/>",
+						choice_D: "D)  Н.М.Карамзин.<br/>",
+						choice_E: "E)  А.Н.Радищев. <br/>",
+						number: 5,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "6) В повести А.Солженицына “Один день Ивана Денисовича” раскрывается тема:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Интеллигенции.<br/>",
+						choice_B: "B)  Социалистического строительства.<br/>",
+						choice_C: "C) Тюремной жизни (зоны).<br/>",
+						choice_D: "D)  Деревни.<br/>",
+						choice_E: "E)  Большого города. <br/>",
+						number: 6,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "7) Укажите, какой поэт *серебряного века* считал сущностью своего творчества собственную фантазию:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Н. Гумилев.<br/>",
+						choice_B: "B)  И. Анненский.<br/>",
+						choice_C: "C) К. Бальмонт.<br/>",
+						choice_D: "D)  А. Белый.<br/>",
+						choice_E: "E)  И. Северянин. <br/>",
+						number: 7,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "8) В годы правления Бориса Годунова был взят в плен и отправлен в Москву:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Юсуф Баласагуни.<br/>",
+						choice_B: "B)  Кадыргали Жалаири.<br/>",
+						choice_C: "C) Абу Наср аль-Фараби.<br/>",
+						choice_D: "D)  Бухар жырау.<br/>",
+						choice_E: "E)  Мухаммед Хайдар Дулати. <br/>",
+						number: 8,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "9) Автор повествования о прекрасной белой аруане и о судьбе её хозяина Мырзагали:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Мухтар Магауин.<br/>",
+						choice_B: "B)  Абиш Кекильбаев.<br/>",
+						choice_C: "C) Смагул Елубаев.<br/>",
+						choice_D: "D)  Сатимжан Санбаев.<br/>",
+						choice_E: "E)  Оралхан Бокеев. <br/>",
+						number: 9,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "10) “Я взглянул окрест меня - душа моя страданиями человечества уязвленна стала...“ – так устами героя сказал о себе писатель:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) И. А. Крылов.<br/>",
+						choice_B: "B)  А. Н. Радищев.<br/>",
+						choice_C: "C) Д. И. Фонвизин.<br/>",
+						choice_D: "D)  К. Ф. Рылеев.<br/>",
+						choice_E: "E)  Н. М. Карамзин. <br/>",
+						number: 10,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "11) «Часы с остановившимся маятником, к которому паук уже приладил паутину»,- увидел Чичиков в комнате:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Собакевича.<br/>",
+						choice_B: "B)  Ноздрёва.<br/>",
+						choice_C: "C) Плюшкина.<br/>",
+						choice_D: "D)  Манилова.<br/>",
+						choice_E: "E)  Коробочки. <br/>",
+						number: 11,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "12)  Не хочет учиться, а хочет жениться персонаж пьесы<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Альбер (А.С.Пушкин «Скупой рыцарь»).<br/>",
+						choice_B: "B)  Митрофан (Д.И.Фонвизин «Недоросль»).<br/>",
+						choice_C: "C) Репетилов (А.С.Грибоедов, «Горе от ума»).<br/>",
+						choice_D: "D)  Скотинин (Д.И.Фонвизин «Недоросль»).<br/>",
+						choice_E: "E)  Молчалин (А.С.Грибоедов, «Горе от ума»). <br/>",
+						number: 12,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "13) В поэме “Кому на Руси жить хорошо” Н.А.Некрасов утверждал мысль, что нравственное возрождение народа невозможно без:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Покаяния и духовного возрождения.<br/>",
+						choice_B: "B)  Бунта.<br/>",
+						choice_C: "C) Единения.<br/>",
+						choice_D: "D)  Жертв.<br/>",
+						choice_E: "E)  Свободы. <br/>",
+						number: 13,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "14)  В поэзии М.Ю.Лермонтова к основному нельзя отнести мотив: <br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Одиночества.<br/>",
+						choice_B: "B)  Радости.<br/>",
+						choice_C: "C) Печали.<br/>",
+						choice_D: "D)  Грусти.<br/>",
+						choice_E: "E)  Свободы. <br/>",
+						number: 14,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "15) Производственная тема раскрывается в произведении<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) С. Сейфуллина «Советстан».<br/>",
+						choice_B: "B)  Г. Мустафина «Караганда».<br/>",
+						choice_C: "C) С. Елубаева «Одинокая юрта».<br/>",
+						choice_D: "D)  Ж. Жабаева «Алатау».<br/>",
+						choice_E: "E)  М. Ауэзова «Лихая година». <br/>",
+						number: 15,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "16)  Автор строк:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Р.Казакова.<br/>",
+						choice_B: "B)  М.Алигер.<br/>",
+						choice_C: "C) О.Берггольц.<br/>",
+						choice_D: "D)  В.Тушнова.<br/>",
+						choice_E: "E)  Ю.Друнина. <br/>",
+						number: 16,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "17)  Не хочет учиться, а хочет жениться персонаж пьесы<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Митрофан (Д.И.Фонвизин «Недоросль»).<br/>",
+						choice_B: "B)  Скотинин (Д.И.Фонвизин «Недоросль»).<br/>",
+						choice_C: "C) Репетилов (А.С.Грибоедов, «Горе от ума»).<br/>",
+						choice_D: "D)  Альбер (А.С.Пушкин «Скупой рыцарь»).<br/>",
+						choice_E: "E)  Молчалин (А.С.Грибоедов, «Горе от ума»). <br/>",
+						number: 17,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "18) Пьеса М.Горького:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) &quot;Доходное место.&quot;<br/>",
+						choice_B: "B)  &quot;Бесприданница.&quot;<br/>",
+						choice_C: "C) &quot;Три сестры.&quot;<br/>",
+						choice_D: "D)  &quot;Мещане.&quot;<br/>",
+						choice_E: "E)  &quot;Дядя Ваня.&quot;<br/>",
+						number: 18,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "19) Автор стихотворения «Предсмертные слова Исатая, сказанные Махамбету»:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Жамбыл.<br/>",
+						choice_B: "B)  Кулмамбет.<br/>",
+						choice_C: "C) Абай.<br/>",
+						choice_D: "D)  Махамбет.<br/>",
+						choice_E: "E)  Биржан. <br/>",
+						number: 19,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "20) Жанр произведения Б. Сокпакбаева «Меня зовут Кожа»:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Поэма.<br/>",
+						choice_B: "B)  Повесть.<br/>",
+						choice_C: "C) Роман.<br/>",
+						choice_D: "D)  Рассказ.<br/>",
+						choice_E: "E)  Очерк. <br/>",
+						number: 20,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "21)  Укажите, кто говорит и к кому обращены слова в комедии Д. И. Фонвизина “Недоросль”: “Вот злонравия достойные плоды”:   <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Правдин Скотинину.<br/>",
+						choice_B: "B)  Скотинин Простаковой.<br/>",
+						choice_C: "C) Стародум Простаковой.<br/>",
+						choice_D: "D)  Софья Митрофану.<br/>",
+						choice_E: "E)  Правдин Вральману. <br/>",
+						number: 21,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "22) Поэт И. Бродский – лауреат премии: <br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Государственной.<br/>",
+						choice_B: "B)  Нобелевской.<br/>",
+						choice_C: "C) Пушкинской.<br/>",
+						choice_D: "D)  Ушинского.<br/>",
+						choice_E: "E)  Ленинской. <br/>",
+						number: 22,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "23) Произведение А.Радищева, которое он включил в &quot;Путешествие из Петербурга в Москву&quot;:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) &quot;Записка о податях&quot;.<br/>",
+						choice_B: "B)  &quot;Житие Федора Васильевича Ушакова&quot;.<br/>",
+						choice_C: "C) Ода &quot;Вольность&quot;.<br/>",
+						choice_D: "D)  &quot;Письмо о китайском торге&quot;.<br/>",
+						choice_E: "E)  &quot;Фелица&quot;.<br/>",
+						number: 23,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "24)  Беспощадный портрет города Петербурга создает Н. В. Гоголь во многих  произведениях. Его нет в:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Повести “Шинель”<br/>",
+						choice_B: "B)  “Записках сумасшедшего”<br/>",
+						choice_C: "C) Повести “Коляска”<br/>",
+						choice_D: "D)  Повести “Тарас Бульба”<br/>",
+						choice_E: "E)  Повести “Нос”<br/>",
+						number: 24,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "25) Определите размер стихотворения:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Ямб.<br/>",
+						choice_B: "B)  Дактиль.<br/>",
+						choice_C: "C) Хорей.<br/>",
+						choice_D: "D)  Амфибрахий.<br/>",
+						choice_E: "E)  Анапест. <br/>",
+						number: 25,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "1)   Решите уравнение:  |4 - х| =  1,5 <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 2,5;  1,5 <br/>",
+						choice_B: "B)  -2,5; -5,5 <br/>",
+						choice_C: "C) -5,5;  2,5 <br/>",
+						choice_D: "D)  5,5 ;  1,5 <br/>",
+						choice_E: "E)  2,5;  5,5 <br/>",
+						number: 1,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "2)  Упростите  выражение: $\\cfrac{\\cos 4\\alpha + \\cos 2\\alpha}{\\cos 3 \\alpha}$<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) ctga<br/>",
+						choice_B: "B)  2cosa<br/>",
+						choice_C: "C) cosa<br/>",
+						choice_D: "D)  -tga<br/>",
+						choice_E: "E)  sina<br/>",
+						number: 2,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "3)  Сколько воды нужно добавить к 40 кг $5\\%$-го раствора соли  в воде, чтобы получить $4\\%$-ый раствор? <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) 8 кг <br/>",
+						choice_B: "B)  12 кг <br/>",
+						choice_C: "C) 10 кг <br/>",
+						choice_D: "D)  15 кг <br/>",
+						choice_E: "E)  9 кг <br/>",
+						number: 3,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "4) Найти угловой  коэффициент  касательной  к графику  функции $f(x)=\\sin\\cfrac{x}{2}$ в   точке  с абсциссой $x_0=\\cfrac{\\pi}{2}$  <br/>",
+						answer: " B  <br/>",
+						choice_A: "А) $\\cfrac{3\\pi}{4}$<br/>",
+						choice_B: "B)  $\\cfrac{\\sqrt{2}}{4}$<br/>",
+						choice_C: "C) $\\sqrt{3}$<br/>",
+						choice_D: "D) $\\cfrac{\\sqrt{3}}{2}$ <br/>",
+						choice_E: "E)  $\\cfrac{\\sqrt{2}}{3}$<br/>",
+						number: 4,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "5)  Упростите  выражение: $\\cfrac{4a-4b}{3a+3x}\\cdot\\cfrac{(a+x)^2}{a^2-b^2}$<br/>",
+						answer: "A<br/>",
+						choice_A: "А) $\\cfrac{4a+4x}{3(a+b)}$<br/>",
+						choice_B: "B) $\\cfrac{4(a+x)}{3(a-b)}$  <br/>",
+						choice_C: "C)  $\\cfrac{4a+4x}{a^2-b^2}$<br/>",
+						choice_D: "D)  $\\cfrac{4a-4x}{a^2-b^2}$ <br/>",
+						choice_E: "E)   $\\cfrac{4a+4x}{a^2+b^2}$<br/>",
+						number: 5,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "6)  Если 0 < a < 1, то какое из пяти перечисленных чисел самое маленькое?<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) а+b <br/>",
+						choice_B: "B)  а:b<br/>",
+						choice_C: "C) а <br/>",
+						choice_D: "D)  b<br/>",
+						choice_E: "E)  а*b<br/>",
+						number: 6,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "7) Найти наибольшее  и наименьшее значения функции $f(x)=\\cfrac{4}{3}x^2 - 4x$ на промежутке  [0; 2] <br/>",
+						answer: "A<br/>",
+						choice_A: "А) $2\\cfrac{2}{3} \\text{ и } -2\\cfrac{2}{3}$<br/>",
+						choice_B: "B) $0 \\text{ и } -2\\cfrac{2}{3}$<br/>",
+						choice_C: "C) $4 \\text{ и } 0$<br/>",
+						choice_D: "D) $8 \\text{ и } -4$<br/>",
+						choice_E: "E) $2\\cfrac{2}{3} \\text{ и } 0$<br/>",
+						number: 7,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "8)   Если  треугольник  прямоугольный,  то градусная  мера одного  из его  углов равна: <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) 100° <br/>",
+						choice_B: "B)  98° <br/>",
+						choice_C: "C) 91° <br/>",
+						choice_D: "D)  90° <br/>",
+						choice_E: "E)  101° <br/>",
+						number: 8,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "9)  Упростите выражение: $3\\sqrt{72}-2\\sqrt{50}-3\\sqrt{8}$<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) $4\\sqrt{2}$<br/>",
+						choice_B: "B)  $2\\sqrt{2}$<br/>",
+						choice_C: "C) $\\sqrt{2}$<br/>",
+						choice_D: "D)  1<br/>",
+						choice_E: "E)  2<br/>",
+						number: 9,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "10)  Решите  систему  уравнений: $\\begin{cases}x+y=7\\\\ \\lg x + \\lg y = 1 \\end{cases}$<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) (2;-5),(-2;5) <br/>",
+						choice_B: "B)  (2;5), (5;2) <br/>",
+						choice_C: "C) (3;4), (4;3) <br/>",
+						choice_D: "D)  (5;2), (1;6) <br/>",
+						choice_E: "E)  (l;6), (6;1) <br/>",
+						number: 10,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "11) Для того  чтобы  пронумеровать  страниц книги использованно  2322  цифр. Если  нумерация  начинается  с  1-ой страницы, то определите  сколько  страницы  в книге: <br/>",
+						answer: " E  <br/>",
+						choice_A: "А)807<br/>",
+						choice_B: "B) 907<br/>",
+						choice_C: "C)800<br/>",
+						choice_D: "D) 810<br/>",
+						choice_E: "E) 900<br/>",
+						number: 11,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "12)  Упростите  выражение: $\\sin (90^o - \\alpha) - \\cos(180^o - \\alpha) + tg(180^o - \\alpha) - ctg (270^o + \\alpha)$<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) sina. <br/>",
+						choice_B: "B) -2cosa. <br/>",
+						choice_C: "C) cosa. <br/>",
+						choice_D: "D)  2cosa. <br/>",
+						choice_E: "E)  -cosa. <br/>",
+						number: 12,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "13)  Близнецы  Асан  и  Есен  поспорили:  Асан  говорит,  что  они  младше  папы  в 4  раза,  а Есен  —  что  они  младше  папы  на 24  года. Папа  сказал,  что  оба правы Сколько  лет Асану  и  Есену? <br/>",
+						answer: "A<br/>",
+						choice_A: "А) 8 <br/>",
+						choice_B: "B)  7 <br/>",
+						choice_C: "C) 10 <br/>",
+						choice_D: "D)  9 <br/>",
+						choice_E: "E)  6 <br/>",
+						number: 13,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "14)  Решите уравнение:  $\\sin x = \\cfrac{1}{5}$<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) $\\pm arcsin \\cfrac{1}{5} + 2\\pi n, \\quad n \\in \\mathbf{Z}$<br/>",
+						choice_B: "B) $(-1)^n arcsin \\cfrac{1}{5} + \\pi n, \\quad n \\in \\mathbf{Z}$ <br/>",
+						choice_C: "C) $(-1)^n arcsin \\cfrac{1}{5} + 2\\pi n, \\quad n \\in \\mathbf{Z}$<br/>",
+						choice_D: "D) $\\pm arcsin \\cfrac{1}{5} + \\pi n, \\quad n \\in \\mathbf{Z}$ <br/>",
+						choice_E: "E)  $arcsin \\cfrac{1}{5} + \\pi n, \\quad n \\in \\mathbf{Z}$<br/>",
+						number: 14,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "15)  Решите  уравнение: $\\log_2\\log_3(tg x) = 1$<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) $x = \\cfrac{\\pi}{4} + \\pi k, \\quad k \\in \\mathbf{Z}$<br/>",
+						choice_B: "B) $x = \\cfrac{\\pi}{6} + \\pi k, \\quad k \\in \\mathbf{Z}$ <br/>",
+						choice_C: "C) $x = arctg 9 + \\pi k, \\quad k \\in \\mathbf{Z}$<br/>",
+						choice_D: "D) $x = \\cfrac{\\pi}{2} + 2 \\pi k, \\quad k \\in \\mathbf{Z}$ <br/>",
+						choice_E: "E)  $x =\\cfrac{\\pi}{3} + \\pi k, \\quad k \\in \\mathbf{Z}$<br/>",
+						number: 15,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "16) Дана функция $y=x^2+x-6$  Определите: а ) нули функции; б ) промежутки  возрастания; в ) наименьшее значение функции <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) $\\text{а) } -3; 2 \\text{ б) } (-\\infty, 1] \\text{ в) } -6\\cfrac{1}{4}$<br/>",
+						choice_B: "B) $\\text{а) } -3; 2 \\text{ б) } (-\\infty, -\\cfrac{1}{2}] \\text{ в) } -6\\cfrac{1}{4}$ <br/>",
+						choice_C: "C) $\\text{а) } -3; 2 \\text{ б) } (-\\infty, -\\cfrac{1}{2}] \\text{ в) } -7$<br/>",
+						choice_D: "D) $\\text{а) } -3; 2 \\text{ б) } [-\\cfrac{1}{2}, +\\infty) \\text{ в) } -6\\cfrac{1}{4}$ <br/>",
+						choice_E: "E) $\\text{а) } -3; 2 \\text{ б) } [-1, +\\infty] \\text{ в) } -7$ <br/>",
+						number: 16,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "17) Решите уравнение: $\\sqrt{3-x}=1-x$<br/>",
+						answer: "A<br/>",
+						choice_A: "А) -1<br/>",
+						choice_B: "B)  2<br/>",
+						choice_C: "C) 2;-1<br/>",
+						choice_D: "D)  l<br/>",
+						choice_E: "E)  -2;1<br/>",
+						number: 17,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "18)  Найдите  производную  функции $y=x^{\\sqrt{2}}$<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) $\\cfrac{\\sqrt{2}}{x^{\\sqrt{2}-1}}$<br/>",
+						choice_B: "B) $\\sqrt{2}x^{\\sqrt{2}-1}$ <br/>",
+						choice_C: "C) $\\cfrac{\\sqrt{2}}{\\ln x}$<br/>",
+						choice_D: "D) $\\sqrt{2}x^{\\sqrt{2}}-1$ <br/>",
+						choice_E: "E) $\\sqrt{2}\\ln x$ <br/>",
+						number: 18,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "19) Решите уравнение: $\\cfrac{y+5}{y^2-5y} - \\cfrac{y-5}{2y^2-10y} = \\cfrac{y+25}{2y^2-50}$<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 44<br/>",
+						choice_B: "B)  0.8<br/>",
+						choice_C: "C) $4\\cfrac{2}{5}$<br/>",
+						choice_D: "D)  -7,8<br/>",
+						choice_E: "E)  15<br/>",
+						number: 19,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "20) Решите  систему  уравнений: $\\begin{cases}\\log_4 x + \\log_4 y = 1 + \\log_4 9\\\\ 2^{\\cfrac{x+y}{2}}=1024\\end{cases}$. Найдите $x_1+x_2$<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 32 <br/>",
+						choice_B: "B)  16 <br/>",
+						choice_C: "C) 24 <br/>",
+						choice_D: "D)  18 <br/>",
+						choice_E: "E)  20 <br/>",
+						number: 20,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "21)   Определите  площадь равностороннего  треугольника, если  от  его плоскости удалена точка  на расстоянии  3 см, а длины  отрезков, проведённых  от этой точки до  сторон  треугольника равны  5 см<br/>",
+						answer: "A<br/>",
+						choice_A: "А) $42\\sqrt{3}$см2 <br/>",
+						choice_B: "B) $60\\sqrt{3}$см2   <br/>",
+						choice_C: "C) $75\\sqrt{3}$см2 <br/>",
+						choice_D: "D) $48\\sqrt{3}$см2  <br/>",
+						choice_E: "E) $64\\sqrt{3}$см2 <br/>",
+						number: 21,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "22)  Сумма корней уравнения $y^2-\\cfrac{9y-2}{7}=0$ равна:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А)1<br/>",
+						choice_B: "B) $-\\cfrac{9}{7}$<br/>",
+						choice_C: "C) $\\cfrac{2}{7}$<br/>",
+						choice_D: "D) $1\\cfrac{2}{7}$<br/>",
+						choice_E: "E) $-\\cfrac{2}{7}$<br/>",
+						number: 22,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "23) Найдите  область определения  функции  $y=\\log_{0,1} (5x-6-x^2)$<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) $(-\\infty; 0,1) \\cup (0,1; +\\infty)$<br/>",
+						choice_B: "B) $(-\\infty, 5)$ <br/>",
+						choice_C: "C) $(6; +\\infty)$<br/>",
+						choice_D: "D) $(-\\infty, 2) \\cup (3; +\\infty)$ <br/>",
+						choice_E: "E) $(2; 3)$ <br/>",
+						number: 23,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "24)  Найдите  значение  выражения: (6(3) - 5,(2))*2 <br/>",
+						answer: "A<br/>",
+						choice_A: "А)  2,(2) <br/>",
+						choice_B: "B)   2,1 <br/>",
+						choice_C: "C)  2,(1) <br/>",
+						choice_D: "D)  2 <br/>",
+						choice_E: "E)  2,2 <br/>",
+						number: 24,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "25)  Исключите  иррациональность в знаменателе: $\\cfrac{7}{\\sqrt{5}{3}+\\sqrt{2}{3}}$<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) $\\sqrt{25}{3} + \\sqrt{10}{3} + \\sqrt{4}{3}$<br/>",
+						choice_B: "B) $\\sqrt{5}{3} - \\sqrt{10}{3} + \\sqrt{2}{3}$ <br/>",
+						choice_C: "C) $\\sqrt{25}{3} - \\sqrt{10}{3} - \\sqrt{4}{3}$<br/>",
+						choice_D: "D)  $\\sqrt{25}{3} - \\sqrt{15}{3} + \\sqrt{2}{3}$<br/>",
+						choice_E: "E)  $\\sqrt{25}{3} - \\sqrt{10}{3} + \\sqrt{4}{3}$<br/>",
+						number: 25,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "1)  Какая из формул определяет кинетическую энергию тела? <br/>",
+						answer: " B  <br/>",
+						choice_A: "А) $\\cfrac{kx^2}{2}$<br/>",
+						choice_B: "B) $\\cfrac{mv^2}{2}$ <br/>",
+						choice_C: "C) $mgh$<br/>",
+						choice_D: "D) $\\cfrac{Li^2}{2}$ <br/>",
+						choice_E: "E) $mc^2$ <br/>",
+						number: 1,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "2)  Колебания источника волн описывается уравнением y=0.008cosПtm Скорость распространения колебаний 3 м/с. Смещение точки среды, находящейся на расстоянии 0,75м от источника в момент времени 0,5с равно:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) 0,24<br/>",
+						choice_B: "B)  0,04<br/>",
+						choice_C: "C) 0,08<br/>",
+						choice_D: "D)  0,4 * корень из 4<br/>",
+						choice_E: "E)  0,06<br/>",
+						number: 2,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "3)  Определите температуру нагревателя, если температура холодильника 375К, КПД тепловой машины $35\\%$.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) 577К<br/>",
+						choice_B: "B)  750К<br/>",
+						choice_C: "C) 500К<br/>",
+						choice_D: "D)  800К<br/>",
+						choice_E: "E)  900К<br/>",
+						number: 3,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "4)  Чтобы при изменений магнитной индукции от 0,2 до 0,6 Тл в течении 4мс в катушке с площадью 50см² возбуждалась ЭДС индукции 5В, она должна содержать количество витков, равное: <br/>",
+						answer: "A<br/>",
+						choice_A: "А) 10<br/>",
+						choice_B: "B)  100<br/>",
+						choice_C: "C) 200<br/>",
+						choice_D: "D)  50<br/>",
+						choice_E: "E)  1000<br/>",
+						number: 4,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "5)  Сила 10Н сообщает телу ускорение $3\\text{м}/c^2$.Какая сила сообщает этому телу ускорение $1,5\\text{м}/c^2$<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) 10Н<br/>",
+						choice_B: "B)  5Н<br/>",
+						choice_C: "C) 12Н<br/>",
+						choice_D: "D)  2Н<br/>",
+						choice_E: "E)  1Н<br/>",
+						number: 5,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "6)  Электрическая лампа мощностью 36Вт рассчитана на напряжение 12В. Сопротивление лампы и рабочий ток равны:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) J=3А, R=4 Ом<br/>",
+						choice_B: "B)  J=6А, R=4 Ом<br/>",
+						choice_C: "C) J=4А, R=3 Ом<br/>",
+						choice_D: "D)  J=4А, R=6 Ом<br/>",
+						choice_E: "E)  J=3А, R=6 Ом<br/>",
+						number: 6,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "7)  Условие интерференции волн.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Волны должны быть когерентными<br/>",
+						choice_B: "B)  Волны должны иметь одинаковую частоту<br/>",
+						choice_C: "C) Сложение любых волн<br/>",
+						choice_D: "D)  Волны должны иметь одинаковую фазу<br/>",
+						choice_E: "E)  Волны должны иметь одинаковую скорость<br/>",
+						number: 7,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "8)  Как изменится энергия плоского конденсатора, подключенного к источнику постоянного напряжения, при увеличении расстояния между пластинами в 2 раза?<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Увеличится в 2 раз<br/>",
+						choice_B: "B)  Уменьшится в 2 раз<br/>",
+						choice_C: "C) Не изменится<br/>",
+						choice_D: "D)  Уменьшится в 4 раз<br/>",
+						choice_E: "E)  Увеличится в 4 раз<br/>",
+						number: 8,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "9)  Какие силы не относятся к консервативным?<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Все силы<br/>",
+						choice_B: "B)  Силя тяжести<br/>",
+						choice_C: "C) Сила упругости<br/>",
+						choice_D: "D)  Квазиупругая сила<br/>",
+						choice_E: "E)  Сила трения<br/>",
+						number: 9,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "10)  Газ называется идеальным, если:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) размерами и формой молекул можно пренебречь<br/>",
+						choice_B: "B)  взаимодействие молекул велико<br/>",
+						choice_C: "C) массой и формой молекул можно пренебречь<br/>",
+						choice_D: "D)  молекулы можно считать материальными точками, взаимодействием которых на расстоянии можно пренебречь.<br/>",
+						choice_E: "E) Нет правильного ответа.<br/>",
+						number: 10,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "11)  Вычислите световой поток, проходящий через поверхность, равную 20см² и отстоящую  на 5м от источника света силой 100кд при перпендикулярном падении лучей?<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) 80лм<br/>",
+						choice_B: "B)  0,008лм<br/>",
+						choice_C: "C) 200лм<br/>",
+						choice_D: "D)  8000лм<br/>",
+						choice_E: "E)  2000лм<br/>",
+						number: 11,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "12)  Тело массой 0,8 кг бросили вертикально вверх. Кинетическая энергия тела в момент бросания равна 200Дж. Тело может подняться на высоту. g=100м/c²<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) 10м<br/>",
+						choice_B: "B)  12,5м<br/>",
+						choice_C: "C) 50м<br/>",
+						choice_D: "D)  25м<br/>",
+						choice_E: "E) Нет правильного ответа.<br/>",
+						number: 12,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "13)  В катушке индуктивностью 0,7 Гн сила тока равна 100А. Энергия магнитного поля катушки равна:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) 35 Дж<br/>",
+						choice_B: "B)  4,9 Дж<br/>",
+						choice_C: "C) 70 Дж<br/>",
+						choice_D: "D)  3,5 кДж<br/>",
+						choice_E: "E)  7 Дж<br/>",
+						number: 13,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "14)   Материальная точка это:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Атом<br/>",
+						choice_B: "B)  Тело размерами которого можно пренебречь<br/>",
+						choice_C: "C) Любое тело<br/>",
+						choice_D: "D)  Молекула<br/>",
+						choice_E: "E)  Тело размерами которого можно пренебречь по сравнению с размерами характеризующими движение<br/>",
+						number: 14,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "15)  Газ называется идеальным, если:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) размерами и формой молекул можно пренебречь<br/>",
+						choice_B: "B)  взаимодействие молекул велико<br/>",
+						choice_C: "C) массой и формой молекул можно пренебречь<br/>",
+						choice_D: "D)  молекулы можно считать материальными точками, взаимодействием которых на расстоянии можно пренебречь.<br/>",
+						choice_E: "E) Нет правильного ответа.<br/>",
+						number: 15,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "16)  Энергия упругой деформации вычисляется по формуле:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) $\\cfrac{kx^2}{2}$<br/>",
+						choice_B: "B) $\\cfrac{mv^2}{2}$ <br/>",
+						choice_C: "C) $mgh$<br/>",
+						choice_D: "D) $\\cfrac{Li^2}{2}$ <br/>",
+						choice_E: "E) $mc^2$ <br/>",
+						number: 16,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "17)  Резонанс рапряжений возникает в цепи.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) С последовательно соединенными R,L,C<br/>",
+						choice_B: "B)  С параллельно соединенными L,C.<br/>",
+						choice_C: "C) С последовательно соединенными R,C<br/>",
+						choice_D: "D)  С последовательно соединенными R,L<br/>",
+						choice_E: "E)  С параллельно соединенными R,L,C<br/>",
+						number: 17,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "18)  Какая величина является мерой инерции при вращении твердого тела вокруг закрепленной оси.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Угловое ускорение<br/>",
+						choice_B: "B)  Момент силы<br/>",
+						choice_C: "C) Масса<br/>",
+						choice_D: "D)  Момени инерции<br/>",
+						choice_E: "E)  Импульс тела<br/>",
+						number: 18,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "19)  Магнитный поток через поверхность, ограниченную замкнутым проводящим контуром, увеличивается прямо пропорционально времени. Что можно сказать о силе индукционного тока, возникающего в этом контуре?<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Сила тока увеличивается прямо пропорционально времени<br/>",
+						choice_B: "B)  Сила тока равномерно убывает<br/>",
+						choice_C: "C) Сила тока постоянна<br/>",
+						choice_D: "D)  Сила тока равна нулю<br/>",
+						choice_E: "E)  В контуре возникает переменный ток<br/>",
+						number: 19,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "20)  Какое из приведенных выражений определяет напряженность электростатического поля бесконечной заряженной нити в вакууме:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) $\\tau / (2\\pi \\epsilon_0 r)$ <br/>",
+						choice_B: "B) $\\sigma/(2\\epsilon_0)$ <br/>",
+						choice_C: "C) $q/(4\\pi\\epsilon_0 r)$<br/>",
+						choice_D: "D) $\\sigma/\\epsilon_0$ <br/>",
+						choice_E: "E) $q/(4\\pi\\epsilon_0r^2)$ <br/>",
+						number: 20,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "21)  Тело в поле тяготения описывает замкнутую траекторию. Какое выражение справедливо для суммарной работы А силы тяготения.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) А=0<br/>",
+						choice_B: "B)  А>>0<br/>",
+						choice_C: "C) A>0<br/>",
+						choice_D: "D)  A<0<br/>",
+						choice_E: "E)  A стремится к бесконечности<br/>",
+						number: 21,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "22)  Какой вид имеет зависимость силы тяготения двух тел от расстояния между ними? Тела считать материальными точками.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Сила тяготения обратно пропорционально  расстоянию<br/>",
+						choice_B: "B)  Сила тяготения обратно пропорционально квадрату расстояния<br/>",
+						choice_C: "C) Сила тяготения не зависит от расстояния<br/>",
+						choice_D: "D)  Прямая пропорциональная зависимость<br/>",
+						choice_E: "E)  Линейная зависимость<br/>",
+						number: 22,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "23)  Амплитуда световой волны в произвольной точке М:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) $A = \\cfrac{A_1}{2} - \\cfrac{A_m}{2}$<br/>",
+						choice_B: "B) $A = \\cfrac{A_1}{2} + A$ <br/>",
+						choice_C: "C) $A = \\cfrac{A_1}{2} + \\cfrac{A_m}{2}$<br/>",
+						choice_D: "D) $A = A_1 - A_2 + A_3$ <br/>",
+						choice_E: "E) $A = \\cfrac{A_1}{2}$  <br/>",
+						number: 23,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "24)  Найти емкость батареи конденсаторов, если емкость каждого конденсатора 3мкФ. Два параллельных идут последовательно с третьим.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) 6 мкФ<br/>",
+						choice_B: "B)  4,5 мкФ<br/>",
+						choice_C: "C) 9 мкФ<br/>",
+						choice_D: "D)  3 мкФ<br/>",
+						choice_E: "E) Нет правильного ответа.<br/>",
+						number: 24,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "25)  Высокоомный провод однородного сечения длиной 20м замыкает цепь 30-ти вольтовой батареи. Какова разность потенциалов между точками, отстоящими на 3 и 15м от одного из концов провода:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) 22,5В<br/>",
+						choice_B: "B)  18В<br/>",
+						choice_C: "C) 20В<br/>",
+						choice_D: "D)  15В<br/>",
+						choice_E: "E)  8В<br/>",
+						number: 25,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "1) Еще была зима но солнце начинало ходить  выше в полдень  пригревало  так что становилось  жарко  и лучи  его были так ярки  что больно было смотреть  на сталь  штыков  и на блестки которые  вдруг вспыхивали  на меди  пушек как маленькие  солнца. В предложении  пропущено <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) 8 запятых <br/>",
+						choice_B: "B)  9 запятых <br/>",
+						choice_C: "C) 5 запятых <br/>",
+						choice_D: "D)  7 запятых <br/>",
+						choice_E: "E)  10 запятых <br/>",
+						number: 1,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "2)  В словаххолщ...вый,  девч...нка,  освещ...нный,  душ...та,    горяч..пропущены  буквы <br/>",
+						answer: "A<br/>",
+						choice_A: "А) о, о, ё, о, о <br/>",
+						choice_B: "B)  о, е, е, о, о <br/>",
+						choice_C: "C) о, о, о, о, о <br/>",
+						choice_D: "D)  е, е, о, е, о <br/>",
+						choice_E: "E)  е, е, ё, ё, о <br/>",
+						number: 2,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "3)  Слово с пропущенной буквой ё <br/>",
+						answer: " B  <br/>",
+						choice_A: "А) реч...нка <br/>",
+						choice_B: "B)  испеч...шь <br/>",
+						choice_C: "C) одеж...нка <br/>",
+						choice_D: "D)  мужич...к <br/>",
+						choice_E: "E)  медвеж...нок <br/>",
+						number: 3,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "4)  Буква и пропущена в слове <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) под...екать <br/>",
+						choice_B: "B)  небезынтересный <br/>",
+						choice_C: "C) под...гранный <br/>",
+						choice_D: "D)  сверх...зысканный <br/>",
+						choice_E: "E)  раз...скивать <br/>",
+						number: 4,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "5)  Буква з пропущена в приставке слова <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) ра...сказ <br/>",
+						choice_B: "B)  и... пользовать <br/>",
+						choice_C: "C) бе...силие <br/>",
+						choice_D: "D)   бе...звучный <br/>",
+						choice_E: "E)  во... паление <br/>",
+						number: 5,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "6) Между частями сложносочиненного предложения ставится запятая: <br/>",
+						answer: "A<br/>",
+						choice_A: "А) Вдали по-прежнему  машет крыльями мельница и все еще она похожа на маленького человечка, размахивающего  руками. <br/>",
+						choice_B: "B)  У Ивана Ивановича большие выразительные глаза табачного цвета и рот несколько похож на букву ижицу. <br/>",
+						choice_C: "C) В это время тягуче скрипнула дверь сеновала и наружу  просунулась голова деда Щукаря. <br/>",
+						choice_D: "D)  У него осунулось лицо и отяжелели веки. <br/>",
+						choice_E: "E)  Губы Кати не улыбались и темные глаза выражали  недоумение. <br/>",
+						number: 6,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "7)  Слово, образованное сложением части слова с целым словом: <br/>",
+						answer: " C  <br/>",
+						choice_A: "А)  плащ-палатка <br/>",
+						choice_B: "B)  пароход <br/>",
+						choice_C: "C) турфирма <br/>",
+						choice_D: "D)  АГУ <br/>",
+						choice_E: "E)  военкомат <br/>",
+						number: 7,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "8)  Слово, состав которого соответствует схеме: коренъ-суффикс-суффикс-окончание<br/>",
+						answer: " B  <br/>",
+						choice_A: "А)опасно <br/>",
+						choice_B: "B)  молчание <br/>",
+						choice_C: "C) раскалить <br/>",
+						choice_D: "D)  далеко <br/>",
+						choice_E: "E)  сдержанный <br/>",
+						number: 8,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "9) Укажите словосочетание, соответствующее  схеме «деепричастие + наречие»<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Взгляд исподлобья. <br/>",
+						choice_B: "B)  Восходя выше. <br/>",
+						choice_C: "C) Люблю особенно. <br/>",
+						choice_D: "D)  Как-то особенно. <br/>",
+						choice_E: "E)  По-новому  красивый. <br/>",
+						number: 9,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "10)  Укажите, в каком слове звуков больше, чем букв<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Рёв. <br/>",
+						choice_B: "B)  Шура. <br/>",
+						choice_C: "C) Брат. <br/>",
+						choice_D: "D)  Ров. <br/>",
+						choice_E: "E)  Юра. <br/>",
+						number: 10,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "11) Словосочетание указывает на действие и предмет, на который оно переходит <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) рубка радиста <br/>",
+						choice_B: "B)  с уносящимся  облаком <br/>",
+						choice_C: "C) приехать утром <br/>",
+						choice_D: "D)  выплавка стали <br/>",
+						choice_E: "E)  отвечать  правильно <br/>",
+						number: 11,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "12) Сложносочиненное  предложение: <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Красота ума вызывает удивление, красота души -  уважение. <br/>",
+						choice_B: "B)  Я успел рассмотреть и её, и его. <br/>",
+						choice_C: "C) Но тем не менее, где бы ты ни был, в какой бы точке земного шара ни оказался, родная земля остается для тебя одной единственной. <br/>",
+						choice_D: "D)  Утки носились над озером, но, еще не напуганные всерьез, садились на воду близ охотничьих  шалашей. <br/>",
+						choice_E: "E)  Она мне нравилась все больше и больше, я тоже, по-видимому, был симпатичен ей. <br/>",
+						number: 12,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "13)  Укажите пословицу с антонимами<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Не мил и свет, когда друга нет. <br/>",
+						choice_B: "B)  Дружба да братство дороже всякого  богатства. <br/>",
+						choice_C: "C) Не подумавши ничего не начинай. <br/>",
+						choice_D: "D)  Подальше положишь -  поближе возьмешь. <br/>",
+						choice_E: "E)  По плохой дороге далеко не уедешь. <br/>",
+						number: 13,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "14) Обособленное уточняющее обстоятельство образа действия (знаки не расставлены): <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Работа несмотря на ранний час уже шла вовсю. <br/>",
+						choice_B: "B)  Все люди занятые истинно важным делом всегда просты. <br/>",
+						choice_C: "C) Теряю все права над рифмой над моей прислужницею  странной. <br/>",
+						choice_D: "D)  Сосновый бор молчаливый темный казался  бесконечным. <br/>",
+						choice_E: "E)  Прасковья очень звонко совсем по-детски  взвизгнула. <br/>",
+						number: 14,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "15) Обращаться  с языком  кое-как значит  и мыслить  кое-как  неточно приблизительно  неверно. В предложении пропущены знаки препинания: <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) четыре запятые <br/>",
+						choice_B: "B)  запятая, тире, одна запятая <br/>",
+						choice_C: "C) тире, три запятые <br/>",
+						choice_D: "D)  двоеточие, тире, одна запятая <br/>",
+						choice_E: "E)  тире, двоеточие, две запятые  <br/>",
+						number: 15,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "16) Укажите словосочетания  с наречиями<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Решить по-моему, сделать  по-твоему. <br/>",
+						choice_B: "B)  По моему упражнению, по нашему городу. <br/>",
+						choice_C: "C) По твоему заданию, по вашему району. <br/>",
+						choice_D: "D)  По своему компасу, по иному пути. <br/>",
+						choice_E: "E)  По своему усмотрению, по моей просьбе. <br/>",
+						number: 16,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "17)  Наречие образа действия  есть в предложении: <br/>",
+						answer: "A<br/>",
+						choice_A: "А) И чем ярче горел небосвод, тем сильнее билось сердце  мальчика. <br/>",
+						choice_B: "B)  И только уселся, как вижу: против меня очень большое дерево. <br/>",
+						choice_C: "C) Он пришел раньше. <br/>",
+						choice_D: "D)  Его изложение  скучно и слишком длинно. <br/>",
+						choice_E: "E)  Зоркие глаза казака следили за движущимися  фигурами  издалека видневшихся  чеченок. <br/>",
+						number: 17,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "18)  Буква з пропущена в приставке слова <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) ра...сказ <br/>",
+						choice_B: "B)  и... пользовать <br/>",
+						choice_C: "C) бе...силие <br/>",
+						choice_D: "D)   бе...звучный <br/>",
+						choice_E: "E)  во... паление <br/>",
+						number: 18,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "19)  Укажите, в каком слове звуков больше, чем букв<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Рёв. <br/>",
+						choice_B: "B)  Шура. <br/>",
+						choice_C: "C) Брат. <br/>",
+						choice_D: "D)  Ров. <br/>",
+						choice_E: "E)  Юра. <br/>",
+						number: 19,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "20) Сложносочиненное  предложение с разделительным  союзом: <br/>",
+						answer: "A<br/>",
+						choice_A: "А) В водоёме плавала не то утка, не то грачонок еле держался на распластанных  крыльях. <br/>",
+						choice_B: "B)  Отвечай же мне, а не то буду беспокоиться. <br/>",
+						choice_C: "C) В такую погоду и волк не рыщет, и медведь не вылезает из берлоги. <br/>",
+						choice_D: "D)  Товарищи относились к нему неприязненно, солдаты же любили воистину. <br/>",
+						choice_E: "E)  Асет говорил шепотом, да и дед  и сосед тоже говорили  вполголоса. <br/>",
+						number: 20,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "21) Глумление,  надругательство  над кем-либо  или чем-нибудь  почитаемым означает слово <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) презрение <br/>",
+						choice_B: "B)  критика <br/>",
+						choice_C: "C) кривотолки <br/>",
+						choice_D: "D)  ругательство <br/>",
+						choice_E: "E)  кощунство <br/>",
+						number: 21,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "22) Запятая пропущена в предложении: <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Неужели вы это не знали и я вам сказал  новость? <br/>",
+						choice_B: "B)  Плохо ли вам было у Плюшкина или просто по своей охоте гуляете по лесам да дерёте прохожих? <br/>",
+						choice_C: "C) Пусть ветер воет и гром грохочет. <br/>",
+						choice_D: "D)  Из окошка далеко блестят горы и виден Днепр. <br/>",
+						choice_E: "E)  Уж так печально вокруг и говорить не хочется. <br/>",
+						number: 22,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "23)  В сочетаниях слов пишется при-<br/>",
+						answer: "A<br/>",
+						choice_A: "А) пр...ступить к  исполнению <br/>",
+						choice_B: "B)  пр...зирать за малодушие <br/>",
+						choice_C: "C) пр...клонять голову перед гением <br/>",
+						choice_D: "D)  пр...емник  традиций <br/>",
+						choice_E: "E)  пр...ступить закон <br/>",
+						number: 23,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "24) Две буквы передают один звук в ряду <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) расскажешь, камыш <br/>",
+						choice_B: "B)  лестница, мачта <br/>",
+						choice_C: "C) детский, дрожжи <br/>",
+						choice_D: "D)  дышится, заря <br/>",
+						choice_E: "E)  солнце, весна <br/>",
+						number: 24,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "25) Количество пропущенных знаков препинания в предложении: Конечно  в душе он рассчитывал  на помощь  сына наверное  для того и вызвал его телеграммой  но в тот вечер так ему ничего и не сказал надеялся  что догадается  сам предложить  помощь.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Семь<br/>",
+						choice_B: "B)  Восемь<br/>",
+						choice_C: "C) Пять<br/>",
+						choice_D: "D)  Шесть<br/>",
+						choice_E: "E)  Четыре<br/>",
+						number: 25,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "1)  &quot;Лоскутная империя&quot;,созданная в 1867 г., - это<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Японская империя<br/>",
+						choice_B: "B)  Российская империя<br/>",
+						choice_C: "C) Германская империя<br/>",
+						choice_D: "D)  Австро-Венгерская империя<br/>",
+						choice_E: "E)  Османская империя<br/>",
+						number: 1,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "2) Главой государства в современной Великобритании является:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Премьер-министр.<br/>",
+						choice_B: "B)  Кайзер.<br/>",
+						choice_C: "C) Президент.<br/>",
+						choice_D: "D)  Монарх.<br/>",
+						choice_E: "E)  Регент.<br/>",
+						number: 2,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "3)  Московское княжество возникло в<br/>",
+						answer: "A<br/>",
+						choice_A: "А) ХIII веке.<br/>",
+						choice_B: "B)  XI веке.<br/>",
+						choice_C: "C) XII веке.<br/>",
+						choice_D: "D)  IX веке.<br/>",
+						choice_E: "E)  X веке.<br/>",
+						number: 3,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "4)  Завоеватель Мексики в 1519 году:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Кортес.<br/>",
+						choice_B: "B)  Дрейк.<br/>",
+						choice_C: "C) Колумб.<br/>",
+						choice_D: "D)  Писаро.<br/>",
+						choice_E: "E)  Магеллан.<br/>",
+						number: 4,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "5) Более удобным и совершенным орудием для обработки земли после тесла стало орудие:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Мотыга<br/>",
+						choice_B: "B)  Плуг.<br/>",
+						choice_C: "C) Грабли.<br/>",
+						choice_D: "D)  Борона.<br/>",
+						choice_E: "E)  Лопата.<br/>",
+						number: 5,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "6) Знаменитый художник итальянского Возрождения, чьи записные книжки были испещрены инженерными чертежами от станков и турбины до вертолета и подводной лодки:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Веласкес.<br/>",
+						choice_B: "B)  Леонардо да Винчи.<br/>",
+						choice_C: "C) Рембрандт.<br/>",
+						choice_D: "D)  Микеланджело.<br/>",
+						choice_E: "E)  Рафаэль.<br/>",
+						number: 6,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "7)  Общественный строй Древнего Египта относится:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) К капиталистическому строю.<br/>",
+						choice_B: "B)  К коммунистическому строю.<br/>",
+						choice_C: "C) К первобытнообщинному строю.<br/>",
+						choice_D: "D)  К рабовладельческому строю.<br/>",
+						choice_E: "E)  К феодальному строю.<br/>",
+						number: 7,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "8) Командующий донским фронтом в 1942 г.:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) К.К. Рокоссовский<br/>",
+						choice_B: "B)  А.И.Еременко<br/>",
+						choice_C: "C) ГК. Жуков<br/>",
+						choice_D: "D)  Н.Ф.Ватутин<br/>",
+						choice_E: "E)  Р.Я. Малиновский<br/>",
+						number: 8,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "9)  Объединение Китая в VI веке имело последствие:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Постепенно возрождалось хозяйство<br/>",
+						choice_B: "B)  Прекратились восстания народа<br/>",
+						choice_C: "C) Были разгромлены соседи-кочевники<br/>",
+						choice_D: "D)  Выросло промышленное производство<br/>",
+						choice_E: "E)  Начали создаваться университеты<br/>",
+						number: 9,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "10) Окончательно утвердилась абсолютная монархия во Франции при короле<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Людовике XIII<br/>",
+						choice_B: "B)  Людовике XVII<br/>",
+						choice_C: "C) Людовике XV<br/>",
+						choice_D: "D)  Людовике XVI<br/>",
+						choice_E: "E)  Людовике XIV<br/>",
+						number: 10,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "11)  Двухпартийная политическая система существует в:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Японии.<br/>",
+						choice_B: "B)  Китае.<br/>",
+						choice_C: "C) Великобритании.<br/>",
+						choice_D: "D)  Германии.<br/>",
+						choice_E: "E)  Италии.<br/>",
+						number: 11,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "12) Испанский художник эпохи Возрождения:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Рафаэль.<br/>",
+						choice_B: "B)  Рембрант.<br/>",
+						choice_C: "C) Микеланджело.<br/>",
+						choice_D: "D)  Леонардо да Винчи.<br/>",
+						choice_E: "E)  Веласкес.<br/>",
+						number: 12,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "13)  Жорж Бизе так и не узнал, что одной из самых популярных в мире станет его опера - драма:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) &quot;Травиата&quot;<br/>",
+						choice_B: "B)  &quot;Пертская красавица&quot;<br/>",
+						choice_C: "C) &quot;Кармен&quot;.<br/>",
+						choice_D: "D)  &quot;Риголетто&quot;.<br/>",
+						choice_E: "E)  &quot;Арлезианка&quot;.<br/>",
+						number: 13,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "14) В начале 60-х годов 19 века сложилось объединение русских композиторов:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) &quot;Могучая кучка&quot;.<br/>",
+						choice_B: "B)  &quot;Союз русских композиторов&quot;.<br/>",
+						choice_C: "C) &quot;Союз композиторов&quot;.<br/>",
+						choice_D: "D)  Передвижники.<br/>",
+						choice_E: "E)  Народники.<br/>",
+						number: 14,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "15) Город в Греции, где впервые были проведены Олимпийские игры:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Олимпия.<br/>",
+						choice_B: "B)  Пиреи.<br/>",
+						choice_C: "C) Спарта.<br/>",
+						choice_D: "D)  Марафон.<br/>",
+						choice_E: "E)  Афины.<br/>",
+						number: 15,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "16)  Борьбу за свободу в Чехии вели:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Аболиционисты.<br/>",
+						choice_B: "B)  Гуситы.<br/>",
+						choice_C: "C) Луддиты.<br/>",
+						choice_D: "D)  Гезы.<br/>",
+						choice_E: "E)  Жаки.<br/>",
+						number: 16,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "17)  МГанди в индийском национально-освободительном движении отстаивал идеи:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Опирался на помощь советской России.<br/>",
+						choice_B: "B)  Создал мощное интернациональное движение в поддержку освобождения Индии.<br/>",
+						choice_C: "C) Был сторонником борьбы не на жизнь, а на смерть.<br/>",
+						choice_D: "D)  Он проповедовал идею ненасильственных выступлений за права индийского населения, учитывал взрывоопасность разделенного на касты общества.<br/>",
+						choice_E: "E)  Являлся проповедником пролетарской революции в Индии.<br/>",
+						number: 17,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "18) &quot;Уотергейтский скандал&quot; стал причиной отставки президента:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Р. Никсона.<br/>",
+						choice_B: "B)  Р. Рейгана.<br/>",
+						choice_C: "C) Л. Джексона.<br/>",
+						choice_D: "D)  Д. Картера.<br/>",
+						choice_E: "E)  Д. Кеннеди.<br/>",
+						number: 18,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "19)  Наиболее известным памятником Каролингского Возрождения является:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Академия наук.<br/>",
+						choice_B: "B)  Музей Каролингов.<br/>",
+						choice_C: "C) Театр в Париже.<br/>",
+						choice_D: "D)  Школа при дворе Карла Великого.<br/>",
+						choice_E: "E)  Ахенская капелла.<br/>",
+						number: 19,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "20) Глава революционного правительства в Германии 1918 года -<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Ф.Эберт<br/>",
+						choice_B: "B)  В.Пик<br/>",
+						choice_C: "C) Р.Люксембург<br/>",
+						choice_D: "D)  К.Либкнехт<br/>",
+						choice_E: "E)  О.Бисмарк<br/>",
+						number: 20,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "21)  Вторжения войск Тимура в Делийский султанат отмечались:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) в 1397 году.<br/>",
+						choice_B: "B)  в 1399 году.<br/>",
+						choice_C: "C) в 1398 году.<br/>",
+						choice_D: "D)  в 1402 году.<br/>",
+						choice_E: "E)  в 1400 году.<br/>",
+						number: 21,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "22)  I Интернационал был распущен в:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) 1883 г.<br/>",
+						choice_B: "B)  1876 г.<br/>",
+						choice_C: "C) 1889 г.<br/>",
+						choice_D: "D)  1896 г.<br/>",
+						choice_E: "E)  1871 г.<br/>",
+						number: 22,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "23) Знаки-рисунки на папирусе у древних египтян:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Пиктограммы.<br/>",
+						choice_B: "B)  Криптограммы.<br/>",
+						choice_C: "C) Клинопись.<br/>",
+						choice_D: "D)  Петроглифы.<br/>",
+						choice_E: "E)  Иероглифы.<br/>",
+						number: 23,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "24) В начале XVII века английские короли правили:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Согласно режиму абсолютной монархии.<br/>",
+						choice_B: "B)  Опираясь на новое дворянство.<br/>",
+						choice_C: "C) Согласно конституции.<br/>",
+						choice_D: "D)  Опираясь на парламент.<br/>",
+						choice_E: "E)  Развивая буржуазные отношения.<br/>",
+						number: 24,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "25)  Действия, при помощи которых первобытные люди проявляли обиду на духа:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Били идола.<br/>",
+						choice_B: "B)  Красили его черной краской.<br/>",
+						choice_C: "C) Не приносили жертвы духам.<br/>",
+						choice_D: "D)  Изготавливали нового духа.<br/>",
+						choice_E: "E)  Сжигали идола.<br/>",
+						number: 25,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 1,
+					}
+					);
+				Questions.insert({
+						question: "1) Олений  мох  или  ягель <br/>",
+						answer: "A<br/>",
+						choice_A: "А) Основной  корм  северных  оленей <br/>",
+						choice_B: "B)  Является  мхом <br/>",
+						choice_C: "C) Используется  для  получения  антибиотиков <br/>",
+						choice_D: "D)  Цветковое  растение <br/>",
+						choice_E: "E)  Лекарственное  растение <br/>",
+						number: 1,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "2)  Кислородом  обеспечивает  клетки <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) опорно-двигательная  система. <br/>",
+						choice_B: "B)  пищеварительная  система. <br/>",
+						choice_C: "C) дыхательная  система. <br/>",
+						choice_D: "D)   кровеносная  система. <br/>",
+						choice_E: "E)  нервная  система. <br/>",
+						number: 2,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "3)   При формировании  кроны удаляют часть побега с почкой <br/>",
+						answer: " B  <br/>",
+						choice_A: "А)  Спящей.<br/>",
+						choice_B: "B)   Верхушечной. <br/>",
+						choice_C: "C)  Придаточной. <br/>",
+						choice_D: "D)   Пазушной. <br/>",
+						choice_E: "E)   Боковой. <br/>",
+						number: 3,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "4)  Корневище  имеет <br/>",
+						answer: " E  <br/>",
+						choice_A: "А)  Картофель. <br/>",
+						choice_B: "B)   Лук. <br/>",
+						choice_C: "C)  Кактус. <br/>",
+						choice_D: "D)   Лилия. <br/>",
+						choice_E: "E)   Ирис. <br/>",
+						number: 4,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "5) Дыхательная  трубка <br/>",
+						answer: " D  <br/>",
+						choice_A: "А)  Пищевод <br/>",
+						choice_B: "B)   Носоглотка <br/>",
+						choice_C: "C)  Бронхиола <br/>",
+						choice_D: "D)   Трахея <br/>",
+						choice_E: "E)   Альвеола <br/>",
+						number: 5,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "6)   Попаданию  пищи  в гортань  препятствует <br/>",
+						answer: "A<br/>",
+						choice_A: "А)  Надгортанник <br/>",
+						choice_B: "B)   Глотка <br/>",
+						choice_C: "C)  Щитовидный  хрящ <br/>",
+						choice_D: "D)   Язык <br/>",
+						choice_E: "E)  Мягкое  нёбо <br/>",
+						number: 6,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "7)  Начало  воздухоносных  путей <br/>",
+						answer: " E  <br/>",
+						choice_A: "А)  Носоглотка. <br/>",
+						choice_B: "B)   Гортань. <br/>",
+						choice_C: "C)  Бронхи. <br/>",
+						choice_D: "D)   Трахея. <br/>",
+						choice_E: "E)   Носовая  полость. <br/>",
+						number: 7,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "8)   Многокамерный  многосемейной  плод  у <br/>",
+						answer: " C  <br/>",
+						choice_A: "А)  Ячменя<br/>",
+						choice_B: "B)   Кукурузы<br/>",
+						choice_C: "C)  Дурмана<br/>",
+						choice_D: "D)   Ржи<br/>",
+						choice_E: "E)   Вишни<br/>",
+						number: 8,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "9)   Функция  нервной  системы <br/>",
+						answer: " E  <br/>",
+						choice_A: "А)  Выделяет гормоны  в кровь <br/>",
+						choice_B: "B)   Доставляет  кислород  организму <br/>",
+						choice_C: "C)  Доставляет  питательные  вещества <br/>",
+						choice_D: "D)   Удаляет  вредные  вещества <br/>",
+						choice_E: "E)   Обеспечивает  взаимосвязь  организма  и окружающей  среды <br/>",
+						number: 9,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "10)  Белок  эритроцитов <br/>",
+						answer: "A<br/>",
+						choice_A: "А)  гемоглобин <br/>",
+						choice_B: "B)   фибрин <br/>",
+						choice_C: "C)  фибриноген <br/>",
+						choice_D: "D)   альбумин <br/>",
+						choice_E: "E)   глобулин <br/>",
+						number: 10,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "11)  Млекопитающие,  имеющие  клоаку <br/>",
+						answer: " E  <br/>",
+						choice_A: "А)  Коала. <br/>",
+						choice_B: "B)   Обезьяны. <br/>",
+						choice_C: "C)  Крыса. <br/>",
+						choice_D: "D)   Верблюд. <br/>",
+						choice_E: "E)   Утконос. <br/>",
+						number: 11,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "12) Учащение  сокращения  сердца  вызывает  гормон <br/>",
+						answer: " D  <br/>",
+						choice_A: "А)  Тимозин <br/>",
+						choice_B: "B)   Гликоген <br/>",
+						choice_C: "C)  Ацетилхолин <br/>",
+						choice_D: "D)   Адреналин <br/>",
+						choice_E: "E)   Инсулин <br/>",
+						number: 12,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "13)  В  коже человека  вырабатывается  витамин <br/>",
+						answer: " E  <br/>",
+						choice_A: "А)  А <br/>",
+						choice_B: "B)   В <br/>",
+						choice_C: "C)  С <br/>",
+						choice_D: "D)   Е <br/>",
+						choice_E: "E)   D <br/>",
+						number: 13,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "14)  Биоценоз,  созданный  человеком <br/>",
+						answer: " E  <br/>",
+						choice_A: "А)  Биогеоценоз <br/>",
+						choice_B: "B)   Популяция <br/>",
+						choice_C: "C)  Огражденная  территория <br/>",
+						choice_D: "D)   Заповедник <br/>",
+						choice_E: "E)   Агроценоз <br/>",
+						number: 14,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "15)   Ложноножками  передвигается <br/>",
+						answer: "A<br/>",
+						choice_A: "А)  Амёба <br/>",
+						choice_B: "B)   Туфелька <br/>",
+						choice_C: "C)  Гидра <br/>",
+						choice_D: "D)   Эвглена <br/>",
+						choice_E: "E)   Парамеция <br/>",
+						number: 15,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "16)  Начало  воздухоносных  путей <br/>",
+						answer: " E  <br/>",
+						choice_A: "А)  Носоглотка. <br/>",
+						choice_B: "B)   Гортань. <br/>",
+						choice_C: "C)  Бронхи. <br/>",
+						choice_D: "D)   Трахея. <br/>",
+						choice_E: "E)   Носовая  полость. <br/>",
+						number: 16,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "17)   Функция чечевичек  стебля <br/>",
+						answer: " E  <br/>",
+						choice_A: "А)  регулирование движения  органических  веществ. <br/>",
+						choice_B: "B)   откладывание  запаса питательных-  веществ. <br/>",
+						choice_C: "C)  утолщение. <br/>",
+						choice_D: "D)   регулирование  движения  раствора минеральных  солей. <br/>",
+						choice_E: "E)   газообмен. <br/>",
+						number: 17,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "18)   Особенность  строения скелета  человека,  связанная  с  прямохождением <br/>",
+						answer: " C  <br/>",
+						choice_A: "А)  Строение  черепа <br/>",
+						choice_B: "B)   Строение  ребер <br/>",
+						choice_C: "C)  Изгибы  позвоночника <br/>",
+						choice_D: "D)   Строение  поясницы <br/>",
+						choice_E: "E)   Строение  руки <br/>",
+						number: 18,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "19)   Семена развиваются  из <br/>",
+						answer: " B  <br/>",
+						choice_A: "А)  Пыльника <br/>",
+						choice_B: "B)   Семязачатка <br/>",
+						choice_C: "C)  Столбика <br/>",
+						choice_D: "D)   Тычинки <br/>",
+						choice_E: "E)   Рыльца <br/>",
+						number: 19,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "20)  Отличие мужского  заростка  хвоща полевого  от женского  в том, что в  них развиваются <br/>",
+						answer: " C  <br/>",
+						choice_A: "А)  Споры <br/>",
+						choice_B: "B)   Женские  половые  клетки <br/>",
+						choice_C: "C)  Мужские  половые  клетки <br/>",
+						choice_D: "D)   Обоеполые  клетки <br/>",
+						choice_E: "E)   Корневище <br/>",
+						number: 20,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "21)  В  желудке начинается   расщепление <br/>",
+						answer: " B  <br/>",
+						choice_A: "А)  Воды. <br/>",
+						choice_B: "B)   Белков. <br/>",
+						choice_C: "C)  АТФ. <br/>",
+						choice_D: "D)   Твердых  жиров. <br/>",
+						choice_E: "E)   Минеральных  солей. <br/>",
+						number: 21,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "22) Плод груши: <br/>",
+						answer: " C  <br/>",
+						choice_A: "А)  Костянка <br/>",
+						choice_B: "B)   Тыквина <br/>",
+						choice_C: "C)  Яблоко <br/>",
+						choice_D: "D)   Померанец <br/>",
+						choice_E: "E)   Ягода <br/>",
+						number: 22,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "23)   Опыление  до  раскрытия  цветка происходит  при: <br/>",
+						answer: " E  <br/>",
+						choice_A: "А)  Перекрестном  опылении <br/>",
+						choice_B: "B)   Опылении  ветром <br/>",
+						choice_C: "C)  Опылении  животными <br/>",
+						choice_D: "D)   Опылении  насекомыми <br/>",
+						choice_E: "E)   Самоопылении <br/>",
+						number: 23,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "24)  Не имеют  ядра: <br/>",
+						answer: " D  <br/>",
+						choice_A: "А)  Лимфоциты <br/>",
+						choice_B: "B)   Лейкоциты <br/>",
+						choice_C: "C)  Миоциты <br/>",
+						choice_D: "D)   Эритроциты <br/>",
+						choice_E: "E)   Остеоциты <br/>",
+						number: 24,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "25)  Особенности  безусловных,  врожденных  рефлексов <br/>",
+						answer: " B  <br/>",
+						choice_A: "А)  Формируются  в течении  жизни <br/>",
+						choice_B: "B)   Передаются  по  наследству <br/>",
+						choice_C: "C)  Подчиняются  воле  человека <br/>",
+						choice_D: "D)   Могут  исчезать <br/>",
+						choice_E: "E)  Не  наследуются <br/>",
+						number: 25,
+						course_en: 'biology',
+						course_kz: 'Биология',
+						course_ru: 'Биология',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "1) Гомологами являются:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) С2Н6 и С2Н4<br/>",
+						choice_B: "B)  СН3ОН и СНООН<br/>",
+						choice_C: "C) СН3–СН2–СН2–ОН и НО–СН2–СН3<br/>",
+						choice_D: "D)  СН3–NO2 и CH3–NH2<br/>",
+						choice_E: "E)  Н–СН=О и СН3СООН<br/>",
+						number: 1,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "2) При взаимодействии 0,5 моль водорода с йодом, которое протекает по уравнению реакции H2 + I2 = 2HI -50,8 кДж, было поглощено теплоты:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) 25,4 кДж<br/>",
+						choice_B: "B)  32 кДж<br/>",
+						choice_C: "C) 23 кДж<br/>",
+						choice_D: "D)  101,6кДж<br/>",
+						choice_E: "E)  50,8 кДж<br/>",
+						number: 2,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "3) Фенол обладает свойствами<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Оснований<br/>",
+						choice_B: "B)  Амфотерными <br/>",
+						choice_C: "C) Сильных кислот<br/>",
+						choice_D: "D)  Слабых кислот<br/>",
+						choice_E: "E)  Восстановителя<br/>",
+						number: 3,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "4) Для получения 168 г негашеной извести по уравнению<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 360 кДж.<br/>",
+						choice_B: "B)  36 кДж.<br/>",
+						choice_C: "C) 1800 кДж.<br/>",
+						choice_D: "D)  180 кДж.<br/>",
+						choice_E: "E)  540 кДж. <br/>",
+						number: 4,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "5) Молекула сахарозы состоит из остатков молекул<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Глюкозы и фруктозы<br/>",
+						choice_B: "B)  Глюкозы и дезоксирибозы<br/>",
+						choice_C: "C) Фруктозы и дезоксирибозы<br/>",
+						choice_D: "D)  Рибозы и глюкозы<br/>",
+						choice_E: "E)  Фруктозы и рибозы<br/>",
+						number: 5,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "6) При повышении температуры на каждые 10 градусов скорость увеличивается в 2 раза. При повышении температуры на 20 градусов по Цельсию скорость реакции возрастет в:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) 5 раз<br/>",
+						choice_B: "B)  4 раза<br/>",
+						choice_C: "C) 3 раза<br/>",
+						choice_D: "D)  2 раза<br/>",
+						choice_E: "E)  6 раз <br/>",
+						number: 6,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "7) Лакмус останется фиолетовым в растворе<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) ZnSO4<br/>",
+						choice_B: "B)  BaSO4<br/>",
+						choice_C: "C) CuSO4<br/>",
+						choice_D: "D)  Na2SO4<br/>",
+						choice_E: "E)  MgSO4<br/>",
+						number: 7,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "8) То же, что органическое стекло:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Полипропилен.<br/>",
+						choice_B: "B)  Полиэтилен.<br/>",
+						choice_C: "C) Поливинилхлорид.<br/>",
+						choice_D: "D)  Полистирол.<br/>",
+						choice_E: "E)  Полиметилметакрилат. <br/>",
+						number: 8,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "9)  Переменной степенью окисления не обладает металл:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Cu<br/>",
+						choice_B: "B)  Mn<br/>",
+						choice_C: "C) Mg<br/>",
+						choice_D: "D)  Fe<br/>",
+						choice_E: "E)  Pb<br/>",
+						number: 9,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "10)  Галогены в ряду<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Li, Be, B, C<br/>",
+						choice_B: "B)  Sn, Sb, Fe, J<br/>",
+						choice_C: "C) F, Cl, Br, J<br/>",
+						choice_D: "D)  C, N, O, F<br/>",
+						choice_E: "E)  Li, Na, K , Rb<br/>",
+						number: 10,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "11)  Формула дигидроортофосфата аммония:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) (NH4) 2SO4<br/>",
+						choice_B: "B)  (NH4)2∙HPO4 с (NH4)2SO4<br/>",
+						choice_C: "C) NH4H2PO4<br/>",
+						choice_D: "D)  (NH4)2∙HPO4<br/>",
+						choice_E: "E)  (NH4)3PO4<br/>",
+						number: 11,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "12)  Серная кислота <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Газ, хорошо растворимый в воде<br/>",
+						choice_B: "B)  Светло-оранжевая жидкость<br/>",
+						choice_C: "C) Бесцветная тяжелая жидкость<br/>",
+						choice_D: "D)  Твердое вещество<br/>",
+						choice_E: "E)  Окрашенная жидкость<br/>",
+						number: 12,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "13)  Строение молекулы пропена в пространстве:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Линейное<br/>",
+						choice_B: "B)  Угловое<br/>",
+						choice_C: "C) Гексагональное<br/>",
+						choice_D: "D)  Плоскостное<br/>",
+						choice_E: "E)  Тетраэдрическое<br/>",
+						number: 13,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "14)  Основаниями называются вещества состоящие из:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) атомов водорода и кислотного остатка<br/>",
+						choice_B: "B)  двух элементов, один из которых водород<br/>",
+						choice_C: "C) двух элементов, один из которых кислород<br/>",
+						choice_D: "D)  атомов металла и кислотного остатка<br/>",
+						choice_E: "E)  атомов металла и одной или нескольких гидроксильных групп <br/>",
+						number: 14,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "15) Алюминий будет реагировать со всеми веществами группы<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) HCl, Ar, KOH<br/>",
+						choice_B: "B)  HCl, CuCl2, NaOH<br/>",
+						choice_C: "C) HBr, Fe2O3, Lі2SO4<br/>",
+						choice_D: "D)  H2O, He, NaOH<br/>",
+						choice_E: "E)  HNO3, NaCl, KOH <br/>",
+						number: 15,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "16) Общая сумма коэффициентов в уравнении взаимодействия магния с азотной кислотой (если образуется азот) <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 27<br/>",
+						choice_B: "B)  28<br/>",
+						choice_C: "C) 24<br/>",
+						choice_D: "D)  29<br/>",
+						choice_E: "E)  21<br/>",
+						number: 16,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "17) В лаборатории из 33,6 л (н.у) ацетилена было получено 31,2 г бензола. <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 70$\\%$<br/>",
+						choice_B: "B)  65$\\%$<br/>",
+						choice_C: "C) 60$\\%$<br/>",
+						choice_D: "D)  75$\\%$<br/>",
+						choice_E: "E)  80$\\%$<br/>",
+						number: 17,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "18) Масса пропилформиата которую можно получить из 30 г пропанола и 40 г муравьиной кислоты, если практический выход составляет 75 $\\%$<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) 44 г.<br/>",
+						choice_B: "B)  33 г.<br/>",
+						choice_C: "C) 66 г.<br/>",
+						choice_D: "D)  55 г.<br/>",
+						choice_E: "E)  62 г. <br/>",
+						number: 18,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "19)  Вещества одинакового состава, но различного строения с различными свойствами называют<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Изотопами<br/>",
+						choice_B: "B)  Полимерами<br/>",
+						choice_C: "C) Изомерами<br/>",
+						choice_D: "D)  Аналогами<br/>",
+						choice_E: "E)  Гомологами<br/>",
+						number: 19,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "20)  Неверно расставлены коэффициенты.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) FeCl2+2NaOH = Fe(OH)2+2NaCl<br/>",
+						choice_B: "B)  Al(NO3)3+KOH = Al(OH)3+2KNO3<br/>",
+						choice_C: "C) Al(NO3)3+3KOH = AlCl3+3KNO3<br/>",
+						choice_D: "D)  FeCl2+2AgNO3 = Fe(NO3)2+2AgCl<br/>",
+						choice_E: "E)  Fe(OH)2+2HCl = Fe(Cl)2+2H2O <br/>",
+						number: 20,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "21) Объемы метана и хлора (при н.у.), которые израсходуются для получения 202 г хлорметана<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) 89,6 л и 67,2 л<br/>",
+						choice_B: "B)  89,6 л и 89,6 л <br/>",
+						choice_C: "C) 11,2 л и 5,6 л<br/>",
+						choice_D: "D)  67,2 л и 44,8 л<br/>",
+						choice_E: "E)  44,8 л и 11,2 л<br/>",
+						number: 21,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "22)  Степень окисления серы в сернистой кислоте:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) +6<br/>",
+						choice_B: "B)  -2<br/>",
+						choice_C: "C) -6<br/>",
+						choice_D: "D)  -4<br/>",
+						choice_E: "E)  +4<br/>",
+						number: 22,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "23) Если взять три молекулы аминокислоты, то образуется<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) пентапептид<br/>",
+						choice_B: "B)  трипептид<br/>",
+						choice_C: "C) дипептид<br/>",
+						choice_D: "D)  тетрапептид<br/>",
+						choice_E: "E)  гексапептид<br/>",
+						number: 23,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "24) Если в результате реакции получился только  гидроксид железа (ІІІ), то вступили в реакцию<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Fe и H2O2 <br/>",
+						choice_B: "B)  Fe2O3 и H2O <br/>",
+						choice_C: "C) FeO и H2O <br/>",
+						choice_D: "D)  Fe3O4 и H2O <br/>",
+						choice_E: "E)  Fe(OH)2 и H2O2 <br/>",
+						number: 24,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "25) Кислород выделяется при термическом разложении соли:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) (CuOH)2CO3<br/>",
+						choice_B: "B)  NH4NO3 <br/>",
+						choice_C: "C) Na3PO4<br/>",
+						choice_D: "D)  Cu(NO3)2<br/>",
+						choice_E: "E)  CaCO3<br/>",
+						number: 25,
+						course_en: 'chemistry',
+						course_kz: 'Химия',
+						course_ru: 'Химия',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "1) Определите правильный вариант глагола:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Are playing.<br/>",
+						choice_B: "B)  Were playing.<br/>",
+						choice_C: "C) Was playing.<br/>",
+						choice_D: "D)  Would play.<br/>",
+						choice_E: "E)  Play. <br/>",
+						number: 1,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "2) Найдите правильный вариант глагола:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) was offered<br/>",
+						choice_B: "B)  was offer<br/>",
+						choice_C: "C) have offered<br/>",
+						choice_D: "D)  has offered<br/>",
+						choice_E: "E)  offers<br/>",
+						number: 2,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "3)  Выберите правильную  форму глагола .<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) am<br/>",
+						choice_B: "B)  were<br/>",
+						choice_C: "C) is <br/>",
+						choice_D: "D)  weren`t<br/>",
+						choice_E: "E)  are <br/>",
+						number: 3,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "4) Выберите правильную форму глагола “to be”:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) wasn’t, was<br/>",
+						choice_B: "B)  were, weren’t<br/>",
+						choice_C: "C) were, was<br/>",
+						choice_D: "D)  were, were<br/>",
+						choice_E: "E)  wasn’t, wasn’t<br/>",
+						number: 4,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "5) Прочитайте текст и выполните задание после текста:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) They used the umbrella as &quot;a little shade&quot;.<br/>",
+						choice_B: "B)  They used the umbrella in hot weather.<br/>",
+						choice_C: "C) They used the umbrella to ride a coach.<br/>",
+						choice_D: "D)  They used the umbrella as a protection against the sun.<br/>",
+						choice_E: "E)  They used the umbrella as a protection against the rain. <br/>",
+						number: 5,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "6) Вставьте в предложение глагол в соответствующей форме:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) learning<br/>",
+						choice_B: "B)  being learnt<br/>",
+						choice_C: "C) to learn<br/>",
+						choice_D: "D)  learn<br/>",
+						choice_E: "E)  have learnt<br/>",
+						number: 6,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "7) Выберите глагол в форме Present Perfect Active:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Have does.<br/>",
+						choice_B: "B)  Have doing.<br/>",
+						choice_C: "C) Have done.<br/>",
+						choice_D: "D)  Have do.<br/>",
+						choice_E: "E)  Have did. <br/>",
+						number: 7,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "8) Выберите правильный вариант:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) which<br/>",
+						choice_B: "B)  what<br/>",
+						choice_C: "C) whom<br/>",
+						choice_D: "D)  that<br/>",
+						choice_E: "E)  whose<br/>",
+						number: 8,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "9) Выразите одним словом:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Wood.<br/>",
+						choice_B: "B)  Stadium.<br/>",
+						choice_C: "C) Basket.<br/>",
+						choice_D: "D)  Mountains.<br/>",
+						choice_E: "E)  School. <br/>",
+						number: 9,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "10) Дайте определение слову &quot;expensive&quot;:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Costing a lot of money.<br/>",
+						choice_B: "B)  A very rich person.<br/>",
+						choice_C: "C) A good mark at school.<br/>",
+						choice_D: "D)  A fine weather.<br/>",
+						choice_E: "E)  A beautiful thing. <br/>",
+						number: 10,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "11) Выберите предложение с Participle I:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) He has just sung this part.<br/>",
+						choice_B: "B)  They sang a lot yesterday.<br/>",
+						choice_C: "C) They usually sing on weekends.<br/>",
+						choice_D: "D)  Mr. Marat listened to the girls singing Kazakh folk songs. <br/>",
+						choice_E: "E)  I enjoy singing pop – songs. <br/>",
+						number: 11,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "12) Найдите множественное число слова “a boy”:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Boys<br/>",
+						choice_B: "B)  Boieses<br/>",
+						choice_C: "C) Boyes<br/>",
+						choice_D: "D)  Boies<br/>",
+						choice_E: "E)  Boyses<br/>",
+						number: 12,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "13) Вставьте пропущенные слова:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Earth’s, people’s<br/>",
+						choice_B: "B)  Earth’s, peoples<br/>",
+						choice_C: "C) Earths’, peoples’<br/>",
+						choice_D: "D)  Earths, people’s<br/>",
+						choice_E: "E)  Earths, peoples <br/>",
+						number: 13,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "14) Выберите верный вариант отрицания к данному предложению:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) He didn’t use to do everything his mother said.<br/>",
+						choice_B: "B)  He didn’t use do everything his mother said.<br/>",
+						choice_C: "C) He not used to do everything his mother said.<br/>",
+						choice_D: "D)  He used to not do everything his mother said.<br/>",
+						choice_E: "E)  He didn’t used to do everything his mother said. <br/>",
+						number: 14,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "15) Прочитайте текст и выполните задание после текста:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) They used the umbrella as &quot;a little shade&quot;.<br/>",
+						choice_B: "B)  They used the umbrella in hot weather.<br/>",
+						choice_C: "C) They used the umbrella to ride a coach.<br/>",
+						choice_D: "D)  They used the umbrella as a protection against the sun.<br/>",
+						choice_E: "E)  They used the umbrella as a protection against the rain. <br/>",
+						number: 15,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "16) Подберите нужное по смыслу прилагательное или наречие: <br/>",
+						answer: "A<br/>",
+						choice_A: "А) badly<br/>",
+						choice_B: "B)  much<br/>",
+						choice_C: "C) hardly<br/>",
+						choice_D: "D)  bad<br/>",
+						choice_E: "E)  lately<br/>",
+						number: 16,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "17) Выберите фразовый глагол со значением «Продолжать»:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) To go about<br/>",
+						choice_B: "B)  To go in for<br/>",
+						choice_C: "C) To go off<br/>",
+						choice_D: "D)  To go without<br/>",
+						choice_E: "E)  To go on<br/>",
+						number: 17,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "18)  Дополните предложение:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) is<br/>",
+						choice_B: "B)  were<br/>",
+						choice_C: "C) was<br/>",
+						choice_D: "D)  am<br/>",
+						choice_E: "E)  are <br/>",
+						number: 18,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "19) Выберите правильный вариант формы глагола:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) walking<br/>",
+						choice_B: "B)  have been walking<br/>",
+						choice_C: "C) have walked<br/>",
+						choice_D: "D)  walk<br/>",
+						choice_E: "E)  is walking<br/>",
+						number: 19,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "20)  Дополните предложение:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) to leaving<br/>",
+						choice_B: "B)  was leaving<br/>",
+						choice_C: "C) were leaving<br/>",
+						choice_D: "D)  to be leaving<br/>",
+						choice_E: "E)  are leaving <br/>",
+						number: 20,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "21)  Образуйте новое слово от “real” c помощью следующих суффиксов<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Al.<br/>",
+						choice_B: "B)  Ist.<br/>",
+						choice_C: "C) Ment.<br/>",
+						choice_D: "D)  Ic.<br/>",
+						choice_E: "E)  Tion. <br/>",
+						number: 21,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "22) Выберите предложение с герундием:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) I enjoyed watching TV.<br/>",
+						choice_B: "B)  Having watched TV we went for a walk.<br/>",
+						choice_C: "C) Yesterday Mr. Green watched TV in the evening.<br/>",
+						choice_D: "D)  We have been watching TV since morning.<br/>",
+						choice_E: "E)  Nick is watching TV now. <br/>",
+						number: 22,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "23) Переведите “Становиться известным” <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) To belong<br/>",
+						choice_B: "B)  To replace<br/>",
+						choice_C: "C) To come in<br/>",
+						choice_D: "D)  To become unknown<br/>",
+						choice_E: "E)  To become known<br/>",
+						number: 23,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "24)  Выберите притяжательную форму существительного во множественном числе.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Fan’.<br/>",
+						choice_B: "B)  Fan’es.<br/>",
+						choice_C: "C) Fans’s.<br/>",
+						choice_D: "D)  Fans’.<br/>",
+						choice_E: "E)  Fan’s. <br/>",
+						number: 24,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "25) Прочитайте текст, выберите завершение предложения, соответствующее содержанию текста:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Was an engineer.<br/>",
+						choice_B: "B)  Had an exercise-book.<br/>",
+						choice_C: "C) Was going by train to France.<br/>",
+						choice_D: "D)  Was a man of great talent.<br/>",
+						choice_E: "E)  Was a famous English writer. <br/>",
+						number: 25,
+						course_en: 'english',
+						course_kz: 'Ағылшын тілі',
+						course_ru: 'Английский',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "1)  Прибор для ориентирования на местности:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Компас.<br/>",
+						choice_B: "B)  Нивелир.<br/>",
+						choice_C: "C) Термометр.<br/>",
+						choice_D: "D)  Рулетка.<br/>",
+						choice_E: "E)  Осадкомер. <br/>",
+						number: 1,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "2)  На дне глубоководных впадин температура воды около<br/>",
+						answer: "A<br/>",
+						choice_A: "А) 0° С.<br/>",
+						choice_B: "B)  + 5° С.<br/>",
+						choice_C: "C) - 10° С.<br/>",
+						choice_D: "D)  + 6° С.<br/>",
+						choice_E: "E)  - 5° С.<br/>",
+						number: 2,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "3) Реки полупустынной и пустынной зон.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Иртыш, Тобол.<br/>",
+						choice_B: "B)  Ишим, Тобол.<br/>",
+						choice_C: "C) Или, Иртыш.<br/>",
+						choice_D: "D)  Сырдария, Талас, Чу.<br/>",
+						choice_E: "E)  Сырдарья, Ишим. <br/>",
+						number: 3,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "4) Целостность географической оболочки обеспечивается:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Закономерностью изменений всех природных комплексов суши.<br/>",
+						choice_B: "B)  Закономерным изменением всех компонентов.<br/>",
+						choice_C: "C) Периодичностью и повторяемостью явлений.<br/>",
+						choice_D: "D)  Закономерностью изменений всех природных комплексов океанов.<br/>",
+						choice_E: "E)  Взаимосвязью и взаимодействием компонентов. <br/>",
+						number: 4,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "5) Географическая оболочка - это<br/>",
+						answer: "A<br/>",
+						choice_A: "А) общепланетарный природный комплекс.<br/>",
+						choice_B: "B)  океаны.<br/>",
+						choice_C: "C) материки.<br/>",
+						choice_D: "D)  горные пояса.<br/>",
+						choice_E: "E)  горные породы. <br/>",
+						number: 5,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "6) В жизни Земли наблюдались ритмы, охватывающие многие миллионы лет<br/>",
+						answer: "A<br/>",
+						choice_A: "А) похолодание и потепление климата.<br/>",
+						choice_B: "B)  годовой ход температуры.<br/>",
+						choice_C: "C) вращение Земли вокруг своей оси.<br/>",
+						choice_D: "D)  активность человека днем и отдых ночью.<br/>",
+						choice_E: "E)  вращение Земли вокруг Солнца. <br/>",
+						number: 6,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "7) Почвы в пустынной и полупустынной зонах Казахстана по механическому составу:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) красноземы и каштановые.<br/>",
+						choice_B: "B)  черноземы и подзолистые.<br/>",
+						choice_C: "C) песчаные и супесчаные.<br/>",
+						choice_D: "D)  сероземы и красноземы.<br/>",
+						choice_E: "E)  бурые и лесные. <br/>",
+						number: 7,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "8) Месяц года, с наибольшим уровнем суммарной солнечной радиации в Казахстане:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Октябрь.<br/>",
+						choice_B: "B)  Январь.<br/>",
+						choice_C: "C) Июль.<br/>",
+						choice_D: "D)  Сентябрь.<br/>",
+						choice_E: "E)  Апрель. <br/>",
+						number: 8,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "9) На долю суши, от всей поверхности Земли, приходится: <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) 25 %.<br/>",
+						choice_B: "B)  71 %.<br/>",
+						choice_C: "C) 29 %.<br/>",
+						choice_D: "D)  60 %.<br/>",
+						choice_E: "E)  40 %.<br/>",
+						number: 9,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "10) Первое кругосветное плавание совершено в:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) 1519-1522 г.<br/>",
+						choice_B: "B)  1530-1532 г.<br/>",
+						choice_C: "C) 1550-1553 г.<br/>",
+						choice_D: "D)  1532-1540 г.<br/>",
+						choice_E: "E)  1525-1530 г. <br/>",
+						number: 10,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "11) Замечательные исторические памятники древности Узбекистана расположены в<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Фергане и Андижане.<br/>",
+						choice_B: "B)  Бухаре и Самарканде.<br/>",
+						choice_C: "C) Намангане и Коканде.<br/>",
+						choice_D: "D)  Навои и Ангрен.<br/>",
+						choice_E: "E)  Ташкенте и Чирчике. <br/>",
+						number: 11,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "12) В жизни Земли наблюдались ритмы, охватывающие многие миллионы лет<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) активность человека днем и отдых ночью.<br/>",
+						choice_B: "B)  годовой ход температуры.<br/>",
+						choice_C: "C) вращение Земли вокруг Солнца.<br/>",
+						choice_D: "D)  похолодание и потепление климата.<br/>",
+						choice_E: "E)  вращение Земли вокруг своей оси. <br/>",
+						number: 12,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "13) Область низкого атмосферного давления<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Штиль.<br/>",
+						choice_B: "B)  Антициклон.<br/>",
+						choice_C: "C) Атмосферный фронт.<br/>",
+						choice_D: "D)  Пассаты.<br/>",
+						choice_E: "E)  Циклон. <br/>",
+						number: 13,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "14) Восточно-Европейская равнина соответствует:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Индийской платформе.<br/>",
+						choice_B: "B)  Китайской платформе.<br/>",
+						choice_C: "C) Австралийской платформе.<br/>",
+						choice_D: "D)  Русской платформе.<br/>",
+						choice_E: "E)  Сибирской платформе. <br/>",
+						number: 14,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "15)  Исследователь, внесший большой вклад в изучение природы и населения Океании:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Н.Н. Миклухо-Маклай.<br/>",
+						choice_B: "B)  Ф. Магеллан.<br/>",
+						choice_C: "C) Ф.П. Литке.<br/>",
+						choice_D: "D)  В.М. Головнин.<br/>",
+						choice_E: "E)  С.О. Макаров. <br/>",
+						number: 15,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "16) Основной зерновой культурой Китая считается<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) пшеница.<br/>",
+						choice_B: "B)  рис.<br/>",
+						choice_C: "C) ячмень.<br/>",
+						choice_D: "D)  кукуруза.<br/>",
+						choice_E: "E)  просо. <br/>",
+						number: 16,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "17) Возникновение муссонов связано: <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) С наличием высоких гор на побережье.<br/>",
+						choice_B: "B)  С отсутствием высоких гор на побережье. <br/>",
+						choice_C: "C) С различиями в нагревании суши и воды.<br/>",
+						choice_D: "D)  С наличием течений у берегов материка.<br/>",
+						choice_E: "E)  С интенсивным испарением. <br/>",
+						number: 17,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "18) Себестоимость экибастузского угля низка в связи с<br/>",
+						answer: "A<br/>",
+						choice_A: "А) близким залеганием угля к поверхности.<br/>",
+						choice_B: "B)  глубоким залеганием угля.<br/>",
+						choice_C: "C) В связи с малыми запасами угля.<br/>",
+						choice_D: "D)  большой зольностью угля.<br/>",
+						choice_E: "E)  географическим положением. <br/>",
+						number: 18,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "19) По мере продвижения с севера на юг степи  переходят в<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Тайгу.<br/>",
+						choice_B: "B)  Смешанный лес.  <br/>",
+						choice_C: "C) Широколиственный лес.<br/>",
+						choice_D: "D)  Тундру.<br/>",
+						choice_E: "E)  В полупустыню. <br/>",
+						number: 19,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "20) На карте «Народы и плотность населения» территории с разной плотностью показаны:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Способом послойной окраски.<br/>",
+						choice_B: "B)  Способом точек.<br/>",
+						choice_C: "C) Способом специальных условных знаков.<br/>",
+						choice_D: "D)  Способом изолиний.<br/>",
+						choice_E: "E)  Способом штриховки. <br/>",
+						number: 20,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "21) Сильный ветер на территории Казахстана, дующий с северо-запада на юго-восток:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) эбинский.<br/>",
+						choice_B: "B)  сайкан.<br/>",
+						choice_C: "C) арыстанды-карабас.<br/>",
+						choice_D: "D)  пассат.<br/>",
+						choice_E: "E)  муссон. <br/>",
+						number: 21,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "22) Специализация хозяйства Центрального Казахстана.<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Текстильная, обувная промышленности.<br/>",
+						choice_B: "B)  Мясо-молочное животноводство.<br/>",
+						choice_C: "C) Лесная промышленность.<br/>",
+						choice_D: "D)  Транспортное машиностроение.<br/>",
+						choice_E: "E)  Цветная, черная металлургия. <br/>",
+						number: 22,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "23) Замечательные исторические памятники древности Узбекистана расположены в<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Фергане и Андижане.<br/>",
+						choice_B: "B)  Бухаре и Самарканде.<br/>",
+						choice_C: "C) Намангане и Коканде.<br/>",
+						choice_D: "D)  Навои и Ангрен.<br/>",
+						choice_E: "E)  Ташкенте и Чирчике. <br/>",
+						number: 23,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "24) Количество водяного пара в граммах в 1м в кубе воздуха (г/м в кубе) называют.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Относительной влажностью.<br/>",
+						choice_B: "B)  Абсолютной влажностью.<br/>",
+						choice_C: "C) Влажностью воздуха.<br/>",
+						choice_D: "D)  Испарением.<br/>",
+						choice_E: "E)  Испаряемостью. <br/>",
+						number: 24,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "25) Колючие кустарники, стелющиеся растения с очень мелкими листочками, испаряющими мало влаги, растут:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) В тундре.    <br/>",
+						choice_B: "B)  В жестколистных лесах.<br/>",
+						choice_C: "C) В тайге.<br/>",
+						choice_D: "D)  В саванне.<br/>",
+						choice_E: "E)  В пустыне. <br/>",
+						number: 25,
+						course_en: 'geography',
+						course_kz: 'География',
+						course_ru: 'География',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "1) Исторический научный труд XVI в«Тарих-и-Рашиди»  Мухаммеда Хайдара Дулати написан на: <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) кыпчакском языке <br/>",
+						choice_B: "B)  уйгурском языке <br/>",
+						choice_C: "C) казахском  языке <br/>",
+						choice_D: "D)  узбекском языке <br/>",
+						choice_E: "E)  персидском языке <br/>",
+						number: 1,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "2)  Арабы называли правителя Тюргешского каганата Сулу- кагана: <br/>",
+						answer: "A<br/>",
+						choice_A: "А)  «Бодающийся» <br/>",
+						choice_B: "B)  «Упрямый» <br/>",
+						choice_C: "C) «Храбрый» <br/>",
+						choice_D: "D)  «Смелый» <br/>",
+						choice_E: "E)  «Пугливый» <br/>",
+						number: 2,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "3)  Государства Ак Орда и Могулистан ослабли в результате: <br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Набегов золотоордынских  ханов <br/>",
+						choice_B: "B)  Набегов Эмира Тимура <br/>",
+						choice_C: "C) Междоусобных  войн <br/>",
+						choice_D: "D)  Экономического  кризиса <br/>",
+						choice_E: "E)  Набегов  джунгар <br/>",
+						number: 3,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "4) Казахское  историческое произведение XVI-XVII вв, сочинение Кадыргали Джалаири: <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) «Тарих-и-Рашиди» <br/>",
+						choice_B: "B)  «Диуан-и-хикмет» <br/>",
+						choice_C: "C) «Кутадгу  билик» <br/>",
+						choice_D: "D)  «Диуани лугат ат-тюрк» <br/>",
+						choice_E: "E)  «Джами  ат-тауарих» <br/>",
+						number: 4,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "5) Эвакуированные в годы войны Московский авиационный,  Московский институт цветных металлов, объединённый  Украинский  государственный университет вели значительную работу по: <br/>",
+						answer: "A<br/>",
+						choice_A: "А) Подготовке квалифицированных  кадров <br/>",
+						choice_B: "B)  Изучению природных ресурсов <br/>",
+						choice_C: "C) Разработке новых производственных  технологий <br/>",
+						choice_D: "D)  Производству пищевых  продуктов <br/>",
+						choice_E: "E)  Проведению  научно-исследователькой  работы <br/>",
+						number: 5,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "6)  Общинников-скотоводов  в Западно-Тюркском  каганате называли: <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Тарханы <br/>",
+						choice_B: "B)  Буруки <br/>",
+						choice_C: "C) Кара будуны <br/>",
+						choice_D: "D)  Ягбу <br/>",
+						choice_E: "E)  Шады <br/>",
+						number: 6,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "7) В средневековье между Узбекским и Казахским ханствами около  100 лет длились кровопролитные войны за овладение городом: <br/>",
+						answer: "A<br/>",
+						choice_A: "А) Сауран <br/>",
+						choice_B: "B)  Сыгнак <br/>",
+						choice_C: "C) Сайрам <br/>",
+						choice_D: "D)  Отрар <br/>",
+						choice_E: "E)  Туркестан <br/>",
+						number: 7,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "8) В  1931 г. правительство  Казахской АССР ввели всеобщее  обязательное: <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Обучение рабочей  молодежи <br/>",
+						choice_B: "B)  Семилетнее  образование <br/>",
+						choice_C: "C) Среднее  образование <br/>",
+						choice_D: "D)  Обучение неграмотного  населения  в возрасте от  15 до 50 лет <br/>",
+						choice_E: "E)  Восьмилетнее  образование <br/>",
+						number: 8,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "9) IV Чрезвычайный  Всетуркестанский съезд открылся 22 ноября  1917 года в старой столице ханства  Фергана: <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Хиве <br/>",
+						choice_B: "B)  Ташкенте <br/>",
+						choice_C: "C) Самарканде <br/>",
+						choice_D: "D)  Бухаре <br/>",
+						choice_E: "E)  Коканде <br/>",
+						number: 9,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "10) В годы Великой Отечественной  войны Алма-Ата, Чимкент,  Уральск, Петропавловск, Семипалатинск, Караганда, Актюбинск стали основными районами: <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Создания новых научных  центров <br/>",
+						choice_B: "B)  Размещение эвакуированных культурных  центров <br/>",
+						choice_C: "C) Проведения научно-исследовательских  работ <br/>",
+						choice_D: "D)  Создания военно-технического  полигона <br/>",
+						choice_E: "E)  Размещения перебазированных  предприятий <br/>",
+						number: 10,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "11)  В 999 году государство Караханидов в результате успешных  походов подчинили себе город Бухару -  столицу: <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Огузов <br/>",
+						choice_B: "B)  Сельджуков <br/>",
+						choice_C: "C) Согдийцев <br/>",
+						choice_D: "D)   Саманидов <br/>",
+						choice_E: "E)  Тюргешей <br/>",
+						number: 11,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "12)  По письменным источникам VIII века союз восьми найманских  племен населяли земли между: <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Чу и Таласом <br/>",
+						choice_B: "B)  Чу и Или <br/>",
+						choice_C: "C) рекой Орхон и Алтайскими горами <br/>",
+						choice_D: "D)  Сырдарьей и Амударьей <br/>",
+						choice_E: "E)  Алаколем  и Балхашом <br/>",
+						number: 12,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "13) Один из основных центров казахско-китайской торговли в Жетысу в 50-60-х годах XIX века: <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Аягуз <br/>",
+						choice_B: "B)  Улытау <br/>",
+						choice_C: "C) Урга <br/>",
+						choice_D: "D)  Атбасар <br/>",
+						choice_E: "E)  Капал <br/>",
+						number: 13,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "14) Закон о развитии просвещения, принятый в 1906 гсоздавал  ограничения и препятствовал деятельности в Казахстане: <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Профессиональных  учебных  заведений <br/>",
+						choice_B: "B)  Русско-казахских  школ <br/>",
+						choice_C: "C) Женского  образования <br/>",
+						choice_D: "D)  Конфессиональных  учебных  заведений <br/>",
+						choice_E: "E)  Церковно-лриходских  школ <br/>",
+						number: 14,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "15) К 20-м годам XIX вбольшая часть Старшего жуза находилась под управлением: <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Казачьих  атаманов <br/>",
+						choice_B: "B)  Генерал-губернатора <br/>",
+						choice_C: "C) Кокандских и хивинских  феодалов <br/>",
+						choice_D: "D)  Киргизских  манапов <br/>",
+						choice_E: "E)  Ташкентского  кушбеги <br/>",
+						number: 15,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "16) «Устав об оренбургских киргизах» был разработан по проекту губернатора: <br/>",
+						answer: " B  <br/>",
+						choice_A: "А) В. А.Перовского <br/>",
+						choice_B: "B)  П.К.Эссена <br/>",
+						choice_C: "C)  Н.А.Крыжановского <br/>",
+						choice_D: "D)   М.М.Сперанского <br/>",
+						choice_E: "E)  А.П.Безака <br/>",
+						number: 16,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "17) Джунгария была окончательно разгромлена войсками Цинской империи в: <br/>",
+						answer: " E  <br/>",
+						choice_A: "А)  1741 году <br/>",
+						choice_B: "B)   1771 году <br/>",
+						choice_C: "C)  1781 году <br/>",
+						choice_D: "D)   1730 году <br/>",
+						choice_E: "E)   1758 году <br/>",
+						number: 17,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "18)  В 748 году вторгшиеся в Жетысу китайские войска захватили и разрушили город: <br/>",
+						answer: "A<br/>",
+						choice_A: "А) Суяб <br/>",
+						choice_B: "B)  Тараз <br/>",
+						choice_C: "C) Сайрам <br/>",
+						choice_D: "D)  Фараб <br/>",
+						choice_E: "E)  Баласагун <br/>",
+						number: 18,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "19) По свидетельству  историка Ибн Рузбихана из всех этнополитических общностей, самыми многочисленными и воинственными были: <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) узбеки <br/>",
+						choice_B: "B)  ногаи <br/>",
+						choice_C: "C)найманы <br/>",
+						choice_D: "D)  монголы <br/>",
+						choice_E: "E)  казахи <br/>",
+						number: 19,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "20)  В середине XIV веке на территории Юго-восточного Казахстана и современной Киргизии  создается государство: <br/>",
+						answer: "A<br/>",
+						choice_A: "А) Могулистан <br/>",
+						choice_B: "B)  Золотая  Орда <br/>",
+						choice_C: "C) Ак Орда <br/>",
+						choice_D: "D)  Ногайская Орда <br/>",
+						choice_E: "E)  Ханство  Абулхаира <br/>",
+						number: 20,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "21)  Труд «Оян, казак» («Пробудись, казах»), принадлежит  общественному деятелю, талантливому писателю и публицисту: <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) А.Кунанбаеву <br/>",
+						choice_B: "B)  А.Бокейханову <br/>",
+						choice_C: "C) С.Торайгырову <br/>",
+						choice_D: "D)  М.Чокаю <br/>",
+						choice_E: "E)  М.Дулатову <br/>",
+						number: 21,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "22) Казахское  историческое произведение XVI-XVII вв, сочинение Кадыргали Джалаири: <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) «Тарих-и-Рашиди» <br/>",
+						choice_B: "B)  «Диуан-и-хикмет» <br/>",
+						choice_C: "C) «Кутадгу  билик» <br/>",
+						choice_D: "D)  «Диуани лугат ат-тюрк» <br/>",
+						choice_E: "E)  «Джами  ат-тауарих» <br/>",
+						number: 22,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "23) Усилению власти Касыма в Жетысу способствовал (о)<br/>",
+						answer: "A<br/>",
+						choice_A: "А)уход могольского хана в Восточный Туркестан <br/>",
+						choice_B: "B)  переселение шайбанидов в Среднюю Азию <br/>",
+						choice_C: "C) миграции ойратов в Казахстан <br/>",
+						choice_D: "D)  экспансия тимуридов на север <br/>",
+						choice_E: "E)  усиление Сибирского ханства <br/>",
+						number: 23,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "24)  Все средневековые города Жетысу располагались в основном: <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) на местах  зимовок <br/>",
+						choice_B: "B)  у подножий гор <br/>",
+						choice_C: "C) вдоль Великого Шелкового  пути <br/>",
+						choice_D: "D)  у полноводных  рек <br/>",
+						choice_E: "E)  вдоль летних  кочевий <br/>",
+						number: 24,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "25)  Центр восстания  1916 г. в Казахстане, который отличался  слаженной системой управления повстанческим  движением: <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Акмолинский <br/>",
+						choice_B: "B)   Самаркандский <br/>",
+						choice_C: "C) Тургайский <br/>",
+						choice_D: "D)  Уральский <br/>",
+						choice_E: "E)   Семипалатинский <br/>",
+						number: 25,
+						course_en: 'history',
+						course_kz: 'Қазақстан Тарихы',
+						course_ru: 'История Казахстана',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "1)  Көп мағыналы сөзді анықтаңыз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Ертегі.<br/>",
+						choice_B: "B)  Аға.<br/>",
+						choice_C: "C) Аламан.<br/>",
+						choice_D: "D)  Кемпір.<br/>",
+						choice_E: "E)  Отағасы.<br/>",
+						number: 1,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "2)  Ілік септігінде тұрған зат есімді табыңыз.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Маңайда.<br/>",
+						choice_B: "B)  Клубтан.<br/>",
+						choice_C: "C) Көркемөнер.<br/>",
+						choice_D: "D)  Мектептің.<br/>",
+						choice_E: "E)  Сөзге.<br/>",
+						number: 2,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "3)  Дұрыс жазылған одағайды табыңыз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Құрметті достым; амансың ба?<br/>",
+						choice_B: "B)  Шіркін, ақын болсаң, осындай бол!<br/>",
+						choice_C: "C) Әрине, оның айтқаны дұрыс.<br/>",
+						choice_D: "D)  Аллаңнан ойбайым тыныш.<br/>",
+						choice_E: "E)  Арылма, өлең, арылма.<br/>",
+						number: 3,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "4)  Кейінді ықпалға жататын мысалдарды белгілеңіз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Қазақстан, адамнан.<br/>",
+						choice_B: "B)  Бұрымнан, сұранысқа.<br/>",
+						choice_C: "C) Тарағы, жазса.<br/>",
+						choice_D: "D)  Анаға, табаққа.<br/>",
+						choice_E: "E)  Мектепке, қаптан.<br/>",
+						number: 4,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "5)  Туынды етістікті белгілеңіз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Оқып.<br/>",
+						choice_B: "B)  Шегеле.<br/>",
+						choice_C: "C) Оқыса.<br/>",
+						choice_D: "D)  Барған.<br/>",
+						choice_E: "E)  Келетін.<br/>",
+						number: 5,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "6)  Сөйлемде қимылдың иесі арнайы айтылмай, қимыл өздігінен орындалатынын білдіретін етісті белгілеңіз.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Өзгелік етіс.<br/>",
+						choice_B: "B)  Өздік етіс.<br/>",
+						choice_C: "C) Ортақ етіс.<br/>",
+						choice_D: "D)  Ырықсыз етіс.<br/>",
+						choice_E: "E)  Өздік, ортақ етістер.<br/>",
+						number: 6,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "7)  Буын үндестігінің ғылыми түрдегі атауын көрсетіңіз.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Дыбыс үндестігі.<br/>",
+						choice_B: "B)  Ілгерінді ықпал.<br/>",
+						choice_C: "C) Кейінді ықпал.<br/>",
+						choice_D: "D)  Сингармонизм.<br/>",
+						choice_E: "E)  Тоғыспалы ықпал.<br/>",
+						number: 7,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "8)  Қаратпа сөзді көрсетіңіз.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Мақұл, айтқанын болсын.<br/>",
+						choice_B: "B)  О, шіркін, шіркін.<br/>",
+						choice_C: "C) Сәлем саған, туған ел.<br/>",
+						choice_D: "D)  Иә, әңгіме айта отыр. <br/>",
+						choice_E: "E)  Жақсы, сынап берейін.<br/>",
+						number: 8,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "9)  Септеулік шылау қатысып тұрған сөйлемді белгілеңіз.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Бұл сегізге жаңа толған мен үшін жаңалық еді.<br/>",
+						choice_B: "B)  Қазақ еліне біз де барамыз.<br/>",
+						choice_C: "C) Әрине, жақындық пен достық та оңайлыққа түсе бермейді.<br/>",
+						choice_D: "D)  Әйтсе де іштей қысылып келем.<br/>",
+						choice_E: "E)  Кешегі мақаласы мені, мені ғана емес-ау, бүкіл достарымды қуантты.<br/>",
+						number: 9,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "10)  Қай сөзде “П” дыбысы жазылатынын көрсетіңіз.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Та...у.<br/>",
+						choice_B: "B)  Ке...у.<br/>",
+						choice_C: "C) Қағы...-соғу.<br/>",
+						choice_D: "D)  До...ы.<br/>",
+						choice_E: "E)  Тара...ы.<br/>",
+						number: 10,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "11)  Қаратпа сөзді белгілеңіз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Пай-пай, киелі неткен жер!<br/>",
+						choice_B: "B)  Балаларым, сөзімді тыңда.<br/>",
+						choice_C: "C) Қырға құстар келді.<br/>",
+						choice_D: "D)  Әнеки, ілулі тұр ақ семсері.<br/>",
+						choice_E: "E)  Қасыңдамын, міне, тұрмын.<br/>",
+						number: 11,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "12)  Туынды үстеуді табыңыз.<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Ақырын.<br/>",
+						choice_B: "B)  Бұрын.<br/>",
+						choice_C: "C) Жорта.<br/>",
+						choice_D: "D)  Жоғары.<br/>",
+						choice_E: "E)  Сұңқардайын.<br/>",
+						number: 12,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "13)  Сөйлем ішіндегі есімдіктің түрін, тұлғасын анықтаңыз.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Жіктеу есімдігі,барыс септігінде.<br/>",
+						choice_B: "B)  Сілтеу есімдігі,табыс септігінде.<br/>",
+						choice_C: "C) Сұрау есімдігі, шығыс септігінде.<br/>",
+						choice_D: "D)  Белгісіздік есімдігі, атау септігінде.<br/>",
+						choice_E: "E)  Өздік есімдігі, ілік септігінде.<br/>",
+						number: 13,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "14)  Біршама тиянақты ойды білдіретін синтаксистік бірліктің не екенін анықтаңыз.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Сөз тіркесі.<br/>",
+						choice_B: "B)  Сөз.<br/>",
+						choice_C: "C) Тұрақты тіркес.<br/>",
+						choice_D: "D)  Сөйлем.<br/>",
+						choice_E: "E)  Сөздердің байланысу түрі.<br/>",
+						number: 14,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "15)  Ауыспалы өткен шақты көрсетіңіз.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Ол ауылға жиі баратын еді.<br/>",
+						choice_B: "B)  Ол ауылға ертең баратын еді.<br/>",
+						choice_C: "C) Ол ауылға барыпты.<br/>",
+						choice_D: "D)  Ол ауылға барған.<br/>",
+						choice_E: "E)  Ол ауылға барды.<br/>",
+						number: 15,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "16)  Заттық ұғымда қолданылатын сан есімдерді анықтаңыз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Реттік сан есім.<br/>",
+						choice_B: "B)  Есептік, жинақтық сан есімдер.<br/>",
+						choice_C: "C) Болжалдық сан есім.<br/>",
+						choice_D: "D)  Топтау сан есім.<br/>",
+						choice_E: "E)  Болжалдық реттік сан есімдер.<br/>",
+						number: 16,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "17)  Еліктеуіш сөздің түрін, қызметін анықтаңыз.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Қайталанған дыбыстық еліктеуіш,пысықтауыш.<br/>",
+						choice_B: "B)  Қосарланған бейнелеуіш, анықтауыш .<br/>",
+						choice_C: "C) Туынды еліктеу, толықтауыш.<br/>",
+						choice_D: "D)  Негізгі түбір еліктеу, баяндауыш.<br/>",
+						choice_E: "E)  Күрделі еліктеу, бастауыш .<br/>",
+						number: 17,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "18)  Болымсыздық есімдікті белгілеңіз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Әлдекім.<br/>",
+						choice_B: "B)  Әлдеқалай.<br/>",
+						choice_C: "C) Ешқайсысы.<br/>",
+						choice_D: "D)  Қайсыбір.<br/>",
+						choice_E: "E)  Мүмкін.<br/>",
+						number: 18,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "19)  Есімді сөз тіркесін көрсетіңіз.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Біліміне таңғалды.<br/>",
+						choice_B: "B)  Әнді тыңдады.<br/>",
+						choice_C: "C) Кеше келді.<br/>",
+						choice_D: "D)  Бесінші сынып.<br/>",
+						choice_E: "E)  Көп ойланды.<br/>",
+						number: 19,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "20)  -aу, -еу жұрнағы арқылы жасалатын сан есімнің түрін көрсетіңіз.<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Бөлшектік сан есім.<br/>",
+						choice_B: "B)  Болжалдық сан есім.<br/>",
+						choice_C: "C) Есептік сан есім.<br/>",
+						choice_D: "D)  Топтау сан есім.<br/>",
+						choice_E: "E)  Жинақтық сан есім.<br/>",
+						number: 20,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "21)  Жасырын тұрған бастауышы бар сөйлемді белгілеңіз.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Ол жығылып қалды.<br/>",
+						choice_B: "B)  Табиғат – біздің досымыз.<br/>",
+						choice_C: "C) Марат күліп жіберді.<br/>",
+						choice_D: "D)  Еңбек етсең, есейерсің.<br/>",
+						choice_E: "E)  Ол тыңдағанды жақсы көреді.<br/>",
+						number: 21,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "22)  Буын құрай алмайтын дыбыстарды белгілеңіз.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Дауыссыз дыбыстар.<br/>",
+						choice_B: "B)  Дауысты дыбыстар.<br/>",
+						choice_C: "C) Дыбыстардың барлығы.<br/>",
+						choice_D: "D)  Сөз құрамындағы дыбыс.<br/>",
+						choice_E: "E)  Бірнеше дыбыстар.<br/>",
+						number: 22,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "23)  Қосарланып жасалған еліктеуішті табыңыз.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Алқа-салқа.<br/>",
+						choice_B: "B)  Шіңк-шіңк.<br/>",
+						choice_C: "C) Әп-әдемі.<br/>",
+						choice_D: "D)  Биік-биік.<br/>",
+						choice_E: "E)  Аппақ.<br/>",
+						number: 23,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "24)  Тұйық буынды белгілеңіз.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Ант, аз.<br/>",
+						choice_B: "B)  Егін, өрті.<br/>",
+						choice_C: "C) Қант, қар.<br/>",
+						choice_D: "D)  Аға, қала.<br/>",
+						choice_E: "E)  Төркін, ашық.<br/>",
+						number: 24,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "25)  Буын үндестігінің ғылыми түрдегі атауын көрсетіңіз.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Дыбыс үндестігі.<br/>",
+						choice_B: "B)  Ілгерінді ықпал.<br/>",
+						choice_C: "C) Кейінді ықпал.<br/>",
+						choice_D: "D)  Сингармонизм.<br/>",
+						choice_E: "E)  Тоғыспалы ықпал.<br/>",
+						number: 25,
+						course_en: 'kazakh',
+						course_kz: 'Қазақ тілі',
+						course_ru: 'Қазақ тілі',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "1)  Определите, кому из героев романа И.С.Тургенева &quot;Отцы и дети&quot; принадлежит портретное описание: &quot;человек высокого роста, в длинном балахоне с кистями&quot;, &quot;обнаженная, красная рука&quot;, &quot;длинное и худое, с широким лбом, кверху плоским, книзу заостренным носом, большими зеленоватыми глазами и висячими бакенбардами песочного цвета, оно (лицо) оживлялось спокойной улыбкою и выражало самоуверенность и ум&quot;:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Аркадию Николаевичу Кирсанову.<br/>",
+						choice_B: "B)  Николаю Петровичу Кирсанову.<br/>",
+						choice_C: "C) Евгению Васильевичу Базарову.<br/>",
+						choice_D: "D)  Павлу Петровичу Кирсанову.<br/>",
+						choice_E: "E)  Ситникову. <br/>",
+						number: 1,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "2) Назовите дерево, ставшее символом судьбы М.И.Цветаевой:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Рябина.<br/>",
+						choice_B: "B)  Осина.<br/>",
+						choice_C: "C) Береза.<br/>",
+						choice_D: "D)  Черемуха.<br/>",
+						choice_E: "E)  Калина. <br/>",
+						number: 2,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "3) Тема стихотворений М.Исаковского «Огонек», «В лесу прифронтовом»:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Тема гражданского патриотизма.<br/>",
+						choice_B: "B)  Тема любви.<br/>",
+						choice_C: "C) Тема жизни и смерти.<br/>",
+						choice_D: "D)  Тема Родины.<br/>",
+						choice_E: "E)  Тема поэта и поэзии. <br/>",
+						number: 3,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "4)  В бой с барсом вступает герой произведения М. Ю. Лермонтова:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) “Мцыри.”<br/>",
+						choice_B: "B)  “Бородино.”<br/>",
+						choice_C: "C) “Песня… про купца Калашникова...”<br/>",
+						choice_D: "D)  “Демон.”<br/>",
+						choice_E: "E)  “Кинжал.” <br/>",
+						number: 4,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "5) Единственное прозаическое произведение Магжана Жумабаева называется<br/>",
+						answer: "A<br/>",
+						choice_A: "А) «Грех Шолпан».<br/>",
+						choice_B: "B)  «Люблю».<br/>",
+						choice_C: "C) «Коркут».<br/>",
+						choice_D: "D)  «Гульсум».<br/>",
+						choice_E: "E)  «Батыр Баян». <br/>",
+						number: 5,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "6) Шакарим Кудайбердиев – автор стихотворения:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) “На смерть Кулагера”.<br/>",
+						choice_B: "B)  “Родному народу”.<br/>",
+						choice_C: "C) “Цари на войско не жалеют трат”.<br/>",
+						choice_D: "D)  “Поэзия – властитель языка”.<br/>",
+						choice_E: "E)  “Река”.<br/>",
+						number: 6,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "7)  Композиционная часть «В некотором царстве, в некотором государстве жили-были …» в народной сказке   называется:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Зачин.<br/>",
+						choice_B: "B)  Завязка.<br/>",
+						choice_C: "C) Развязка.<br/>",
+						choice_D: "D)  Экспозиция.<br/>",
+						choice_E: "E)  Присказка. <br/>",
+						number: 7,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "8) Вставьте пропущенное слово в строки стихотворения Б.Пастернака:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Вечности.<br/>",
+						choice_B: "B)  Веры.<br/>",
+						choice_C: "C) Любви.<br/>",
+						choice_D: "D)  Надежды.<br/>",
+						choice_E: "E)  Воскресенья. <br/>",
+						number: 8,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "9) По своему мировоззрению Н.А.Некрасов был:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Революционный демократ.<br/>",
+						choice_B: "B)  Монархист.<br/>",
+						choice_C: "C) Национал-патриот.<br/>",
+						choice_D: "D)  Разночинец-нигилист.<br/>",
+						choice_E: "E)  Либеральный демократ. <br/>",
+						number: 9,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "10)  Генералы в сказке «Повесть о том, как один мужик двух генералов прокормил» М.Е.Салтыкова-Щедрина читают газету:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) “Городские новости”.<br/>",
+						choice_B: "B)  “Биржевые новости”.<br/>",
+						choice_C: "C) “Коммерческий вестник”.<br/>",
+						choice_D: "D)  “Московские ведомости”.<br/>",
+						choice_E: "E)  “Ведомости”.<br/>",
+						number: 10,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "11) «Всякое дело на свете должно быть делом любви», «Любовь – это чувство вселенной…» - писал:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) М.М. Пришвин.<br/>",
+						choice_B: "B)  А. Толстой.<br/>",
+						choice_C: "C) М.А. Булгаков.<br/>",
+						choice_D: "D)  М. Горький.<br/>",
+						choice_E: "E)  Б. Пастернак. <br/>",
+						number: 11,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "12)  Автором произведения &quot;Путешествие из Петербурга в Москву&quot; является:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) А.С.Пушкин.<br/>",
+						choice_B: "B)  Г.Р.Державин.<br/>",
+						choice_C: "C) М.В.Ломоносов.<br/>",
+						choice_D: "D)  Н.М.Карамзин.<br/>",
+						choice_E: "E)  А.Н.Радищев. <br/>",
+						number: 12,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "13) Произведение А. Кекильбаева, в котором повествуется о том, как была загублена жизнь юной девушки произволом отца, стремящегося получше устроить свою любимицу:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) “Состязание”<br/>",
+						choice_B: "B)  “Конец легенды”<br/>",
+						choice_C: "C) “Всадники”<br/>",
+						choice_D: "D)  “Колодец”<br/>",
+						choice_E: "E)  “Баллада забытых лет”<br/>",
+						number: 13,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "14) Казахский жырау, младший современник Асана Кайгы, военачальник и вождь нескольких племен, обосновавшихся вдоль притоков Волги Ахтубы и Бузана: <br/>",
+						answer: "A<br/>",
+						choice_A: "А) Казтуган.<br/>",
+						choice_B: "B)  Актамберды.<br/>",
+						choice_C: "C) Бухар.<br/>",
+						choice_D: "D)  Шалкииз.<br/>",
+						choice_E: "E)  Досмамбет. <br/>",
+						number: 14,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "15) Назовите автора поэтической книги «Трансформация огня»:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) О. Сулейменов.<br/>",
+						choice_B: "B)  Ж. Молдагалиев.<br/>",
+						choice_C: "C) К. Мырзалиев.<br/>",
+						choice_D: "D)  М. Алимжанов.<br/>",
+						choice_E: "E)  М. Макатаев. <br/>",
+						number: 15,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "16) Назовите писателя, о котором А.С.Пушкин писал: «Мелкий чиновник, безо всякой власти, безо всякой опоры, дерзает вооружиться противу общего порядка, противу Екатерины!!!»<br/>",
+						answer: "A<br/>",
+						choice_A: "А) А.Н.Радищев.<br/>",
+						choice_B: "B)  Г.Р.Державин.<br/>",
+						choice_C: "C) Д.И.Фонвизин.<br/>",
+						choice_D: "D)  К.Ф.Рылеев.<br/>",
+						choice_E: "E)  М.В.Ломоносов. <br/>",
+						number: 16,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "17) Укажите, частями какой древней книги являются «Вендидат», «Висперед», «Ясна», «Яшты».<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) «Пира семи мудрецов». <br/>",
+						choice_B: "B)  «Сказания о Гильгамеше». <br/>",
+						choice_C: "C) «Книги знамений». <br/>",
+						choice_D: "D)  «Большой надписи в честь Кюльтегина». <br/>",
+						choice_E: "E)  «Авесты». <br/>",
+						number: 17,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "18)  Определите, кому из героев романа И.С.Тургенева &quot;Отцы и дети&quot; принадлежит портретное описание: &quot;человек высокого роста, в длинном балахоне с кистями&quot;, &quot;обнаженная, красная рука&quot;, &quot;длинное и худое, с широким лбом, кверху плоским, книзу заостренным носом, большими зеленоватыми глазами и висячими бакенбардами песочного цвета, оно (лицо) оживлялось спокойной улыбкою и выражало самоуверенность и ум&quot;:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Павлу Петровичу Кирсанову.<br/>",
+						choice_B: "B)  Аркадию Николаевичу Кирсанову.<br/>",
+						choice_C: "C) Ситникову.<br/>",
+						choice_D: "D)  Николаю Петровичу Кирсанову.<br/>",
+						choice_E: "E)  Евгению Васильевичу Базарову. <br/>",
+						number: 18,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "19) В поэме “Кому на Руси жить хорошо” Н.А.Некрасов утверждал мысль, что нравственное возрождение народа невозможно без:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Покаяния и духовного возрождения.<br/>",
+						choice_B: "B)  Бунта.<br/>",
+						choice_C: "C) Единения.<br/>",
+						choice_D: "D)  Жертв.<br/>",
+						choice_E: "E)  Свободы. <br/>",
+						number: 19,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "20) Ода Державина, принесшая ему литературную известность.<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) &quot;Бог&quot;.<br/>",
+						choice_B: "B)  &quot;Водопад&quot;.<br/>",
+						choice_C: "C) &quot;Памятник&quot;.<br/>",
+						choice_D: "D)  &quot;Вольность&quot;.<br/>",
+						choice_E: "E)  &quot;Фелица&quot;.<br/>",
+						number: 20,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "21)  Дуэль М.Ю.Лермонтова с Мартыновым состоялась:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) В Москве.<br/>",
+						choice_B: "B)  В Петербурге.<br/>",
+						choice_C: "C) В Молдавии.<br/>",
+						choice_D: "D)  На Кавказе.<br/>",
+						choice_E: "E)  В родных Тарханах. <br/>",
+						number: 21,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "22) Жанр произведения Асана Кайгы «Что в жизни считать несчастьем?»:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Жоктау.<br/>",
+						choice_B: "B)  Посвящение.<br/>",
+						choice_C: "C) Толгау.<br/>",
+						choice_D: "D)  Обращение.<br/>",
+						choice_E: "E)  Бата. <br/>",
+						number: 22,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "23)  Много сил воспитанию и обучению М. Ауэзова отдает:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Бабушка.<br/>",
+						choice_B: "B)  Учитель аула.<br/>",
+						choice_C: "C) Мать.<br/>",
+						choice_D: "D)  Дед.<br/>",
+						choice_E: "E)  Отец. <br/>",
+						number: 23,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "24) «Хроника великого джута» Валерия Михайлова – это:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) авантюрный рассказ.<br/>",
+						choice_B: "B)  документальное исследование.<br/>",
+						choice_C: "C) мемуарный роман.<br/>",
+						choice_D: "D)  исторический роман.<br/>",
+						choice_E: "E)  автобиографическая повесть. <br/>",
+						number: 24,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "25)  К юмористическим относится рассказ А.П.Чехова:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) «Крыжовник».<br/>",
+						choice_B: "B)  «Каштанка».<br/>",
+						choice_C: "C) «Ионыч».<br/>",
+						choice_D: "D)  «Толстый и тонкий».<br/>",
+						choice_E: "E)  «Степь». <br/>",
+						number: 25,
+						course_en: 'literature',
+						course_kz: 'Әдебиет',
+						course_ru: 'Литература',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "1)  Найдите  значение  выражения: (6(3) - 5,(2))*2 <br/>",
+						answer: "A<br/>",
+						choice_A: "А)  2,(2) <br/>",
+						choice_B: "B)   2,1 <br/>",
+						choice_C: "C)  2,(1) <br/>",
+						choice_D: "D)  2 <br/>",
+						choice_E: "E)  2,2 <br/>",
+						number: 1,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "2)  У   Майры   спросили:   «Сколько   отличников   в   вашем   классе?».   Она ответила: «Если   отнять   от  наибольшего   трехзначного   числа   наибольшее двухзначное  число  и  результат  разделить  на  наименьшее  трехзначное  число, то  полученный результат  и будет  количеством  отличников  в нашем  классе». Определите  колчество  отличников? <br/>",
+						answer: " E  <br/>",
+						choice_A: "А)1<br/>",
+						choice_B: "B)  3 <br/>",
+						choice_C: "C) 5<br/>",
+						choice_D: "D) 7 <br/>",
+						choice_E: "E) 9 <br/>",
+						number: 2,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "3) Найдите значение выражения: $\\cfrac{7}{9}\\left( \\log_5 125 + 64^{\\log_4 5} \\right)^{\\log_{128}^45}$<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) 45 <br/>",
+						choice_B: "B)  25 <br/>",
+						choice_C: "C) 32 <br/>",
+						choice_D: "D)  35 <br/>",
+						choice_E: "E)  64 <br/>",
+						number: 3,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "4)  Дана функция $y = x^2 - x - 6$. Найдите  значения х,  при котором  функция принимает  наименьшее  значение<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) $-6\\cfrac{1}{4}$<br/>",
+						choice_B: "B) 2<br/>",
+						choice_C: "C)-2<br/>",
+						choice_D: "D) $\\cfrac{1}{2}$<br/>",
+						choice_E: "E) $-\\cfrac{1}{2}$ <br/>",
+						number: 4,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "5)  Решите уравнение: $4^x - 10 \\cdot 2^{x-1} - 24 = 0$<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 3;8 <br/>",
+						choice_B: "B)  -3;8 <br/>",
+						choice_C: "C) 8 <br/>",
+						choice_D: "D)  -3;3 <br/>",
+						choice_E: "E)  3 <br/>",
+						number: 5,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "6)  Вычислить скалярное  произведение  вектор а=(1;2;-1) и вектор b=(2;5;3) <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) 12 <br/>",
+						choice_B: "B)  5 <br/>",
+						choice_C: "C) О <br/>",
+						choice_D: "D)  9 <br/>",
+						choice_E: "E)  -3 <br/>",
+						number: 6,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "7)  В  геометрической  прогрессии с  положительными  членами  S вторая = 3, S третья = 7Найдите S седьмую<br/>",
+						answer: " C  <br/>",
+						choice_A: "А)255 <br/>",
+						choice_B: "B) $255; \\cfrac{473}{135}$<br/>",
+						choice_C: "C) 127<br/>",
+						choice_D: "D)  383<br/>",
+						choice_E: "E) $\\cfrac{473}{135}$<br/>",
+						number: 7,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "8)  Косинус угла В  треугольника ABC  равен $(-\\cfrac{8}{17})$. Найдите  площадь треугольника,  если  сторона ВА = 14 см и ВС = 17 см<br/>",
+						answer: " E  <br/>",
+						choice_A: "А)  102 см в квадрате <br/>",
+						choice_B: "B)   56  см в квадрате<br/>",
+						choice_C: "C)  78  см в квадрате<br/>",
+						choice_D: "D)   105 см в квадрате<br/>",
+						choice_E: "E)   96  см в квадрате<br/>",
+						number: 8,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "9)  Между  числами 2  и  17  вставьте  четыре  числа, которые  вместе  с данными числами  составляют  арифметическую  прогрессию. Определите  а в третьей последовательности.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) 10<br/>",
+						choice_B: "B)  6<br/>",
+						choice_C: "C) 5<br/>",
+						choice_D: "D)  8<br/>",
+						choice_E: "E)  11<br/>",
+						number: 9,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "10)  Решите  неравенство: $tg \\left( 3x - \\cfrac{\\pi}{4} \\right) < \\cfrac{1}{\\sqrt{3}}$<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) $\\left( -\\cfrac{5\\pi}{6} + \\cfrac{\\pi n}{3}; \\cfrac{\\pi}{12} + \\cfrac{\\pi n}{3} \\right), \\quad n \\in \\mathbf{Z}$<br/>",
+						choice_B: "B) $\\left( -\\cfrac{5\\pi}{36} + \\pi n; \\cfrac{\\pi}{12} + \\pi n \\right), \\quad n \\in \\mathbf{Z}$ <br/>",
+						choice_C: "C) $\\left( -\\cfrac{\\pi}{12} + \\cfrac{\\pi n}{3}; \\cfrac{5\\pi}{36} + \\cfrac{\\pi n}{3} \\right), \\quad n \\in \\mathbf{Z}$<br/>",
+						choice_D: "D) $\\left( -\\cfrac{\\pi}{12} + \\cfrac{2 \\pi n}{3}; \\cfrac{5\\pi}{36} + \\cfrac{2 \\pi n}{3} \\right), \\quad n \\in \\mathbf{Z}$ <br/>",
+						choice_E: "E) $\\left( -\\cfrac{5\\pi}{36} + \\cfrac{\\pi n}{3}; \\cfrac{\\pi}{12} + \\cfrac{\\pi n}{4} \\right), \\quad n \\in \\mathbf{Z}$ <br/>",
+						number: 10,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "11) Найдите  наибольшее  и наименьшее  значения функции $y=\\cfrac{x^4}{4}-8x^2$ на отрезке [-1; 2].<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) $0; -7\\cfrac{3}{4}$<br/>",
+						choice_B: "B)  0; -32. <br/>",
+						choice_C: "C) 0; -28. <br/>",
+						choice_D: "D) $32; 7\\cfrac{3}{4}$ <br/>",
+						choice_E: "E) $7\\cfrac{3}{4}; 0$ <br/>",
+						number: 11,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "12)  При  каких значениях  k уравнение $kx^2-8x+k=0$ имеет один  корень? <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) ±1 <br/>",
+						choice_B: "B)  ±2 <br/>",
+						choice_C: "C) +1;0 <br/>",
+						choice_D: "D)  ±2;0 <br/>",
+						choice_E: "E)  ±4;0 <br/>",
+						number: 12,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "13) Найдите  наибольшее  и наименьшее  значения функции $y=\\cfrac{x^4}{4}-8x^2$ на отрезке [-1; 2].<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) $0; -7\\cfrac{3}{4}$<br/>",
+						choice_B: "B)  0; -32. <br/>",
+						choice_C: "C) 0; -28. <br/>",
+						choice_D: "D) $32; 7\\cfrac{3}{4}$ <br/>",
+						choice_E: "E) $7\\cfrac{3}{4}; 0$ <br/>",
+						number: 13,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "14)  Если 0 < a < 1, то какое из пяти перечисленных чисел самое маленькое?<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) а+b <br/>",
+						choice_B: "B)  а:b<br/>",
+						choice_C: "C) а <br/>",
+						choice_D: "D)  b<br/>",
+						choice_E: "E)  а*b<br/>",
+						number: 14,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "15)  Решите уравнение: $4^x - 10 \\cdot 2^{x-1} - 24 = 0$<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 3;8 <br/>",
+						choice_B: "B)  -3;8 <br/>",
+						choice_C: "C) 8 <br/>",
+						choice_D: "D)  -3;3 <br/>",
+						choice_E: "E)  3 <br/>",
+						number: 15,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "16)  Значение  выражения  541 • 1 + 459:1  равно <br/>",
+						answer: " B  <br/>",
+						choice_A: "А)  542<br/>",
+						choice_B: "B)   1000<br/>",
+						choice_C: "C)  459<br/>",
+						choice_D: "D)   990<br/>",
+						choice_E: "E)   460<br/>",
+						number: 16,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "17) Из точки  вне плоскости  проведены две  наклонные,  одна из  которых равна 20  см  и наклонена  под углом 30°  к плоскости. Определите  длину <br/>",
+						answer: "A<br/>",
+						choice_A: "А) 26  см <br/>",
+						choice_B: "B)  22  см <br/>",
+						choice_C: "C) 30  см <br/>",
+						choice_D: "D)  24  см <br/>",
+						choice_E: "E)  28  см <br/>",
+						number: 17,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "18)  Вычислите  площадь фигуры, ограниченной линиями $y=-x^3, \\quad y=x^2, \\quad x=1$<br/>",
+						answer: "A<br/>",
+						choice_A: "А) $\\cfrac{7}{12}$<br/>",
+						choice_B: "B)  2<br/>",
+						choice_C: "C)$\\cfrac{4}{5}$ <br/>",
+						choice_D: "D) $1\\cfrac{1}{3}$ <br/>",
+						choice_E: "E)  1<br/>",
+						number: 18,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "19)  Первообразные  функции  f(x) = 5sinx  равны: <br/>",
+						answer: " E  <br/>",
+						choice_A: "А)  sinx + С <br/>",
+						choice_B: "B)   cosx + С <br/>",
+						choice_C: "C)  -cosx + С <br/>",
+						choice_D: "D)   5cosx + С <br/>",
+						choice_E: "E)   -5cosx + С <br/>",
+						number: 19,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "20)  Упростите  выражение: $\\sqrt{7 - \\sqrt{48}}{3} \\cdot \\sqrt{7 + \\sqrt{48}}{3}$<br/>",
+						answer: "A<br/>",
+						choice_A: "А)1 <br/>",
+						choice_B: "B)  -39 <br/>",
+						choice_C: "C) $\\sqrt{48}$<br/>",
+						choice_D: "D) $4\\sqrt{3}$<br/>",
+						choice_E: "E) $\\sqrt{14}{3}$<br/>",
+						number: 20,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "21)  Решите уравнение: $4^x - 10\\cdot 2^{x-1} -24=0$<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 3;8 <br/>",
+						choice_B: "B)  -3;8 <br/>",
+						choice_C: "C) 8 <br/>",
+						choice_D: "D)  -3;3 <br/>",
+						choice_E: "E)  3 <br/>",
+						number: 21,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "22)  Найдите $y&quot;(\\cfrac{\\pi}{3})$, если $y(x)=\\sin 3x \\cos 5x - \\cos 3x \\sin 5x$<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) -l <br/>",
+						choice_B: "B)   1 <br/>",
+						choice_C: "C) $\\cfrac{\\sqrt{3}}{2}$<br/>",
+						choice_D: "D) $-\\cfrac{\\sqrt{3}}{2}$ <br/>",
+						choice_E: "E) $-\\cfrac{\\sqrt{2}}{2}$ <br/>",
+						number: 22,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "23)  Решить  неравенство: $5 \\cdot 25^{\\cfrac{1}{x}} + 3\\cdot10^{\\cfrac{1}{x}} \\ge 2\\cdot 4^{\\cfrac{1}{x}}$<br/>",
+						answer: "A<br/>",
+						choice_A: "А) $(-\\infty,1]\\cup(0;+\\infty)$<br/>",
+						choice_B: "B) $(0; +\\infty)$ <br/>",
+						choice_C: "C) $]-1; +\\infty) $<br/>",
+						choice_D: "D)  (-1;0] <br/>",
+						choice_E: "E)  [-1;0)<br/>",
+						number: 23,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "24)  Найдите  значение  выражения: $\\cfrac{a^2-b^2}{2a^2+5ab+3b^2}$, если $\\cfrac{a+b}{a-2b}=\\cfrac{2}{3}$<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) 8<br/>",
+						choice_B: "B) $(2,5; +\\infty)$<br/>",
+						choice_C: "C) $\\cfrac{8}{11}$<br/>",
+						choice_D: "D) 1<br/>",
+						choice_E: "E)  2 <br/>",
+						number: 24,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "25) В  треугольниках АВД и АДС имеем: АВ=АС, ВД=ДС, угол BAC=60° Вычислить угол  ДАС<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) 40°<br/>",
+						choice_B: "B)  25°<br/>",
+						choice_C: "C) 30°<br/>",
+						choice_D: "D)  35°<br/>",
+						choice_E: "E)  45°<br/>",
+						number: 25,
+						course_en: 'math',
+						course_kz: 'Математика',
+						course_ru: 'Математика',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "1)  Высокоомный провод однородного сечения длиной 20м замыкает цепь 30-ти вольтовой батареи. Какова разность потенциалов между точками, отстоящими на 3 и 15м от одного из концов провода:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) 22,5В<br/>",
+						choice_B: "B)  18В<br/>",
+						choice_C: "C) 20В<br/>",
+						choice_D: "D)  15В<br/>",
+						choice_E: "E)  8В<br/>",
+						number: 1,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "2)  Полная энергия тела возросла на 1Дж. На сколько при этом изменится масса тела?<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) 35,5 фг<br/>",
+						choice_B: "B)  41,1 фг<br/>",
+						choice_C: "C) 11,1 фг<br/>",
+						choice_D: "D)  5 фг<br/>",
+						choice_E: "E)  12,3 фг<br/>",
+						number: 2,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "3)  Как изменится напряженность электростатического поля точечного заряда при уменьшении расстояния до точки, к которой она определяется, в 2 раза?<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Увеличится в 2 раза<br/>",
+						choice_B: "B)  Увеличится в 4 раза<br/>",
+						choice_C: "C) Уменьшится  в 2 раза<br/>",
+						choice_D: "D)  Уменьшится  в 4 раза<br/>",
+						choice_E: "E)  Не изменится<br/>",
+						number: 3,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "4)  Незаряженная изолированная от других тел металлическая пластина освещается ультрафиолетовым светом. Заряд какого знака будет иметь эта пластинка в результате фотоэффекта?<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Пластина не заряжается<br/>",
+						choice_B: "B)  Положительный<br/>",
+						choice_C: "C) Отрицательный<br/>",
+						choice_D: "D)  Знак заряда может быть различным<br/>",
+						choice_E: "E)  Зависит от условий проведения эксперимента<br/>",
+						number: 4,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "5)  Колебательный контур содержит конденсатор электроемкостью 50нФ и катушку индуктивностью $\\cfrac{5}{4\\pi^2}$мкГн. Определите длину волны излучения.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) 150м<br/>",
+						choice_B: "B)  300м<br/>",
+						choice_C: "C) 1,5м<br/>",
+						choice_D: "D)  843м<br/>",
+						choice_E: "E)  30м<br/>",
+						number: 5,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "6)  Жидкость течет по трубе с переменным сечением без трения. В каком сечении трубы давление в жидкости максимально? Радиус труб $r_1 > r_2 > r_3 > r_4$ <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) 4<br/>",
+						choice_B: "B)  2<br/>",
+						choice_C: "C) 3<br/>",
+						choice_D: "D)  1<br/>",
+						choice_E: "E)  Во всех сечениях одинаково<br/>",
+						number: 6,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "7)  Три конденсатора одинаковой емкости соединены последовательно. Как изменится емкость батареи при параллельном соединении этих конденсаторов?<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Увеличится в 9 раз<br/>",
+						choice_B: "B)  Увеличится в 3 раз<br/>",
+						choice_C: "C) Уменьшится в 9 раз<br/>",
+						choice_D: "D)  Уменьшится в 3 раз<br/>",
+						choice_E: "E)  Не изменится<br/>",
+						number: 7,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "8)  Как изменится энергия магнитного поля контура при увеличении силы тока в 4 раз?<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Уменьшается в 2 раза<br/>",
+						choice_B: "B)  Увеличивается в 4 раза<br/>",
+						choice_C: "C) Увеличивается в 16 раз<br/>",
+						choice_D: "D)  Уменьшается в 4 раза<br/>",
+						choice_E: "E) Нет правильного ответа.<br/>",
+						number: 8,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "9)  Тело массой 0,8 кг бросили вертикально вверх. Кинетическая энергия тела в момент бросания равна 200Дж. Тело может подняться на высоту. g=100м/c²<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) 10м<br/>",
+						choice_B: "B)  12,5м<br/>",
+						choice_C: "C) 50м<br/>",
+						choice_D: "D)  25м<br/>",
+						choice_E: "E) Нет правильного ответа.<br/>",
+						number: 9,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "10)  Незаряженная изолированная от других тел металлическая пластина освещается ультрафиолетовым светом. Заряд какого знака будет иметь эта пластинка в результате фотоэффекта?<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Пластина не заряжается<br/>",
+						choice_B: "B)  Положительный<br/>",
+						choice_C: "C) Отрицательный<br/>",
+						choice_D: "D)  Знак заряда может быть различным<br/>",
+						choice_E: "E)  Зависит от условий проведения эксперимента<br/>",
+						number: 10,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "11)  Найдите массу воды, поднявшейся по капиллярной трубке диаметром 0,5 мм. Поверхностное натяжение воды 73мН/м.<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) 3 мг<br/>",
+						choice_B: "B)  21,5 мг<br/>",
+						choice_C: "C) 5,56 мг<br/>",
+						choice_D: "D)  11,7 мг<br/>",
+						choice_E: "E)  15 мг<br/>",
+						number: 11,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "12)  Укажите единицу измерения энергии:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Дж<br/>",
+						choice_B: "B)  Вт<br/>",
+						choice_C: "C) Гн<br/>",
+						choice_D: "D)  А<br/>",
+						choice_E: "E)  В<br/>",
+						number: 12,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "13)  В катушке индуктивностью 0,7 Гн сила тока равна 100А. Энергия магнитного поля катушки равна:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) 35 Дж<br/>",
+						choice_B: "B)  4,9 Дж<br/>",
+						choice_C: "C) 70 Дж<br/>",
+						choice_D: "D)  3,5 кДж<br/>",
+						choice_E: "E)  7 Дж<br/>",
+						number: 13,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "14)  Каким должен быть угол падения светового луча, чтобы отраженный луч составлял 50 градусов с падающим лучом?<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) 35 градусов<br/>",
+						choice_B: "B)  40 градусов<br/>",
+						choice_C: "C) 25 градусов<br/>",
+						choice_D: "D)  50 градусов<br/>",
+						choice_E: "E)  100 градусов<br/>",
+						number: 14,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "15)  На каком расстоянии от линзы находиться изображение, если расстояние от предмета до собирающей линзы равна a=2?<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) f/3<br/>",
+						choice_B: "B)  2f<br/>",
+						choice_C: "C) f/2<br/>",
+						choice_D: "D)  3f<br/>",
+						choice_E: "E) Нет правильного ответа.<br/>",
+						number: 15,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "16)  Две силы, приложенные к одной точке тела, равны $F_1=5H$ и $F_2=12H$. Угол между векторами $F_1$ и $F_2$ составляет $90^o$. Модуль равнодействующей этих сил равна ... <br/>",
+						answer: " B  <br/>",
+						choice_A: "А) 7Н<br/>",
+						choice_B: "B)  13Н<br/>",
+						choice_C: "C) 17Н<br/>",
+						choice_D: "D)  11Н<br/>",
+						choice_E: "E)  20Н<br/>",
+						number: 16,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "17)  Кинетическая энергия тела массой 2 кг, движущегося со скоростью 4м/с равна: <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 32 Дж<br/>",
+						choice_B: "B)  6,4 Дж<br/>",
+						choice_C: "C) 4 Дж<br/>",
+						choice_D: "D)  8 Дж<br/>",
+						choice_E: "E) Нет правильного ответа.<br/>",
+						number: 17,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "18)  С помощью собирающей линзы получили изображение светящей точки. Чему равно фокусное расстояние линзы, если d=0,5м, f=1м.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) 1,5м<br/>",
+						choice_B: "B)  0,33м<br/>",
+						choice_C: "C) 0,5м<br/>",
+						choice_D: "D)  3м<br/>",
+						choice_E: "E)  2м<br/>",
+						number: 18,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "19)  Конденсатор емкостью 0,02мкФ соединили с иситочником тока, в результате чего он приобрел заряд $3\\cdot 10^{-8}$Кл. Определить значение напряженности поля между пластинами конденсатора, если расстояние между ними 5м.<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) 100В/м<br/>",
+						choice_B: "B)  300В/м<br/>",
+						choice_C: "C) 400В/м<br/>",
+						choice_D: "D)  50В/м<br/>",
+						choice_E: "E)  0,3 В/м<br/>",
+						number: 19,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "20)  Волны называются когерентными, если ...<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) они имеют одинаковую частоту и одинаковую фазу<br/>",
+						choice_B: "B)  они имеют одинаковую частоту и постоянную разность фаз<br/>",
+						choice_C: "C) они имеют одинаковую скорость и частоту <br/>",
+						choice_D: "D)  они монохроматические<br/>",
+						choice_E: "E)  они продольные<br/>",
+						number: 20,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "21)  Формула емкости полного конденсатора имеет вид:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) $C=\\cfrac{\\epsilon_0\\epsilon S}{d}$<br/>",
+						choice_B: "B) $C=\\cfrac{\\epsilon S}{d}$ <br/>",
+						choice_C: "C) $C=\\cfrac{S}{\\epsilon_0\\epsilon d}$<br/>",
+						choice_D: "D) $C=\\cfrac{\\epsilon_0 S}{\\epsilon d}$ <br/>",
+						choice_E: "E) $C=\\cfrac{\\epsilon_0\\epsilon d}{S}$ <br/>",
+						number: 21,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "22)  Волны, длина которых равна 10см, отражаясь от преграды, образуют стоячую волну. чему равно расстояние между соседними пучностями? <br/>",
+						answer: "A<br/>",
+						choice_A: "А) 5см<br/>",
+						choice_B: "B)  20см<br/>",
+						choice_C: "C) 2,5см<br/>",
+						choice_D: "D)  10см<br/>",
+						choice_E: "E)  25см<br/>",
+						number: 22,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "23)  Тело движется под углом к горизонту. Какя из величин сохраняется при движении тела? Сопротивлением воздуха пренебречь.<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Импульс тела<br/>",
+						choice_B: "B)  Проекция импульса на вертикальное направление<br/>",
+						choice_C: "C) Проекция импульса на горизонтальное направление<br/>",
+						choice_D: "D)  Потенциальная энергия тела<br/>",
+						choice_E: "E)  Кинетическая энергия тел<br/>",
+						number: 23,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "24)  Как изменится емкость плоского конденсатора, если расстояние между пластинами увеличить в 2 раза? <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Увеличится  в 4 раза<br/>",
+						choice_B: "B)  Уменьшится в 4 раза<br/>",
+						choice_C: "C) Уменьшится в 2 раза<br/>",
+						choice_D: "D)  Увеличится  в 2 раза<br/>",
+						choice_E: "E)  Не изменится<br/>",
+						number: 24,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "25)  Провод сопротивлением 2 Ом сложили вдвое и включили в ту же цепь. Чему равно сопротивление этого участка?<br/>",
+						answer: "A<br/>",
+						choice_A: "А) 0,5 Ом<br/>",
+						choice_B: "B)  1 Ом<br/>",
+						choice_C: "C) 2 Ом<br/>",
+						choice_D: "D)  4 Ом<br/>",
+						choice_E: "E)  0,25 Ом<br/>",
+						number: 25,
+						course_en: 'physics',
+						course_kz: 'Физика',
+						course_ru: 'Физика',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "1) Укажите предложение с деепричастным оборотом. Знаки не расставлены: <br/>",
+						answer: "A<br/>",
+						choice_A: "А) Я забыл ружье залюбовавшись  необыкновенным  зрелищем. <br/>",
+						choice_B: "B)  Они не замечали меня плавали  переговариваясь. <br/>",
+						choice_C: "C) Когда начал дуть сильный ветер пуща вновь ожила. <br/>",
+						choice_D: "D)  Вдруг птицы захлопали крыльями поднялись вверх и стали кружить. <br/>",
+						choice_E: "E)  Лебеди изогнувшие шеи были величественны. <br/>",
+						number: 1,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "2)  Форма слова  сохранять <br/>",
+						answer: " B  <br/>",
+						choice_A: "А) хранение <br/>",
+						choice_B: "B)  сохраняешь <br/>",
+						choice_C: "C) охранять <br/>",
+						choice_D: "D)  хранитель <br/>",
+						choice_E: "E)  сохранность <br/>",
+						number: 2,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "3) Местоимение с пропущенной гласной  е <br/>",
+						answer: "A<br/>",
+						choice_A: "А) н...чего стеречь <br/>",
+						choice_B: "B)  н...кто  не предупреждал <br/>",
+						choice_C: "C) н...чем  не интересуется <br/>",
+						choice_D: "D)  н...  к кому не  прислушивается <br/>",
+						choice_E: "E)  н... кого не замечать <br/>",
+						number: 3,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "4) Укажите предложение, в котором определение выражено  причастием<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Его не волновало ни настоящее, ни будущее. <br/>",
+						choice_B: "B)  Нисходит сонное молчание на табор кочевой. <br/>",
+						choice_C: "C) У него были лисьи повадки. <br/>",
+						choice_D: "D)  Дорога была почти неприметна на снежной равнине. <br/>",
+						choice_E: "E)  Есть освежающая прелесть в однообразии зимы. <br/>",
+						number: 4,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "5) Укажите наречие со значением  причины <br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Кое-как. <br/>",
+						choice_B: "B)  Поневоле. <br/>",
+						choice_C: "C) Когда-то. <br/>",
+						choice_D: "D)  Очень. <br/>",
+						choice_E: "E)  Крайне. <br/>",
+						number: 5,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "6) Укажите словосочетание, в котором есть частица не: <br/>",
+						answer: " E  <br/>",
+						choice_A: "А)  Небольшая, а ценная посылка. <br/>",
+						choice_B: "B)  Не?красивое, но чем-то привлекательное лицо. <br/>",
+						choice_C: "C) Не?болыпой, но очень опрятный городок. <br/>",
+						choice_D: "D)  Не?глубокая, но рыбная речушка. <br/>",
+						choice_E: "E)  Не?далекое, а близкое село. <br/>",
+						number: 6,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "7)  Фразеологизм, имеющий значение сохраняющий  самообладание: <br/>",
+						answer: " B  <br/>",
+						choice_A: "А) на вес золота <br/>",
+						choice_B: "B)  держать себя в руках <br/>",
+						choice_C: "C) рукой не достанешь <br/>",
+						choice_D: "D)  ломать себе руки <br/>",
+						choice_E: "E)  лавры спать не дают <br/>",
+						number: 7,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "8)  Возвратное деепричастие <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) углублялся <br/>",
+						choice_B: "B)  углубляющийся <br/>",
+						choice_C: "C) углубляясь <br/>",
+						choice_D: "D)  углубляемый <br/>",
+						choice_E: "E)  углублявший <br/>",
+						number: 8,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "9)  Укажите слово с пропущенной буквой  О<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Красный  ш...лк. <br/>",
+						choice_B: "B)  Ч...рный бархат. <br/>",
+						choice_C: "C) Знаменитый дириж...р. <br/>",
+						choice_D: "D)  Горяч... спорить. <br/>",
+						choice_E: "E)  Ж...лтый шар. <br/>",
+						number: 9,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "10)   Собирательное числительное в творительном  падеже <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) К двоим  мальчикам. <br/>",
+						choice_B: "B)  От трёх лисят. <br/>",
+						choice_C: "C) Шестеро очков. <br/>",
+						choice_D: "D)  Трое сирот. <br/>",
+						choice_E: "E)  С пятерыми ягнятами. <br/>",
+						number: 10,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "11) К синонимам фразеологизма задать  перцу нельзя отнести <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) дать нагоняй <br/>",
+						choice_B: "B)  намылить шею <br/>",
+						choice_C: "C) дать  прикурить <br/>",
+						choice_D: "D)  разделывать под орех <br/>",
+						choice_E: "E)  как пить дать <br/>",
+						number: 11,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "12) По способу согласования слова связаны в словосочетании <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) возвратиться из похода. <br/>",
+						choice_B: "B)  возвращение из похода. <br/>",
+						choice_C: "C) снарядиться  по-походному. <br/>",
+						choice_D: "D)  снаряжение для  похода. <br/>",
+						choice_E: "E)  с походным  снаряжением. <br/>",
+						number: 12,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "13)  Слова с ь на конце <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) щелоч..., фалын..., фарш... <br/>",
+						choice_B: "B)  замуж..., камыш..., меч... <br/>",
+						choice_C: "C) тиш..., приготов..., сплош... <br/>",
+						choice_D: "D)  вскач..., кумач..., блиндаж... <br/>",
+						choice_E: "E)  чертеж..., трубач..., увлеч... <br/>",
+						number: 13,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "14) Ему дали место  он сел вздохнул облегчённо  и положив руки  на  острые колени добродушно улыбнулся  беззубым ртом. Пропущено  запятых <br/>",
+						answer: " B  <br/>",
+						choice_A: "А) 3 <br/>",
+						choice_B: "B)  4 <br/>",
+						choice_C: "C) 5 <br/>",
+						choice_D: "D)  6 <br/>",
+						choice_E: "E)  7 <br/>",
+						number: 14,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "15) Ряд с подчинительными  союзами <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) тоже, также, или...или, как...так и, лишь <br/>",
+						choice_B: "B)  не только... но и, да, так что, как, словно <br/>",
+						choice_C: "C) когда, чтобы, если, пока, будто <br/>",
+						choice_D: "D)  как будто, потому что, оттого что, либо, точно <br/>",
+						choice_E: "E)  так как, едва, также, потому что, что <br/>",
+						number: 15,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "16) Не пишется  слитно <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) не?обращая,  не?подумав <br/>",
+						choice_B: "B)  не?оглянувшись, не?требуя <br/>",
+						choice_C: "C) не?дыша,  не?спеша <br/>",
+						choice_D: "D)  не?трудиться, не?дыша <br/>",
+						choice_E: "E)  не?доумевая, не?годуя <br/>",
+						number: 16,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "17)  Суффиксом  называется <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) часть слова без окончания. <br/>",
+						choice_B: "B)  значимая часть слова, стоящая перед корнем и образующая новые слова. <br/>",
+						choice_C: "C) главная значимая часть слова, в которой заключено лексическое значение всех однокоренных слов. <br/>",
+						choice_D: "D)  значимая часть слова, стоящая после корня и образующая новые слова. <br/>",
+						choice_E: "E)  значимая изменяемая часть слова, служащая для связи слов. <br/>",
+						number: 17,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "18)  В суффиксах существительных  сыноч...к,  подароч...к,  василеч...к, карандаш...к,  кирпич...к,  дружоч...к, ларч...к  пишется <br/>",
+						answer: " B  <br/>",
+						choice_A: "А) е, е, и, и, и, е, и. <br/>",
+						choice_B: "B)  е, е, е, и, и, е, и. <br/>",
+						choice_C: "C) и, е, и, и, и, е, и. <br/>",
+						choice_D: "D)  и, е, е, и, и, е, и. <br/>",
+						choice_E: "E)  и, е, и, е, и, е, и. <br/>",
+						number: 18,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "19)   Многозначное  слово <br/>",
+						answer: " C  <br/>",
+						choice_A: "А)гонорар <br/>",
+						choice_B: "B)  музей <br/>",
+						choice_C: "C)ядро <br/>",
+						choice_D: "D)  крыжовник <br/>",
+						choice_E: "E)  ковёр <br/>",
+						number: 19,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "20) Укажите ряд глаголов с мягким знаком перед суффиксом -ся<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Полаком...ся, не следует упрямит...ся,  прикоснеш...ся. <br/>",
+						choice_B: "B)  Приготов...тесь к старту, слышит...ся, притворит...ся  нарочно. <br/>",
+						choice_C: "C) Скоро закончит...ся, трудно проснут...ся, весело поет...ся. <br/>",
+						choice_D: "D)  Познаком...ся, надорвет...ся, (они)  проснут...ся. <br/>",
+						choice_E: "E)  Прятат...ся, притворяют...ся,  упрямят...ся. <br/>",
+						number: 20,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "21)  Слово, которое состоит из корня и суффикса<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Прямо. <br/>",
+						choice_B: "B)  Сидеть. <br/>",
+						choice_C: "C) Облако. <br/>",
+						choice_D: "D)  Досуг. <br/>",
+						choice_E: "E)  Наушник. <br/>",
+						number: 21,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "22)  Прилагательные с суффиксом -ск-: <br/>",
+						answer: " C  <br/>",
+						choice_A: "А) немец.. ,ий, молодец.. .ий, горняц...ий. <br/>",
+						choice_B: "B)  рыбац.. .ий, бедняц.. .ий, плотниц.. .ий. <br/>",
+						choice_C: "C) киргиз...ий, кавказ...ий,  француз...ий. <br/>",
+						choice_D: "D)  ткац...ий, турец...ий, рез...ий. <br/>",
+						choice_E: "E)  дерз... ий, низ... ий, скольз... ий. <br/>",
+						number: 22,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "23) Обращаться  с языком  кое-как значит  и мыслить  кое-как  неточно приблизительно  неверно. В предложении пропущены знаки препинания: <br/>",
+						answer: " E  <br/>",
+						choice_A: "А) четыре запятые <br/>",
+						choice_B: "B)  запятая, тире, одна запятая <br/>",
+						choice_C: "C) тире, три запятые <br/>",
+						choice_D: "D)  двоеточие, тире, одна запятая <br/>",
+						choice_E: "E)  тире, двоеточие, две запятые  <br/>",
+						number: 23,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "24) Не с наречием  пишется слитно <br/>",
+						answer: " D  <br/>",
+						choice_A: "А) говорил не?зря <br/>",
+						choice_B: "B)  ничуть не?трудно <br/>",
+						choice_C: "C) не?с?кем посоветоваться <br/>",
+						choice_D: "D)  увидел  не?подалеку <br/>",
+						choice_E: "E)  это мне не?под силу<br/>",
+						number: 24,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "25)  Укажите значение приставки ПРИ-  в слове  пришить<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Прибавления, приближения,  присоединения. <br/>",
+						choice_B: "B)  Совершение действия в чьих-либо  интересах. <br/>",
+						choice_C: "C) Совершение действия не в полном объеме или на ограниченный срок. <br/>",
+						choice_D: "D)  Доведение действия до конца. <br/>",
+						choice_E: "E)  Пространственной  близости, смежности. <br/>",
+						number: 25,
+						course_en: 'russian',
+						course_kz: 'Русский язык',
+						course_ru: 'Русский язык',
+						is_fifth: false,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "1)  В начале 20 века Россия вступила в:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Антанту.<br/>",
+						choice_B: "B)  НАТО.<br/>",
+						choice_C: "C) Союз с Японией.<br/>",
+						choice_D: "D)  Лигу наций.<br/>",
+						choice_E: "E)  Тройственный союз.<br/>",
+						number: 1,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "2) Нидерландская буржуазная революция началась в:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) 1566г<br/>",
+						choice_B: "B)  1609г<br/>",
+						choice_C: "C) 1507г<br/>",
+						choice_D: "D)  1642г<br/>",
+						choice_E: "E)  1492г<br/>",
+						number: 2,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "3) В качестве революционного правительства Франции в марте – мае 1871 года выступал:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Совет Парижской коммуны<br/>",
+						choice_B: "B)  Всеобщая конфедерация труда<br/>",
+						choice_C: "C) Комитет общественного спасения<br/>",
+						choice_D: "D)  Международное товарищество рабочих<br/>",
+						choice_E: "E)  ЦК национальной гвардии<br/>",
+						number: 3,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "4) Одна из самых крупных культур эпохи бронзы в Европе и Азии:<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Шумерская.<br/>",
+						choice_B: "B)  Ассирийская.<br/>",
+						choice_C: "C) Кельтеминарская.<br/>",
+						choice_D: "D)  Согдийская.<br/>",
+						choice_E: "E)  Андроновская.<br/>",
+						number: 4,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "5) В конце XIX века возросла неравномерность экономического развития, особенно обострились противоречия между<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Англией и Германией<br/>",
+						choice_B: "B)  Румынией и Болгарией<br/>",
+						choice_C: "C) Италией и Испанией<br/>",
+						choice_D: "D)  Россией и Финляндией<br/>",
+						choice_E: "E)  Францией и Бельгией<br/>",
+						number: 5,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "6) Начало нашей эры отделено от основания Рима<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) 880 г.<br/>",
+						choice_B: "B)  753 г.<br/>",
+						choice_C: "C) 201 г.<br/>",
+						choice_D: "D)  509 г.<br/>",
+						choice_E: "E)  1140 г.<br/>",
+						number: 6,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "7) Дурная слава о древних финикийцах связана с их занятием:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Наукой.<br/>",
+						choice_B: "B)  Пиратством.<br/>",
+						choice_C: "C) Работорговлей.<br/>",
+						choice_D: "D)  Торговлей.<br/>",
+						choice_E: "E)  Войнами.<br/>",
+						number: 7,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "8) Григорианский календарь был введен в<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) 1354г.<br/>",
+						choice_B: "B)  1480 г.<br/>",
+						choice_C: "C) 1570г.<br/>",
+						choice_D: "D)  1520 г.<br/>",
+						choice_E: "E)  1582 г.<br/>",
+						number: 8,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "9) Картина Леонардо да Винчи:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Сикстинская мадонна.<br/>",
+						choice_B: "B)  Джоконда (Мона ЛизA).<br/>",
+						choice_C: "C) Продавец воды в Севилье.<br/>",
+						choice_D: "D)  Пряхи.<br/>",
+						choice_E: "E)  Возвращение блудного сына.<br/>",
+						number: 9,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "10) Изменения в культурной сфере в период перестройки в СССР:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Запрет на творчество многих писателей.<br/>",
+						choice_B: "B)  Запрет на показ ряда фильмов. <br/>",
+						choice_C: "C) Гонения на религиозные секты.<br/>",
+						choice_D: "D)  Появление альтернативного образования.<br/>",
+						choice_E: "E)  Приток специалистов в научные институты.<br/>",
+						number: 10,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "11)  Америка была открыта:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) В 19 веке.<br/>",
+						choice_B: "B)  В 12 веке.<br/>",
+						choice_C: "C) В 10 веке.<br/>",
+						choice_D: "D)  В 15 веке.<br/>",
+						choice_E: "E)  В 17 веке.<br/>",
+						number: 11,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "12) Андре Жид и Франсуа Мориак:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Писатели, лауреаты Нобелевской премии.<br/>",
+						choice_B: "B)  Знаменитые художники.<br/>",
+						choice_C: "C) Звезды французского кино.<br/>",
+						choice_D: "D)  Известные ученые - физики.<br/>",
+						choice_E: "E)  Политические деятели.<br/>",
+						number: 12,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "13)  Его называли &quot;суданским Бонапартом&quot;:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Самори Туре.<br/>",
+						choice_B: "B)  Махди.<br/>",
+						choice_C: "C) АхмедАраби.<br/>",
+						choice_D: "D)  Менелик II.<br/>",
+						choice_E: "E)  Хендрик Витбой.<br/>",
+						number: 13,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "14)  Главный экономический партнер Японии после второй мировой войны<br/>",
+						answer: " E  <br/>",
+						choice_A: "А) Латинская Америка<br/>",
+						choice_B: "B)  Страны Африки<br/>",
+						choice_C: "C) Китай<br/>",
+						choice_D: "D)  СССР<br/>",
+						choice_E: "E)  США<br/>",
+						number: 14,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "15) Назовите политику обогащения государства и притока капиталов в казну, проводимую под руководством Петра I.<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Меркантилизм, проявляющийся в повышении пошлин на заграничные товары.<br/>",
+						choice_B: "B)  Притеснение и ограбление работников мануфактур.<br/>",
+						choice_C: "C) Введение механизмов в производство.<br/>",
+						choice_D: "D)  Привлечение иностранного капитала.<br/>",
+						choice_E: "E)  Преимущественное развитие мелких предприятий.<br/>",
+						number: 15,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "16) К первому сословию во Франции XVIII века относится:<br/>",
+						answer: " D  <br/>",
+						choice_A: "А) Банкиры.<br/>",
+						choice_B: "B)  Крупная буржуазия.<br/>",
+						choice_C: "C) Мелкая буржуазия.<br/>",
+						choice_D: "D)  Духовенство.<br/>",
+						choice_E: "E)  Аристократы.<br/>",
+						number: 16,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "17)  В XVI-XVII века распространился новый инструмент - клавесин, предшественник:<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Баяна.<br/>",
+						choice_B: "B)  Аккордеона.<br/>",
+						choice_C: "C) Рояля.<br/>",
+						choice_D: "D)  Органа.<br/>",
+						choice_E: "E)  Кларнета.<br/>",
+						number: 17,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "18)  Личная стража Октавиана Августа состояла из девяти отрядов<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Преторианцев.<br/>",
+						choice_B: "B)  Ликторов.<br/>",
+						choice_C: "C) Легионеров.<br/>",
+						choice_D: "D)  Сатрапов.<br/>",
+						choice_E: "E)  Бессмертных.<br/>",
+						number: 18,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "19) Закон о гомстедах был утвержден в США в:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) 1862 г.<br/>",
+						choice_B: "B)  1787 г.<br/>",
+						choice_C: "C) 1790 г.<br/>",
+						choice_D: "D)  1701 г.<br/>",
+						choice_E: "E)  1850 г.<br/>",
+						number: 19,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "20)  Мыс Доброй Надежды на юге Африки открыла экспедиция:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) Бартоломеу Диаша.<br/>",
+						choice_B: "B)  Франсиско Писарро.<br/>",
+						choice_C: "C) Христофора Колумба.<br/>",
+						choice_D: "D)  Васко да Гама.<br/>",
+						choice_E: "E)  Фернандо Магеллана.<br/>",
+						number: 20,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "21) &quot;Портом трех морей&quot; называли в древности на Руси:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Чернигов.<br/>",
+						choice_B: "B)  Новгород.<br/>",
+						choice_C: "C) Владимир.<br/>",
+						choice_D: "D)  Рязань.<br/>",
+						choice_E: "E)  Смоленск.<br/>",
+						number: 21,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "22)  Вторая Балканская война 1913 года была развязана<br/>",
+						answer: " C  <br/>",
+						choice_A: "А) Сербией против болгар и греков<br/>",
+						choice_B: "B)  Грецией против болгар и сербов<br/>",
+						choice_C: "C) Болгарией против сербов и греков<br/>",
+						choice_D: "D)  Турцией против болгар и греков<br/>",
+						choice_E: "E)  Македонией против сербов и греков<br/>",
+						number: 22,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "23)  Крестьянское восстание в Англии началось в ..году:<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) 1385<br/>",
+						choice_B: "B)  1381<br/>",
+						choice_C: "C) 1265<br/>",
+						choice_D: "D)  1371<br/>",
+						choice_E: "E)  1356<br/>",
+						number: 23,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "24)  Английская королева Елизавета I Тюдор (1558-1603), защищая морские интересы Англии в борьбе с Испанией, опиралась:<br/>",
+						answer: "A<br/>",
+						choice_A: "А) На пиратов.<br/>",
+						choice_B: "B)  На территориальные уступки.<br/>",
+						choice_C: "C) На Ост-Индийскую компанию.<br/>",
+						choice_D: "D)  На дипломатов.<br/>",
+						choice_E: "E)  На страны - союзницы.<br/>",
+						number: 24,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+				Questions.insert({
+						question: "25) Духовно-рыцарские ордена создавались в целях<br/>",
+						answer: " B  <br/>",
+						choice_A: "А) Развития науки и культуры<br/>",
+						choice_B: "B)  Обороны и расширения владений крестоносцев<br/>",
+						choice_C: "C) Распространения знаний среди простого народа<br/>",
+						choice_D: "D)  Создания университетов<br/>",
+						choice_E: "E)  Развития науки<br/>",
+						number: 25,
+						course_en: 'world_history',
+						course_kz: 'Дүние жүзі тарихы',
+						course_ru: 'Всемирная история',
+						is_fifth: true,
+						language: 'russian',
+						variant: 2,
+					}
+					);
+																				
 }
