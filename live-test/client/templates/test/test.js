@@ -11,7 +11,7 @@ var timeLeft = function() {
     }
 };
 
-var interval = Meteor.setInterval(timeLeft, 1000);
+var interval;
 
 
 function getAnswer (s) {
@@ -54,6 +54,8 @@ Template.test.rendered = function () {
 			$("form#"+c_id+" > label > input:radio[name='radgroup'][value='"+possible_ans+"']").attr('checked', true);
 		}
 	}
+
+	interval = Meteor.setInterval(timeLeft, 1000);
 
 }
 
