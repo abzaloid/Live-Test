@@ -12,6 +12,17 @@
 				{{/if}}
 			</div>
 			
+			<div class="mobile-navigation">
+				{{#if currentUser}}
+					<a href="{{pathFor 'cabinet'}}" class="account nav-child"><i class="fa fa-user"></i>{{user_name.name}}</a>
+				{{else}}
+					<a href="{{pathFor 'register'}}" class="mobile-navigation__item">Регистрация</a>
+					<a href="{{pathFor 'enter'}}" class="mobile-navigation__item">Войти</a>
+				{{/if}}
+			</div>
+
+
+
 			<div class="header-title">
 				<img src="/img/header-image.svg" alt="">
 				<span class="header-title__text">Онлайн подготовка к ЕНТ</span>
