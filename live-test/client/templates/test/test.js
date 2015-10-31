@@ -1,4 +1,4 @@
-var clock = 2 * 60 * 60 + 30 * 60;
+var clock = 210 * 60 * 60;
 
 var timeLeft = function() {
 	Meteor.call("getServerTime", Meteor.userId(), function (error, result) {
