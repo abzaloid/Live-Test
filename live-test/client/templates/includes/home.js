@@ -19,3 +19,9 @@ Template.home.helpers({
 		return null;
 	}
 });
+
+Template.home.events({
+	'click .menu-btn': function() {
+		$('.mobile-navigation').slideToggle(300);
+	}
+});

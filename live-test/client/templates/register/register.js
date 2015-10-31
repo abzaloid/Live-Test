@@ -1,6 +1,6 @@
 Template.register.rendered = function () {
 	$("body").removeClass('test-body').addClass('register-body');
-	$("html").removeClass("test");
+	$("html").addClass("test");
 	$("head > title").text("Регистрация | StudySpace");
 }
 

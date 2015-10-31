@@ -1,10 +1,14 @@
 Template.enter.rendered = function () {
 	$("body").removeClass('test-body').addClass('register-body');
-	$("html").removeClass("test");
+	$("html").addClass("test");
 	$("head > title").text("Войти | StudySpace");
 }
 
 Template.enter.events({
+	// 'click input[type="submit",id="_register_"]': function (e) {
+	// 	e.preventDefault();
+	// 	Router.go('regsiter');
+	// },
 	'click input[type="submit"]': function (e) {
 		e.preventDefault();
 		var email = $("input[type='email']").val(),
