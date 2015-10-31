@@ -21,7 +21,8 @@ Template.home.helpers({
 });
 
 Template.home.events({
-	'click .menu-btn': function() {
+	'click .menu-btn': function(e) {
+		$(e.target).toggleClass('pressed');
 		$('.mobile-navigation').slideToggle(300);
 	}
 });

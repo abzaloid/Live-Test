@@ -2,16 +2,17 @@
 	<div class="container container--cabinet">
 		<div class="navigation navigation--cabinet">
 			<a href="{{pathFor 'home'}}" class="logo nav-child"></a>
+			<a href="{{pathFor 'home'}}" class="logo-mobile nav-child"></a>
 			{{#if currentUser}}
 				<a href="{{pathFor 'cabinet'}}" class="account nav-child"><i class="fa fa-user"></i>Привет, {{name}}</a>
 			{{/if}}
 		</div>
 
-		<section class="cabinet cabinet--flex">
+		<section class="cabinet">
 			{{#if isNotNull result}}
 				<span class="result">Ваш результат: <strong>{{result}}</strong></span>
 			{{/if}}
-			<div class="cabinet--flex__item account-info">
+			<div class="cabinet-item account-info">
 				<table class="account-info__table">
 					<tr>
 						<td class="account-info__item">Имя:</td>
@@ -31,7 +32,7 @@
 					</tr>
 				</table>
 			</div>
-			<div class="cabinet--flex__item actions-navigation">
+			<div class="cabinet-item actions-navigation">
 				<a href="{{#if isNotNull result}}{{pathFor 'test'}}{{else}}{{pathFor 'confirm'}}{{/if}}" class="action">Пройти тест</a>
 				<a href="{{pathFor 'rankings'}}" class="action">Таблица результатов</a>
 				<a href="http://vk.com/studyspacekz" target="_blank" class="action">Онлайн урок</a>
