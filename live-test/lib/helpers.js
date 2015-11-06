@@ -14,21 +14,18 @@ UI.registerHelper("inc", function (value) {
 });
 
 var lf = null;
-var clock = 2 * 60 * 60 + 30 * 60;
+var clock = 210 * 60;
 
 Meteor.methods({
-        getServerTime: function (uid) {
+        getServerTime: function (uid, test_id) {
         	if (!LifeTime.findOne({uid: uid})) {
         		LifeTime.insert({
         			uid: uid,
         			startTime: new Date(),
+                    test_id: test_id,
         		});
-                // lf = LifeTime.findOne({uid: Meteor.userId()}).startTime;
-                // clock += lf.getTime() / 1000;
         	}
-            // console.log(clock);
-            var _time = (clock + LifeTime.findOne({uid: uid}).startTime.getTime() / 1000) - new Date().getTime() / 1000;
-            // console.log(_time);
+            var _time = (clock + LifeTime.findOne({uid: uid, test_id}).startTime.getTime() / 1000) - new Date().getTime() / 1000;
             return _time;
         }
     });
