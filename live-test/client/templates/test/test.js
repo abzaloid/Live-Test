@@ -7,6 +7,9 @@ var choices = {},
 
 data = {};
 
+function getUser () {
+	return OUsers.findOne({email: Meteor.user().emails[0].address});
+}
 
 var timeLeft = function() {
 	Meteor.call("getServerTime", Meteor.userId(), Session.get('test_id'), function (error, result) {
@@ -42,7 +45,7 @@ function isLoggedIn (m_user) {
 }
 
 function randomQuestionsGenerator (course) {
-	m_user = OUsers.findOne({email: Meteor.user().emails[0].address});	
+	m_user = getUser();	
 		
 	isLoggedIn(m_user);
 
@@ -110,14 +113,13 @@ Template.test.helpers({
 	user_name: function () {
 		isLoggedIn();
 		if (Meteor.user()) {
-			return OUsers.findOne({email: Meteor.user().emails[0].address});
+			return getUser();
 		} else {
 			return null;
 		}
 	},
 	fifth: function () {
-		m_user = OUsers.findOne({email: Meteor.user().emails[0].address});
-		return m_user.subject;
+		return getUser().subject;
 	},
 	result: function () {
 		if (Results.findOne({email: Meteor.user().emails[0].address})) {
@@ -151,9 +153,9 @@ Template.test.events({
 function submit_ent () {
 	$("#m_spinner").show();
 
-		m_user = OUsers.findOne({email: Meteor.user().emails[0].address});
+		m_user = getUser();
 
-		var user_subject = OUsers.findOne({email: Meteor.user().emails[0].address}).subject;
+		var user_subject = m_user.subject;
 
 		if (Results.findOne({email: m_user.email})) {
 			// already submitted
