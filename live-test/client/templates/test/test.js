@@ -1,11 +1,21 @@
 var clock = 210 * 60 * 60;
+var m_user;
+var MAX_VARIANT = parseInt(Questions.findOne({}, {sort: {variant: -1}}).variant);
+var choices = {},
+	len = {},
+	results = {};
+
+data = {};
+
+function getUser () {
+	return OUsers.findOne({email: Meteor.user().emails[0].address});
+}
 
 var timeLeft = function() {
-	Meteor.call("getServerTime", Meteor.userId(), function (error, result) {
-        Session.set(Meteor.userId() + "time", result);            
+	Meteor.call("getServerTime", Meteor.userId(), Session.get('test_id'), function (error, result) {
+        Session.set(Meteor.userId() + Session.get('test_id') + "time", result);            
     });
-    if (Session.get(Meteor.userId() + 'time') <= 0) {
-    	console.log("FINISHED");
+    if (Session.get(Meteor.userId() + Session.get('test_id') + 'time') <= 0) {
     	submit_ent();
     	Meteor.clearInterval(interval);
     }
@@ -13,30 +23,50 @@ var timeLeft = function() {
 
 var interval;
 
-
 function getAnswer (s) {
-
 	answer = "ABCDE";
-
 	for (var i = 0; i < answer.length; i++) {
 		if (s.indexOf(answer[i]) > -1) {
 			return answer[i];
 		}
 	}
-
 	return -1;
-
 }
 
-var m_user;
-data = {};
+function getVariant() {
+	return (new Date()) % MAX_VARIANT + 1;
+}
 
-var choices = {},
-	len = {},
-	results = {};
+function isLoggedIn (m_user) {
+	if (!m_user) {
+		Notifications.error('Пожалуйста, войдите в систему', 'Зарегистрируйтесь или залогиньтесь');
+		Router.go('home');
+	}
+}
+
+function randomQuestionsGenerator (course) {
+	m_user = getUser();	
+		
+	isLoggedIn(m_user);
+
+	if (course === 'fifth') {
+		course = m_user.subject;
+	}
+	var language = "kazakh";
+	if ("kaz".indexOf(m_user.language) == -1)
+		language = "russian";
+	var variant = getVariant();
+	var tests = Tests.findOne({email: m_user.email, course_en: course, test_id: Session.get('test_id')});
+	if (tests) {
+		return data[course] = Questions.find({course_en: course, variant: tests.variant, language: language});
+	}
+	data[course] = Questions.find({course_en: course, language: language, variant: variant}, {sort: {number: 1}});
+	Tests.insert({email: m_user.email, course_en: course, language: language, variant: variant});
+	return data[course];
+} 
 
 Template.test.rendered = function () {
-	$("head > title").text("Онлайн ЕНТ | StudySpace");
+	$("head > title").text("Онлайн ЕНТ # " + Session.get('test_id') + "| StudySpace");
 	$("body").removeClass("register-body").addClass("test-body");
 	$("html").addClass('test');
 
@@ -48,7 +78,7 @@ Template.test.rendered = function () {
 
 	for (var i = 0; i < f_len; i++) {
 		var c_id = $form.eq(i).attr('id');
-		var possible_ans = SessionAmplify.get(Meteor.userId() + c_id);
+		var possible_ans = SessionAmplify.get(Meteor.userId() + Session.get('test_id') + c_id);
 		if (possible_ans) {
 			console.log(possible_ans);
 			$("form#"+c_id+" > label > input:radio[name='radgroup'][value='"+possible_ans+"']").attr('checked', true);
@@ -60,106 +90,36 @@ Template.test.rendered = function () {
 }
 
 
+
 Template.test.helpers({
 	time: function () {
-		return Session.get(Meteor.userId() + 'time');
+		return Session.get(Meteor.userId() + Session.get('test_id') + 'time');
 	},
 	kazakh_questions: function () {
-		m_user = OUsers.findOne({email: Meteor.user().emails[0].address})
-		console.log(m_user)
-		var language = "kazakh";
-		if ("kaz".indexOf(m_user.language) == -1)
-			language = "russian";
-		var variant = (new Date()) % 2 + 1;
-		var course = 'kazakh';
-		var tests = Tests.findOne({email: m_user.email, course_en: course});
-		if (tests) {
-			console.log('WORKS');
-			return data[course] = Questions.find({course_en: course, variant: tests.variant, language: language});
-		}
-		data[course] = Questions.find({course_en: course, language: language, variant: variant}, {sort: {number: 1}});
-		Tests.insert({email: m_user.email, course_en: course, language: language, variant: variant});
-		return data[course];
+		return randomQuestionsGenerator('kazakh');
 	},
 	russian_questions: function () {
-		m_user = OUsers.findOne({email: Meteor.user().emails[0].address})
-		console.log(m_user)
-		var language = "kazakh";
-		if ("kaz".indexOf(m_user.language) == -1)
-			language = "russian";
-		var variant = (new Date()) % 2 + 1;
-		var course = 'russian';
-		var tests = Tests.findOne({email: m_user.email, course_en: course});
-		if (tests) {
-			return data[course] = Questions.find({course_en: course, variant: tests.variant, language: language});
-		}
-		data[course] = Questions.find({course_en: course, language: language, variant: variant}, {sort: {number: 1}});
-		Tests.insert({email: m_user.email, course_en: course, language: language, variant: variant});
-		return data[course];
+		return randomQuestionsGenerator('russian');
 	},
 	math_questions: function () {
-		m_user = OUsers.findOne({email: Meteor.user().emails[0].address})
-		console.log(m_user)
-		var language = "kazakh";
-		if ("kaz".indexOf(m_user.language) == -1)
-			language = "russian";
-		var variant = (new Date()) % 2 + 1;
-		var course = 'math';
-		var tests = Tests.findOne({email: m_user.email, course_en: course});
-		if (tests) {
-			return data[course] = Questions.find({course_en: course, variant: tests.variant, language: language});
-		}
-		data[course] = Questions.find({course_en: course, language: language, variant: variant}, {sort: {number: 1}});
-		Tests.insert({email: m_user.email, course_en: course, language: language, variant: variant});
-		return data[course];
+		return randomQuestionsGenerator('math');
 	},
 	history_questions: function () {
-		m_user = OUsers.findOne({email: Meteor.user().emails[0].address})
-		console.log(m_user)
-		var language = "kazakh";
-		if ("kaz".indexOf(m_user.language) == -1)
-			language = "russian";
-		var variant = (new Date()) % 2 + 1;
-		var course = 'history';
-		var tests = Tests.findOne({email: m_user.email, course_en: course});
-		if (tests) {
-			return data[course] = Questions.find({course_en: course, variant: tests.variant, language: language});
-		}
-		data[course] = Questions.find({course_en: course, language: language, variant: variant}, {sort: {number: 1}});
-		Tests.insert({email: m_user.email, course_en: course, language: language, variant: variant});
-		return data[course];
+		return randomQuestionsGenerator('history');
 	},
 	fifth_questions: function () {
-		m_user = OUsers.findOne({email: Meteor.user().emails[0].address})
-		console.log(m_user)
-		var language = "kazakh";
-		if ("kaz".indexOf(m_user.language) == -1)
-			language = "russian";
-		var variant = (new Date()) % 2 + 1;
-		var user_subject = OUsers.findOne({email: Meteor.user().emails[0].address}).subject;
-		var course = user_subject;
-		var tests = Tests.findOne({email: m_user.email, course_en: course});
-		if (tests) {
-			return data[course] = Questions.find({course_en: course, variant: tests.variant, language: language});
-		}
-		data[course] = Questions.find({course_en: course, language: language, variant: variant}, {sort: {number: 1}});
-		Tests.insert({email: m_user.email, course_en: course, language: language, variant: variant});
-		return data[course];
-
+		return randomQuestionsGenerator('fifth');
 	},
 	user_name: function () {
-		m_user = OUsers.findOne({email: Meteor.user().emails[0].address})
-		console.log(m_user)
+		isLoggedIn();
 		if (Meteor.user()) {
-			return OUsers.findOne({email: Meteor.user().emails[0].address});
+			return getUser();
 		} else {
-			return "";
+			return null;
 		}
 	},
 	fifth: function () {
-		m_user = OUsers.findOne({email: Meteor.user().emails[0].address})
-		console.log(m_user)
-		return m_user.subject;
+		return getUser().subject;
 	},
 	result: function () {
 		if (Results.findOne({email: Meteor.user().emails[0].address})) {
@@ -167,34 +127,24 @@ Template.test.helpers({
 		}
 		return null;
 	}
-
 });
 
 Template.test.events({
 	"click .test-navigation__item": function (e) {
 		e.preventDefault();
 		var $this = $(e.target);
-
-		console.log($this);
-
 		$(".test-navigation__item").parent().children().removeClass('active');
 		$this.addClass('active');
-
 		$(".test-questions > div").hide();
 		$("#"+$this.attr('data-for').split('-')[1]).show();
-
 	},
 	'click input:radio[name="radgroup"]': function (e) {
 		var $this = $(e.target);
-		console.log($this.filter(":checked").val());
-		console.log(Meteor.userId() + $this.parent().parent().attr('id'));
-		SessionAmplify.set(Meteor.userId() + $this.parent().parent().attr('id'), $this.filter(":checked").val());
+		SessionAmplify.set(Meteor.userId() + Session.get('test_id') + $this.parent().parent().attr('id'), $this.filter(":checked").val());
 	},
 	'click .submit-test-btn': function (e) {
 		e.preventDefault();
-
 		submit_ent();
-	
 	}
 });
 
@@ -203,15 +153,15 @@ Template.test.events({
 function submit_ent () {
 	$("#m_spinner").show();
 
-		m_user = OUsers.findOne({email: Meteor.user().emails[0].address})
+		m_user = getUser();
 
-		var user_subject = OUsers.findOne({email: Meteor.user().emails[0].address}).subject;
+		var user_subject = m_user.subject;
 
 		if (Results.findOne({email: m_user.email})) {
 			// already submitted
 			Notifications.error('Вы уже закончили этот вариант ЕНТ!', 'Просим дождаться следующего ЕНТ и вы можете прослеживать результаты других и сравнивать себя');
 			$("#m_spinner").hide();
-			Router.go('cabinet');
+//			Router.go('cabinet');
 			return;
 		}
 
@@ -229,24 +179,19 @@ function submit_ent () {
 			len[cur_subject] = choices[cur_subject].length;
 		}
 
-		console.log("DATA = " + data);
-
 		var total = 0;
 
 		for (var i = 0; i < subjects.length; i++) {
 			var cur_subject = subjects[i];
-			console.log(cur_subject);
 			var m_data = data[cur_subject].fetch();
 			for (var j = 0; j < len[cur_subject]; j++) {
 				var res = choices[cur_subject].eq(j).find("label > input:radio[name='radgroup']").filter(":checked").val();
 				var correct_ans = getAnswer(m_data[j].answer);
-				console.log(res + " BUT " + correct_ans);
 				if (res === correct_ans) {
 					results[cur_subject]++;
 				}
 			}
 			total += results[cur_subject];
-			console.log(cur_subject + " = ", results[cur_subject]);
 		}
 
 		var ru = {
@@ -277,7 +222,8 @@ function submit_ent () {
 			subject: results[user_subject],
 			total: total,
 			language: m_user.language,
-			region: m_user.region,					
+			region: m_user.region,
+			variant: Session.get('test_id'),					
 		});
 
 

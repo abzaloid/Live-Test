@@ -2,6 +2,7 @@
 	<div class="container container--test">
 		<div class="navigation navigation--test">
 			<a href="{{pathFor 'home'}}" class="logo nav-child"></a>
+			<a href="{{pathFor 'home'}}" class="logo-mobile nav-child"></a>
 			{{#if result}}
 				<span class="nav-child timer">Закончено</span>
 			{{else}}
@@ -14,11 +15,25 @@
 		</div>
 
 		<div class="test-navigation">
-			<a href="" data-for="q-kazakh" class="test-navigation__item active">Казахский</a>
-			<a href="" data-for="q-math" class="test-navigation__item">Математика</a>
-			<a href="" data-for="q-russian" class="test-navigation__item">Русский</a>
-			<a href="" data-for="q-history" class="test-navigation__item">История</a>
-			<a href="" data-for="q-{{fifth}}" class="test-navigation__item">5-ый Предмет</a>
+			<a href="" data-for="q-kazakh" class="test-navigation__item active">
+				<span class="subject-title--mobile">К</span>
+				<span class="subject-title">Казахский</span>
+			</a>
+			<a href="" data-for="q-math" class="test-navigation__item">
+				<span class="subject-title--mobile">М</span>
+				<span class="subject-title">Математика</span>
+			</a>
+			<a href="" data-for="q-russian" class="test-navigation__item">
+				<span class="subject-title--mobile">Р</span>
+				<span class="subject-title">Русский</span>
+			</a>
+			<a href="" data-for="q-history" class="test-navigation__item">
+				<span class="subject-title--mobile">И</span>
+				<span class="subject-title">История</span>
+			</a>
+			<a href="" data-for="q-{{fifth}}" class="test-navigation__item">
+				<span class="subject-title--mobile">5</span>				<span class="subject-title">5-ый предмет</span>
+			</a>
 		</div>
 
 		<section class="test-content">
