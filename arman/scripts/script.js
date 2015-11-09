@@ -19,11 +19,13 @@
 (function($) {
 	var $selectedTest = $(".selected-test");
 	$selectedTest.on('click', function() {
+		$(this).toggleClass('clicked');
 		$(".dropdown-list").fadeToggle(300);
 	});
 
 	$selectedTest.siblings('ul').find('li').on('click', function() {
 		$('.dropdown-list').fadeToggle(300);
 		$selectedTest.html($(this).html());
+		$selectedTest.removeClass('clicked');
 	});
 })(jQuery);
