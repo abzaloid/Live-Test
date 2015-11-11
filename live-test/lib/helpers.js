@@ -18,6 +18,11 @@ var clock = 210 * 60;
 
 Meteor.methods({
         getServerTime: function (uid, test_id) {
+
+            if (test_id !== Info.findOne().test_id) {
+                return -1;
+            }
+
         	if (!LifeTime.findOne({uid: uid})) {
         		LifeTime.insert({
         			uid: uid,
@@ -29,3 +34,8 @@ Meteor.methods({
             return _time;
         }
     });
+
+
+Info.insert({
+    test_id: 1,
+});

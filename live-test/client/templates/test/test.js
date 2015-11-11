@@ -1,6 +1,5 @@
 var clock = 210 * 60 * 60;
 var m_user;
-var MAX_VARIANT = parseInt(Questions.findOne({}, {sort: {variant: -1}}).variant);
 var choices = {},
 	len = {},
 	results = {};
@@ -12,10 +11,23 @@ function getUser () {
 }
 
 var timeLeft = function() {
-	Meteor.call("getServerTime", Meteor.userId(), Session.get('test_id'), function (error, result) {
-        Session.set(Meteor.userId() + Session.get('test_id') + "time", result);            
-    });
-    if (Session.get(Meteor.userId() + Session.get('test_id') + 'time') <= 0) {
+
+	// will work slower as the number of tests will increase
+	var m_test_id = Tests.findOne({email: getUser().email}, {sort: {test_id: -1}}).test_id; 
+
+	Meteor.call("getServerTime", 
+		Meteor.userId(), 
+		m_test_id,
+		function (error, result) {
+	        if (result === -1) {
+				submit_ent();
+	        	Meteor.clearInterval(interval);
+	        	return;
+	        }
+	        Session.set(Meteor.userId() + Info.findOne().test_id + "time", result);            
+    	});
+
+    if (Session.get(Meteor.userId() + m_test_id + 'time') <= 0) {
     	submit_ent();
     	Meteor.clearInterval(interval);
     }
@@ -34,11 +46,13 @@ function getAnswer (s) {
 }
 
 function getVariant() {
+	var MAX_VARIANT = parseInt(Questions.findOne({}, {sort: {variant: -1}}).variant);
 	return (new Date()) % MAX_VARIANT + 1;
 }
 
-function isLoggedIn (m_user) {
-	if (!m_user) {
+function isLoggedIn (this_user) {
+	console.log(this_user);
+	if (!this_user) {
 		Notifications.error('Пожалуйста, войдите в систему', 'Зарегистрируйтесь или залогиньтесь');
 		Router.go('home');
 	}
@@ -47,8 +61,6 @@ function isLoggedIn (m_user) {
 function randomQuestionsGenerator (course) {
 	m_user = getUser();	
 		
-	isLoggedIn(m_user);
-
 	if (course === 'fifth') {
 		course = m_user.subject;
 	}
@@ -56,17 +68,17 @@ function randomQuestionsGenerator (course) {
 	if ("kaz".indexOf(m_user.language) == -1)
 		language = "russian";
 	var variant = getVariant();
-	var tests = Tests.findOne({email: m_user.email, course_en: course, test_id: Session.get('test_id')});
+	var tests = Tests.findOne({email: m_user.email, course_en: course, test_id: Info.findOne().test_id});
 	if (tests) {
 		return data[course] = Questions.find({course_en: course, variant: tests.variant, language: language});
 	}
 	data[course] = Questions.find({course_en: course, language: language, variant: variant}, {sort: {number: 1}});
-	Tests.insert({email: m_user.email, course_en: course, language: language, variant: variant});
+	Tests.insert({email: m_user.email, course_en: course, language: language, variant: variant, test_id: Info.findOne().test_id});
 	return data[course];
 } 
 
 Template.test.rendered = function () {
-	$("head > title").text("Онлайн ЕНТ # " + Session.get('test_id') + "| StudySpace");
+	$("head > title").text("Онлайн ЕНТ # " + Info.findOne().test_id + "| StudySpace");
 	$("body").removeClass("register-body").addClass("test-body");
 	$("html").addClass('test');
 
@@ -78,12 +90,13 @@ Template.test.rendered = function () {
 
 	for (var i = 0; i < f_len; i++) {
 		var c_id = $form.eq(i).attr('id');
-		var possible_ans = SessionAmplify.get(Meteor.userId() + Session.get('test_id') + c_id);
+		var possible_ans = SessionAmplify.get(Meteor.userId() + Info.findOne().test_id + c_id);
 		if (possible_ans) {
 			console.log(possible_ans);
 			$("form#"+c_id+" > label > input:radio[name='radgroup'][value='"+possible_ans+"']").attr('checked', true);
 		}
 	}
+
 
 	interval = Meteor.setInterval(timeLeft, 1000);
 
@@ -93,7 +106,7 @@ Template.test.rendered = function () {
 
 Template.test.helpers({
 	time: function () {
-		return Session.get(Meteor.userId() + Session.get('test_id') + 'time');
+		return Session.get(Meteor.userId() + Info.findOne().test_id + 'time');
 	},
 	kazakh_questions: function () {
 		return randomQuestionsGenerator('kazakh');
@@ -111,7 +124,6 @@ Template.test.helpers({
 		return randomQuestionsGenerator('fifth');
 	},
 	user_name: function () {
-		isLoggedIn();
 		if (Meteor.user()) {
 			return getUser();
 		} else {
@@ -133,6 +145,13 @@ Template.test.events({
 	"click .test-navigation__item": function (e) {
 		e.preventDefault();
 		var $this = $(e.target);
+
+		if ($this.prop('tagName') === 'SPAN')
+			$this = $this.parent();
+
+		console.log($this);
+		
+
 		$(".test-navigation__item").parent().children().removeClass('active');
 		$this.addClass('active');
 		$(".test-questions > div").hide();
@@ -140,7 +159,7 @@ Template.test.events({
 	},
 	'click input:radio[name="radgroup"]': function (e) {
 		var $this = $(e.target);
-		SessionAmplify.set(Meteor.userId() + Session.get('test_id') + $this.parent().parent().attr('id'), $this.filter(":checked").val());
+		SessionAmplify.set(Meteor.userId() + Info.findOne().test_id + $this.parent().parent().attr('id'), $this.filter(":checked").val());
 	},
 	'click .submit-test-btn': function (e) {
 		e.preventDefault();
@@ -161,7 +180,6 @@ function submit_ent () {
 			// already submitted
 			Notifications.error('Вы уже закончили этот вариант ЕНТ!', 'Просим дождаться следующего ЕНТ и вы можете прослеживать результаты других и сравнивать себя');
 			$("#m_spinner").hide();
-//			Router.go('cabinet');
 			return;
 		}
 
@@ -223,13 +241,13 @@ function submit_ent () {
 			total: total,
 			language: m_user.language,
 			region: m_user.region,
-			variant: Session.get('test_id'),					
+			test_id: Tests.findOne({email: m_user.email}, {sort: {test_id: -1}}).test_id,
+			uid: m_user._id,				
 		});
 
 
 		$("#m_spinner").hide();
 
-		Router.go('cabinet');
+		Router.go('cabinet', {_id: m_user._id});
 
 }
-

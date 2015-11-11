@@ -4,7 +4,22 @@ Template.home.rendered = function () {
 	$("head > title").text("StudySpace");
 };
 
+function getUserInfo () {
+	var m_user;
+	if (Meteor.user()) {
+		m_user = OUsers.findOne({email: Meteor.user().emails[0].address});
+	} else {
+		Router.go('home');
+		return null;
+	}
+	return m_user;
+}
+
+
 Template.home.helpers({
+	user: function () {
+		return getUserInfo();
+	},
 	user_name: function () {
 		if (Meteor.user()) {
 			return OUsers.findOne({email: Meteor.user().emails[0].address});

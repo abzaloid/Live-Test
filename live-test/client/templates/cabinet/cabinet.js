@@ -15,39 +15,11 @@ function getUserInfo () {
 	return m_user;
 }
 
-Template.cabinet.helpers({
-	name: function () {
-		if (getUserInfo())
-			return getUserInfo().name;
-		else
-			return null;
-	},
-	surname: function () {
-		if (getUserInfo())
-			return getUserInfo().surname;
-		else
-			return null;
-	},
-	language: function () {
-		if (getUserInfo())
-			return getUserInfo().language;
-		else
-			return null;
-	},
-	region: function () {
-		if (getUserInfo())
-			return getUserInfo().region;
-		else
-			return null;
-	},
-	result: function () {
-		var res = Results.findOne({email: getUserInfo().email});
 
-		if (res) {
-			return res.total;
-		}
-		return null;
-	}
+Template.cabinet.helpers({
+	user: function () {
+		return getUserInfo();
+	},
 });
 
 Template.cabinet.events({

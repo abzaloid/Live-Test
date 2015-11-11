@@ -11,7 +11,7 @@
 		<span class="note">***Пожалуйста, переведите телефон в ландшафтный режим, для лучшего отображения таблицы</span>
 
 		<section class="rankings-section">
-			<table class="rankings-table">
+			<table class="rankings-table rankings-table--resp">
 				<thead>
 				<tr>
 					<td>#</td>
@@ -31,7 +31,7 @@
 				{{#each students}}
 					<tr>
 						<td>{{inc @index}}</td>
-						<td>{{surname}} {{name}}</td>
+						<td><a href="{{pathFor 'cabinet' _id=this.uid}}">{{surname}} {{name}}</a></td>
 						<td>{{region}}</td>
 						<td>{{language}}</td>
 						<td>{{fifth}}</td>

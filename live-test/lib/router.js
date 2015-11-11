@@ -23,8 +23,11 @@ Router.route('/ent', {
 	name: 'test'
 });
 
-Router.route('/profile', {
-	name: 'cabinet'
+Router.route('/profile/:_id', {
+	name: 'cabinet',
+	data: function () {
+		return OUsers.findOne(this.params._id);
+	}
 });
 
 Router.route('/standings', {

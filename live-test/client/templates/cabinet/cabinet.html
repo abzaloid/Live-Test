@@ -4,41 +4,84 @@
 			<a href="{{pathFor 'home'}}" class="logo nav-child"></a>
 			<a href="{{pathFor 'home'}}" class="logo-mobile nav-child"></a>
 			{{#if currentUser}}
-				<a href="{{pathFor 'cabinet'}}" class="account nav-child"><i class="fa fa-user"></i>Привет, {{name}}</a>
+				<a href="{{pathFor 'cabinet' _id=user._id}}" class="account nav-child"><i class="fa fa-user"></i>Привет, {{name}}</a>
 			{{/if}}
 		</div>
 
-		<section class="cabinet">
-			{{#if isNotNull result}}
-				<span class="result">Ваш результат: <strong>{{result}}</strong></span>
-			{{/if}}
-			<div class="cabinet-item account-info">
-				<table class="account-info__table">
-					<tr>
-						<td class="account-info__item">Имя:</td>
-						<td class="account-info__value">{{name}}</td>
-					</tr>
-					<tr>
-						<td class="account-info__item">Фамилия:</td>
-						<td class="account-info__value">{{surname}}</td>
-					</tr>
-					<tr>
-						<td class="account-info__item">Язык:</td>
-						<td class="account-info__value">{{language}}</td>
-					</tr>
-					<tr>
-						<td class="account-info__item">Регион:</td>
-						<td class="account-info__value">{{region}}</td>
-					</tr>
-				</table>
+		<section class="cabinet-section">
+
+			<div class="profile-info">
+				<img src="/img/person.png" alt="">
+				<h3 class="name">{{name}} {{surname}}</h3>
+				<h4 class="fifth">{{subject}}</h4>
+				<h4 class="region">{{region}}</h4>
+				<a href="#" class="cabinet-btn">Пройти новый тест</a>
+				<a href="{{pathFor 'rankings'}}" class="cabinet-btn">Таблица результатов КЗ</a>
+				
+				<a href="#" class="cabinet-btn">Выйти</a>
 			</div>
-			<div class="cabinet-item actions-navigation">
-				<a href="{{#if isNotNull result}}{{pathFor 'test'}}{{else}}{{pathFor 'confirm'}}{{/if}}" class="action">Пройти тест</a>
-				<a href="{{pathFor 'rankings'}}" class="action">Таблица результатов</a>
-				<a href="http://vk.com/studyspacekz" target="_blank" class="action">Онлайн урок</a>
-				<a href="http://vk.com/share.php?url=http://ent.studyspace.kz" target="_blank" class="action" >Поделиться</a>
+			<div class="tabs-section">
+				<div class="tabs-nav">
+					<div class="tab-item active" data-target="0">Результаты</div>
+					<div class="tab-item" data-target="1">Анализ</div>
+				</div>
+				<div class="tab-content active">
+					<table class="rankings-table">
+						<thead>
+							<tr>
+								<td>#</td>
+								<td class="subject">
+									<span class="subject-title--mobile">М</span>
+									<span class="subject-title">Математика</span>
+								</td>
+								<td class="subject">
+									<span class="subject-title--mobile">К</span>
+									<span class="subject-title">Казахский</span>
+								</td>
+								<td class="subject">
+									<span class="subject-title--mobile">Р</span>
+									<span class="subject-title">Русский</span>
+								</td>
+								<td class="subject">
+									<span class="subject-title--mobile">И</span>
+									<span class="subject-title">История</span>
+								</td>
+								<td class="subject">
+									<span class="subject-title--mobile">5</span>
+									<span class="subject-title">5-ый</span>
+								</td>
+								<td>
+									<span class="subject-title--mobile">Общ.</span>
+									<span class="subject-title">Общий балл</span>
+								</td>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Тест 1</td>
+								<td>10</td>
+								<td>10</td>
+								<td>10</td>
+								<td>10</td>
+								<td>10</td>
+								<td>50</td>
+							</tr>
+							<tr>
+								<td>Тест 2</td>
+								<td>10</td>
+								<td>10</td>
+								<td>10</td>
+								<td>10</td>
+								<td>10</td>
+								<td>50</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+				<div class="tab-content">
+					Анализ пройденных тестов и работа над ошибками
+				</div>
 			</div>
-			<a href="#" class="general-button cabinet-logout">Выйти</a>
 		</section>
 	</div>
 </template>
