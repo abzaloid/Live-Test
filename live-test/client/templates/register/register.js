@@ -32,6 +32,11 @@ Template.register.events({
 			return;
 		}
 
+		if (Ousers.find({email: email}).count() !== 0) {
+			Notifications.error('Данный email занят!', 'Пожалуйста, используйте другой email');
+			return;			
+		}
+
 		Accounts.createUser({email: email, 
 			password: pw1, 
 		}, function(err){
