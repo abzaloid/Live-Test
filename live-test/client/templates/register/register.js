@@ -32,7 +32,7 @@ Template.register.events({
 			return;
 		}
 
-		if (Ousers.find({email: email}).count() !== 0) {
+		if (OUsers.find({email: email}).count() !== 0) {
 			Notifications.error('Данный email занят!', 'Пожалуйста, используйте другой email');
 			return;			
 		}
